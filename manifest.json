@@ -14,7 +14,7 @@
     "libraryCategories": {
       "filename": "library_categories.json",
       "path": "content/library_categories.json",
-      "lastUpdated": "2025-05-25T23:03:00Z",
+      "lastUpdated": "2025-05-25T23:05:00Z",
       "checksum": "sha256:updated",
       "sizeBytes": 2289,
       "required": true
@@ -22,7 +22,7 @@
     "libraryContent": {
       "filename": "library_content.json",
       "path": "content/library_content.json",
-      "lastUpdated": "2025-05-25T22:03:00Z",
+      "lastUpdated": "2025-05-25T22:05:00Z",
       "checksum": "sha256:pending",
       "sizeBytes": 4567,
       "required": true
@@ -30,7 +30,7 @@
     "topics": {
       "filename": "topics.json",
       "path": "content/topics.json",
-      "lastUpdated": "2025-05-25T22:03:00Z",
+      "lastUpdated": "2025-05-25T22:05:00Z",
       "checksum": "sha256:pending",
       "sizeBytes": 2289,
       "required": false
@@ -38,7 +38,7 @@
     "featuredArticles": {
       "filename": "featured_articles.json",
       "path": "content/featured_articles.json",
-      "lastUpdated": "2025-05-25T22:00:00Z",
+      "lastUpdated": "2025-05-25T22:05:00Z",
       "checksum": "sha256:pending",
       "sizeBytes": 100,
       "required": false
