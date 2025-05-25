@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-05-24T22:45:00Z",
+  "minimumAppVersion": "1.0.0",
+  "contentFiles": {
+    "emergencyCoachScripts": {
+      "filename": "emergencycoachscripts.json",
+      "path": "emergencycoachscripts.json",
+      "lastUpdated": "2024-05-24T22:45:00Z",
+      "checksum": "sha256:pending",
+      "sizeBytes": 18022,
+      "required": true
+    },
+    "libraryCategories": {
+      "filename": "library_categories.json",
+      "path": "library_categories.json",
+      "lastUpdated": "2024-05-24T22:45:00Z",
+      "checksum": "sha256:pending",
+      "sizeBytes": 2289,
+      "required": true
+    },
+    "libraryContent": {
+      "filename": "library_content.json",
+      "path": "library_content.json",
+      "lastUpdated": "2024-05-24T22:45:00Z",
+      "checksum": "sha256:pending",
+      "sizeBytes": 4567,
+      "required": true
+    },
+    "topics": {
+      "filename": "topics.json",
+      "path": "topics.json",
+      "lastUpdated": "2024-03-20T10:00:00Z",
+      "checksum": "sha256:pending",
+      "sizeBytes": 2289,
+      "required": false
+    },
+    "featuredArticles": {
+      "filename": "featured_articles.json",
+      "path": "featured_articles.json",
+      "lastUpdated": "2024-03-20T10:00:00Z",
+      "checksum": "sha256:pending",
+      "sizeBytes": 100,
+      "required": false
+    }
+  },
+  "features": {
+    "offlineMode": true,
+    "incrementalUpdates": false,
+    "compressionSupported": true
+  }
+}
