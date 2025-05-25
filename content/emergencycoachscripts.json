@@ -1,14 +1,10 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2024-05-24T22:45:00Z",
   "parenting_scripts": [
     {
       "id": "bedtime_meltdown",
       "title": "Bedtime Meltdown 2",
       "scenario": "Child is screaming, crying, or having a full tantrum when it's time for bed",
       "icon": "🌙",
-      "publishedAt": "2024-03-15T10:00:00Z",
-      "updatedAt": "2024-05-20T14:30:00Z",
       "strategies": [
         {
           "id": "validation_boundary",
