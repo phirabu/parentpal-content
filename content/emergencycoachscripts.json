@@ -1,8 +1,8 @@
 {
     "parenting_scripts": [
       {
-        "id": "bedtime_meltdown 10",
-        "title": "Bedtime Meltdown",
+        "id": "bedtime_meltdown",
+        "title": "Bedtime Meltdown 10",
         "scenario": "Child is screaming, crying, or having a full tantrum when it's time for bed",
         "icon": "🌙",
         "strategies": [
