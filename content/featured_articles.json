@@ -1,1 +1,25 @@
-[]
+{
+    "categories": [
+      {
+        "id": "featured1",
+        "title": "Baby first year",
+        "description": "Essential guidance for your baby's first year",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+        "articleUrl": "https://google.com"
+      },
+      {
+        "id": "featured2",
+        "title": "Tantrums & Meltdowns",
+        "description": "Essential guidance for your childs's tantrums and meltdowns",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+        "articleUrl": "https://google.com"
+      },
+      {
+        "id": "featured3",
+        "title": "Foundations of Baby Care",
+        "description": "Essential guidance for your baby's first year",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+        "articleUrl": "https://google.com"
+      }
+    ]
+  }
