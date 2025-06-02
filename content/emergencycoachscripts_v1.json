@@ -1,0 +1,334 @@
+{
+    "parenting_scripts": [
+      {
+        "id": "bedtime_meltdown",
+        "title": "Bedtime Meltdown",
+        "scenario": "Child is screaming, crying, or having a full tantrum when it's time for bed",
+        "icon": "🌙",
+        "strategies": [
+          {
+            "id": "validation_boundary",
+            "name": "Validation + Boundary",
+            "script": [
+              "You're really upset about bedtime. I can see this feels hard for you.",
+              "AND bedtime is still happening. Your body needs sleep to grow strong.",
+              "Would you like to walk to your room or would you like me to carry you gently?",
+              "I'm going to stay right here with you while you have these big feelings."
+            ],
+            "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness.",
+            "why_it_works": "Acknowledging the child's emotions while maintaining the boundary shows them their feelings are valid, but the expectation remains. Offering choices gives them control within your structure."
+          },
+          {
+            "id": "playful_approach",
+            "name": "Playful Approach",
+            "script": [
+              "Oh no! It looks like the bedtime monster got you! The bedtime monster makes kids feel SO upset about sleep.",
+              "I wonder... should we march to bed like soldiers or hop like bunnies?",
+              "Your stuffed animals are probably wondering where you are. Should we go tell them a bedtime story?",
+              "Even when you're upset, I still love you. Let's get your body ready for sleep."
+            ],
+            "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness.",
+            "why_it_works": "Playfulness can shift the emotional state and make cooperation more likely. It maintains the boundary while reducing power struggles through connection."
+          },
+          {
+            "id": "limited_choices",
+            "name": "Limited Choices",
+            "script": [
+              "I can see bedtime feels overwhelming right now.",
+              "You get to choose: pajamas first or teeth brushing first?",
+              "Would you like your door open a crack or closed tonight?",
+              "Your body is going to bed now, and you can choose to make it easy or hard for yourself."
+            ],
+            "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness.",
+            "why_it_works": "Offering choices within the non-negotiable boundary gives children a sense of autonomy and control, making them more likely to cooperate."
+          }
+        ]
+      },
+      {
+        "id": "sibling_toy_fight",
+        "title": "Sibling Toy Fight",
+        "scenario": "Two children are fighting, grabbing, or screaming over the same toy",
+        "icon": "🧸",
+        "strategies": [
+          {
+            "id": "sportscaster_approach",
+            "name": "Sportscaster Approach",
+            "script": [
+              "I see two kids who both want the same toy. That's frustrating!",
+              "I'm not going to decide who gets it. You both want it, and that makes sense.",
+              "The toy is going to take a break until you both can figure out a solution together.",
+              "When you're ready to problem-solve, I'm here to help you brainstorm ideas."
+            ],
+            "mantra": "I don't need to solve this FOR them. I can help them solve it together.",
+            "why_it_works": "Refusing to pick sides prevents you from becoming the referee and teaches kids to work together. Taking the toy away removes the immediate trigger while they regulate."
+          },
+          {
+            "id": "empathy_for_both",
+            "name": "Empathy for Both",
+            "script": [
+              "Sarah, you're upset because you want the doll. Jake, you're upset because you had it first.",
+              "Both of your feelings make total sense to me.",
+              "Here's what's going to happen: I'm going to set a timer for 2 minutes. You can each think of ideas.",
+              "Then we'll come back together and you can share your solutions."
+            ],
+            "mantra": "I don't need to solve this FOR them. I can help them solve it together.",
+            "why_it_works": "Validating both children's perspectives helps them feel heard and reduces the intensity of the conflict. Giving them time to think promotes problem-solving skills."
+          },
+          {
+            "id": "immediate_safety",
+            "name": "Immediate Safety",
+            "script": [
+              "I see hands grabbing and voices yelling. Bodies need to be safe.",
+              "Sarah, you come with me to the kitchen. Jake, you stay here in the living room.",
+              "When everyone is calm, we'll talk about the toy.",
+              "Right now, my job is to keep everyone safe."
+            ],
+            "mantra": "I don't need to solve this FOR them. I can help them solve it together.",
+            "why_it_works": "Physical separation prevents escalation and gives both children space to regulate their emotions before attempting problem-solving."
+          }
+        ]
+      },
+      {
+        "id": "school_morning_refusal",
+        "title": "School Morning Refusal",
+        "scenario": "Child is refusing to get dressed, hiding, or melting down about going to school",
+        "icon": "🎒",
+        "strategies": [
+          {
+            "id": "acknowledge_action",
+            "name": "Acknowledge + Action",
+            "script": [
+              "Your body is telling me that something about school feels hard today.",
+              "AND school is still happening. Let's get your body ready to go.",
+              "You can get dressed yourself, or I can help you get dressed. You choose.",
+              "We're leaving in 5 minutes. I believe you can do this."
+            ],
+            "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it.",
+            "why_it_works": "Validating their feelings while moving forward with the plan shows them you can handle their big emotions and still keep them safe with routines."
+          },
+          {
+            "id": "connect_first",
+            "name": "Connect First",
+            "script": [
+              "Come here, kiddo. I can see this morning feels big and hard.",
+              "Tell me what's going on in your brain about school today.",
+              "That sounds really [hard/scary/frustrating]. I get it.",
+              "Even when school feels hard, I know you can handle it. Let's get ready together."
+            ],
+            "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it.",
+            "why_it_works": "Connection before direction helps children feel understood and supported, making them more willing to cooperate with necessary tasks."
+          },
+          {
+            "id": "playful_power",
+            "name": "Playful Power",
+            "script": [
+              "Oh no! It looks like your clothes are trying to hide from you!",
+              "Should we catch that sneaky shirt? I think it went behind the door!",
+              "I wonder if your backpack is ready for an adventure today...",
+              "Your strong body is going to have a day at school, and I'll be here when you get home."
+            ],
+            "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it.",
+            "why_it_works": "Playfulness can transform resistance into cooperation by making necessary tasks feel like games rather than demands."
+          }
+        ]
+      },
+      {
+        "id": "hate_you_outburst",
+        "title": "\"I Hate You!\" Outburst",
+        "scenario": "Child screams \"I hate you!\" or \"You're not my friend!\" during a conflict",
+        "icon": "😡",
+        "strategies": [
+          {
+            "id": "stay_calm_reflect",
+            "name": "Stay Calm + Reflect",
+            "script": [
+              "You're so mad at me right now. You wish I would change my mind.",
+              "It's okay to be angry with me. I can handle your big feelings.",
+              "Even when you're mad at me, I still love you completely.",
+              "When you're ready, I'm here. The answer is still [boundary]."
+            ],
+            "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady.",
+            "why_it_works": "Staying calm in the face of hurtful words models emotional regulation and shows them their big feelings can't push you away or change your boundaries."
+          },
+          {
+            "id": "name_the_feeling",
+            "name": "Name the Feeling",
+            "script": [
+              "Wow, those are some really big, angry feelings coming out of your body.",
+              "You're so frustrated that you want me to know with your biggest words.",
+              "I hear you. You wish things were different right now.",
+              "I love you even when you're angry. Even when you use those words."
+            ],
+            "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady.",
+            "why_it_works": "Naming emotions helps children understand what they're feeling and teaches them that all feelings are acceptable, even when expressed imperfectly."
+          },
+          {
+            "id": "empathy_bridge",
+            "name": "Empathy Bridge",
+            "script": [
+              "You know what? Sometimes I feel really frustrated with people I love too.",
+              "When you say you hate me, I think you mean you hate what I'm asking you to do.",
+              "I get it. This rule feels really unfair to you right now.",
+              "And I still love you. And the rule is still the rule."
+            ],
+            "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady.",
+            "why_it_works": "Sharing your own experience with similar feelings helps children feel less alone and shows them that strong emotions are normal and manageable."
+          }
+        ]
+      },
+      {
+        "id": "doctor_visit_anxiety",
+        "title": "Doctor Visit Anxiety",
+        "scenario": "Child is crying, clinging, or refusing to cooperate at a medical appointment",
+        "icon": "🩺",
+        "strategies": [
+          {
+            "id": "validation_partnership",
+            "name": "Validation + Partnership",
+            "script": [
+              "Your body feels scared about being here. Doctor visits can feel really big.",
+              "I'm going to stay right next to you the whole time.",
+              "We're a team. You don't have to be brave alone.",
+              "After this, we're going to [specific plan]. You can look forward to that."
+            ],
+            "mantra": "Their fear is real and valid. I can be their calm in this storm.",
+            "why_it_works": "Providing information reduces anxiety by making the unknown known. Staying physically close activates their attachment system and helps them feel safe."
+          },
+          {
+            "id": "control_information",
+            "name": "Control + Information",
+            "script": [
+              "Let me tell you exactly what's going to happen so your brain can get ready.",
+              "First [step 1], then [step 2]. I'll be holding your hand.",
+              "You get to choose: do you want to sit on my lap or on the table?",
+              "If you need to cry or squeeze my hand, that's totally okay."
+            ],
+            "mantra": "Their fear is real and valid. I can be their calm in this storm.",
+            "why_it_works": "Detailed information helps reduce anxiety by eliminating unknowns. Offering choices gives them some control in a situation where they feel powerless."
+          },
+          {
+            "id": "coping_tools",
+            "name": "Coping Tools",
+            "script": [
+              "Let's take three deep breaths together. In through your nose, out through your mouth.",
+              "I want you to look at me and think about [favorite comfort item/memory].",
+              "You can hold my hand as tight as you need to.",
+              "This will be over soon, and then we'll [comfort activity]."
+            ],
+            "mantra": "Their fear is real and valid. I can be their calm in this storm.",
+            "why_it_works": "Teaching specific coping strategies gives children tools they can use to manage anxiety in this and future situations."
+          }
+        ]
+      },
+      {
+        "id": "transition_defiance",
+        "title": "Transition Defiance",
+        "scenario": "Child refuses to stop current activity for transition (leaving park, turning off TV, ending playtime)",
+        "icon": "⏰",
+        "strategies": [
+          {
+            "id": "time_choice",
+            "name": "Time + Choice",
+            "script": [
+              "I can see you're not ready to stop yet. This activity is really fun for you.",
+              "We have 2 more minutes. You can use that time however you want.",
+              "When the timer goes off, we're leaving. You can walk to the car or I can carry you.",
+              "It's hard to stop fun things. And we're still going to stop."
+            ],
+            "mantra": "Transitions are hard for kids. Staying consistent helps them trust the structure.",
+            "why_it_works": "Acknowledging their disappointment while maintaining the boundary teaches them that feelings are valid but don't control actions. Advance notice helps their brain prepare."
+          },
+          {
+            "id": "emotional_validation",
+            "name": "Emotional Validation",
+            "script": [
+              "You wish you could play forever. That makes total sense to me.",
+              "It's disappointing when fun things have to end.",
+              "You can be sad about leaving AND we're still leaving now.",
+              "I'll remember how much you loved this for next time."
+            ],
+            "mantra": "Transitions are hard for kids. Staying consistent helps them trust the structure.",
+            "why_it_works": "Validating disappointment helps children feel understood while learning that they can have feelings and still follow through with necessary actions."
+          },
+          {
+            "id": "future_focus",
+            "name": "Future Focus",
+            "script": [
+              "I know it's hard to leave. Let's talk about what we're going to do next.",
+              "After we leave here, we're going to [next activity].",
+              "And tomorrow/later we can [plan for return/similar activity].",
+              "Right now your body needs to come with me, even if your feelings aren't ready."
+            ],
+            "mantra": "Transitions are hard for kids. Staying consistent helps them trust the structure.",
+            "why_it_works": "Focusing on what comes next helps shift their attention from what they're losing to what they're gaining, making transitions easier."
+          }
+        ]
+      },
+      {
+        "id": "physical_aggression",
+        "title": "Physical Aggression",
+        "scenario": "Child hits, bites, kicks, or throws things when upset",
+        "icon": "✋",
+        "strategies": [
+          {
+            "id": "immediate_safety",
+            "name": "Immediate Safety",
+            "script": [
+              "I won't let you hit. Bodies need to be safe.",
+              "I'm going to move your body/myself so everyone stays safe.",
+              "You have big feelings AND hitting isn't okay.",
+              "When your body is calm, we can talk about what happened."
+            ],
+            "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves.",
+            "why_it_works": "Stopping the behavior immediately while validating the emotion teaches them that all feelings are okay, but not all actions are okay. Offering alternatives gives them appropriate outlets."
+          },
+          {
+            "id": "feeling_boundary",
+            "name": "Feeling + Boundary",
+            "script": [
+              "You're so angry your body wants to hit. I get that.",
+              "AND I'm not going to let you hurt me or anyone else.",
+              "Your angry feelings are okay. Hitting is not okay.",
+              "Let's find a safe way for your body to show those big feelings."
+            ],
+            "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves.",
+            "why_it_works": "Separating feelings from actions helps children understand that emotions are always acceptable, but behaviors have limits and consequences."
+          },
+          {
+            "id": "redirect_energy",
+            "name": "Redirect Energy",
+            "script": [
+              "I can see your body has lots of big energy that wants to come out.",
+              "You can hit this pillow, stomp your feet, or squeeze your hands really tight.",
+              "Your feelings are important AND people's bodies need to stay safe.",
+              "I'm going to help you find a way to get those feelings out safely."
+            ],
+            "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves.",
+            "why_it_works": "Providing physical outlets for big emotions helps children learn appropriate ways to release intense feelings while keeping everyone safe."
+          }
+        ]
+      }
+    ],
+    "universal_phrases": {
+      "big_emotions": [
+        "I can see this feels really big for you.",
+        "Your feelings make sense to me.",
+        "Even when you're upset, I still love you."
+      ],
+      "boundaries": [
+        "The answer is still [boundary].",
+        "I'm going to keep you safe, even when you don't like it.",
+        "This is hard AND it's still happening."
+      ],
+      "connection": [
+        "We're going to get through this together.",
+        "I'm right here with you.",
+        "I believe you can handle this."
+      ],
+      "parent_regulation": [
+        "I am safe. This is not an emergency.",
+        "Their big feelings don't mean I'm doing something wrong.",
+        "Consistency is kindness, even when it's hard."
+      ]
+    }
+  }
