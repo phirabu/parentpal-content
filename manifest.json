@@ -16,16 +16,6 @@
       "filename": "library_content.json",
       "path": "content/library_content.json",
       "required": true
-    },
-    "topics": {
-      "filename": "topics.json",
-      "path": "content/topics.json",
-      "required": false
-    },
-    "featuredArticles": {
-      "filename": "featured_articles.json",
-      "path": "content/featured_articles.json",
-      "required": false
     }
   },
   "features": {
