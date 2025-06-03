@@ -697,120 +697,59 @@
       ]
     }
   ],
-  "universal_phrases": [
-    {
-      "id": "big_emotions",
-      "title": "Big Emotions",
-      "description": "Phrases to acknowledge and validate intense feelings",
-      "phrases": [
-        "I can see this feels really big for you.",
-        "Your feelings make sense to me.",
-        "Even when you're upset, I still love you.",
-        "These are some powerful feelings coming out of your body.",
-        "It's okay to have big feelings. I'm here with you."
-      ]
-    },
-    {
-      "id": "boundaries",
-      "title": "Setting Boundaries",
-      "description": "Phrases to maintain limits while acknowledging feelings",
-      "phrases": [
-        "The answer is still [boundary].",
-        "I'm going to keep you safe, even when you don't like it.",
-        "This is hard AND it's still happening.",
-        "You can be upset about this AND it's still what we're doing.",
-        "I hear that you don't like this, and it's still what needs to happen."
-      ]
-    },
-    {
-      "id": "connection",
-      "title": "Connection & Support",
-      "description": "Phrases to strengthen attachment during difficult moments",
-      "phrases": [
-        "We're going to get through this together.",
-        "I'm right here with you.",
-        "I believe you can handle this.",
-        "You don't have to do this alone.",
-        "Even when things are hard, I'm on your team."
-      ]
-    },
-    {
-      "id": "parent_regulation",
-      "title": "Parent Self-Regulation",
-      "description": "Mantras to help parents stay calm",
-      "phrases": [
-        "I am safe. This is not an emergency.",
-        "Their big feelings don't mean I'm doing something wrong.",
-        "Consistency is kindness, even when it's hard.",
-        "This is temporary. This feeling will pass.",
-        "I can stay calm even when they can't."
-      ]
-    },
-    {
-      "id": "validation",
-      "title": "Emotional Validation",
-      "description": "Phrases to help children feel heard and understood",
-      "phrases": [
-        "That sounds really [hard/frustrating/disappointing].",
-        "I can see why you would feel that way.",
-        "If I were you, I might feel [emotion] too.",
-        "Your feelings are important to me.",
-        "It makes sense that you would want [thing they want]."
-      ]
-    },
-    {
-      "id": "choices_and_autonomy",
-      "title": "Choices & Autonomy",
-      "description": "Phrases to give children control within boundaries",
-      "phrases": [
-        "You get to choose: [option A] or [option B].",
-        "What would feel better for your body right now?",
-        "How do you want to handle this?",
-        "You're in charge of [specific thing within boundary].",
-        "What would help you feel more ready for [transition/task]?"
-      ]
-    }
-  ],
-  "emergency_quick_tips": [
-    {
-      "id": "public_meltdowns",
-      "title": "Public Meltdowns",
-      "description": "Remember: Other people's opinions don't define your parenting. Focus on your child, not the stares."
-    },
-    {
-      "id": "safety_first",
-      "title": "Safety First",
-      "description": "When behavior involves physical safety, act first and process emotions later."
-    },
-    {
-      "id": "when_to_take_breaks",
-      "title": "When to Take Breaks",
-      "description": "If you feel yourself losing patience, it's okay to say 'I need a minute to calm down' and step away briefly."
-    },
-    {
-      "id": "professional_help",
-      "title": "When to Seek Help",
-      "description": "Seek support if tantrums increase in frequency/intensity, include self-harm, or if you feel overwhelmed consistently."
-    }
-  ],
-  "age_specific_notes": [
-    {
-      "id": "toddlers",
-      "age_range": "1-3 years",
-      "title": "Toddlers",
-      "description": "Toddlers have big emotions but small coping skills. Extra patience and simple language work best."
-    },
-    {
-      "id": "preschool",
-      "age_range": "3-5 years",
-      "title": "Preschoolers",
-      "description": "Can understand more complex explanations but still need concrete choices and clear boundaries."
-    },
-    {
-      "id": "school_age",
-      "age_range": "5+ years",
-      "title": "School Age",
-      "description": "Can participate in problem-solving but may still need help regulating intense emotions."
-    }
-  ]
+  "universal_phrases": {
+    "big_emotions": [
+      "I can see this feels really big for you.",
+      "Your feelings make sense to me.",
+      "Even when you're upset, I still love you.",
+      "These are some powerful feelings coming out of your body.",
+      "It's okay to have big feelings. I'm here with you."
+    ],
+    "boundaries": [
+      "The answer is still [boundary].",
+      "I'm going to keep you safe, even when you don't like it.",
+      "This is hard AND it's still happening.",
+      "You can be upset about this AND it's still what we're doing.",
+      "I hear that you don't like this, and it's still what needs to happen."
+    ],
+    "connection": [
+      "We're going to get through this together.",
+      "I'm right here with you.",
+      "I believe you can handle this.",
+      "You don't have to do this alone.",
+      "Even when things are hard, I'm on your team."
+    ],
+    "parent_regulation": [
+      "I am safe. This is not an emergency.",
+      "Their big feelings don't mean I'm doing something wrong.",
+      "Consistency is kindness, even when it's hard.",
+      "This is temporary. This feeling will pass.",
+      "I can stay calm even when they can't."
+    ],
+    "validation": [
+      "That sounds really [hard/frustrating/disappointing].",
+      "I can see why you would feel that way.",
+      "If I were you, I might feel [emotion] too.",
+      "Your feelings are important to me.",
+      "It makes sense that you would want [thing they want]."
+    ],
+    "choices_and_autonomy": [
+      "You get to choose: [option A] or [option B].",
+      "What would feel better for your body right now?",
+      "How do you want to handle this?",
+      "You're in charge of [specific thing within boundary].",
+      "What would help you feel more ready for [transition/task]?"
+    ]
+  },
+  "emergency_quick_tips": {
+    "public_meltdowns": "Remember: Other people's opinions don't define your parenting. Focus on your child, not the stares.",
+    "safety_first": "When behavior involves physical safety, act first and process emotions later.",
+    "when_to_take_breaks": "If you feel yourself losing patience, it's okay to say 'I need a minute to calm down' and step away briefly.",
+    "professional_help": "Seek support if tantrums increase in frequency/intensity, include self-harm, or if you feel overwhelmed consistently."
+  },
+  "age_specific_notes": {
+    "toddlers_1_3": "Toddlers have big emotions but small coping skills. Extra patience and simple language work best.",
+    "preschool_3_5": "Can understand more complex explanations but still need concrete choices and clear boundaries.",
+    "school_age_5_plus": "Can participate in problem-solving but may still need help regulating intense emotions."
+  }
 }

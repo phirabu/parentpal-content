@@ -5,20 +5,10 @@
       "title": "Bedtime Meltdown",
       "scenario": "Child is screaming, crying, or having a full tantrum when it's time for bed",
       "icon": "🌙",
-      "ageRange": "2-8 years",
-      "prevention_tips": [
-        "Maintain consistent bedtime routine",
-        "Start wind-down activities 30 minutes before bed",
-        "Ensure child isn't overtired - watch for early sleep cues",
-        "Keep bedroom cool, dark, and comfortable",
-        "Avoid stimulating activities close to bedtime"
-      ],
       "strategies": [
         {
           "id": "validation_boundary",
           "name": "Validation + Boundary",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "You're really upset about bedtime. I can see this feels hard for you.",
             "AND bedtime is still happening. Your body needs sleep to grow strong.",
@@ -31,8 +21,6 @@
         {
           "id": "playful_approach",
           "name": "Playful Approach",
-          "difficulty": "easy",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Oh no! It looks like the bedtime monster got you! The bedtime monster makes kids feel SO upset about sleep.",
             "I wonder... should we march to bed like soldiers or hop like bunnies?",
@@ -45,8 +33,6 @@
         {
           "id": "limited_choices",
           "name": "Limited Choices",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I can see bedtime feels overwhelming right now.",
             "You get to choose: pajamas first or teeth brushing first?",
@@ -63,20 +49,10 @@
       "title": "Sibling Toy Fight",
       "scenario": "Two children are fighting, grabbing, or screaming over the same toy",
       "icon": "🧸",
-      "ageRange": "2-10 years",
-      "prevention_tips": [
-        "Teach taking turns before conflicts arise",
-        "Have multiple similar toys available",
-        "Create clear expectations about sharing",
-        "Set up play environments that reduce competition",
-        "Practice problem-solving when everyone is calm"
-      ],
       "strategies": [
         {
           "id": "sportscaster_approach",
           "name": "Sportscaster Approach",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "I see two kids who both want the same toy. That's frustrating!",
             "I'm not going to decide who gets it. You both want it, and that makes sense.",
@@ -89,8 +65,6 @@
         {
           "id": "empathy_for_both",
           "name": "Empathy for Both",
-          "difficulty": "advanced",
-          "timeRequired": "10-15 minutes",
           "script": [
             "Sarah, you're upset because you want the doll. Jake, you're upset because you had it first.",
             "Both of your feelings make total sense to me.",
@@ -103,8 +77,6 @@
         {
           "id": "immediate_safety",
           "name": "Immediate Safety",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I see hands grabbing and voices yelling. Bodies need to be safe.",
             "Sarah, you come with me to the kitchen. Jake, you stay here in the living room.",
@@ -121,20 +93,10 @@
       "title": "School Morning Refusal",
       "scenario": "Child is refusing to get dressed, hiding, or melting down about going to school",
       "icon": "🎒",
-      "ageRange": "3-12 years",
-      "prevention_tips": [
-        "Prepare clothes and backpack the night before",
-        "Ensure adequate sleep (early bedtime)",
-        "Build in extra time for morning routine",
-        "Address any school anxieties during calm moments",
-        "Create visual morning routine charts"
-      ],
       "strategies": [
         {
           "id": "acknowledge_action",
           "name": "Acknowledge + Action",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Your body is telling me that something about school feels hard today.",
             "AND school is still happening. Let's get your body ready to go.",
@@ -147,8 +109,6 @@
         {
           "id": "connect_first",
           "name": "Connect First",
-          "difficulty": "advanced",
-          "timeRequired": "10-15 minutes",
           "script": [
             "Come here, kiddo. I can see this morning feels big and hard.",
             "Tell me what's going on in your brain about school today.",
@@ -161,8 +121,6 @@
         {
           "id": "playful_power",
           "name": "Playful Power",
-          "difficulty": "easy",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Oh no! It looks like your clothes are trying to hide from you!",
             "Should we catch that sneaky shirt? I think it went behind the door!",
@@ -179,20 +137,10 @@
       "title": "\"I Hate You!\" Outburst",
       "scenario": "Child screams \"I hate you!\" or \"You're not my friend!\" during a conflict",
       "icon": "😡",
-      "ageRange": "3-10 years",
-      "prevention_tips": [
-        "Model emotional regulation during your own frustrations",
-        "Teach feeling words when child is calm",
-        "Validate emotions regularly before they escalate",
-        "Create safe spaces for expressing difficult feelings",
-        "Maintain strong connection through daily one-on-one time"
-      ],
       "strategies": [
         {
           "id": "stay_calm_reflect",
           "name": "Stay Calm + Reflect",
-          "difficulty": "intermediate",
-          "timeRequired": "immediate",
           "script": [
             "You're so mad at me right now. You wish I would change my mind.",
             "It's okay to be angry with me. I can handle your big feelings.",
@@ -205,8 +153,6 @@
         {
           "id": "name_the_feeling",
           "name": "Name the Feeling",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "Wow, those are some really big, angry feelings coming out of your body.",
             "You're so frustrated that you want me to know with your biggest words.",
@@ -219,8 +165,6 @@
         {
           "id": "empathy_bridge",
           "name": "Empathy Bridge",
-          "difficulty": "advanced",
-          "timeRequired": "5-10 minutes",
           "script": [
             "You know what? Sometimes I feel really frustrated with people I love too.",
             "When you say you hate me, I think you mean you hate what I'm asking you to do.",
@@ -237,20 +181,10 @@
       "title": "Doctor Visit Anxiety",
       "scenario": "Child is crying, clinging, or refusing to cooperate at a medical appointment",
       "icon": "🩺",
-      "ageRange": "2-10 years",
-      "prevention_tips": [
-        "Read books about doctor visits beforehand",
-        "Role-play doctor appointments with toys",
-        "Bring comfort items (favorite stuffed animal)",
-        "Schedule appointments when child is well-rested",
-        "Prepare child with age-appropriate explanations"
-      ],
       "strategies": [
         {
           "id": "validation_partnership",
           "name": "Validation + Partnership",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "Your body feels scared about being here. Doctor visits can feel really big.",
             "I'm going to stay right next to you the whole time.",
@@ -263,8 +197,6 @@
         {
           "id": "control_information",
           "name": "Control + Information",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Let me tell you exactly what's going to happen so your brain can get ready.",
             "First [step 1], then [step 2]. I'll be holding your hand.",
@@ -277,8 +209,6 @@
         {
           "id": "coping_tools",
           "name": "Coping Tools",
-          "difficulty": "easy",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Let's take three deep breaths together. In through your nose, out through your mouth.",
             "I want you to look at me and think about [favorite comfort item/memory].",
@@ -295,20 +225,10 @@
       "title": "Transition Defiance",
       "scenario": "Child refuses to stop current activity for transition (leaving park, turning off TV, ending playtime)",
       "icon": "⏰",
-      "ageRange": "2-10 years",
-      "prevention_tips": [
-        "Give 10-minute and 5-minute warnings before transitions",
-        "Use visual timers that children can see",
-        "Create predictable daily routines",
-        "Acknowledge how fun the current activity is",
-        "Plan appealing next activities to look forward to"
-      ],
       "strategies": [
         {
           "id": "time_choice",
           "name": "Time + Choice",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I can see you're not ready to stop yet. This activity is really fun for you.",
             "We have 2 more minutes. You can use that time however you want.",
@@ -321,8 +241,6 @@
         {
           "id": "emotional_validation",
           "name": "Emotional Validation",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "You wish you could play forever. That makes total sense to me.",
             "It's disappointing when fun things have to end.",
@@ -335,8 +253,6 @@
         {
           "id": "future_focus",
           "name": "Future Focus",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I know it's hard to leave. Let's talk about what we're going to do next.",
             "After we leave here, we're going to [next activity].",
@@ -353,20 +269,10 @@
       "title": "Physical Aggression",
       "scenario": "Child hits, bites, kicks, or throws things when upset",
       "icon": "✋",
-      "ageRange": "2-8 years",
-      "prevention_tips": [
-        "Teach physical outlets for big emotions before they're needed",
-        "Identify triggers that lead to aggressive behavior",
-        "Ensure child gets enough physical activity daily",
-        "Model calm conflict resolution in your own interactions",
-        "Address underlying needs (hunger, tiredness, overstimulation)"
-      ],
       "strategies": [
         {
           "id": "immediate_safety",
           "name": "Immediate Safety",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I won't let you hit. Bodies need to be safe.",
             "I'm going to move your body/myself so everyone stays safe.",
@@ -379,8 +285,6 @@
         {
           "id": "feeling_boundary",
           "name": "Feeling + Boundary",
-          "difficulty": "intermediate",
-          "timeRequired": "immediate",
           "script": [
             "You're so angry your body wants to hit. I get that.",
             "AND I'm not going to let you hurt me or anyone else.",
@@ -393,8 +297,6 @@
         {
           "id": "redirect_energy",
           "name": "Redirect Energy",
-          "difficulty": "easy",
-          "timeRequired": "5-10 minutes",
           "script": [
             "I can see your body has lots of big energy that wants to come out.",
             "You can hit this pillow, stomp your feet, or squeeze your hands really tight.",
@@ -411,20 +313,10 @@
       "title": "Grocery Store Meltdown",
       "scenario": "Child has a tantrum in public, attracting stares and making shopping impossible",
       "icon": "🛒",
-      "ageRange": "2-8 years",
-      "prevention_tips": [
-        "Shop when child is well-rested and fed",
-        "Bring snacks and small activities/toys",
-        "Set clear expectations before entering the store",
-        "Keep shopping trips short for younger children",
-        "Consider online grocery pickup for challenging periods"
-      ],
       "strategies": [
         {
           "id": "strategic_exit",
           "name": "Strategic Exit",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "I can see this is really overwhelming for you right now.",
             "We're going to take a break outside where it's quieter.",
@@ -437,8 +329,6 @@
         {
           "id": "stay_and_support",
           "name": "Stay and Support",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "You're having such big feelings right now. I'm right here with you.",
             "I can see you really wanted [item]. It's disappointing when we can't have what we want.",
@@ -451,8 +341,6 @@
         {
           "id": "distraction_redirect",
           "name": "Distraction + Redirect",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "Wow, look how upset your body is! That's some really big energy.",
             "I wonder... can you help me find the red apples? I need someone with good eyes.",
@@ -469,20 +357,10 @@
       "title": "Car Seat Refusal",
       "scenario": "Child refuses to get in car seat, arches back, or fights the safety straps",
       "icon": "🚗",
-      "ageRange": "1-6 years",
-      "prevention_tips": [
-        "Ensure car seat is properly adjusted and comfortable",
-        "Bring special car toys or music only for car rides",
-        "Practice buckling with stuffed animals at home",
-        "Allow extra time so you don't feel rushed",
-        "Address any discomfort issues (temperature, straps, etc.)"
-      ],
       "strategies": [
         {
           "id": "safety_first",
           "name": "Safety First",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "Your body is saying no to the car seat. I hear that.",
             "AND my job is to keep you safe. Car seats keep bodies safe in cars.",
@@ -495,8 +373,6 @@
         {
           "id": "choice_within_safety",
           "name": "Choice Within Safety",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "The car seat is happening because I need to keep you safe.",
             "You get to choose: Would you like to climb in yourself or would you like me to help you?",
@@ -509,8 +385,6 @@
         {
           "id": "connection_first",
           "name": "Connection First",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "Come here first. I can see you really don't want to get in your seat.",
             "Tell me what's hard about the car seat today.",
@@ -527,20 +401,10 @@
       "title": "Homework Battles",
       "scenario": "Child melts down, refuses to start, or has emotional outbursts about homework",
       "icon": "📚",
-      "ageRange": "5-12 years",
-      "prevention_tips": [
-        "Establish consistent homework time and space",
-        "Ensure child has had snack and movement before starting",
-        "Break large assignments into smaller chunks",
-        "Communicate with teachers about appropriate homework load",
-        "Create a calm, organized workspace free from distractions"
-      ],
       "strategies": [
         {
           "id": "break_it_down",
           "name": "Break It Down",
-          "difficulty": "easy",
-          "timeRequired": "5-10 minutes",
           "script": [
             "This homework feels really big and overwhelming to your brain right now.",
             "Let's look at it together and break it into tiny pieces.",
@@ -553,8 +417,6 @@
         {
           "id": "emotional_first_aid",
           "name": "Emotional First Aid",
-          "difficulty": "intermediate",
-          "timeRequired": "10-15 minutes",
           "script": [
             "Your body is telling me this feels really hard right now.",
             "Let's take care of your big feelings first, then we'll tackle the homework.",
@@ -567,8 +429,6 @@
         {
           "id": "partnership_approach",
           "name": "Partnership Approach",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "This homework is your job, and I'm here to support you.",
             "What part feels hardest to you? Let's start with something easier.",
@@ -585,20 +445,10 @@
       "title": "Morning Routine Chaos",
       "scenario": "Child is slow, distracted, or melting down during morning routine",
       "icon": "🌅",
-      "ageRange": "3-12 years",
-      "prevention_tips": [
-        "Prepare everything possible the night before",
-        "Wake up 15 minutes earlier to reduce time pressure",
-        "Create visual morning routine charts",
-        "Ensure child gets adequate sleep (adjust bedtime if needed)",
-        "Build in buffer time for unexpected delays"
-      ],
       "strategies": [
         {
           "id": "calm_urgency",
           "name": "Calm Urgency",
-          "difficulty": "intermediate",
-          "timeRequired": "immediate",
           "script": [
             "I can see you're moving slowly this morning. Sometimes our bodies feel sluggish.",
             "We need to leave in 10 minutes. That's enough time if we focus.",
@@ -611,8 +461,6 @@
         {
           "id": "choice_sequence",
           "name": "Choice Sequence",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "You have three things left: getting dressed, eating breakfast, and brushing teeth.",
             "Which one do you want to do first?",
@@ -625,8 +473,6 @@
         {
           "id": "reset_and_reconnect",
           "name": "Reset and Reconnect",
-          "difficulty": "advanced",
-          "timeRequired": "5-10 minutes",
           "script": [
             "This morning feels hard for both of us. Let's take a quick reset.",
             "Give me a hug. We're going to figure this out together.",
@@ -643,20 +489,10 @@
       "title": "Screen Time Battles",
       "scenario": "Child refuses to turn off devices, has meltdowns when screen time ends",
       "icon": "📱",
-      "ageRange": "3-12 years",
-      "prevention_tips": [
-        "Set clear screen time limits before starting",
-        "Use visual timers that count down",
-        "Plan appealing activities to transition to",
-        "Create screen-free times (meals, bedtime routine)",
-        "Model healthy screen use yourself"
-      ],
       "strategies": [
         {
           "id": "advance_warning",
           "name": "Advance Warning",
-          "difficulty": "easy",
-          "timeRequired": "immediate",
           "script": [
             "You have 5 more minutes of screen time, then it's time to turn it off.",
             "I know it's hard to stop when you're having fun. Let's set a timer together.",
@@ -669,8 +505,6 @@
         {
           "id": "validate_and_redirect",
           "name": "Validate and Redirect",
-          "difficulty": "intermediate",
-          "timeRequired": "5-10 minutes",
           "script": [
             "You're so disappointed that screen time is over. That makes total sense.",
             "It's hard when fun things have to end. You wish you could keep playing.",
@@ -683,8 +517,6 @@
         {
           "id": "collaborative_solution",
           "name": "Collaborative Solution",
-          "difficulty": "advanced",
-          "timeRequired": "10-15 minutes",
           "script": [
             "Screen time battles are hard for both of us. Let's solve this together.",
             "What would help you remember when screen time is almost over?",
@@ -697,120 +529,59 @@
       ]
     }
   ],
-  "universal_phrases": [
-    {
-      "id": "big_emotions",
-      "title": "Big Emotions",
-      "description": "Phrases to acknowledge and validate intense feelings",
-      "phrases": [
-        "I can see this feels really big for you.",
-        "Your feelings make sense to me.",
-        "Even when you're upset, I still love you.",
-        "These are some powerful feelings coming out of your body.",
-        "It's okay to have big feelings. I'm here with you."
-      ]
-    },
-    {
-      "id": "boundaries",
-      "title": "Setting Boundaries",
-      "description": "Phrases to maintain limits while acknowledging feelings",
-      "phrases": [
-        "The answer is still [boundary].",
-        "I'm going to keep you safe, even when you don't like it.",
-        "This is hard AND it's still happening.",
-        "You can be upset about this AND it's still what we're doing.",
-        "I hear that you don't like this, and it's still what needs to happen."
-      ]
-    },
-    {
-      "id": "connection",
-      "title": "Connection & Support",
-      "description": "Phrases to strengthen attachment during difficult moments",
-      "phrases": [
-        "We're going to get through this together.",
-        "I'm right here with you.",
-        "I believe you can handle this.",
-        "You don't have to do this alone.",
-        "Even when things are hard, I'm on your team."
-      ]
-    },
-    {
-      "id": "parent_regulation",
-      "title": "Parent Self-Regulation",
-      "description": "Mantras to help parents stay calm",
-      "phrases": [
-        "I am safe. This is not an emergency.",
-        "Their big feelings don't mean I'm doing something wrong.",
-        "Consistency is kindness, even when it's hard.",
-        "This is temporary. This feeling will pass.",
-        "I can stay calm even when they can't."
-      ]
-    },
-    {
-      "id": "validation",
-      "title": "Emotional Validation",
-      "description": "Phrases to help children feel heard and understood",
-      "phrases": [
-        "That sounds really [hard/frustrating/disappointing].",
-        "I can see why you would feel that way.",
-        "If I were you, I might feel [emotion] too.",
-        "Your feelings are important to me.",
-        "It makes sense that you would want [thing they want]."
-      ]
-    },
-    {
-      "id": "choices_and_autonomy",
-      "title": "Choices & Autonomy",
-      "description": "Phrases to give children control within boundaries",
-      "phrases": [
-        "You get to choose: [option A] or [option B].",
-        "What would feel better for your body right now?",
-        "How do you want to handle this?",
-        "You're in charge of [specific thing within boundary].",
-        "What would help you feel more ready for [transition/task]?"
-      ]
-    }
-  ],
-  "emergency_quick_tips": [
-    {
-      "id": "public_meltdowns",
-      "title": "Public Meltdowns",
-      "description": "Remember: Other people's opinions don't define your parenting. Focus on your child, not the stares."
-    },
-    {
-      "id": "safety_first",
-      "title": "Safety First",
-      "description": "When behavior involves physical safety, act first and process emotions later."
-    },
-    {
-      "id": "when_to_take_breaks",
-      "title": "When to Take Breaks",
-      "description": "If you feel yourself losing patience, it's okay to say 'I need a minute to calm down' and step away briefly."
-    },
-    {
-      "id": "professional_help",
-      "title": "When to Seek Help",
-      "description": "Seek support if tantrums increase in frequency/intensity, include self-harm, or if you feel overwhelmed consistently."
-    }
-  ],
-  "age_specific_notes": [
-    {
-      "id": "toddlers",
-      "age_range": "1-3 years",
-      "title": "Toddlers",
-      "description": "Toddlers have big emotions but small coping skills. Extra patience and simple language work best."
-    },
-    {
-      "id": "preschool",
-      "age_range": "3-5 years",
-      "title": "Preschoolers",
-      "description": "Can understand more complex explanations but still need concrete choices and clear boundaries."
-    },
-    {
-      "id": "school_age",
-      "age_range": "5+ years",
-      "title": "School Age",
-      "description": "Can participate in problem-solving but may still need help regulating intense emotions."
-    }
-  ]
+  "universal_phrases": {
+    "big_emotions": [
+      "I can see this feels really big for you.",
+      "Your feelings make sense to me.",
+      "Even when you're upset, I still love you.",
+      "These are some powerful feelings coming out of your body.",
+      "It's okay to have big feelings. I'm here with you."
+    ],
+    "boundaries": [
+      "The answer is still [boundary].",
+      "I'm going to keep you safe, even when you don't like it.",
+      "This is hard AND it's still happening.",
+      "You can be upset about this AND it's still what we're doing.",
+      "I hear that you don't like this, and it's still what needs to happen."
+    ],
+    "connection": [
+      "We're going to get through this together.",
+      "I'm right here with you.",
+      "I believe you can handle this.",
+      "You don't have to do this alone.",
+      "Even when things are hard, I'm on your team."
+    ],
+    "parent_regulation": [
+      "I am safe. This is not an emergency.",
+      "Their big feelings don't mean I'm doing something wrong.",
+      "Consistency is kindness, even when it's hard.",
+      "This is temporary. This feeling will pass.",
+      "I can stay calm even when they can't."
+    ],
+    "validation": [
+      "That sounds really [hard/frustrating/disappointing].",
+      "I can see why you would feel that way.",
+      "If I were you, I might feel [emotion] too.",
+      "Your feelings are important to me.",
+      "It makes sense that you would want [thing they want]."
+    ],
+    "choices_and_autonomy": [
+      "You get to choose: [option A] or [option B].",
+      "What would feel better for your body right now?",
+      "How do you want to handle this?",
+      "You're in charge of [specific thing within boundary].",
+      "What would help you feel more ready for [transition/task]?"
+    ]
+  },
+  "emergency_quick_tips": {
+    "public_meltdowns": "Remember: Other people's opinions don't define your parenting. Focus on your child, not the stares.",
+    "safety_first": "When behavior involves physical safety, act first and process emotions later.",
+    "when_to_take_breaks": "If you feel yourself losing patience, it's okay to say 'I need a minute to calm down' and step away briefly.",
+    "professional_help": "Seek support if tantrums increase in frequency/intensity, include self-harm, or if you feel overwhelmed consistently."
+  },
+  "age_specific_notes": {
+    "toddlers_1_3": "Toddlers have big emotions but small coping skills. Extra patience and simple language work best.",
+    "preschool_3_5": "Can understand more complex explanations but still need concrete choices and clear boundaries.",
+    "school_age_5_plus": "Can participate in problem-solving but may still need help regulating intense emotions."
+  }
 }
