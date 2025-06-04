@@ -5,7 +5,7 @@
         "categoryIds": ["baby"],
         "title": "Feeding & Nutrition",
         "description": "Everything about breastfeeding, bottle feeding, and starting solids",
-        "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
         "articles": [
           {
             "id": "bf_basics",
@@ -15,7 +15,7 @@
             "readTime": 12,
             "content": "# Breastfeeding Basics\n\nBreastfeeding is a natural way to nourish your baby, but it doesn't always come naturally. This guide will help you get started with confidence.\n\n## Benefits of Breastfeeding\n\n- Provides ideal nutrition for babies\n- Boosts baby's immune system\n- Promotes bonding between mother and baby\n- Reduces risk of certain illnesses for both mother and baby\n\n## Getting Started\n\n### The First Feed\nTry to breastfeed within the first hour after birth when your baby is alert and ready to feed...\n\n### Finding the Right Position\nThere are several positions you can try:\n- Cradle hold\n- Cross-cradle hold\n- Football hold\n- Side-lying position\n\n### Signs of a Good Latch\n- Baby's mouth is wide open\n- Lips are flanged outward\n- You can see more areola above the baby's mouth than below\n- No clicking sounds while feeding\n- No pain after the initial latch\n\n## Common Challenges and Solutions\n\n### Sore Nipples\nSome tenderness is normal in the first few days, but severe pain indicates a problem...",
             "tags": ["feeding", "newborn", "breastfeeding"],
-            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
             "publishedAt": "2024-03-15T10:00:00Z"
           },
           {
@@ -26,7 +26,7 @@
             "readTime": 8,
             "content": "# Bottle Feeding with Love\n\nWhether you're using formula or expressed breast milk, bottle feeding can be a wonderful bonding experience...",
             "tags": ["feeding", "bottle", "bonding"],
-            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
             "publishedAt": "2024-03-14T10:00:00Z"
           }
         ],
@@ -116,7 +116,7 @@
             "readTime": 15,
             "content": "# Sleep Training Methods Explained\n\nThere's no one-size-fits-all approach to sleep training...",
             "tags": ["sleep", "training", "methods"],
-            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
             "publishedAt": "2024-03-18T10:00:00Z"
           }
         ],
@@ -160,7 +160,7 @@
             "readTime": 12,
             "content": "# Preparing for a New Sibling\n\nA new baby brings joy but also big changes for older siblings...",
             "tags": ["siblings", "preparation", "adjustment"],
-            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
             "publishedAt": "2024-03-16T10:00:00Z"
           }
         ],
