@@ -125,7 +125,7 @@
       },
       {
         "id": "screen_balance",
-        "categoryIds": ["school_age", "teen", "screen_time"],
+        "categoryIds": ["toddler", "screen_time"],
         "title": "Healthy Screen Time Habits",
         "description": "Creating balance in the digital age",
         "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
