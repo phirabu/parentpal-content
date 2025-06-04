@@ -147,7 +147,7 @@
       },
       {
         "id": "sibling_harmony",
-        "categoryIds": ["siblings"],
+        "categoryIds": ["siblings","toddler"],
         "title": "Building Sibling Bonds",
         "description": "Foster positive relationships between siblings",
         "imageUrl": "https://images.unsplash.com/photo-1508214751196-bcfd94c27c3f",
