@@ -30,14 +30,14 @@
             "publishedAt": "2024-03-14T10:00:00Z"
           }
         ],
-        "videos": [
+        "media": [
           {
             "id": "latch_video",
             "title": "Getting the Perfect Latch",
-            "description": "Visual guide to helping your baby latch properly",
+            "description": "Guide to helping your baby latch properly",
             "duration": "5:23",
             "thumbnailUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4",
-            "videoUrl": "demo_video_1",
+            "mediaUrl": "demo_video_1",
             "tags": ["breastfeeding", "latch", "tutorial"]
           }
         ],
@@ -97,7 +97,7 @@
             "publishedAt": "2024-03-19T10:00:00Z"
           }
         ],
-        "videos": [],
+        "media": [],
         "scripts": []
       },
       {
@@ -119,7 +119,7 @@
             "publishedAt": "2024-03-18T10:00:00Z"
           }
         ],
-        "videos": [],
+        "media": [],
         "scripts": []
       },
       {
@@ -141,7 +141,7 @@
             "publishedAt": "2024-03-17T10:00:00Z"
           }
         ],
-        "videos": [],
+        "media": [],
         "scripts": []
       },
       {
@@ -163,7 +163,7 @@
             "publishedAt": "2024-03-16T10:00:00Z"
           }
         ],
-        "videos": [],
+        "media": [],
         "scripts": []
       }
     ]
