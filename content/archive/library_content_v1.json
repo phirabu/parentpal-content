@@ -1,0 +1,171 @@
+{
+    "topics": [
+      {
+        "id": "baby_feeding",
+        "categoryIds": ["baby"],
+        "title": "Feeding & Nutrition",
+        "description": "Everything about breastfeeding, bottle feeding, and starting solids",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+        "articles": [
+          {
+            "id": "bf_basics",
+            "title": "Breastfeeding Basics: Getting Started",
+            "description": "A comprehensive guide to establishing successful breastfeeding",
+            "category": "Guide",
+            "readTime": 12,
+            "content": "# Breastfeeding Basics\n\nBreastfeeding is a natural way to nourish your baby, but it doesn't always come naturally. This guide will help you get started with confidence.\n\n## Benefits of Breastfeeding\n\n- Provides ideal nutrition for babies\n- Boosts baby's immune system\n- Promotes bonding between mother and baby\n- Reduces risk of certain illnesses for both mother and baby\n\n## Getting Started\n\n### The First Feed\nTry to breastfeed within the first hour after birth when your baby is alert and ready to feed...\n\n### Finding the Right Position\nThere are several positions you can try:\n- Cradle hold\n- Cross-cradle hold\n- Football hold\n- Side-lying position\n\n### Signs of a Good Latch\n- Baby's mouth is wide open\n- Lips are flanged outward\n- You can see more areola above the baby's mouth than below\n- No clicking sounds while feeding\n- No pain after the initial latch\n\n## Common Challenges and Solutions\n\n### Sore Nipples\nSome tenderness is normal in the first few days, but severe pain indicates a problem...",
+            "tags": ["feeding", "newborn", "breastfeeding"],
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+            "publishedAt": "2024-03-15T10:00:00Z"
+          },
+          {
+            "id": "bottle_guide",
+            "title": "Bottle Feeding with Love",
+            "description": "How to make bottle feeding a bonding experience",
+            "category": "Guide",
+            "readTime": 8,
+            "content": "# Bottle Feeding with Love\n\nWhether you're using formula or expressed breast milk, bottle feeding can be a wonderful bonding experience...",
+            "tags": ["feeding", "bottle", "bonding"],
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+            "publishedAt": "2024-03-14T10:00:00Z"
+          }
+        ],
+        "media": [
+          {
+            "id": "latch_video",
+            "title": "Getting the Perfect Latch",
+            "description": "Guide to helping your baby latch properly",
+            "duration": "5:23",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4",
+            "mediaUrl": "https://youtu.be/-Ay6pBWxgcQ?si=VlcnAdTukZHBfUGw",
+            "mediaType": "video",
+            "tags": ["breastfeeding", "latch", "tutorial"]
+          }
+        ],
+        "scripts": [
+          {
+            "id": "feeding_trouble",
+            "title": "When Baby Won't Feed",
+            "scenario": "Your baby is crying and refusing to feed",
+            "steps": [
+              {
+                "title": "Stay Calm",
+                "content": "Take a deep breath. Babies can sense your stress, which may make feeding more difficult."
+              },
+              {
+                "title": "Check Basic Needs",
+                "content": "Is baby's diaper clean? Are they too hot or cold? Sometimes addressing comfort helps."
+              },
+              {
+                "title": "Try Skin-to-Skin",
+                "content": "Undress baby to their diaper and place them on your bare chest. This can trigger feeding instincts."
+              },
+              {
+                "title": "Change Positions",
+                "content": "If one position isn't working, try another. Some babies prefer different positions at different times."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "toddler_behavior",
+        "categoryIds": ["preschooler", "tantrums"],
+        "title": "Understanding Toddler Behavior",
+        "description": "Decode your toddler's behavior and respond with empathy",
+        "imageUrl": "https://images.unsplash.com/photo-1508024225580-c5e0fbc408ea",
+        "articles": [
+          {
+            "id": "toddler_brain",
+            "title": "Inside the Toddler Brain",
+            "description": "Understanding why toddlers act the way they do",
+            "category": "Science",
+            "readTime": 10,
+            "content": "# Inside the Toddler Brain\n\nToddlers aren't just small adults - their brains are still developing in crucial ways...",
+            "tags": ["development", "behavior", "science"],
+            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "publishedAt": "2024-03-20T10:00:00Z"
+          },
+          {
+            "id": "big_feelings",
+            "title": "Helping Toddlers with Big Emotions",
+            "description": "Strategies for emotional regulation",
+            "category": "Guide",
+            "readTime": 8,
+            "content": "# Helping Toddlers with Big Emotions\n\nToddlers experience emotions intensely but lack the skills to manage them...",
+            "tags": ["emotions", "regulation", "tantrums"],
+            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "publishedAt": "2024-03-19T10:00:00Z"
+          }
+        ],
+        "media": [],
+        "scripts": []
+      },
+      {
+        "id": "sleep_training",
+        "categoryIds": ["baby", "preschooler", "sleep"],
+        "title": "Sleep Training Methods",
+        "description": "Different approaches to help your child sleep better",
+        "imageUrl": "https://images.unsplash.com/photo-1515062089532-69cd5e0fbc0a",
+        "articles": [
+          {
+            "id": "sleep_methods",
+            "title": "Sleep Training Methods Explained",
+            "description": "Compare different approaches to find what works for your family",
+            "category": "Guide",
+            "readTime": 15,
+            "content": "# Sleep Training Methods Explained\n\nThere's no one-size-fits-all approach to sleep training...",
+            "tags": ["sleep", "training", "methods"],
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+            "publishedAt": "2024-03-18T10:00:00Z"
+          }
+        ],
+        "media": [],
+        "scripts": []
+      },
+      {
+        "id": "screen_balance",
+        "categoryIds": ["preschooler", "screen_time"],
+        "title": "Healthy Screen Time Habits",
+        "description": "Creating balance in the digital age",
+        "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
+        "articles": [
+          {
+            "id": "screen_guidelines",
+            "title": "Age-Appropriate Screen Time Guidelines",
+            "description": "Research-based recommendations for different ages",
+            "category": "Research",
+            "readTime": 10,
+            "content": "# Age-Appropriate Screen Time Guidelines\n\nThe American Academy of Pediatrics provides these evidence-based guidelines...",
+            "tags": ["screen time", "guidelines", "research"],
+            "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+            "publishedAt": "2024-03-17T10:00:00Z"
+          }
+        ],
+        "media": [],
+        "scripts": []
+      },
+      {
+        "id": "sibling_harmony",
+        "categoryIds": ["siblings","toddler"],
+        "title": "Building Sibling Bonds",
+        "description": "Foster positive relationships between siblings",
+        "imageUrl": "https://images.unsplash.com/photo-1508214751196-bcfd94c27c3f",
+        "articles": [
+          {
+            "id": "new_sibling",
+            "title": "Preparing for a New Sibling",
+            "description": "Help your child adjust to becoming a big brother or sister",
+            "category": "Guide",
+            "readTime": 12,
+            "content": "# Preparing for a New Sibling\n\nA new baby brings joy but also big changes for older siblings...",
+            "tags": ["siblings", "preparation", "adjustment"],
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+            "publishedAt": "2024-03-16T10:00:00Z"
+          }
+        ],
+        "media": [],
+        "scripts": []
+      }
+    ]
+  }

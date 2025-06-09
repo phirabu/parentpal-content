@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "title": "Baby",
+      "id": "baby",
+      "type": "age",
+      "subtitle": "0-12 months",
+      "sortOrder": 1,
+      "resourceCount": 15,
+      "description": "Essential guidance for your baby's first year",
+      "color": "#FFE4E1",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
+    },
+    {
+      "title": "Child",
+      "id": "child",
+      "type": "age",
+      "subtitle": "3-7 years",
+      "sortOrder": 2,
+      "resourceCount": 22,
+      "description": "Navigate the wonderful world of preschoolers",
+      "color": "#E6E6FA",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/preschooler.jpg"
+    },
+    {
+      "title": "Parenting Foundations",
+      "id": "parenting_foundations",
+      "type": "special",
+      "subtitle": "For parents",
+      "sortOrder": 10,
+      "resourceCount": 20,
+      "description": "Core principles and self-care for parents",
+      "color": "#F3E5F5",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/foundations.jpg"
+    },
+    {
+      "title": "Tantrums & Meltdowns",
+      "id": "tantrums",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 10,
+      "resourceCount": 12,
+      "description": "Strategies for managing emotional outbursts",
+      "color": "#FFEBEE",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/tantrums.jpg"
+    },
+    {
+      "title": "Lying & Steeling",
+      "id": "lying",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 12,
+      "resourceCount": 14,
+      "description": "Tackle lying and stealing early",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/lying.jpg"
+    },
+    {
+      "title": "Whining",
+      "id": "whining",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 13,
+      "resourceCount": 14,
+      "description": "Strategies and tactics against whining",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/whining.jpg"
+    },
+    {
+      "title": "Fears & Anxiety",
+      "id": "fears",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 14,
+      "resourceCount": 14,
+      "description": "How to work on Fears & Anxiety",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/anxiety.jpg"
+    },
+    {
+      "title": "Winning & Losing",
+      "id": "winning",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 15,
+      "resourceCount": 14,
+      "description": "How to deal with winning and losing",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/winninglosing.jpg"
+    },
+    {
+      "title": "Repairing",
+      "id": "repairing",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 16,
+      "resourceCount": 14,
+      "description": "How to repair after a conflicts with your child",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/repairing.jpg"
+    },
+    {
+      "title": "Social Skills",
+      "id": "personality",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 17,
+      "resourceCount": 14,
+      "description": "Know more about the personality and social skills of your child",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/socialskills.jpg"
+    },
+    {
+      "title": "Sleep & Bedtime",
+      "id": "sleep",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 18,
+      "resourceCount": 14,
+      "description": "Create healthy sleep habits for the whole family",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/sleep.jpg"
+    },
+    {
+      "title": "Screen Time",
+      "id": "screen_time",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 19,
+      "resourceCount": 10,
+      "description": "Balance technology use with healthy development",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/screentime.jpg"
+    },
+    {
+      "title": "Transitions & Change",
+      "id": "change",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 20,
+      "resourceCount": 10,
+      "description": "How to communicate big changes",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/change.jpg"
+    },
+    {
+      "title": "Discipline",
+      "id": "discipline",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 21,
+      "resourceCount": 10,
+      "description": "Strategies and tactics to develop discipline",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/discipline.jpg"
+    },
+    {
+      "title": "Sibling Relationships",
+      "id": "siblings",
+      "type": "special",
+      "subtitle": "All ages",
+      "sortOrder": 22,
+      "resourceCount": 11,
+      "description": "Foster positive relationships between siblings",
+      "color": "#FFF3E0",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/siblings.jpg"
+    }
+  ]
+}

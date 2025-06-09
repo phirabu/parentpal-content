@@ -1,0 +1,26 @@
+{
+  "version": "1.0.5",
+  "minimumAppVersion": "1.0.0",
+  "contentFiles": {
+    "emergencyCoachScripts": {
+      "filename": "emergencycoachscripts.json",
+      "path": "content/emergencycoachscripts.json",
+      "required": true
+    },
+    "libraryCategories": {
+      "filename": "library_categories.json",
+      "path": "content/library_categories.json",
+      "required": true
+    },
+    "libraryContent": {
+      "filename": "library_content.json",
+      "path": "content/library_content.json",
+      "required": true
+    }
+  },
+  "features": {
+    "offlineMode": true,
+    "incrementalUpdates": false,
+    "compressionSupported": true
+  }
+}

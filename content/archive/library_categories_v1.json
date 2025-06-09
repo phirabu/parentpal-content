@@ -1,0 +1,81 @@
+{
+    "categories": [
+      {
+        "id": "baby",
+        "type": "age",
+        "title": "Baby",
+        "subtitle": "0-12 months",
+        "description": "Essential guidance for your baby's first year",
+        "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba",
+        "color": "#FFE4E1",
+        "sortOrder": 1,
+        "resourceCount": 15
+      },
+      {
+        "id": "toddler",
+        "type": "age",
+        "title": "Toddler",
+        "subtitle": "1-3 years",
+        "description": "Navigate the wonderful world of toddlerhood",
+        "imageUrl": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9",
+        "color": "#E6E6FA",
+        "sortOrder": 2,
+        "resourceCount": 22
+      },
+      {
+        "id": "tantrums",
+        "type": "special",
+        "title": "Tantrums & Meltdowns",
+        "subtitle": "Ages 2-8",
+        "description": "Strategies for managing emotional outbursts",
+        "imageUrl": "https://images.unsplash.com/photo-1612894121836-68ecf7fd5559",
+        "color": "#FFEBEE",
+        "sortOrder": 5,
+        "resourceCount": 12
+      },
+      {
+        "id": "sleep",
+        "type": "special",
+        "title": "Sleep & Bedtime",
+        "subtitle": "All ages",
+        "description": "Create healthy sleep habits for the whole family",
+        "imageUrl": "https://images.unsplash.com/photo-1621976360623-004223992275",
+        "color": "#E8F5E9",
+        "sortOrder": 6,
+        "resourceCount": 14
+      },
+      {
+        "id": "screen_time",
+        "type": "special",
+        "title": "Screen Time",
+        "subtitle": "Ages 2+",
+        "description": "Balance technology use with healthy development",
+        "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+        "color": "#E3F2FD",
+        "sortOrder": 7,
+        "resourceCount": 10
+      },
+      {
+        "id": "siblings",
+        "type": "special",
+        "title": "Sibling Relationships",
+        "subtitle": "All ages",
+        "description": "Foster positive relationships between siblings",
+        "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300",
+        "color": "#FFF3E0",
+        "sortOrder": 8,
+        "resourceCount": 11
+      },
+      {
+        "id": "parenting_foundations",
+        "type": "special",
+        "title": "Parenting Foundations",
+        "subtitle": "For parents",
+        "description": "Core principles and self-care for parents",
+        "imageUrl": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9",
+        "color": "#F3E5F5",
+        "sortOrder": 9,
+        "resourceCount": 20
+      }
+    ]
+  }
