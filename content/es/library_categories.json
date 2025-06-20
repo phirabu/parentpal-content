@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "title": "Bebé",
+      "id": "baby",
+      "type": "age",
+      "subtitle": "0-12 meses",
+      "sortOrder": 1,
+      "resourceCount": 15,
+      "description": "Orientación esencial para el primer año de tu bebé",
+      "color": "#FFE4E1",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
+    },
+    {
+      "title": "Niño",
+      "id": "child",
+      "type": "age",
+      "subtitle": "3-7 años",
+      "sortOrder": 2,
+      "resourceCount": 22,
+      "description": "Navega el maravilloso mundo de los preescolares",
+      "color": "#E6E6FA",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/preschooler.jpg"
+    },
+    {
+      "title": "Fundamentos de la Crianza",
+      "id": "parenting_foundations",
+      "type": "special",
+      "subtitle": "Para padres",
+      "sortOrder": 10,
+      "resourceCount": 20,
+      "description": "Principios fundamentales y autocuidado para padres",
+      "color": "#F3E5F5",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/foundations.jpg"
+    },
+    {
+      "title": "Berrinches y Colapsos",
+      "id": "tantrums",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 10,
+      "resourceCount": 12,
+      "description": "Estrategias para manejar los estallidos emocionales",
+      "color": "#FFEBEE",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/tantrums.jpg"
+    },
+    {
+      "title": "Mentiras y Robos",
+      "id": "lying",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 12,
+      "resourceCount": 14,
+      "description": "Aborda las mentiras y los robos desde temprano",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/lying.jpg"
+    },
+    {
+      "title": "Quejas y Lloriqueos",
+      "id": "whining",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 13,
+      "resourceCount": 14,
+      "description": "Estrategias y tácticas contra los lloriqueos",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/whining.jpg"
+    },
+    {
+      "title": "Miedos y Ansiedad",
+      "id": "fears",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 14,
+      "resourceCount": 14,
+      "description": "Cómo trabajar con los miedos y la ansiedad",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/anxiety.jpg"
+    },
+    {
+      "title": "Ganar y Perder",
+      "id": "winning",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 15,
+      "resourceCount": 14,
+      "description": "Cómo lidiar con ganar y perder",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/winninglosing.jpg"
+    },
+    {
+      "title": "Reparación",
+      "id": "repairing",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 16,
+      "resourceCount": 14,
+      "description": "Cómo reparar después de conflictos con tu hijo",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/repairing.jpg"
+    },
+    {
+      "title": "Habilidades Sociales",
+      "id": "personality",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 17,
+      "resourceCount": 14,
+      "description": "Conoce más sobre la personalidad y habilidades sociales de tu hijo",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/socialskills.jpg"
+    },
+    {
+      "title": "Sueño y Hora de Dormir",
+      "id": "sleep",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 18,
+      "resourceCount": 14,
+      "description": "Crea hábitos de sueño saludables para toda la familia",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/sleep.jpg"
+    },
+    {
+      "title": "Tiempo de Pantalla",
+      "id": "screen_time",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 19,
+      "resourceCount": 10,
+      "description": "Equilibra el uso de tecnología con un desarrollo saludable",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/screentime.jpg"
+    },
+    {
+      "title": "Transiciones y Cambios",
+      "id": "change",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 20,
+      "resourceCount": 10,
+      "description": "Cómo comunicar grandes cambios",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/change.jpg"
+    },
+    {
+      "title": "Disciplina",
+      "id": "discipline",
+      "type": "special",
+      "subtitle": "Edades 3-7",
+      "sortOrder": 21,
+      "resourceCount": 10,
+      "description": "Estrategias y tácticas para desarrollar la disciplina",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/discipline.jpg"
+    },
+    {
+      "title": "Relaciones entre Hermanos",
+      "id": "siblings",
+      "type": "special",
+      "subtitle": "Todas las edades",
+      "sortOrder": 22,
+      "resourceCount": 11,
+      "description": "Fomenta relaciones positivas entre hermanos",
+      "color": "#FFF3E0",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/siblings.jpg"
+    }
+  ]
+}

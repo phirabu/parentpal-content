@@ -1,0 +1,816 @@
+{
+  "parenting_scripts": [
+    {
+      "id": "bedtime_meltdown",
+      "title": "Abendroutine-Wutanfall",
+      "scenario": "Kind schreit, weint oder bekommt einen kompletten Wutanfall, wenn es Zeit fürs Bett ist",
+      "icon": "🌙",
+      "ageRange": "2-8 Jahre",
+      "prevention_tips": [
+        "Konstante Abendroutine beibehalten",
+        "Entspannungsaktivitäten 30 Minuten vor der Schlafenszeit beginnen",
+        "Sicherstellen, dass das Kind nicht übermüdet ist - auf frühe Müdigkeitszeichen achten",
+        "Schlafzimmer kühl, dunkel und gemütlich halten",
+        "Aufregende Aktivitäten kurz vor der Schlafenszeit vermeiden"
+      ],
+      "strategies": [
+        {
+          "id": "validation_boundary",
+          "name": "Bestätigung + Grenze",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Du bist wirklich verärgert wegen der Schlafenszeit. Ich kann sehen, dass sich das schwer für dich anfühlt.",
+            "UND Schlafenszeit findet trotzdem statt. Dein Körper braucht Schlaf, um stark zu werden.",
+            "Möchtest du zu deinem Zimmer gehen oder soll ich dich vorsichtig tragen?",
+            "Ich bleibe direkt hier bei dir, während du diese großen Gefühle hast."
+          ],
+          "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit.",
+          "why_it_works": "Die Gefühle des Kindes anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, zeigt ihnen, dass ihre Gefühle berechtigt sind, aber die Erwartung bleibt bestehen. Wahlmöglichkeiten zu bieten, gibt ihnen Kontrolle innerhalb Ihrer Struktur."
+        },
+        {
+          "id": "playful_approach",
+          "name": "Spielerischer Ansatz",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Oh nein! Es sieht aus, als hätte dich das Schlafenszeit-Monster erwischt! Das Schlafenszeit-Monster lässt Kinder SO verärgert über den Schlaf fühlen.",
+            "Ich frage mich... sollen wir zum Bett marschieren wie Soldaten oder hüpfen wie Häschen?",
+            "Deine Kuscheltiere fragen sich wahrscheinlich, wo du bist. Sollen wir ihnen eine Gute-Nacht-Geschichte erzählen?",
+            "Auch wenn du verärgert bist, liebe ich dich trotzdem. Lass uns deinen Körper fürs Schlafen bereit machen."
+          ],
+          "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit.",
+          "why_it_works": "Verspieltheit kann den emotionalen Zustand verändern und Kooperation wahrscheinlicher machen. Es behält die Grenze bei und reduziert gleichzeitig Machtkämpfe durch Verbindung."
+        },
+        {
+          "id": "limited_choices",
+          "name": "Begrenzte Wahlmöglichkeiten",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich kann sehen, dass sich die Schlafenszeit gerade überwältigend anfühlt.",
+            "Du darfst wählen: zuerst Schlafanzug oder zuerst Zähneputzen?",
+            "Möchtest du deine Tür heute Nacht einen Spalt offen oder geschlossen?",
+            "Dein Körper geht jetzt ins Bett, und du kannst wählen, ob du es dir leicht oder schwer machst."
+          ],
+          "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit.",
+          "why_it_works": "Wahlmöglichkeiten innerhalb der nicht verhandelbaren Grenze zu bieten, gibt Kindern ein Gefühl von Autonomie und Kontrolle, wodurch sie eher kooperieren."
+        }
+      ]
+    },
+    {
+      "id": "sibling_toy_fight",
+      "title": "Geschwister-Spielzeugstreit",
+      "scenario": "Zwei Kinder streiten, greifen oder schreien um dasselbe Spielzeug",
+      "icon": "🧸",
+      "ageRange": "2-10 Jahre",
+      "prevention_tips": [
+        "Abwechseln lehren, bevor Konflikte entstehen",
+        "Mehrere ähnliche Spielzeuge verfügbar haben",
+        "Klare Erwartungen über das Teilen schaffen",
+        "Spielumgebungen einrichten, die Konkurrenz reduzieren",
+        "Problemlösung üben, wenn alle ruhig sind"
+      ],
+      "strategies": [
+        {
+          "id": "sportscaster_approach",
+          "name": "Sportkommentator-Ansatz",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Ich sehe zwei Kinder, die beide dasselbe Spielzeug wollen. Das ist frustrierend!",
+            "Ich werde nicht entscheiden, wer es bekommt. Ihr wollt es beide, und das ist verständlich.",
+            "Das Spielzeug macht eine Pause, bis ihr beide zusammen eine Lösung finden könnt.",
+            "Wenn ihr bereit seid, Probleme zu lösen, bin ich hier, um euch beim Brainstorming zu helfen."
+          ],
+          "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen.",
+          "why_it_works": "Sich zu weigern, Partei zu ergreifen, verhindert, dass Sie zum Schiedsrichter werden und lehrt Kinder, zusammenzuarbeiten. Das Spielzeug wegzunehmen entfernt den unmittelbaren Auslöser, während sie sich regulieren."
+        },
+        {
+          "id": "empathy_for_both",
+          "name": "Empathie für beide",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "10-15 Minuten",
+          "script": [
+            "Sarah, du bist verärgert, weil du die Puppe willst. Jake, du bist verärgert, weil du sie zuerst hattest.",
+            "Beide eure Gefühle ergeben für mich völlig Sinn.",
+            "Hier ist, was passieren wird: Ich stelle einen Timer auf 2 Minuten. Ihr könnt beide über Ideen nachdenken.",
+            "Dann kommen wir wieder zusammen und ihr könnt eure Lösungen teilen."
+          ],
+          "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen.",
+          "why_it_works": "Die Perspektiven beider Kinder zu bestätigen, hilft ihnen, sich gehört zu fühlen und reduziert die Intensität des Konflikts. Ihnen Zeit zum Nachdenken zu geben, fördert Problemlösungsfähigkeiten."
+        },
+        {
+          "id": "immediate_safety",
+          "name": "Sofortige Sicherheit",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich sehe greifende Hände und schreiende Stimmen. Körper müssen sicher sein.",
+            "Sarah, du kommst mit mir in die Küche. Jake, du bleibst hier im Wohnzimmer.",
+            "Wenn alle ruhig sind, sprechen wir über das Spielzeug.",
+            "Gerade jetzt ist meine Aufgabe, alle sicher zu halten."
+          ],
+          "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen.",
+          "why_it_works": "Körperliche Trennung verhindert Eskalation und gibt beiden Kindern Raum, ihre Emotionen zu regulieren, bevor sie versuchen, Probleme zu lösen."
+        }
+      ]
+    },
+    {
+      "id": "school_morning_refusal",
+      "title": "Schul-Morgen-Verweigerung",
+      "scenario": "Kind weigert sich anzuziehen, versteckt sich oder bekommt einen Wutanfall wegen der Schule",
+      "icon": "🎒",
+      "ageRange": "3-12 Jahre",
+      "prevention_tips": [
+        "Kleidung und Rucksack am Vorabend vorbereiten",
+        "Ausreichend Schlaf sicherstellen (frühe Schlafenszeit)",
+        "Zusätzliche Zeit für die Morgenroutine einplanen",
+        "Schulängste in ruhigen Momenten ansprechen",
+        "Visuelle Morgenroutine-Diagramme erstellen"
+      ],
+      "strategies": [
+        {
+          "id": "acknowledge_action",
+          "name": "Anerkennung + Handlung",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Dein Körper sagt mir, dass sich etwas an der Schule heute schwer anfühlt.",
+            "UND Schule findet trotzdem statt. Lass uns deinen Körper fertig machen zum Gehen.",
+            "Du kannst dich selbst anziehen oder ich kann dir beim Anziehen helfen. Du entscheidest.",
+            "Wir gehen in 5 Minuten. Ich glaube, du schaffst das."
+          ],
+          "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen.",
+          "why_it_works": "Ihre Gefühle zu bestätigen und gleichzeitig mit dem Plan fortzufahren, zeigt ihnen, dass Sie mit ihren großen Emotionen umgehen können und sie trotzdem mit Routinen sicher halten."
+        },
+        {
+          "id": "connect_first",
+          "name": "Zuerst verbinden",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "10-15 Minuten",
+          "script": [
+            "Komm her, Kleiner. Ich kann sehen, dass sich dieser Morgen groß und schwer anfühlt.",
+            "Erzähl mir, was in deinem Kopf über die Schule heute vor sich geht.",
+            "Das klingt wirklich [schwer/beängstigend/frustrierend]. Ich verstehe das.",
+            "Auch wenn sich die Schule schwer anfühlt, weiß ich, dass du damit umgehen kannst. Lass uns zusammen fertig werden."
+          ],
+          "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen.",
+          "why_it_works": "Verbindung vor Anweisung hilft Kindern, sich verstanden und unterstützt zu fühlen, wodurch sie eher bereit sind, bei notwendigen Aufgaben zu kooperieren."
+        },
+        {
+          "id": "playful_power",
+          "name": "Spielerische Kraft",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Oh nein! Es sieht aus, als würden deine Klamotten versuchen, sich vor dir zu verstecken!",
+            "Sollen wir das hinterhältige Shirt fangen? Ich glaube, es ist hinter die Tür gegangen!",
+            "Ich frage mich, ob dein Rucksack bereit für ein Abenteuer heute ist...",
+            "Dein starker Körper wird einen Tag in der Schule haben, und ich bin hier, wenn du nach Hause kommst."
+          ],
+          "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen.",
+          "why_it_works": "Verspieltheit kann Widerstand in Kooperation verwandeln, indem notwendige Aufgaben wie Spiele statt wie Forderungen wirken."
+        }
+      ]
+    },
+    {
+      "id": "hate_you_outburst",
+      "title": "\"Ich hasse dich!\"-Ausbruch",
+      "scenario": "Kind schreit \"Ich hasse dich!\" oder \"Du bist nicht mein Freund!\" während eines Konflikts",
+      "icon": "😡",
+      "ageRange": "3-10 Jahre",
+      "prevention_tips": [
+        "Emotionale Regulierung während eigener Frustrationen modellieren",
+        "Gefühlswörter lehren, wenn das Kind ruhig ist",
+        "Emotionen regelmäßig bestätigen, bevor sie eskalieren",
+        "Sichere Räume zum Ausdrücken schwieriger Gefühle schaffen",
+        "Starke Verbindung durch tägliche Eins-zu-eins-Zeit aufrechterhalten"
+      ],
+      "strategies": [
+        {
+          "id": "stay_calm_reflect",
+          "name": "Ruhig bleiben + Reflektieren",
+          "difficulty": "mittel",
+          "timeRequired": "sofort",
+          "script": [
+            "Du bist gerade so wütend auf mich. Du wünschst dir, ich würde meine Meinung ändern.",
+            "Es ist okay, wütend auf mich zu sein. Ich kann mit deinen großen Gefühlen umgehen.",
+            "Auch wenn du wütend auf mich bist, liebe ich dich vollständig.",
+            "Wenn du bereit bist, bin ich hier. Die Antwort ist immer noch [Grenze]."
+          ],
+          "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben.",
+          "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte modelliert emotionale Regulierung und zeigt ihnen, dass ihre großen Gefühle Sie nicht wegdrängen oder Ihre Grenzen ändern können."
+        },
+        {
+          "id": "name_the_feeling",
+          "name": "Das Gefühl benennen",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Wow, das sind einige wirklich große, wütende Gefühle, die aus deinem Körper kommen.",
+            "Du bist so frustriert, dass du willst, dass ich es mit deinen größten Worten weiß.",
+            "Ich höre dich. Du wünschst dir, die Dinge wären gerade anders.",
+            "Ich liebe dich, auch wenn du wütend bist. Auch wenn du diese Worte benutzt."
+          ],
+          "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben.",
+          "why_it_works": "Emotionen zu benennen hilft Kindern zu verstehen, was sie fühlen, und lehrt sie, dass alle Gefühle akzeptabel sind, auch wenn sie unvollkommen ausgedrückt werden."
+        },
+        {
+          "id": "empathy_bridge",
+          "name": "Empathie-Brücke",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Weißt du was? Manchmal fühle ich mich auch wirklich frustriert mit Menschen, die ich liebe.",
+            "Wenn du sagst, du hasst mich, denke ich, du meinst, du hasst, was ich von dir verlange.",
+            "Ich verstehe das. Diese Regel fühlt sich gerade wirklich unfair für dich an.",
+            "Und ich liebe dich trotzdem. Und die Regel ist immer noch die Regel."
+          ],
+          "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben.",
+          "why_it_works": "Ihre eigene Erfahrung mit ähnlichen Gefühlen zu teilen, hilft Kindern, sich weniger allein zu fühlen und zeigt ihnen, dass starke Emotionen normal und handhabbar sind."
+        }
+      ]
+    },
+    {
+      "id": "doctor_visit_anxiety",
+      "title": "Arztbesuch-Angst",
+      "scenario": "Kind weint, klammert sich fest oder weigert sich, bei einem Arzttermin zu kooperieren",
+      "icon": "🩺",
+      "ageRange": "2-10 Jahre",
+      "prevention_tips": [
+        "Bücher über Arztbesuche vorher lesen",
+        "Arzttermine mit Spielzeug nachspielen",
+        "Trostgegenstände mitbringen (Lieblings-Kuscheltier)",
+        "Termine planen, wenn das Kind ausgeruht ist",
+        "Kind mit altersgerechten Erklärungen vorbereiten"
+      ],
+      "strategies": [
+        {
+          "id": "validation_partnership",
+          "name": "Bestätigung + Partnerschaft",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Dein Körper hat Angst hier zu sein. Arztbesuche können sich wirklich groß anfühlen.",
+            "Ich bleibe die ganze Zeit direkt neben dir.",
+            "Wir sind ein Team. Du musst nicht allein mutig sein.",
+            "Danach werden wir [spezifischer Plan]. Darauf kannst du dich freuen."
+          ],
+          "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein.",
+          "why_it_works": "Informationen zu geben reduziert Angst, indem das Unbekannte bekannt gemacht wird. Körperlich nah zu bleiben aktiviert ihr Bindungssystem und hilft ihnen, sich sicher zu fühlen."
+        },
+        {
+          "id": "control_information",
+          "name": "Kontrolle + Information",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Lass mich dir genau sagen, was passieren wird, damit sich dein Gehirn bereit machen kann.",
+            "Zuerst [Schritt 1], dann [Schritt 2]. Ich halte deine Hand.",
+            "Du darfst wählen: Möchtest du auf meinem Schoß oder auf dem Tisch sitzen?",
+            "Wenn du weinen oder meine Hand drücken musst, ist das völlig okay."
+          ],
+          "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein.",
+          "why_it_works": "Detaillierte Informationen helfen, Angst zu reduzieren, indem Unbekanntes eliminiert wird. Wahlmöglichkeiten zu bieten gibt ihnen etwas Kontrolle in einer Situation, in der sie sich machtlos fühlen."
+        },
+        {
+          "id": "coping_tools",
+          "name": "Bewältigungsstrategien",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Lass uns zusammen drei tiefe Atemzüge machen. Durch die Nase ein, durch den Mund aus.",
+            "Ich möchte, dass du mich anschaust und an [Lieblings-Trostgegenstand/Erinnerung] denkst.",
+            "Du kannst meine Hand so fest halten, wie du musst.",
+            "Das wird bald vorbei sein, und dann werden wir [Trostaktivität]."
+          ],
+          "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein.",
+          "why_it_works": "Spezifische Bewältigungsstrategien zu lehren gibt Kindern Werkzeuge, die sie nutzen können, um Angst in dieser und zukünftigen Situationen zu bewältigen."
+        }
+      ]
+    },
+    {
+      "id": "transition_defiance",
+      "title": "Übergangs-Trotz",
+      "scenario": "Kind weigert sich, aktuelle Aktivität für Übergang zu beenden (Park verlassen, TV ausschalten, Spielzeit beenden)",
+      "icon": "⏰",
+      "ageRange": "2-10 Jahre",
+      "prevention_tips": [
+        "10-Minuten- und 5-Minuten-Warnungen vor Übergängen geben",
+        "Visuelle Timer verwenden, die Kinder sehen können",
+        "Vorhersagbare tägliche Routinen schaffen",
+        "Anerkennen, wie viel Spaß die aktuelle Aktivität macht",
+        "Ansprechende nächste Aktivitäten planen, auf die man sich freuen kann"
+      ],
+      "strategies": [
+        {
+          "id": "time_choice",
+          "name": "Zeit + Wahl",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich kann sehen, dass du noch nicht bereit bist aufzuhören. Diese Aktivität macht dir wirklich Spaß.",
+            "Wir haben noch 2 Minuten. Du kannst diese Zeit nutzen, wie du willst.",
+            "Wenn der Timer klingelt, gehen wir. Du kannst zum Auto gehen oder ich kann dich tragen.",
+            "Es ist schwer, lustige Sachen zu beenden. Und wir hören trotzdem auf."
+          ],
+          "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen.",
+          "why_it_works": "Ihre Enttäuschung anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, lehrt sie, dass Gefühle berechtigt sind, aber keine Handlungen kontrollieren. Vorankündigung hilft ihrem Gehirn, sich vorzubereiten."
+        },
+        {
+          "id": "emotional_validation",
+          "name": "Emotionale Bestätigung",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Du wünschst dir, du könntest für immer spielen. Das ergibt für mich völlig Sinn.",
+            "Es ist enttäuschend, wenn lustige Sachen enden müssen.",
+            "Du kannst traurig über das Gehen sein UND wir gehen trotzdem jetzt.",
+            "Ich werde mir merken, wie sehr du das geliebt hast für das nächste Mal."
+          ],
+          "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen.",
+          "why_it_works": "Enttäuschung zu bestätigen hilft Kindern, sich verstanden zu fühlen, während sie lernen, dass sie Gefühle haben können und trotzdem notwendige Handlungen befolgen können."
+        },
+        {
+          "id": "future_focus",
+          "name": "Zukunftsfokus",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich weiß, es ist schwer zu gehen. Lass uns darüber sprechen, was wir als nächstes machen werden.",
+            "Nachdem wir hier weggegangen sind, werden wir [nächste Aktivität].",
+            "Und morgen/später können wir [Plan für Rückkehr/ähnliche Aktivität].",
+            "Gerade jetzt muss dein Körper mit mir kommen, auch wenn deine Gefühle noch nicht bereit sind."
+          ],
+          "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen.",
+          "why_it_works": "Sich auf das zu konzentrieren, was als nächstes kommt, hilft, ihre Aufmerksamkeit von dem, was sie verlieren, auf das zu lenken, was sie gewinnen, wodurch Übergänge einfacher werden."
+        }
+      ]
+    },
+    {
+      "id": "physical_aggression",
+      "title": "Körperliche Aggression",
+      "scenario": "Kind schlägt, beißt, tritt oder wirft Dinge, wenn es verärgert ist",
+      "icon": "✋",
+      "ageRange": "2-8 Jahre",
+      "prevention_tips": [
+        "Körperliche Ventile für große Emotionen lehren, bevor sie gebraucht werden",
+        "Auslöser identifizieren, die zu aggressivem Verhalten führen",
+        "Sicherstellen, dass das Kind täglich genug körperliche Aktivität bekommt",
+        "Ruhige Konfliktlösung in eigenen Interaktionen modellieren",
+        "Zugrundeliegende Bedürfnisse ansprechen (Hunger, Müdigkeit, Überstimulation)"
+      ],
+      "strategies": [
+        {
+          "id": "immediate_safety",
+          "name": "Sofortige Sicherheit",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich lasse nicht zu, dass du schlägst. Körper müssen sicher sein.",
+            "Ich werde deinen Körper/mich bewegen, damit alle sicher bleiben.",
+            "Du hast große Gefühle UND schlagen ist nicht okay.",
+            "Wenn dein Körper ruhig ist, können wir über das sprechen, was passiert ist."
+          ],
+          "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen.",
+          "why_it_works": "Das Verhalten sofort zu stoppen und gleichzeitig die Emotion zu bestätigen, lehrt sie, dass alle Gefühle okay sind, aber nicht alle Handlungen okay sind. Alternativen anzubieten gibt ihnen angemessene Ventile."
+        },
+        {
+          "id": "feeling_boundary",
+          "name": "Gefühl + Grenze",
+          "difficulty": "mittel",
+          "timeRequired": "sofort",
+          "script": [
+            "Du bist so wütend, dass dein Körper schlagen will. Das verstehe ich.",
+            "UND ich werde nicht zulassen, dass du mich oder jemand anderen verletzt.",
+            "Deine wütenden Gefühle sind okay. Schlagen ist nicht okay.",
+            "Lass uns einen sicheren Weg finden, wie dein Körper diese großen Gefühle zeigen kann."
+          ],
+          "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen.",
+          "why_it_works": "Gefühle von Handlungen zu trennen hilft Kindern zu verstehen, dass Emotionen immer akzeptabel sind, aber Verhalten Grenzen und Konsequenzen hat."
+        },
+        {
+          "id": "redirect_energy",
+          "name": "Energie umleiten",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Ich kann sehen, dass dein Körper viel große Energie hat, die herauskommen will.",
+            "Du kannst dieses Kissen schlagen, mit den Füßen stampfen oder deine Hände ganz fest zusammendrücken.",
+            "Deine Gefühle sind wichtig UND die Körper der Menschen müssen sicher bleiben.",
+            "Ich werde dir helfen, einen Weg zu finden, diese Gefühle sicher herauszubekommen."
+          ],
+          "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen.",
+          "why_it_works": "Körperliche Ventile für große Emotionen anzubieten hilft Kindern, angemessene Wege zu lernen, intensive Gefühle freizusetzen, während alle sicher bleiben."
+        }
+      ]
+    },
+    {
+      "id": "grocery_store_meltdown",
+      "title": "Supermarkt-Wutanfall",
+      "scenario": "Kind bekommt einen Wutanfall in der Öffentlichkeit, zieht Blicke auf sich und macht Einkaufen unmöglich",
+      "icon": "🛒",
+      "ageRange": "2-8 Jahre",
+      "prevention_tips": [
+        "Einkaufen, wenn das Kind ausgeruht und satt ist",
+        "Snacks und kleine Aktivitäten/Spielzeug mitbringen",
+        "Klare Erwartungen vor dem Betreten des Geschäfts setzen",
+        "Einkaufstouren für jüngere Kinder kurz halten",
+        "Online-Abholung für schwierige Phasen in Betracht ziehen"
+      ],
+      "strategies": [
+        {
+          "id": "strategic_exit",
+          "name": "Strategischer Ausstieg",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich kann sehen, dass das gerade wirklich überwältigend für dich ist.",
+            "Wir machen eine Pause draußen, wo es ruhiger ist.",
+            "Du kannst deine Gefühle haben, und wir müssen alle sicher halten.",
+            "Wenn du bereit bist, können wir zusammen entscheiden, ob wir weiter einkaufen oder später wiederkommen."
+          ],
+          "mantra": "Die Meinungen anderer Leute sind nicht wichtig. Mein Kind braucht gerade meine ruhige Präsenz.",
+          "why_it_works": "Überwältigende Reize zu entfernen hilft Kindern bei der Regulierung. Öffentliche Räume können überstimulierend sein, und eine Umgebungsveränderung hilft oft, ihr Nervensystem zu resetten."
+        },
+        {
+          "id": "stay_and_support",
+          "name": "Bleiben und unterstützen",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Du hast gerade so große Gefühle. Ich bin direkt hier bei dir.",
+            "Ich kann sehen, dass du wirklich [Gegenstand] wolltest. Es ist enttäuschend, wenn wir nicht haben können, was wir wollen.",
+            "Ich bleibe in der Nähe, während du diese Gefühle hast.",
+            "Wenn du bereit bist, können wir zusammen unser Einkaufen beenden."
+          ],
+          "mantra": "Das ist vorübergehend. Ich bringe ihnen bei, dass sie sicher sind, große Emotionen mit mir zu haben.",
+          "why_it_works": "Präsent zu bleiben zeigt dem Kind, dass es mit seinen großen Emotionen nicht allein ist. Es modelliert, dass Gefühle handhabbar und vorübergehend sind."
+        },
+        {
+          "id": "distraction_redirect",
+          "name": "Ablenkung + Umleitung",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Wow, schau wie verärgert dein Körper ist! Das ist wirklich viel große Energie.",
+            "Ich frage mich... kannst du mir helfen, die roten Äpfel zu finden? Ich brauche jemanden mit guten Augen.",
+            "Du bist immer noch verärgert UND du kannst mir bei dieser wichtigen Aufgabe helfen.",
+            "Danke, dass du mir hilfst, auch wenn deine Gefühle groß sind."
+          ],
+          "mantra": "Manchmal hilft es ihnen, sich wichtig zu fühlen und ihre Aufmerksamkeit zu verlagern, wenn man ihnen eine Aufgabe gibt.",
+          "why_it_works": "Die Umleitung auf eine hilfreiche Aufgabe kann den Fokus von der Verärgerung auf das Gefühl, nützlich und wichtig zu sein, verlagern, während ihre Emotionen bestätigt werden."
+        }
+      ]
+    },
+    {
+      "id": "car_seat_refusal",
+      "title": "Autositz-Verweigerung",
+      "scenario": "Kind weigert sich, in den Autositz zu steigen, macht einen Katzenbuckel oder kämpft gegen die Sicherheitsgurte",
+      "icon": "🚗",
+      "ageRange": "1-6 Jahre",
+      "prevention_tips": [
+        "Sicherstellen, dass der Autositz richtig eingestellt und bequem ist",
+        "Spezielle Auto-Spielzeuge oder Musik nur für Autofahrten mitbringen",
+        "Anschnallen mit Kuscheltieren zu Hause üben",
+        "Zusätzliche Zeit einplanen, damit Sie sich nicht gehetzt fühlen",
+        "Unbehagen-Probleme ansprechen (Temperatur, Gurte, etc.)"
+      ],
+      "strategies": [
+        {
+          "id": "safety_first",
+          "name": "Sicherheit zuerst",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Dein Körper sagt nein zum Autositz. Ich höre das.",
+            "UND meine Aufgabe ist es, dich sicher zu halten. Autositze halten Körper in Autos sicher.",
+            "Ich werde dir beim Anschnallen helfen. Du kannst verärgert sein, während ich meine Aufgabe mache.",
+            "Sobald du sicher bist, können wir darüber sprechen, was das schwer macht."
+          ],
+          "mantra": "Sicherheit ist nicht verhandelbar. Ich kann fest UND liebevoll sein.",
+          "why_it_works": "Klare Grenzen bei Sicherheit und gleichzeitig ihre Gefühle anzuerkennen, zeigt ihnen, dass manche Dinge nicht verhandelbar sind, aber Sie sich trotzdem um ihre Emotionen kümmern."
+        },
+        {
+          "id": "choice_within_safety",
+          "name": "Wahl innerhalb der Sicherheit",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Der Autositz passiert, weil ich dich sicher halten muss.",
+            "Du darfst wählen: Möchtest du selbst hineinklettern oder soll ich dir helfen?",
+            "Möchtest du [Trostgegenstand] halten oder unsere Fahrmusik auswählen?",
+            "Dein Körper kommt in den Sitz, und du kannst wählen, wie du es bequemer machst."
+          ],
+          "mantra": "Ich kann Wahlmöglichkeiten innerhalb der nicht verhandelbaren Grenze geben.",
+          "why_it_works": "Wahlmöglichkeiten innerhalb der Sicherheitsanforderung zu bieten gibt ihnen etwas Kontrolle und behält gleichzeitig die Grenze bei. Es hilft ihnen, sich weniger machtlos zu fühlen."
+        },
+        {
+          "id": "connection_first",
+          "name": "Zuerst verbinden",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Komm erst hierher. Ich kann sehen, dass du wirklich nicht in deinen Sitz willst.",
+            "Erzähl mir, was heute am Autositz schwer ist.",
+            "Das ergibt Sinn. [Ihre Sorge bestätigen].",
+            "Ich muss dich trotzdem sicher halten, und jetzt verstehe ich besser, wie du dich fühlst."
+          ],
+          "mantra": "Ihre Perspektive zu verstehen bedeutet nicht, die Grenze zu ändern.",
+          "why_it_works": "Sich Zeit zu nehmen, ihren Widerstand zu verstehen, offenbart oft spezifische Sorgen (Unbehagen, Wunsch nach Unabhängigkeit), die angesprochen werden können, während die Sicherheit aufrechterhalten wird."
+        }
+      ]
+    },
+    {
+      "id": "homework_battles",
+      "title": "Hausaufgaben-Kämpfe",
+      "scenario": "Kind bekommt einen Wutanfall, weigert sich anzufangen oder hat emotionale Ausbrüche wegen Hausaufgaben",
+      "icon": "📚",
+      "ageRange": "5-12 Jahre",
+      "prevention_tips": [
+        "Konstante Hausaufgabenzeit und -raum etablieren",
+        "Sicherstellen, dass das Kind Snack und Bewegung vor dem Start hatte",
+        "Große Aufgaben in kleinere Stücke aufteilen",
+        "Mit Lehrern über angemessene Hausaufgabenlast kommunizieren",
+        "Einen ruhigen, organisierten Arbeitsplatz frei von Ablenkungen schaffen"
+      ],
+      "strategies": [
+        {
+          "id": "break_it_down",
+          "name": "Aufteilen",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Diese Hausaufgaben fühlen sich wirklich groß und überwältigend für dein Gehirn gerade an.",
+            "Lass sie uns zusammen anschauen und in winzige Stücke aufteilen.",
+            "Du musst nicht ALLES davon gerade jetzt machen. Nur einen kleinen Teil.",
+            "Ich glaube, dein Gehirn kann das schaffen, wenn wir es kleiner machen."
+          ],
+          "mantra": "Große Aufgaben fühlen sich unmöglich für Kinder an. Ich kann ihnen helfen zu sehen, dass es machbar ist.",
+          "why_it_works": "Überwältigende Aufgaben lösen die Kampf-oder-Flucht-Reaktion aus. Arbeit in kleinere Stücke zu unterteilen lässt es erreichbar erscheinen und reduziert Angst."
+        },
+        {
+          "id": "emotional_first_aid",
+          "name": "Emotionale Erste Hilfe",
+          "difficulty": "mittel",
+          "timeRequired": "10-15 Minuten",
+          "script": [
+            "Dein Körper sagt mir, dass sich das gerade wirklich schwer anfühlt.",
+            "Lass uns zuerst deine großen Gefühle versorgen, dann gehen wir die Hausaufgaben an.",
+            "Manchmal brauchen unsere Gehirne eine Pause, bevor sie neue Dinge lernen können.",
+            "Wenn du dich ruhiger fühlst, wird dein Gehirn bereit zum Arbeiten sein."
+          ],
+          "mantra": "Lernen kann nicht passieren, wenn sie emotional überflutet sind. Gefühle zuerst, dann Akademisches.",
+          "why_it_works": "Wenn Kinder in emotionalem Stress sind, geht ihr präfrontaler Kortex (Lern-Gehirn) offline. Emotionale Regulierung muss vor akademischer Arbeit kommen."
+        },
+        {
+          "id": "partnership_approach",
+          "name": "Partnerschafts-Ansatz",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Diese Hausaufgaben sind deine Aufgabe, und ich bin hier, um dich zu unterstützen.",
+            "Welcher Teil fühlt sich am schwersten für dich an? Lass uns mit etwas Einfacherem anfangen.",
+            "Ich werde es nicht für dich machen, aber ich sitze in der Nähe, während du arbeitest.",
+            "Du bist fähig, das herauszufinden. Ich bin hier, wenn du Hilfe brauchst."
+          ],
+          "mantra": "Ich bin ihr Coach, nicht ihr Ersatz. Sie müssen Vertrauen in ihre eigenen Fähigkeiten aufbauen.",
+          "why_it_works": "Hausaufgaben zu übernehmen raubt Kindern die Gelegenheit, Widerstandsfähigkeit und Problemlösungsfähigkeiten aufzubauen. Unterstützung ohne Rettung baut Vertrauen auf."
+        }
+      ]
+    },
+    {
+      "id": "morning_routine_chaos",
+      "title": "Morgenroutine-Chaos",
+      "scenario": "Kind ist langsam, abgelenkt oder bekommt einen Wutanfall während der Morgenroutine",
+      "icon": "🌅",
+      "ageRange": "3-12 Jahre",
+      "prevention_tips": [
+        "Alles Mögliche am Vorabend vorbereiten",
+        "15 Minuten früher aufwachen, um Zeitdruck zu reduzieren",
+        "Visuelle Morgenroutine-Diagramme erstellen",
+        "Sicherstellen, dass das Kind ausreichend Schlaf bekommt (Schlafenszeit anpassen, falls nötig)",
+        "Pufferzeit für unerwartete Verzögerungen einbauen"
+      ],
+      "strategies": [
+        {
+          "id": "calm_urgency",
+          "name": "Ruhige Dringlichkeit",
+          "difficulty": "mittel",
+          "timeRequired": "sofort",
+          "script": [
+            "Ich kann sehen, dass du dich heute Morgen langsam bewegst. Manchmal fühlen sich unsere Körper träge an.",
+            "Wir müssen in 10 Minuten gehen. Das ist genug Zeit, wenn wir uns konzentrieren.",
+            "Was ist das Wichtigste, was du gerade jetzt tun musst?",
+            "Ich werde dir helfen, auf Kurs zu bleiben, ohne deinen Körper zu hetzen."
+          ],
+          "mantra": "Ich kann ruhig UND uns in Bewegung halten. Panik macht alles schwerer.",
+          "why_it_works": "Ruhige Dringlichkeit statt hektisches Hetzen zu modellieren hilft Kindern, sich besser zu konzentrieren und reduziert Morgenstress für alle."
+        },
+        {
+          "id": "choice_sequence",
+          "name": "Wahl-Sequenz",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Du hast drei Dinge übrig: dich anziehen, frühstücken und Zähne putzen.",
+            "Womit möchtest du anfangen?",
+            "Gute Wahl. Danach kannst du wählen, was als nächstes kommt.",
+            "Du bestimmst die Reihenfolge, und alle drei müssen passieren, bevor wir gehen."
+          ],
+          "mantra": "Ihnen Kontrolle über die Reihenfolge zu geben hilft ihnen, sich ermächtigt zu fühlen, während alles trotzdem erledigt wird.",
+          "why_it_works": "Kinder wehren sich dagegen, kontrolliert zu werden, reagieren aber gut auf Wahlmöglichkeiten. Sequenzierung gibt ihnen Autonomie innerhalb der notwendigen Aufgaben."
+        },
+        {
+          "id": "reset_and_reconnect",
+          "name": "Zurücksetzen und wieder verbinden",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Dieser Morgen fühlt sich schwer für uns beide an. Lass uns einen kurzen Reset machen.",
+            "Gib mir eine Umarmung. Wir werden das zusammen hinbekommen.",
+            "Was würde deinem Körper helfen, sich bereiter für den Tag zu fühlen?",
+            "Wir haben ein paar Minuten, um diesen Morgen besser zu machen, bevor wir gehen."
+          ],
+          "mantra": "Verbindung ist wichtiger als pünktlich zu sein. Eine gute Beziehung zu meinem Kind ist am wichtigsten.",
+          "why_it_works": "Wenn Morgen schlecht laufen, kann ein Moment der Wiederverbindung die gesamte Dynamik verändern und tatsächlich Zeit sparen, indem Widerstand reduziert wird."
+        }
+      ]
+    },
+    {
+      "id": "screen_time_battles",
+      "title": "Bildschirmzeit-Kämpfe",
+      "scenario": "Kind weigert sich, Geräte auszuschalten, bekommt Wutanfälle, wenn die Bildschirmzeit endet",
+      "icon": "📱",
+      "ageRange": "3-12 Jahre",
+      "prevention_tips": [
+        "Klare Bildschirmzeit-Grenzen vor dem Start setzen",
+        "Visuelle Timer verwenden, die herunterzählen",
+        "Ansprechende Aktivitäten zum Übergang planen",
+        "Bildschirmfreie Zeiten schaffen (Mahlzeiten, Abendroutine)",
+        "Gesunde Bildschirmnutzung selbst modellieren"
+      ],
+      "strategies": [
+        {
+          "id": "advance_warning",
+          "name": "Vorwarnung",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "script": [
+            "Du hast noch 5 Minuten Bildschirmzeit, dann ist es Zeit auszuschalten.",
+            "Ich weiß, es ist schwer aufzuhören, wenn man Spaß hat. Lass uns zusammen einen Timer stellen.",
+            "Wenn der Timer klingelt, ist die Bildschirmzeit vorbei. Was möchtest du danach machen?",
+            "Ich helfe dir beim Ausschalten, wenn der Timer klingelt."
+          ],
+          "mantra": "Übergänge sind schwer für Kinder. Vorwarnung hilft ihrem Gehirn, sich auf die Veränderung vorzubereiten.",
+          "why_it_works": "Plötzliche Übergänge von bevorzugten Aktivitäten lösen große Emotionen aus. Vorwarnung gibt dem Gehirn Zeit, sich mental auf die Veränderung vorzubereiten."
+        },
+        {
+          "id": "validate_and_redirect",
+          "name": "Bestätigen und umleiten",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "script": [
+            "Du bist so enttäuscht, dass die Bildschirmzeit vorbei ist. Das ergibt völlig Sinn.",
+            "Es ist schwer, wenn lustige Sachen enden müssen. Du wünschst dir, du könntest weiterspielen.",
+            "Der Bildschirm geht jetzt weg, UND wir können etwas anderes Lustiges finden.",
+            "Was klingt interessant: mit Bausteinen bauen, nach draußen gehen oder zusammen lesen?"
+          ],
+          "mantra": "Ihre Enttäuschung ist berechtigt. Ich kann sie anerkennen und trotzdem die Grenze aufrechterhalten.",
+          "why_it_works": "Ihre Enttäuschung zu bestätigen und gleichzeitig ansprechende Alternativen anzubieten hilft, ihren Fokus von dem, was sie verlieren, auf das zu lenken, was sie gewinnen."
+        },
+        {
+          "id": "collaborative_solution",
+          "name": "Kollaborative Lösung",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "10-15 Minuten",
+          "script": [
+            "Bildschirmzeit-Kämpfe sind schwer für uns beide. Lass uns das zusammen lösen.",
+            "Was würde dir helfen, dich daran zu erinnern, wann die Bildschirmzeit fast vorbei ist?",
+            "Wie können wir das Ausschalten der Bildschirme weniger schrecklich machen?",
+            "Lass uns einen Plan entwickeln, der für uns beide funktioniert."
+          ],
+          "mantra": "Kinder befolgen eher Regeln, die sie mitgestaltet haben. Sie in die Problemlösung einzubeziehen baut Kooperation auf.",
+          "why_it_works": "Wenn Kinder an der Entwicklung von Lösungen teilnehmen, fühlen sie Ownership und kooperieren eher. Es baut auch Problemlösungsfähigkeiten auf."
+        }
+      ]
+    }
+  ],
+  "universal_phrases": [
+    {
+      "id": "big_emotions",
+      "title": "Große Emotionen",
+      "description": "Sätze zum Anerkennen und Bestätigen intensiver Gefühle",
+      "phrases": [
+        "Ich kann sehen, dass sich das wirklich groß für dich anfühlt.",
+        "Deine Gefühle ergeben für mich Sinn.",
+        "Auch wenn du verärgert bist, liebe ich dich trotzdem.",
+        "Das sind einige mächtige Gefühle, die aus deinem Körper kommen.",
+        "Es ist okay, große Gefühle zu haben. Ich bin hier bei dir."
+      ]
+    },
+    {
+      "id": "boundaries",
+      "title": "Grenzen setzen",
+      "description": "Sätze zum Aufrechterhalten von Grenzen und gleichzeitigen Anerkennen von Gefühlen",
+      "phrases": [
+        "Die Antwort ist immer noch [Grenze].",
+        "Ich werde dich sicher halten, auch wenn du es nicht magst.",
+        "Das ist schwer UND es passiert trotzdem.",
+        "Du kannst darüber verärgert sein UND es ist trotzdem das, was wir machen.",
+        "Ich höre, dass du das nicht magst, und es ist trotzdem das, was passieren muss."
+      ]
+    },
+    {
+      "id": "connection",
+      "title": "Verbindung & Unterstützung",
+      "description": "Sätze zur Stärkung der Bindung in schwierigen Momenten",
+      "phrases": [
+        "Wir werden das zusammen durchstehen.",
+        "Ich bin direkt hier bei dir.",
+        "Ich glaube, du schaffst das.",
+        "Du musst das nicht allein machen.",
+        "Auch wenn die Dinge schwer sind, bin ich in deinem Team."
+      ]
+    },
+    {
+      "id": "parent_regulation",
+      "title": "Elterliche Selbstregulierung",
+      "description": "Mantras um Eltern zu helfen, ruhig zu bleiben",
+      "phrases": [
+        "Ich bin sicher. Das ist kein Notfall.",
+        "Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache.",
+        "Konsequenz ist Freundlichkeit, auch wenn es schwer ist.",
+        "Das ist vorübergehend. Dieses Gefühl wird vergehen.",
+        "Ich kann ruhig bleiben, auch wenn sie es nicht können."
+      ]
+    },
+    {
+      "id": "validation",
+      "title": "Emotionale Bestätigung",
+      "description": "Sätze um Kindern zu helfen, sich gehört und verstanden zu fühlen",
+      "phrases": [
+        "Das klingt wirklich [schwer/frustrierend/enttäuschend].",
+        "Ich kann verstehen, warum du dich so fühlen würdest.",
+        "Wenn ich du wäre, würde ich mich vielleicht auch [Emotion] fühlen.",
+        "Deine Gefühle sind wichtig für mich.",
+        "Es ergibt Sinn, dass du [Sache, die sie wollen] wollen würdest."
+      ]
+    },
+    {
+      "id": "choices_and_autonomy",
+      "title": "Wahlmöglichkeiten & Autonomie",
+      "description": "Sätze um Kindern Kontrolle innerhalb von Grenzen zu geben",
+      "phrases": [
+        "Du darfst wählen: [Option A] oder [Option B].",
+        "Was würde sich besser für deinen Körper gerade anfühlen?",
+        "Wie möchtest du damit umgehen?",
+        "Du bestimmst über [spezifische Sache innerhalb der Grenze].",
+        "Was würde dir helfen, dich bereiter für [Übergang/Aufgabe] zu fühlen?"
+      ]
+    }
+  ],
+  "emergency_quick_tips": [
+    {
+      "id": "public_meltdowns",
+      "title": "Öffentliche Wutanfälle",
+      "description": "Denken Sie daran: Die Meinungen anderer Leute definieren nicht Ihre Elternschaft. Konzentrieren Sie sich auf Ihr Kind, nicht auf die Blicke."
+    },
+    {
+      "id": "safety_first",
+      "title": "Sicherheit zuerst",
+      "description": "Wenn Verhalten körperliche Sicherheit betrifft, handeln Sie zuerst und verarbeiten Sie Emotionen später."
+    },
+    {
+      "id": "when_to_take_breaks",
+      "title": "Wann Pausen zu nehmen sind",
+      "description": "Wenn Sie spüren, dass Sie die Geduld verlieren, ist es okay zu sagen 'Ich brauche einen Moment zum Beruhigen' und sich kurz zurückzuziehen."
+    },
+    {
+      "id": "professional_help",
+      "title": "Wann professionelle Hilfe zu suchen ist",
+      "description": "Suchen Sie Unterstützung, wenn Wutanfälle in Häufigkeit/Intensität zunehmen, Selbstverletzung beinhalten oder wenn Sie sich konstant überfordert fühlen."
+    }
+  ],
+  "age_specific_notes": [
+    {
+      "id": "toddlers",
+      "age_range": "1-3 Jahre",
+      "title": "Kleinkinder",
+      "description": "Kleinkinder haben große Emotionen, aber kleine Bewältigungsfähigkeiten. Extra Geduld und einfache Sprache funktionieren am besten."
+    },
+    {
+      "id": "preschool",
+      "age_range": "3-5 Jahre",
+      "title": "Vorschulkinder",
+      "description": "Können komplexere Erklärungen verstehen, brauchen aber trotzdem konkrete Wahlmöglichkeiten und klare Grenzen."
+    },
+    {
+      "id": "school_age",
+      "age_range": "5+ Jahre",
+      "title": "Schulalter",
+      "description": "Können an Problemlösung teilnehmen, brauchen aber möglicherweise trotzdem Hilfe bei der Regulierung intensiver Emotionen."
+    }
+  ]
+}

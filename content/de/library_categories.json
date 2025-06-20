@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "title": "Baby",
+      "id": "baby",
+      "type": "age",
+      "subtitle": "0-12 Monate",
+      "sortOrder": 1,
+      "resourceCount": 15,
+      "description": "Wichtige Orientierung für das erste Jahr Ihres Babys",
+      "color": "#FFE4E1",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
+    },
+    {
+      "title": "Kind",
+      "id": "child",
+      "type": "age",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 2,
+      "resourceCount": 22,
+      "description": "Navigieren Sie durch die wunderbare Welt der Vorschulkinder",
+      "color": "#E6E6FA",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/preschooler.jpg"
+    },
+    {
+      "title": "Erziehungsgrundlagen",
+      "id": "parenting_foundations",
+      "type": "special",
+      "subtitle": "Für Eltern",
+      "sortOrder": 10,
+      "resourceCount": 20,
+      "description": "Grundprinzipien und Selbstfürsorge für Eltern",
+      "color": "#F3E5F5",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/foundations.jpg"
+    },
+    {
+      "title": "Wutanfälle & Zusammenbrüche",
+      "id": "tantrums",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 10,
+      "resourceCount": 12,
+      "description": "Strategien für den Umgang mit emotionalen Ausbrüchen",
+      "color": "#FFEBEE",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/tantrums.jpg"
+    },
+    {
+      "title": "Lügen & Stehlen",
+      "id": "lying",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 12,
+      "resourceCount": 14,
+      "description": "Lügen und Stehlen frühzeitig angehen",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/lying.jpg"
+    },
+    {
+      "title": "Jammern",
+      "id": "whining",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 13,
+      "resourceCount": 14,
+      "description": "Strategien und Taktiken gegen das Jammern",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/whining.jpg"
+    },
+    {
+      "title": "Ängste & Sorgen",
+      "id": "fears",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 14,
+      "resourceCount": 14,
+      "description": "Wie Sie mit Ängsten und Sorgen umgehen",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/anxiety.jpg"
+    },
+    {
+      "title": "Gewinnen & Verlieren",
+      "id": "winning",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 15,
+      "resourceCount": 14,
+      "description": "Wie Sie mit Gewinnen und Verlieren umgehen",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/winninglosing.jpg"
+    },
+    {
+      "title": "Wiedergutmachung",
+      "id": "repairing",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 16,
+      "resourceCount": 14,
+      "description": "Wie Sie nach Konflikten mit Ihrem Kind wieder zueinander finden",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/repairing.jpg"
+    },
+    {
+      "title": "Soziale Fähigkeiten",
+      "id": "personality",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 17,
+      "resourceCount": 14,
+      "description": "Lernen Sie mehr über die Persönlichkeit und sozialen Fähigkeiten Ihres Kindes",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/socialskills.jpg"
+    },
+    {
+      "title": "Schlaf & Zubettgehen",
+      "id": "sleep",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 18,
+      "resourceCount": 14,
+      "description": "Gesunde Schlafgewohnheiten für die ganze Familie schaffen",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/sleep.jpg"
+    },
+    {
+      "title": "Bildschirmzeit",
+      "id": "screen_time",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 19,
+      "resourceCount": 10,
+      "description": "Technologienutzung mit gesunder Entwicklung in Einklang bringen",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/screentime.jpg"
+    },
+    {
+      "title": "Übergänge & Veränderungen",
+      "id": "change",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 20,
+      "resourceCount": 10,
+      "description": "Wie Sie große Veränderungen kommunizieren",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/change.jpg"
+    },
+    {
+      "title": "Disziplin",
+      "id": "discipline",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 21,
+      "resourceCount": 10,
+      "description": "Strategien und Taktiken zur Entwicklung von Disziplin",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/discipline.jpg"
+    },
+    {
+      "title": "Geschwisterbeziehungen",
+      "id": "siblings",
+      "type": "special",
+      "subtitle": "Alle Altersgruppen",
+      "sortOrder": 22,
+      "resourceCount": 11,
+      "description": "Positive Beziehungen zwischen Geschwistern fördern",
+      "color": "#FFF3E0",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/siblings.jpg"
+    }
+  ]
+}
