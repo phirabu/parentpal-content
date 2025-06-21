@@ -4,17 +4,47 @@
   "contentFiles": {
     "emergencyCoachScripts": {
       "filename": "emergencycoachscripts.json",
-      "path": "content/emergencycoachscripts.json",
+      "path": "content/en/emergencycoachscripts.json",
       "required": true
     },
     "libraryCategories": {
       "filename": "library_categories.json",
-      "path": "content/library_categories.json",
+      "path": "content/en/library_categories.json",
       "required": true
     },
     "libraryContent": {
       "filename": "library_content.json",
-      "path": "content/library_content.json",
+      "path": "content/en/library_content.json",
+      "required": true
+    },
+    "emergencyCoachScripts": {
+      "filename": "emergencycoachscripts.json",
+      "path": "content/es/emergencycoachscripts.json",
+      "required": true
+    },
+    "libraryCategories": {
+      "filename": "library_categories.json",
+      "path": "content/es/library_categories.json",
+      "required": true
+    },
+    "libraryContent": {
+      "filename": "library_content.json",
+      "path": "content/es/library_content.json",
+      "required": true
+    },
+    "emergencyCoachScripts": {
+      "filename": "emergencycoachscripts.json",
+      "path": "content/de/emergencycoachscripts.json",
+      "required": true
+    },
+    "libraryCategories": {
+      "filename": "library_categories.json",
+      "path": "content/de/library_categories.json",
+      "required": true
+    },
+    "libraryContent": {
+      "filename": "library_content.json",
+      "path": "content/de/library_content.json",
       "required": true
     }
   },
