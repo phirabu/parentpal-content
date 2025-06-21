@@ -2,47 +2,47 @@
   "version": "1.0.5",
   "minimumAppVersion": "1.0.0",
   "contentFiles": {
-    "emergencyCoachScripts": {
+    "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
       "path": "content/en/emergencycoachscripts.json",
       "required": true
     },
-    "libraryCategories": {
+    "libraryCategories_en": {
       "filename": "library_categories.json",
       "path": "content/en/library_categories.json",
       "required": true
     },
-    "libraryContent": {
+    "libraryContent_en": {
       "filename": "library_content.json",
       "path": "content/en/library_content.json",
       "required": true
     },
-    "emergencyCoachScripts": {
+    "emergencyCoachScripts_es": {
       "filename": "emergencycoachscripts.json",
       "path": "content/es/emergencycoachscripts.json",
       "required": true
     },
-    "libraryCategories": {
+    "libraryCategories_es": {
       "filename": "library_categories.json",
       "path": "content/es/library_categories.json",
       "required": true
     },
-    "libraryContent": {
+    "libraryContent_es": {
       "filename": "library_content.json",
       "path": "content/es/library_content.json",
       "required": true
     },
-    "emergencyCoachScripts": {
+    "emergencyCoachScripts_de": {
       "filename": "emergencycoachscripts.json",
       "path": "content/de/emergencycoachscripts.json",
       "required": true
     },
-    "libraryCategories": {
+    "libraryCategories_de": {
       "filename": "library_categories.json",
       "path": "content/de/library_categories.json",
       "required": true
     },
-    "libraryContent": {
+    "libraryContent_de": {
       "filename": "library_content.json",
       "path": "content/de/library_content.json",
       "required": true
