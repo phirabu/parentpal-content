@@ -2362,7 +2362,7 @@
           ]
         }
       ]
-    }
+    }, 
     {
       "id": "understanding_transitions_change",
       "categoryIds": ["change", "child"],
