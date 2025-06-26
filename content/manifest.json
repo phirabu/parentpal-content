@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minimumAppVersion": "1.0.0",
   "contentFiles": {
     "emergencyCoachScripts_en": {
@@ -17,6 +17,16 @@
       "path": "content/en/library_content.json",
       "required": true
     },
+    "meditationCategories_en": {
+      "filename": "meditation_categories.json",
+      "path": "content/en/meditation_categories.json",
+      "required": true
+    },
+    "meditationContent_en": {
+      "filename": "meditation_content.json",
+      "path": "content/en/meditation_content.json",
+      "required": true
+    },
     "emergencyCoachScripts_es": {
       "filename": "emergencycoachscripts.json",
       "path": "content/es/emergencycoachscripts.json",
@@ -32,6 +42,16 @@
       "path": "content/es/library_content.json",
       "required": true
     },
+    "meditationCategories_es": {
+      "filename": "meditation_categories.json",
+      "path": "content/es/meditation_categories.json",
+      "required": true
+    },
+    "meditationContent_es": {
+      "filename": "meditation_content.json",
+      "path": "content/es/meditation_content.json",
+      "required": true
+    },
     "emergencyCoachScripts_de": {
       "filename": "emergencycoachscripts.json",
       "path": "content/de/emergencycoachscripts.json",
@@ -45,6 +65,16 @@
     "libraryContent_de": {
       "filename": "library_content.json",
       "path": "content/de/library_content.json",
+      "required": true
+    },
+    "meditationCategories_de": {
+      "filename": "meditation_categories.json",
+      "path": "content/de/meditation_categories.json",
+      "required": true
+    },
+    "meditationContent_de": {
+      "filename": "meditation_content.json",
+      "path": "content/de/meditation_content.json",
       "required": true
     }
   },

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "quick-resets",
+      "title": "Schnelle Rückbesinnung",
+      "subtitle": "3-5 Minuten",
+      "description": "Kurze Momente der Ruhe für beschäftigte Eltern",
+      "color": "#4FC3F7",
+      "iconName": "flash_on",
+      "sortOrder": 1
+    },
+    {
+      "id": "deep-practice",
+      "title": "Tiefe Praxis", 
+      "subtitle": "10-20 Minuten",
+      "description": "Kultiviere Selbstmitgefühl und Präsenz",
+      "color": "#6EC6B8",
+      "iconName": "spa",
+      "sortOrder": 2
+    },
+    {
+      "id": "sleep-rest",
+      "title": "Schlaf & Ruhe",
+      "subtitle": "Verschiedene Längen", 
+      "description": "Entspanne dich und finde friedliche Ruhe",
+      "color": "#9B7EDE",
+      "iconName": "bedtime",
+      "sortOrder": 3
+    },
+    {
+      "id": "specialized",
+      "title": "Spezielle Themen",
+      "subtitle": "Gezielte Unterstützung",
+      "description": "Bewältige spezifische Erziehungsherausforderungen",
+      "color": "#FFA18F",
+      "iconName": "favorite",
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "meditations": [
+    {
+      "id": "quick-breath-reset",
+      "categoryId": "quick-resets",
+      "title": "3-Minuten Atem-Reset",
+      "description": "Eine schnelle Atempraxis, um dich zu zentrieren, wenn Erziehung überwältigend wird",
+      "durationMinutes": 3,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/quick-breath-reset.mp3",
+      "instructor": "Sarah Chen",
+      "tags": ["atmung", "stressabbau", "schnell", "zentrierung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/breath-reset.jpg",
+      "publishedAt": "2024-03-20T10:00:00Z"
+    },
+    {
+      "id": "parenting-pause",
+      "categoryId": "quick-resets", 
+      "title": "Die Erziehungspause",
+      "description": "Finde deine Mitte, bevor du auf herausfordernde Momente mit deinem Kind reagierst",
+      "durationMinutes": 5,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/parenting-pause.mp3",
+      "instructor": "Sarah Chen",
+      "tags": ["pause", "reaktion", "achtsamkeit", "erziehung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/parenting-pause.jpg",
+      "publishedAt": "2024-03-20T10:05:00Z"
+    },
+    {
+      "id": "self-compassion-practice",
+      "categoryId": "deep-practice",
+      "title": "Selbstmitgefühl für Eltern",
+      "description": "Lerne, dir selbst die gleiche Freundlichkeit zu erweisen, die du deinen Kindern zeigst",
+      "durationMinutes": 15,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/self-compassion.mp3",
+      "instructor": "Dr. Maya Patel",
+      "tags": ["selbstmitgefühl", "freundlichkeit", "innerer-kritiker", "heilung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/self-compassion.jpg",
+      "publishedAt": "2024-03-20T10:10:00Z"
+    },
+    {
+      "id": "present-moment-awareness",
+      "categoryId": "deep-practice",
+      "title": "Gegenwärtiges Moment-Bewusstsein",
+      "description": "Kultiviere die Fähigkeit, vollständig präsent mit deinen Kindern und dir selbst zu sein",
+      "durationMinutes": 20,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/present-moment.mp3",
+      "instructor": "Dr. Maya Patel",
+      "tags": ["präsenz", "bewusstsein", "achtsamkeit", "verbindung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/present-moment.jpg",
+      "publishedAt": "2024-03-20T10:15:00Z"
+    },
+    {
+      "id": "bedtime-body-scan",
+      "categoryId": "sleep-rest",
+      "title": "Bettzeit-Körperscan",
+      "description": "Löse die Spannungen des Tages mit dieser sanften Körperscan-Meditation",
+      "durationMinutes": 12,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/bedtime-body-scan.mp3",
+      "instructor": "Marcus Williams",
+      "tags": ["schlaf", "körperscan", "entspannung", "bettzeit"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/bedtime-scan.jpg",
+      "publishedAt": "2024-03-20T10:20:00Z"
+    },
+    {
+      "id": "sleep-stories-parents",
+      "categoryId": "sleep-rest",
+      "title": "Schlafgeschichten für Eltern",
+      "description": "Schlafe friedlich ein mit beruhigenden Geschichten, die speziell für müde Eltern entwickelt wurden",
+      "durationMinutes": 25,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/sleep-stories.mp3",
+      "instructor": "Marcus Williams",
+      "tags": ["schlafgeschichten", "bettzeit", "entspannung", "geschichten"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/sleep-stories.jpg",
+      "publishedAt": "2024-03-20T10:25:00Z"
+    },
+    {
+      "id": "patience-cultivation",
+      "categoryId": "specialized",
+      "title": "Geduld Kultivieren",
+      "description": "Entwickle tiefere Geduld für diese herausfordernden Erziehungsmomente",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/patience.mp3",
+      "instructor": "Dr. Maya Patel",
+      "tags": ["geduld", "herausforderndes-verhalten", "emotionsregulation", "achtsamkeit"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/patience.jpg",
+      "publishedAt": "2024-03-20T10:30:00Z"
+    },
+    {
+      "id": "guilt-release",
+      "categoryId": "specialized",
+      "title": "Erziehungsschuld Loslassen",
+      "description": "Lass die Schuld los, die deine Erziehungsreise belastet",
+      "durationMinutes": 18,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/guilt-release.mp3",
+      "instructor": "Dr. Maya Patel",
+      "tags": ["schuld", "vergebung", "selbstakzeptanz", "heilung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/guilt-release.jpg",
+      "publishedAt": "2024-03-20T10:35:00Z"
+    }
+  ]
+}
