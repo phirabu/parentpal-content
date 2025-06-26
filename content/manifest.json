@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minimumAppVersion": "1.0.0",
   "contentFiles": {
     "emergencyCoachScripts_en": {
@@ -27,6 +27,11 @@
       "path": "content/en/meditation_content.json",
       "required": true
     },
+    "dailyAffirmations_en": {
+      "filename": "daily_affirmations.json",
+      "path": "content/en/daily_affirmations.json",
+      "required": true
+    },
     "emergencyCoachScripts_es": {
       "filename": "emergencycoachscripts.json",
       "path": "content/es/emergencycoachscripts.json",
@@ -52,6 +57,11 @@
       "path": "content/es/meditation_content.json",
       "required": true
     },
+    "dailyAffirmations_es": {
+      "filename": "daily_affirmations.json",
+      "path": "content/es/daily_affirmations.json",
+      "required": true
+    },
     "emergencyCoachScripts_de": {
       "filename": "emergencycoachscripts.json",
       "path": "content/de/emergencycoachscripts.json",
@@ -75,6 +85,11 @@
     "meditationContent_de": {
       "filename": "meditation_content.json",
       "path": "content/de/meditation_content.json",
+      "required": true
+    },
+    "dailyAffirmations_de": {
+      "filename": "daily_affirmations.json",
+      "path": "content/de/daily_affirmations.json",
       "required": true
     }
   },

@@ -1,0 +1,259 @@
+{
+  "affirmations": [
+    {
+      "id": "parenting-1",
+      "text": "Du gibst dein Bestes, und das ist genug.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-2", 
+      "text": "Jeder Tag bringt neue Möglichkeiten, sich mit deinem Kind zu verbinden.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-3",
+      "text": "Deine Liebe ist das größte Geschenk, das du geben kannst.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-1",
+      "text": "Es ist in Ordnung, Pausen zu machen und für sich selbst zu sorgen.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-4",
+      "text": "Du bist genau der Elternteil, den dein Kind braucht.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-1",
+      "text": "Kleine Momente der Verbindung sind wichtiger als Perfektion.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-1",
+      "text": "Deine Geduld heute baut ihre Widerstandsfähigkeit für morgen auf.",
+      "category": "resilience"
+    },
+    {
+      "id": "parenting-5",
+      "text": "Vertraue deinen Instinkten - du kennst dein Kind am besten.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-2",
+      "text": "Du verdienst dasselbe Mitgefühl, das du deinen Kindern zeigst.",
+      "category": "self-care"
+    },
+    {
+      "id": "mindfulness-2",
+      "text": "Dieser Moment ist alles, worauf du dich jetzt konzentrieren musst.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-6",
+      "text": "Fehler sind der Beweis dafür, dass ihr zusammen lernt und wachst.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-2",
+      "text": "Du bist stärker als du weißt und mutiger als du fühlst.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-3",
+      "text": "Zeit für dich zu nehmen macht dich zu einem besseren Elternteil.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-7",
+      "text": "Das Verhalten deines Kindes spiegelt nicht deinen Wert als Elternteil wider.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-3",
+      "text": "Atme tief durch und denke daran, dass diese Phase vorübergehen wird.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-8",
+      "text": "Jede Herausforderung ist eine Gelegenheit zu lehren und zu lernen.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-3",
+      "text": "Du hast schon schwere Tage überstanden, und du wirst es wieder schaffen.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-4",
+      "text": "Deine Bedürfnisse sind wichtig, und es ist gesund, sie zu achten.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-9",
+      "text": "Verbindung entsteht in gewöhnlichen Momenten des Tages.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-4",
+      "text": "Du musst nicht perfekt sein, nur anwesend.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-10",
+      "text": "Dein Kind lernt mehr von dem, was du tust, als von dem, was du sagst.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-4",
+      "text": "Wachstum geschieht in den Räumen zwischen Kampf und Verständnis.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-5",
+      "text": "Ruhe ist kein Luxus; sie ist eine Notwendigkeit für gute Erziehung.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-11",
+      "text": "Deine ruhige Präsenz ist mächtiger als jedes Wort.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-5",
+      "text": "Bemerke die guten Momente, egal wie klein sie erscheinen mögen.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-12",
+      "text": "Beständigkeit ist wichtiger als Intensität in der Erziehung.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-5",
+      "text": "Jeder Tag bietet einen neuen Anfang, um es erneut zu versuchen.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-6",
+      "text": "Du verdienst Liebe und Unterstützung, besonders von dir selbst.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-13",
+      "text": "Die großen Emotionen deines Kindes sind Zeichen seines Vertrauens in dich.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-6",
+      "text": "Verwurzle dich in diesem Moment und lass die Sorgen von gestern los.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-14",
+      "text": "Freundlichkeit zu lehren beginnt damit, freundlich zu dir selbst zu sein.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-6",
+      "text": "Du baust etwas Schönes auf, auch wenn es sich nicht so anfühlt.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-7",
+      "text": "Um Hilfe zu bitten ist ein Zeichen von Weisheit, nicht von Schwäche.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-15",
+      "text": "Dein Kind braucht, dass du menschlich bist, nicht perfekt.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-7",
+      "text": "Frieden beginnt mit einem einzigen bewussten Atemzug.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-16",
+      "text": "Die Liebe, die du heute gibst, formt, wer dein Kind morgen wird.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-7",
+      "text": "Alle Eltern kämpfen; du bist nicht allein auf dieser Reise.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-8",
+      "text": "Dein Wohlbefinden ist wesentlich für das Glück deiner Familie.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-17",
+      "text": "Fortschritt, nicht Perfektion, ist das Ziel guter Erziehung.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-8",
+      "text": "Dieser Moment enthält alles, was du brauchst, um ein guter Elternteil zu sein.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-18",
+      "text": "Der Geist deines Kindes ist stark, weil du ihn mit Liebe nährst.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-8",
+      "text": "Schwere Zeiten machen Platz für Zeiten der Freude und Verbindung.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-9",
+      "text": "Für dich zu sorgen bedeutet, für deine Familie zu sorgen.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-19",
+      "text": "Deine Anwesenheit ist das wichtigste Geschenk, das du geben kannst.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-9",
+      "text": "Lass los, wie die Dinge sein sollten, und nimm an, wie sie sind.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-20",
+      "text": "Ihr schreibt zusammen eine schöne Geschichte, einen Tag nach dem anderen.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-9",
+      "text": "Deine Stärke zeigt sich in deinem Engagement, weiter da zu sein.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-10",
+      "text": "Feiere die kleinen Siege und sanften Momente von heute.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-21",
+      "text": "Das Herz deines Kindes kennt deine Liebe, auch an den schwierigsten Tagen.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-10",
+      "text": "Jeder Atemzug ist eine Chance, neu zu beginnen mit Geduld und Liebe.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-10",
+      "text": "Du bist genau dort, wo du in deiner Erziehungsreise sein musst.",
+      "category": "resilience"
+    }
+  ]
+}

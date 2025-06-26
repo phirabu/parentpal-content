@@ -1,0 +1,259 @@
+{
+  "affirmations": [
+    {
+      "id": "parenting-1",
+      "text": "You are doing the best you can, and that is enough.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-2", 
+      "text": "Every day brings new opportunities to connect with your child.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-3",
+      "text": "Your love is the greatest gift you can give.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-1",
+      "text": "It's okay to take breaks and care for yourself.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-4",
+      "text": "You are exactly the parent your child needs.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-1",
+      "text": "Small moments of connection matter more than perfection.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-1",
+      "text": "Your patience today is building their resilience for tomorrow.",
+      "category": "resilience"
+    },
+    {
+      "id": "parenting-5",
+      "text": "Trust your instincts - you know your child best.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-2",
+      "text": "You deserve the same compassion you show your children.",
+      "category": "self-care"
+    },
+    {
+      "id": "mindfulness-2",
+      "text": "This moment is all you need to focus on right now.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-6",
+      "text": "Mistakes are proof that you are learning and growing together.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-2",
+      "text": "You are stronger than you know and braver than you feel.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-3",
+      "text": "Taking time for yourself makes you a better parent.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-7",
+      "text": "Your child's behavior is not a reflection of your worth as a parent.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-3",
+      "text": "Breathe deeply and remember that this phase will pass.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-8",
+      "text": "Every challenge is an opportunity to teach and learn.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-3",
+      "text": "You have survived difficult days before, and you will again.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-4",
+      "text": "Your needs matter, and it's healthy to honor them.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-9",
+      "text": "Connection happens in ordinary moments throughout the day.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-4",
+      "text": "You don't have to be perfect, just present.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-10",
+      "text": "Your child learns more from what you do than what you say.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-4",
+      "text": "Growth happens in the spaces between struggle and understanding.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-5",
+      "text": "Rest is not a luxury; it's a necessity for good parenting.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-11",
+      "text": "Your calm presence is more powerful than any words.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-5",
+      "text": "Notice the good moments, no matter how small they seem.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-12",
+      "text": "Consistency matters more than intensity in parenting.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-5",
+      "text": "Each day offers a fresh start to try again.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-6",
+      "text": "You are worthy of love and support, especially from yourself.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-13",
+      "text": "Your child's big emotions are signs of their trust in you.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-6",
+      "text": "Ground yourself in this moment and let go of yesterday's worries.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-14",
+      "text": "Teaching kindness starts with being kind to yourself.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-6",
+      "text": "You are building something beautiful, even when it doesn't feel like it.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-7",
+      "text": "Asking for help is a sign of wisdom, not weakness.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-15",
+      "text": "Your child needs you to be human, not perfect.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-7",
+      "text": "Peace begins with a single conscious breath.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-16",
+      "text": "The love you give today shapes who your child becomes tomorrow.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-7",
+      "text": "Every parent struggles; you are not alone in this journey.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-8",
+      "text": "Your well-being is essential to your family's happiness.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-17",
+      "text": "Progress, not perfection, is the goal of good parenting.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-8",
+      "text": "This moment contains everything you need to be a good parent.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-18",
+      "text": "Your child's spirit is strong because you nurture it with love.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-8",
+      "text": "Difficult seasons make way for seasons of joy and connection.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-9",
+      "text": "Taking care of yourself is taking care of your family.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-19",
+      "text": "Your presence is the most important present you can give.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-9",
+      "text": "Let go of how things should be and embrace how they are.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-20",
+      "text": "You are writing a beautiful story together, one day at a time.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-9",
+      "text": "Your strength is evident in your commitment to keep showing up.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-10",
+      "text": "Celebrate the small victories and gentle moments of today.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-21",
+      "text": "Your child's heart knows your love, even on the hardest days.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-10",
+      "text": "Each breath is a chance to begin again with patience and love.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-10",
+      "text": "You are exactly where you need to be in your parenting journey.",
+      "category": "resilience"
+    }
+  ]
+}

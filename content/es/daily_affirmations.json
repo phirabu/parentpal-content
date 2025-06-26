@@ -1,0 +1,259 @@
+{
+  "affirmations": [
+    {
+      "id": "parenting-1",
+      "text": "Estás haciendo lo mejor que puedes, y eso es suficiente.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-2", 
+      "text": "Cada día trae nuevas oportunidades para conectar con tu hijo.",
+      "category": "parenting"
+    },
+    {
+      "id": "parenting-3",
+      "text": "Tu amor es el regalo más grande que puedes dar.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-1",
+      "text": "Está bien tomarse descansos y cuidar de ti mismo.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-4",
+      "text": "Eres exactamente el padre que tu hijo necesita.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-1",
+      "text": "Los pequeños momentos de conexión importan más que la perfección.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-1",
+      "text": "Tu paciencia de hoy está construyendo su resistencia para mañana.",
+      "category": "resilience"
+    },
+    {
+      "id": "parenting-5",
+      "text": "Confía en tus instintos: conoces a tu hijo mejor que nadie.",
+      "category": "parenting"
+    },
+    {
+      "id": "self-care-2",
+      "text": "Mereces la misma compasión que muestras a tus hijos.",
+      "category": "self-care"
+    },
+    {
+      "id": "mindfulness-2",
+      "text": "Este momento es todo en lo que necesitas enfocarte ahora.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-6",
+      "text": "Los errores son prueba de que están aprendiendo y creciendo juntos.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-2",
+      "text": "Eres más fuerte de lo que sabes y más valiente de lo que sientes.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-3",
+      "text": "Tomarte tiempo para ti te convierte en mejor padre.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-7",
+      "text": "El comportamiento de tu hijo no es un reflejo de tu valor como padre.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-3",
+      "text": "Respira profundamente y recuerda que esta fase pasará.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-8",
+      "text": "Cada desafío es una oportunidad para enseñar y aprender.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-3",
+      "text": "Has sobrevivido días difíciles antes, y lo harás de nuevo.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-4",
+      "text": "Tus necesidades importan, y es saludable honrarlas.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-9",
+      "text": "La conexión sucede en momentos ordinarios a lo largo del día.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-4",
+      "text": "No tienes que ser perfecto, solo presente.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-10",
+      "text": "Tu hijo aprende más de lo que haces que de lo que dices.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-4",
+      "text": "El crecimiento sucede en los espacios entre la lucha y la comprensión.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-5",
+      "text": "El descanso no es un lujo; es una necesidad para una buena crianza.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-11",
+      "text": "Tu presencia calmada es más poderosa que cualquier palabra.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-5",
+      "text": "Nota los buenos momentos, sin importar lo pequeños que parezcan.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-12",
+      "text": "La consistencia importa más que la intensidad en la crianza.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-5",
+      "text": "Cada día ofrece un nuevo comienzo para intentarlo de nuevo.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-6",
+      "text": "Mereces amor y apoyo, especialmente de ti mismo.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-13",
+      "text": "Las grandes emociones de tu hijo son señales de su confianza en ti.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-6",
+      "text": "Conéctate con este momento y deja ir las preocupaciones de ayer.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-14",
+      "text": "Enseñar bondad comienza con ser bondadoso contigo mismo.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-6",
+      "text": "Estás construyendo algo hermoso, incluso cuando no se siente así.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-7",
+      "text": "Pedir ayuda es una señal de sabiduría, no de debilidad.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-15",
+      "text": "Tu hijo necesita que seas humano, no perfecto.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-7",
+      "text": "La paz comienza con una sola respiración consciente.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-16",
+      "text": "El amor que das hoy forma quien será tu hijo mañana.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-7",
+      "text": "Todos los padres luchan; no estás solo en este viaje.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-8",
+      "text": "Tu bienestar es esencial para la felicidad de tu familia.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-17",
+      "text": "El progreso, no la perfección, es el objetivo de una buena crianza.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-8",
+      "text": "Este momento contiene todo lo que necesitas para ser un buen padre.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-18",
+      "text": "El espíritu de tu hijo es fuerte porque lo nutres con amor.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-8",
+      "text": "Las temporadas difíciles dan paso a temporadas de alegría y conexión.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-9",
+      "text": "Cuidar de ti mismo es cuidar de tu familia.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-19",
+      "text": "Tu presencia es el regalo más importante que puedes dar.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-9",
+      "text": "Deja ir cómo deberían ser las cosas y abraza cómo son.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "parenting-20",
+      "text": "Están escribiendo una hermosa historia juntos, un día a la vez.",
+      "category": "parenting"
+    },
+    {
+      "id": "resilience-9",
+      "text": "Tu fuerza es evidente en tu compromiso de seguir apareciendo.",
+      "category": "resilience"
+    },
+    {
+      "id": "self-care-10",
+      "text": "Celebra las pequeñas victorias y los momentos gentiles de hoy.",
+      "category": "self-care"
+    },
+    {
+      "id": "parenting-21",
+      "text": "El corazón de tu hijo conoce tu amor, incluso en los días más difíciles.",
+      "category": "parenting"
+    },
+    {
+      "id": "mindfulness-10",
+      "text": "Cada respiración es una oportunidad de comenzar de nuevo con paciencia y amor.",
+      "category": "mindfulness"
+    },
+    {
+      "id": "resilience-10",
+      "text": "Estás exactamente donde necesitas estar en tu viaje de crianza.",
+      "category": "resilience"
+    }
+  ]
+}
