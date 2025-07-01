@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "minimumAppVersion": "1.0.0",
   "contentFiles": {
     "emergencyCoachScripts_en": {
@@ -31,6 +31,11 @@
       "filename": "daily_affirmations.json",
       "path": "content/en/daily_affirmations.json",
       "required": true
+    },
+    "featureRequests_en": {
+      "filename": "feature_requests.json",
+      "path": "content/en/feature_requests.json",
+      "required": false
     },
     "emergencyCoachScripts_es": {
       "filename": "emergencycoachscripts.json",
