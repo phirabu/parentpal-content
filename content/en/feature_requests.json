@@ -1,12 +1,6 @@
 {
   "features": [
     {
-      "id": "dark-mode",
-      "title": "Dark Mode Support",
-      "description": "Add a dark theme option to reduce eye strain during night-time parenting sessions",
-      "votes": 42
-    },
-    {
       "id": "offline-content",
       "title": "Offline Content Download",
       "description": "Download library articles and emergency scripts for offline access when internet is unavailable",
@@ -25,40 +19,16 @@
       "votes": 23
     },
     {
-      "id": "sleep-tracking",
-      "title": "Sleep Pattern Tracking",
-      "description": "Log and analyze baby sleep patterns to identify trends and improve sleep routines",
-      "votes": 19
-    },
-    {
-      "id": "feeding-log",
-      "title": "Feeding Schedule Log",
-      "description": "Track feeding times, amounts, and types for babies and toddlers",
-      "votes": 15
-    },
-    {
       "id": "medication-reminders",
       "title": "Medication Reminders",
       "description": "Set reminders for children's medications with dosage tracking",
       "votes": 12
     },
     {
-      "id": "growth-charts",
-      "title": "Growth Chart Integration",
-      "description": "Track height, weight, and head circumference with WHO/CDC growth charts",
-      "votes": 11
-    },
-    {
       "id": "export-chat-history",
       "title": "Export Chat History",
       "description": "Export AI chat conversations as PDF for sharing with partners or pediatricians",
       "votes": 8
-    },
-    {
-      "id": "custom-emergency-scripts",
-      "title": "Custom Emergency Scripts",
-      "description": "Create and save personalized emergency response scripts for specific situations",
-      "votes": 7
     }
   ]
 }
