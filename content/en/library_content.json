@@ -417,6 +417,26 @@
         }
       ],
       "media": [
+        {
+          "id": "Intro_Tantrums_Masterclass",
+          "title": "Intro to Tantrums and Outbursts Masterclass",
+          "description": "Intro to Tantrums and Outbursts Masterclass",
+          "duration": "1:15",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
+          "mediaUrl": "https://app.heygen.com/embeds/acc3cf3d90ac4020a730ea27f7263662",
+          "mediaType": "video",
+          "tags": ["tantrums", "outbursts"]
+        },
+        {
+          "id": "What_Are_Outbursts",
+          "title": "What Are Outbursts",
+          "description": "What Are Outbursts",
+          "duration": "1:15",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
+          "mediaUrl": "https://app.heygen.com/embeds/7bee68aaedf348fd9f9f5426241c6e76",
+          "mediaType": "video",
+          "tags": ["tantrums", "outbursts"]
+        }           
       ],
       "scripts": [
         {
