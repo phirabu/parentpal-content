@@ -418,25 +418,175 @@
       ],
       "media": [
         {
-          "id": "Intro_Tantrums_Masterclass",
-          "title": "Intro to Tantrums and Outbursts Masterclass",
-          "description": "Intro to Tantrums and Outbursts Masterclass",
-          "duration": "1:15",
-          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
+          "id": "welcome_tantrums_outbursts_masterclass",
+          "title": "Welcome to Tantrums & Outbursts Masterclass",
+          "description": "Introduction to the module that sets expectations for transforming how you understand and respond to your child's intense emotional moments. Learn that outbursts are opportunities for connection, not battles to win.",
+          "duration": "0:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/tantrums_to_outbursts.jpg",
           "mediaUrl": "https://youtu.be/KlLnUc95Qwo",
           "mediaType": "video",
-          "tags": ["tantrums", "outbursts"]
+          "tags": ["tantrums", "outbursts", "masterclass", "introduction"]
         },
         {
-          "id": "What_Are_Outbursts",
-          "title": "What Are Outbursts",
-          "description": "What Are Outbursts",
-          "duration": "1:15",
-          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
-          "mediaUrl": "https://youtu.be/KlLnUc95Qwo",
+          "id": "what_are_outbursts_vs_tantrums",
+          "title": "What Are Outbursts (and How Are They Different from Tantrums)?",
+          "description": "Learn the crucial distinction between tantrums (goal-oriented) and outbursts (emotional overwhelm), and why this difference changes your entire approach. Core insight: 'It's not defiance. It's depletion.'",
+          "duration": "6:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/anatomy_outburst.jpg",
+          "mediaUrl": "https://youtu.be/vXz0JHz2e4o",
           "mediaType": "video",
-          "tags": ["tantrums", "outbursts"]
-        }           
+          "tags": ["tantrums", "outbursts", "emotional regulation", "brain development"]
+        },
+        {
+          "id": "why_kids_explode_understanding_root",
+          "title": "Why Kids Explode: Understanding the Root",
+          "description": "Discover the brain science behind outbursts - why your child literally cannot think logically during emotional storms and what's happening in their nervous system. Understanding amygdala hijack and fight/flight responses.",
+          "duration": "7:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/anatomy_outburst.jpg",
+          "mediaUrl": "https://youtu.be/qe7hFl0DkRQ",
+          "mediaType": "video",
+          "tags": ["brain science", "amygdala", "nervous system", "emotional overwhelm"]
+        },
+        {
+          "id": "what_to_do_outburst_starts",
+          "title": "What to Do When an Outburst Starts",
+          "description": "The exact steps to take in the first crucial moments of an outburst, including what to say and how to position yourself as a calming presence. Be the 'calm, steady lighthouse in their storm.'",
+          "duration": "8:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/three_types_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/f5WhHRKa9_k",
+          "mediaType": "video",
+          "tags": ["outburst response", "calming techniques", "presence", "de-escalation"]
+        },
+        {
+          "id": "validation_boundaries_superpowers",
+          "title": "Validation & Boundaries: The 2 Parenting Superpowers",
+          "description": "Master the game-changing formula of validating feelings while holding boundaries - the foundation of emotionally intelligent parenting. Learn that 'All feelings are okay, all behaviors are not.'",
+          "duration": "9:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/tantrums_to_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/g4FHmrGV9Zo",
+          "mediaType": "video",
+          "tags": ["validation", "boundaries", "emotional intelligence", "connection"]
+        },
+        {
+          "id": "what_to_say_not_to_say",
+          "title": "What to Say (and What Not to Say)",
+          "description": "The exact phrases that help versus hurt during outbursts, plus why your tone matters more than your words when emotions run high. Focus on presence over problem-solving.",
+          "duration": "7:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/family_emotional_culture_reflection.jpg",
+          "mediaUrl": "https://youtu.be/knR5N5ffgaE",
+          "mediaType": "video",
+          "tags": ["communication", "language", "tone", "validation"]
+        },
+        {
+          "id": "when_screaming_escalates",
+          "title": "When Screaming Escalates",
+          "description": "How to become 'the eye of the hurricane' when your child's volume and intensity increase, using your calm as their nervous system anchor. Lower your voice when they raise theirs.",
+          "duration": "6:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/three_types_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/6EWuwpc5JQQ",
+          "mediaType": "video",
+          "tags": ["screaming", "escalation", "co-regulation", "calming"]
+        },
+        {
+          "id": "when_child_gets_physical",
+          "title": "When Your Child Gets Physical",
+          "description": "Safety-first strategies for when outbursts turn physical, including protective holds, redirection techniques, and how to address hitting afterward. Learn to block calmly without punishment.",
+          "duration": "8:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/three_types_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/OjF2iDLC2P0",
+          "mediaType": "video",
+          "tags": ["physical aggression", "safety", "protective holds", "boundaries"]
+        },
+        {
+          "id": "how_to_stay_regulated_yourself",
+          "title": "How to Stay Regulated Yourself",
+          "description": "Your oxygen mask first - practical tools for managing your own emotional response so you can be the calm anchor your child needs. Includes mantras, breathing techniques, and repair strategies.",
+          "duration": "7:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/family_emotional_culture_reflection.jpg",
+          "mediaUrl": "https://youtu.be/F8HvQAfiW5Q",
+          "mediaType": "video",
+          "tags": ["self-regulation", "parent calm", "breathing", "mantras", "repair"]
+        },
+        {
+          "id": "real_life_tools_calming",
+          "title": "Real-Life Tools for Calming",
+          "description": "Concrete, practical techniques you and your child can use to move from chaos to calm, including sensory strategies and grounding exercises like the 5-4-3-2-1 technique and Butterfly Hug.",
+          "duration": "8:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/anatomy_outburst.jpg",
+          "mediaUrl": "https://youtu.be/ogaqcthy6yo",
+          "mediaType": "video",
+          "tags": ["calming tools", "grounding", "sensory strategies", "coping skills"]
+        },
+        {
+          "id": "conversations_after_storm",
+          "title": "Conversations After the Storm",
+          "description": "When and how to talk about what happened, focusing on connection first and learning second for maximum impact. Wait for full nervous system recovery and keep it brief and shame-free.",
+          "duration": "6:45",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/family_emotional_culture_reflection.jpg",
+          "mediaUrl": "https://youtu.be/0UcLeGN8oG4",
+          "mediaType": "video",
+          "tags": ["post-outburst", "connection", "learning", "processing"]
+        },
+        {
+          "id": "power_predictable_parenting",
+          "title": "The Power of Predictable Parenting",
+          "description": "Why using the same calm phrases repeatedly actually helps your child's brain develop better self-regulation over time. Consistency reduces anxiety and creates safety through predictable responses.",
+          "duration": "5:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/tantrums_to_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/CiP8t2xVW5M",
+          "mediaType": "video",
+          "tags": ["consistency", "predictability", "brain development", "patterns"]
+        },
+        {
+          "id": "public_outbursts",
+          "title": "Public Outbursts",
+          "description": "Strategies for handling meltdowns in public places while maintaining your child's dignity and your own confidence. Your child's emotional safety trumps strangers' opinions.",
+          "duration": "7:15",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/three_types_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/2-EhXz07WwA",
+          "mediaType": "video",
+          "tags": ["public meltdowns", "dignity", "confidence", "location pivot"]
+        },
+        {
+          "id": "preparing_known_triggers",
+          "title": "Preparing for Known Triggers",
+          "description": "Proactive strategies to prevent outbursts by addressing common triggers like transitions, disappointments, and overstimulation. Prevention is easier than intervention.",
+          "duration": "6:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/anatomy_outburst.jpg",
+          "mediaUrl": "https://youtu.be/t9UvVWgnf5Y",
+          "mediaType": "video",
+          "tags": ["prevention", "triggers", "transitions", "proactive strategies"]
+        },
+        {
+          "id": "helping_siblings_during_outbursts",
+          "title": "Helping Siblings During Outbursts",
+          "description": "How to support other children in the family during one child's outburst, balancing safety, empathy, and individual needs. Acknowledge siblings' feelings while teaching empathy.",
+          "duration": "6:30",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/family_emotional_culture_reflection.jpg",
+          "mediaUrl": "https://youtu.be/qgtspW1xpE8",
+          "mediaType": "video",
+          "tags": ["siblings", "family dynamics", "empathy", "safety"]
+        },
+        {
+          "id": "what_progress_looks_like",
+          "title": "What Progress Looks Like",
+          "description": "Realistic timeline for improvement and how to recognize progress even when it feels invisible - celebrating the small wins that lead to big changes. Progress isn't linear with a 6+ month timeline being normal.",
+          "duration": "5:45",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/tantrums_to_outbursts.jpg",
+          "mediaUrl": "https://youtu.be/mGQ8NNUsRHQ",
+          "mediaType": "video",
+          "tags": ["progress", "timeline", "milestones", "expectations"]
+        },
+        {
+          "id": "youve_got_this_outro",
+          "title": "You've Got This (Outro)",
+          "description": "Encouragement and reminders of the key strategies as you continue this journey toward a calmer, more connected family life. Keep showing up with compassion - progress over perfection.",
+          "duration": "1:00",
+          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/tantrums/family_emotional_culture_reflection.jpg",
+          "mediaUrl": "https://youtu.be/Yf0VXjQjChE",
+          "mediaType": "video",
+          "tags": ["encouragement", "conclusion", "key strategies", "compassion"]
+        }
       ],
       "scripts": [
         {
@@ -875,16 +1025,6 @@
         }
       ],
       "media": [
-        {
-          "id": "whining_general_whining_response",
-          "title": "Responding to General Whining with Connection and Redirection",
-          "description": "Your child is whining about wanting a snack in that distinctive sing-song voice that makes you feel tense and frustrated",
-          "duration": "1:59",
-          "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
-          "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/scripts/whining_general_whining_response.mp3",
-          "mediaType": "audio",
-          "tags": ["whining", "child", "scripts"]
-        }
       ],
       "scripts": [
         {
