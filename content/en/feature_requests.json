@@ -7,16 +7,10 @@
       "votes": 2
     },
     {
-      "id": "partner-sync",
-      "title": "Partner Account Sync",
-      "description": "Share child profiles and chat history with co-parents for coordinated parenting",
+      "id": "journal-sync",
+      "title": "Journal Sync",
+      "description": "Store journal entries online and sync via icloud or google drive.",
       "votes": 1
-    },
-    {
-      "id": "milestone-tracking",
-      "title": "Child Milestone Tracking",
-      "description": "Track and celebrate developmental milestones with reminders and progress visualization",
-      "votes": 0
     },
     {
       "id": "export-chat-history",
