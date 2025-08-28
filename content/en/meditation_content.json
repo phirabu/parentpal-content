@@ -6,11 +6,11 @@
       "title": "3-Minute Breath Reset",
       "description": "A quick breathing practice to center yourself when parenting feels overwhelming",
       "durationMinutes": 3,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/quick-breath-reset.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/en/Connected_Morning_Meditation.m4a",
       "instructor": "Sarah Chen",
       "tags": ["breathing", "stress-relief", "quick", "centering"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/breath-reset.jpg",
-      "publishedAt": "2024-03-20T10:00:00Z"
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
+      "publishedAt": "2025-08-27T10:00:00Z"
     },
     {
       "id": "parenting-pause",
@@ -18,83 +18,11 @@
       "title": "The Parenting Pause",
       "description": "Find your center before responding to challenging moments with your child",
       "durationMinutes": 5,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parenting-pause.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/",
       "instructor": "Sarah Chen",
       "tags": ["pause", "response", "mindfulness", "parenting"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/parenting-pause.jpg",
-      "publishedAt": "2024-03-20T10:05:00Z"
-    },
-    {
-      "id": "self-compassion-practice",
-      "categoryId": "deep-practice",
-      "title": "Self-Compassion for Parents",
-      "description": "Learn to extend the same kindness to yourself that you show your children",
-      "durationMinutes": 15,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/self-compassion.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["self-compassion", "kindness", "inner-critic", "healing"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/self-compassion.jpg",
-      "publishedAt": "2024-03-20T10:10:00Z"
-    },
-    {
-      "id": "present-moment-awareness",
-      "categoryId": "deep-practice",
-      "title": "Present Moment Awareness",
-      "description": "Cultivate the ability to be fully present with your children and yourself",
-      "durationMinutes": 20,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/present-moment.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["presence", "awareness", "mindfulness", "connection"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/present-moment.jpg",
-      "publishedAt": "2024-03-20T10:15:00Z"
-    },
-    {
-      "id": "bedtime-body-scan",
-      "categoryId": "sleep-rest",
-      "title": "Bedtime Body Scan",
-      "description": "Release the tensions of the day with this gentle body scan meditation",
-      "durationMinutes": 12,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/bedtime-body-scan.mp3",
-      "instructor": "Marcus Williams",
-      "tags": ["sleep", "body-scan", "relaxation", "bedtime"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/bedtime-scan.jpg",
-      "publishedAt": "2024-03-20T10:20:00Z"
-    },
-    {
-      "id": "sleep-stories-parents",
-      "categoryId": "sleep-rest",
-      "title": "Sleep Stories for Parents",
-      "description": "Drift off peacefully with calming stories designed specifically for tired parents",
-      "durationMinutes": 25,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/sleep-stories.mp3",
-      "instructor": "Marcus Williams",
-      "tags": ["sleep-stories", "bedtime", "relaxation", "stories"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/sleep-stories.jpg",
-      "publishedAt": "2024-03-20T10:25:00Z"
-    },
-    {
-      "id": "patience-cultivation",
-      "categoryId": "specialized",
-      "title": "Cultivating Patience",
-      "description": "Develop deeper patience for those challenging parenting moments",
-      "durationMinutes": 10,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/patience.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["patience", "challenging-behavior", "emotional-regulation", "mindfulness"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/patience.jpg",
-      "publishedAt": "2024-03-20T10:30:00Z"
-    },
-    {
-      "id": "guilt-release",
-      "categoryId": "specialized",
-      "title": "Releasing Parenting Guilt",
-      "description": "Let go of the guilt that weighs down your parenting journey",
-      "durationMinutes": 18,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/guilt-release.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["guilt", "forgiveness", "self-acceptance", "healing"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/guilt-release.jpg",
-      "publishedAt": "2024-03-20T10:35:00Z"
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
+      "publishedAt": "2025-08-27T10:00:00Z"
     }
   ]
 }

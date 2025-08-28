@@ -16,7 +16,7 @@
       "strategies": [
         {
           "id": "validation_boundary",
-          "name": "Bestätigung + Grenze",
+          "name": "Bestätigung und Grenze",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
           "script": [
@@ -132,7 +132,7 @@
       "strategies": [
         {
           "id": "acknowledge_action",
-          "name": "Anerkennung + Handlung",
+          "name": "Anerkennung und Handlung",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
           "script": [
@@ -190,7 +190,7 @@
       "strategies": [
         {
           "id": "stay_calm_reflect",
-          "name": "Ruhig bleiben + Reflektieren",
+          "name": "Ruhig bleiben und Reflektieren",
           "difficulty": "mittel",
           "timeRequired": "sofort",
           "script": [
@@ -248,7 +248,7 @@
       "strategies": [
         {
           "id": "validation_partnership",
-          "name": "Bestätigung + Partnerschaft",
+          "name": "Bestätigung und Partnerschaft",
           "difficulty": "einfach",
           "timeRequired": "sofort",
           "script": [
@@ -262,7 +262,7 @@
         },
         {
           "id": "control_information",
-          "name": "Kontrolle + Information",
+          "name": "Kontrolle und Information",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
           "script": [
@@ -306,7 +306,7 @@
       "strategies": [
         {
           "id": "time_choice",
-          "name": "Zeit + Wahl",
+          "name": "Zeit und Wahl",
           "difficulty": "einfach",
           "timeRequired": "sofort",
           "script": [
@@ -378,7 +378,7 @@
         },
         {
           "id": "feeling_boundary",
-          "name": "Gefühl + Grenze",
+          "name": "Gefühl und Grenze",
           "difficulty": "mittel",
           "timeRequired": "sofort",
           "script": [
@@ -450,7 +450,7 @@
         },
         {
           "id": "distraction_redirect",
-          "name": "Ablenkung + Umleitung",
+          "name": "Ablenkung und Umleitung",
           "difficulty": "einfach",
           "timeRequired": "sofort",
           "script": [

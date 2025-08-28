@@ -6,11 +6,11 @@
       "title": "Reinicio de Respiración de 3 Minutos",
       "description": "Una práctica rápida de respiración para centrarte cuando la crianza se siente abrumadora",
       "durationMinutes": 3,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/quick-breath-reset.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/",
       "instructor": "Sarah Chen",
       "tags": ["respiración", "alivio-estrés", "rápido", "centrarse"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/breath-reset.jpg",
-      "publishedAt": "2024-03-20T10:00:00Z"
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
+      "publishedAt": "2025-08-27T10:00:00Z"
     },
     {
       "id": "parenting-pause",
@@ -18,83 +18,11 @@
       "title": "La Pausa de Crianza",
       "description": "Encuentra tu centro antes de responder a momentos desafiantes con tu hijo",
       "durationMinutes": 5,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/parenting-pause.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/",
       "instructor": "Sarah Chen",
       "tags": ["pausa", "respuesta", "atención-plena", "crianza"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/parenting-pause.jpg",
-      "publishedAt": "2024-03-20T10:05:00Z"
-    },
-    {
-      "id": "self-compassion-practice",
-      "categoryId": "deep-practice",
-      "title": "Autocompasión para Padres",
-      "description": "Aprende a extender la misma bondad hacia ti mismo que muestras a tus hijos",
-      "durationMinutes": 15,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/self-compassion.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["autocompasión", "bondad", "crítico-interno", "sanación"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/self-compassion.jpg",
-      "publishedAt": "2024-03-20T10:10:00Z"
-    },
-    {
-      "id": "present-moment-awareness",
-      "categoryId": "deep-practice",
-      "title": "Conciencia del Momento Presente",
-      "description": "Cultiva la capacidad de estar completamente presente con tus hijos y contigo mismo",
-      "durationMinutes": 20,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/present-moment.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["presencia", "conciencia", "atención-plena", "conexión"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/present-moment.jpg",
-      "publishedAt": "2024-03-20T10:15:00Z"
-    },
-    {
-      "id": "bedtime-body-scan",
-      "categoryId": "sleep-rest",
-      "title": "Escaneo Corporal para Dormir",
-      "description": "Libera las tensiones del día con esta suave meditación de escaneo corporal",
-      "durationMinutes": 12,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/bedtime-body-scan.mp3",
-      "instructor": "Marcus Williams",
-      "tags": ["sueño", "escaneo-corporal", "relajación", "hora-dormir"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/bedtime-scan.jpg",
-      "publishedAt": "2024-03-20T10:20:00Z"
-    },
-    {
-      "id": "sleep-stories-parents",
-      "categoryId": "sleep-rest",
-      "title": "Cuentos para Dormir para Padres",
-      "description": "Duerme pacíficamente con historias relajantes diseñadas específicamente para padres cansados",
-      "durationMinutes": 25,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/sleep-stories.mp3",
-      "instructor": "Marcus Williams",
-      "tags": ["cuentos-dormir", "hora-dormir", "relajación", "historias"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/sleep-stories.jpg",
-      "publishedAt": "2024-03-20T10:25:00Z"
-    },
-    {
-      "id": "patience-cultivation",
-      "categoryId": "specialized",
-      "title": "Cultivando Paciencia",
-      "description": "Desarrolla mayor paciencia para esos momentos desafiantes de la crianza",
-      "durationMinutes": 10,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/patience.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["paciencia", "comportamiento-desafiante", "regulación-emocional", "atención-plena"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/patience.jpg",
-      "publishedAt": "2024-03-20T10:30:00Z"
-    },
-    {
-      "id": "guilt-release",
-      "categoryId": "specialized",
-      "title": "Liberando la Culpa de Crianza",
-      "description": "Deja ir la culpa que pesa en tu viaje de crianza",
-      "durationMinutes": 18,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/guilt-release.mp3",
-      "instructor": "Dr. Maya Patel",
-      "tags": ["culpa", "perdón", "autoaceptación", "sanación"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/guilt-release.jpg",
-      "publishedAt": "2024-03-20T10:35:00Z"
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
+      "publishedAt": "2025-08-27T10:00:00Z"
     }
   ]
 }

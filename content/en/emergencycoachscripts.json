@@ -16,7 +16,7 @@
       "strategies": [
         {
           "id": "validation_boundary",
-          "name": "Validation + Boundary",
+          "name": "Validation and+ Boundary",
           "difficulty": "intermediate",
           "timeRequired": "5-10 minutes",
           "script": [
@@ -132,7 +132,7 @@
       "strategies": [
         {
           "id": "acknowledge_action",
-          "name": "Acknowledge + Action",
+          "name": "Acknowledge and Action",
           "difficulty": "intermediate",
           "timeRequired": "5-10 minutes",
           "script": [
@@ -190,7 +190,7 @@
       "strategies": [
         {
           "id": "stay_calm_reflect",
-          "name": "Stay Calm + Reflect",
+          "name": "Stay Calm and Reflect",
           "difficulty": "intermediate",
           "timeRequired": "immediate",
           "script": [
@@ -248,7 +248,7 @@
       "strategies": [
         {
           "id": "validation_partnership",
-          "name": "Validation + Partnership",
+          "name": "Validation and Partnership",
           "difficulty": "easy",
           "timeRequired": "immediate",
           "script": [
@@ -262,7 +262,7 @@
         },
         {
           "id": "control_information",
-          "name": "Control + Information",
+          "name": "Control and Information",
           "difficulty": "intermediate",
           "timeRequired": "5-10 minutes",
           "script": [
@@ -306,7 +306,7 @@
       "strategies": [
         {
           "id": "time_choice",
-          "name": "Time + Choice",
+          "name": "Time and Choice",
           "difficulty": "easy",
           "timeRequired": "immediate",
           "script": [
@@ -378,7 +378,7 @@
         },
         {
           "id": "feeling_boundary",
-          "name": "Feeling + Boundary",
+          "name": "Feeling and Boundary",
           "difficulty": "intermediate",
           "timeRequired": "immediate",
           "script": [
@@ -450,7 +450,7 @@
         },
         {
           "id": "distraction_redirect",
-          "name": "Distraction + Redirect",
+          "name": "Distraction and Redirect",
           "difficulty": "easy",
           "timeRequired": "immediate",
           "script": [
