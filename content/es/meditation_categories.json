@@ -17,24 +17,6 @@
       "color": "#6EC6B8",
       "iconName": "spa",
       "sortOrder": 2
-    },
-    {
-      "id": "sleep-rest",
-      "title": "Sueño y Descanso",
-      "subtitle": "Varias duraciones", 
-      "description": "Relájate y encuentra un descanso pacífico",
-      "color": "#9B7EDE",
-      "iconName": "bedtime",
-      "sortOrder": 3
-    },
-    {
-      "id": "specialized",
-      "title": "Temas Especializados",
-      "subtitle": "Apoyo dirigido",
-      "description": "Aborda desafíos específicos de la crianza",
-      "color": "#FFA18F",
-      "iconName": "favorite",
-      "sortOrder": 4
     }
   ]
 }

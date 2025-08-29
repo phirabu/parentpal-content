@@ -17,24 +17,6 @@
       "color": "#6EC6B8",
       "iconName": "spa",
       "sortOrder": 2
-    },
-    {
-      "id": "sleep-rest",
-      "title": "Schlaf & Ruhe",
-      "subtitle": "Verschiedene Längen", 
-      "description": "Entspanne dich und finde friedliche Ruhe",
-      "color": "#9B7EDE",
-      "iconName": "bedtime",
-      "sortOrder": 3
-    },
-    {
-      "id": "specialized",
-      "title": "Spezielle Themen",
-      "subtitle": "Gezielte Unterstützung",
-      "description": "Bewältige spezifische Erziehungsherausforderungen",
-      "color": "#FFA18F",
-      "iconName": "favorite",
-      "sortOrder": 4
     }
   ]
 }

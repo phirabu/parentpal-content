@@ -17,24 +17,6 @@
       "color": "#6EC6B8",
       "iconName": "spa",
       "sortOrder": 2
-    },
-    {
-      "id": "sleep-rest",
-      "title": "Sleep & Rest",
-      "subtitle": "Various lengths", 
-      "description": "Wind down and find peaceful rest",
-      "color": "#9B7EDE",
-      "iconName": "bedtime",
-      "sortOrder": 3
-    },
-    {
-      "id": "specialized",
-      "title": "Specialized Topics",
-      "subtitle": "Targeted support",
-      "description": "Address specific parenting challenges",
-      "color": "#FFA18F",
-      "iconName": "favorite",
-      "sortOrder": 4
     }
   ]
 }
