@@ -1,5 +1,5 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.3",
   "minimumAppVersion": "1.0.0",
   "contentFiles": {
     "emergencyCoachScripts_en": {
@@ -10,6 +10,11 @@
     "libraryCategories_en": {
       "filename": "library_categories.json",
       "path": "content/en/library_categories.json",
+      "required": true
+    },
+    "libraryContent_en": {
+      "filename": "library_content.json",
+      "path": "content/en/library_content.json",
       "required": true
     },
     "meditationCategories_en": {
@@ -42,6 +47,11 @@
       "path": "content/es/library_categories.json",
       "required": true
     },
+    "libraryContent_es": {
+      "filename": "library_content.json",
+      "path": "content/es/library_content.json",
+      "required": true
+    },
     "meditationCategories_es": {
       "filename": "meditation_categories.json",
       "path": "content/es/meditation_categories.json",
@@ -67,6 +77,11 @@
       "path": "content/de/library_categories.json",
       "required": true
     },
+    "libraryContent_de": {
+      "filename": "library_content.json",
+      "path": "content/de/library_content.json",
+      "required": true
+    },
     "meditationCategories_de": {
       "filename": "meditation_categories.json",
       "path": "content/de/meditation_categories.json",
@@ -81,66 +96,6 @@
       "filename": "daily_affirmations.json",
       "path": "content/de/daily_affirmations.json",
       "required": true
-    },
-    "libraryTopics_en": {
-      "type": "multifile",
-      "files": [
-        "content/en/library_topics/parenting_foundations.json",
-        "content/en/library_topics/child.json",
-        "content/en/library_topics/tantrums.json",
-        "content/en/library_topics/lying.json",
-        "content/en/library_topics/whining.json",
-        "content/en/library_topics/winning.json",
-        "content/en/library_topics/fears.json",
-        "content/en/library_topics/repairing.json",
-        "content/en/library_topics/personality.json",
-        "content/en/library_topics/sleep.json",
-        "content/en/library_topics/screen_time.json",
-        "content/en/library_topics/change.json",
-        "content/en/library_topics/discipline.json"
-      ],
-      "required": true,
-      "description": "Library topic files for EN"
-    },
-    "libraryTopics_es": {
-      "type": "multifile",
-      "files": [
-        "content/es/library_topics/parenting_foundations.json",
-        "content/es/library_topics/child.json",
-        "content/es/library_topics/tantrums.json",
-        "content/es/library_topics/lying.json",
-        "content/es/library_topics/whining.json",
-        "content/es/library_topics/winning.json",
-        "content/es/library_topics/fears.json",
-        "content/es/library_topics/repairing.json",
-        "content/es/library_topics/personality.json",
-        "content/es/library_topics/sleep.json",
-        "content/es/library_topics/screen_time.json",
-        "content/es/library_topics/change.json",
-        "content/es/library_topics/discipline.json"
-      ],
-      "required": true,
-      "description": "Library topic files for ES"
-    },
-    "libraryTopics_de": {
-      "type": "multifile",
-      "files": [
-        "content/de/library_topics/parenting_foundations.json",
-        "content/de/library_topics/child.json",
-        "content/de/library_topics/tantrums.json",
-        "content/de/library_topics/lying.json",
-        "content/de/library_topics/whining.json",
-        "content/de/library_topics/winning.json",
-        "content/de/library_topics/fears.json",
-        "content/de/library_topics/repairing.json",
-        "content/de/library_topics/personality.json",
-        "content/de/library_topics/sleep.json",
-        "content/de/library_topics/screen_time.json",
-        "content/de/library_topics/change.json",
-        "content/de/library_topics/discipline.json"
-      ],
-      "required": true,
-      "description": "Library topic files for DE"
     }
   },
   "features": {

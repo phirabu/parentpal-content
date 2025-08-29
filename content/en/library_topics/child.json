@@ -1,0 +1,164 @@
+{
+  "topic": {
+    "id": "child_development",
+    "categoryIds": [
+      "parenting_foundations",
+      "child"
+    ],
+    "title": "Understanding Child Development (3-7)",
+    "description": "Decode your child's developing mind and respond to their unique needs",
+    "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/foundations.jpg",
+    "articles": [
+      {
+        "id": "emotional_milestones",
+        "title": "Emotional Development Milestones",
+        "description": "Track your child's emotional growth and provide age-appropriate support",
+        "category": "Science",
+        "readTime": 11,
+        "content": "# Emotional Development Milestones\n\nYour child's emotional development follows a generally predictable pattern, though each child moves through these stages at their own pace.\n\n## Ages 3-4: Emotional Recognition and Basic Expression\n\nDuring this period, your child is learning to identify and name emotions, both in themselves and others. They're beginning to understand that people have feelings and that those feelings can be different from their own.\n\n## Ages 4-5: Emotional Regulation Begins\n\nThis is when your child starts developing the ability to pause between feeling an emotion and expressing it. They might still hit when angry, but they're also beginning to understand that hitting isn't acceptable.\n\n## Ages 5-6: Complex Emotional Understanding\n\nYour child begins to understand that people can feel multiple emotions at the same time. They might recognize that they feel both excited and nervous about starting school.\n\n## Ages 6-7: Social Emotional Awareness\n\nYour child becomes much more aware of social and emotional rules. They understand that there are different expectations for behavior at home versus school.\n\n## Supporting Your Child's Emotional Development\n\nThroughout all these stages, remember that emotional development isn't linear. Your child might demonstrate advanced emotional skills one day and seem to regress the next.",
+        "tags": [
+          "emotional development",
+          "milestones",
+          "regulation",
+          "empathy"
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_foundations/emotional_milestones.jpg",
+        "publishedAt": "2025-08-28T10:00:00Z"
+      },
+      {
+        "id": "behavior_explained",
+        "title": "Why Your Child Acts the Way They Do",
+        "description": "Understand the developmental reasons behind challenging behaviors",
+        "category": "Guide",
+        "readTime": 10,
+        "content": "# Why Your Child Acts the Way They Do\n\nMany behaviors that frustrate parents make perfect sense when viewed through the lens of child development.\n\n## Testing Boundaries is Brain Development\n\nWhen your child pushes against rules and limits, they're not trying to drive you crazy—they're doing important brain work. Testing boundaries helps them understand how the world works.\n\n## Emotional Outbursts are Communication\n\nYour child's tantrums and emotional explosions are their attempts to communicate feelings they don't yet have the skills to express appropriately.\n\n## Repetitive Questions Show Learning\n\nWhen your child asks the same question over and over, even after you've answered it, they're not trying to annoy you. They're processing information, seeking reassurance, or trying to understand something.\n\n## Regression is Normal Growth\n\nSometimes your child might seem to go backward in their development—wanting to be babied after acting independently. This regression often happens during times of stress or rapid development.\n\n## Physical Expression is Developmental\n\nYoung children express emotions through their bodies because their verbal and emotional regulation skills are still developing. Hitting when angry or jumping when excited are developmentally appropriate responses.",
+        "tags": [
+          "behavior",
+          "development",
+          "boundaries",
+          "communication"
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_foundations/behavior_explained.jpg",
+        "publishedAt": "2025-08-28T10:00:00Z"
+      }
+    ],
+    "media": [],
+    "scripts": [
+      {
+        "id": "egocentric_thinking",
+        "title": "Responding to Egocentric Thinking",
+        "scenario": "Your child can't understand why their sibling doesn't want to play their game",
+        "steps": [
+          {
+            "title": "Acknowledge Their Perspective",
+            "content": "I can see you really want to play this game with your sister. You think it's really fun, and it's hard to understand why she doesn't want to play it too."
+          },
+          {
+            "title": "Introduce Other Perspectives",
+            "content": "Sometimes people like different things, even when we think our idea is the best one."
+          },
+          {
+            "title": "Guide Problem-Solving",
+            "content": "Let's think about what your sister might enjoy playing. What games does she usually like?"
+          },
+          {
+            "title": "Find Common Ground",
+            "content": "Maybe we can find something you both think is fun."
+          }
+        ]
+      },
+      {
+        "id": "all_or_nothing",
+        "title": "Addressing All-or-Nothing Thinking",
+        "scenario": "Your child says 'I'm terrible at drawing' after one attempt doesn't turn out as expected",
+        "steps": [
+          {
+            "title": "Validate Their Feeling",
+            "content": "You seem really disappointed that your drawing didn't look the way you wanted it to."
+          },
+          {
+            "title": "Question the Absolute",
+            "content": "I heard you say you're terrible at drawing. I wonder if you're terrible at everything about drawing, or if maybe some parts are hard and some parts are easier?"
+          },
+          {
+            "title": "Point Out Strengths",
+            "content": "I noticed you're really good at drawing circles, and you picked beautiful colors."
+          },
+          {
+            "title": "Identify Specific Challenge",
+            "content": "The part that's hard is drawing the horse's legs. That's just one part of drawing, not all of it."
+          }
+        ]
+      },
+      {
+        "id": "supporting_initiative",
+        "title": "Supporting Initiative While Setting Boundaries",
+        "scenario": "Your child decides to reorganize the kitchen cabinets while you're on a phone call",
+        "steps": [
+          {
+            "title": "Acknowledge Their Initiative",
+            "content": "I can see you had a great idea about organizing the kitchen. You wanted to help make things neat and tidy."
+          },
+          {
+            "title": "Set Safety Boundaries",
+            "content": "The kitchen cabinets are not for you to reorganize because some things in there aren't safe for children to handle."
+          },
+          {
+            "title": "Redirect Positively",
+            "content": "I love that you want to help organize things. Let's find a place where you can use that great organizing energy."
+          },
+          {
+            "title": "Offer Alternative",
+            "content": "How about we organize your art supplies together after I finish this call?"
+          }
+        ]
+      },
+      {
+        "id": "routine_dependency",
+        "title": "Working with Routine Dependency",
+        "scenario": "Your child melts down because their usual bedtime routine is interrupted",
+        "steps": [
+          {
+            "title": "Acknowledge Their Upset",
+            "content": "You're really upset because we're not doing bedtime the usual way tonight. You were expecting to brush teeth, then story, then songs, just like always."
+          },
+          {
+            "title": "Normalize Their Feeling",
+            "content": "It's hard when things change from what we expect."
+          },
+          {
+            "title": "Provide Security",
+            "content": "Even though we're doing things a little differently tonight, you're still safe, and I'm still here with you."
+          },
+          {
+            "title": "Offer Reassurance",
+            "content": "Tomorrow we can go back to our regular routine."
+          }
+        ]
+      },
+      {
+        "id": "magical_thinking",
+        "title": "Responding to Magical Thinking",
+        "scenario": "Your child tells you an elaborate story mixing reality and fantasy about their day at school",
+        "steps": [
+          {
+            "title": "Appreciate Their Creativity",
+            "content": "What an interesting story! It sounds like you had some real things happen at school and some things you imagined."
+          },
+          {
+            "title": "Value Both Types of Stories",
+            "content": "Both real stories and imaginary stories can be fun to tell."
+          },
+          {
+            "title": "Teach Discernment",
+            "content": "Can you help me figure out which parts really happened and which parts came from your imagination?"
+          },
+          {
+            "title": "Encourage Continued Sharing",
+            "content": "I love hearing both kinds of stories from you."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "topic": {
+    "id": "child_development",
+    "categoryIds": [
+      "parenting_foundations",
+      "child"
+    ],
+    "title": "Entendiendo el Desarrollo Infantil (3-7)",
+    "description": "Decodifica la mente en desarrollo de tu hijo y responde a sus necesidades únicas",
+    "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/foundations.jpg",
+    "articles": [
+      {
+        "id": "emotional_milestones",
+        "title": "Hitos del Desarrollo Emocional",
+        "description": "Sigue el crecimiento emocional de tu hijo y proporciona apoyo apropiado para su edad",
+        "category": "Ciencia",
+        "readTime": 11,
+        "content": "# Hitos del Desarrollo Emocional\n\nEl desarrollo emocional de tu hijo sigue un patrón generalmente predecible, aunque cada niño se mueve a través de estas etapas a su propio ritmo.\n\n## Edades 3-4: Reconocimiento Emocional y Expresión Básica\n\nDurante este período, tu hijo está aprendiendo a identificar y nombrar emociones, tanto en sí mismo como en otros. Están comenzando a entender que las personas tienen sentimientos y que esos sentimientos pueden ser diferentes a los suyos.\n\n## Edades 4-5: Comienza la Regulación Emocional\n\nEste es cuando tu hijo comienza a desarrollar la capacidad de hacer una pausa entre sentir una emoción y expresarla. Pueden seguir golpeando cuando están enojados, pero también están comenzando a entender que golpear no es aceptable.\n\n## Edades 5-6: Comprensión Emocional Compleja\n\nTu hijo comienza a entender que las personas pueden sentir múltiples emociones al mismo tiempo. Pueden reconocer que se sienten tanto emocionados como nerviosos por comenzar la escuela.\n\n## Edades 6-7: Conciencia Emocional Social\n\nTu hijo se vuelve mucho más consciente de las reglas sociales y emocionales. Entienden que hay diferentes expectativas para el comportamiento en casa versus en la escuela.\n\n## Apoyando el Desarrollo Emocional de Tu Hijo\n\nA través de todas estas etapas, recuerda que el desarrollo emocional no es lineal. Tu hijo puede demostrar habilidades emocionales avanzadas un día y parecer retroceder al siguiente.",
+        "tags": [
+          "desarrollo emocional",
+          "hitos",
+          "regulación",
+          "empatía"
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_foundations/emotional_milestones.jpg",
+        "publishedAt": "2025-08-28T10:00:00Z"
+      },
+      {
+        "id": "behavior_explained",
+        "title": "Por Qué Tu Hijo Actúa Como Lo Hace",
+        "description": "Entiende las razones del desarrollo detrás de comportamientos desafiantes",
+        "category": "Guía",
+        "readTime": 10,
+        "content": "# Por Qué Tu Hijo Actúa Como Lo Hace\n\nMuchos comportamientos que frustran a los padres tienen perfecto sentido cuando se ven a través del lente del desarrollo infantil.\n\n## Probar Límites es Desarrollo Cerebral\n\nCuando tu hijo empuja contra las reglas y límites, no está tratando de volverte loco—está haciendo trabajo cerebral importante. Probar límites les ayuda a entender cómo funciona el mundo.\n\n## Las Explosiones Emocionales son Comunicación\n\nLas rabietas y explosiones emocionales de tu hijo son sus intentos de comunicar sentimientos que aún no tienen las habilidades para expresar apropiadamente.\n\n## Las Preguntas Repetitivas Muestran Aprendizaje\n\nCuando tu hijo hace la misma pregunta una y otra vez, incluso después de que la has respondido, no está tratando de molestarte. Está procesando información, buscando tranquilidad, o tratando de entender algo.\n\n## La Regresión es Crecimiento Normal\n\nA veces tu hijo puede parecer retroceder en su desarrollo—queriendo ser tratado como bebé después de actuar independientemente. Esta regresión a menudo ocurre durante momentos de estrés o desarrollo rápido.\n\n## La Expresión Física es Evolutiva\n\nLos niños pequeños expresan emociones a través de sus cuerpos porque sus habilidades verbales y de regulación emocional aún se están desarrollando. Golpear cuando están enojados o saltar cuando están emocionados son respuestas apropiadas para el desarrollo.",
+        "tags": [
+          "comportamiento",
+          "desarrollo",
+          "límites",
+          "comunicación"
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_foundations/behavior_explained.jpg",
+        "publishedAt": "2025-08-28T10:00:00Z"
+      }
+    ],
+    "media": [],
+    "scripts": [
+      {
+        "id": "egocentric_thinking",
+        "title": "Respondiendo al Pensamiento Egocéntrico",
+        "scenario": "Tu hijo no puede entender por qué su hermano no quiere jugar su juego",
+        "steps": [
+          {
+            "title": "Reconoce Su Perspectiva",
+            "content": "Puedo ver que realmente quieres jugar este juego con tu hermana. Piensas que es muy divertido, y es difícil entender por qué ella no quiere jugarlo también."
+          },
+          {
+            "title": "Introduce Otras Perspectivas",
+            "content": "A veces a las personas les gustan cosas diferentes, incluso cuando pensamos que nuestra idea es la mejor."
+          },
+          {
+            "title": "Guía la Resolución de Problemas",
+            "content": "Pensemos en lo que a tu hermana le podría gustar jugar. ¿Qué juegos le gustan usualmente?"
+          },
+          {
+            "title": "Encuentra Terreno Común",
+            "content": "Tal vez podamos encontrar algo que a ambas les parezca divertido."
+          }
+        ]
+      },
+      {
+        "id": "all_or_nothing",
+        "title": "Abordando el Pensamiento de Todo o Nada",
+        "scenario": "Tu hijo dice 'Soy terrible dibujando' después de que un intento no resulta como esperaba",
+        "steps": [
+          {
+            "title": "Valida Su Sentimiento",
+            "content": "Pareces realmente decepcionado de que tu dibujo no saliera como querías."
+          },
+          {
+            "title": "Cuestiona lo Absoluto",
+            "content": "Te escuché decir que eres terrible dibujando. Me pregunto si eres terrible en todo sobre dibujar, o tal vez algunas partes son difíciles y algunas partes son más fáciles?"
+          },
+          {
+            "title": "Señala las Fortalezas",
+            "content": "Noté que eres muy bueno dibujando círculos, y elegiste colores hermosos."
+          },
+          {
+            "title": "Identifica el Desafío Específico",
+            "content": "La parte que es difícil es dibujar las patas del caballo. Esa es solo una parte del dibujo, no todo."
+          }
+        ]
+      },
+      {
+        "id": "supporting_initiative",
+        "title": "Apoyando la Iniciativa Mientras Estableces Límites",
+        "scenario": "Tu hijo decide reorganizar los gabinetes de la cocina mientras estás en una llamada telefónica",
+        "steps": [
+          {
+            "title": "Reconoce Su Iniciativa",
+            "content": "Puedo ver que tuviste una gran idea sobre organizar la cocina. Querías ayudar a hacer las cosas ordenadas y prolijas."
+          },
+          {
+            "title": "Establece Límites de Seguridad",
+            "content": "Los gabinetes de la cocina no son para que los reorganices porque algunas cosas ahí no son seguras para que los niños las manejen."
+          },
+          {
+            "title": "Redirige Positivamente",
+            "content": "Me encanta que quieras ayudar a organizar cosas. Encontremos un lugar donde puedas usar esa gran energía organizadora."
+          },
+          {
+            "title": "Ofrece Alternativa",
+            "content": "¿Qué tal si organizamos tus materiales de arte juntos después de que termine esta llamada?"
+          }
+        ]
+      },
+      {
+        "id": "routine_dependency",
+        "title": "Trabajando con la Dependencia de Rutina",
+        "scenario": "Tu hijo tiene una crisis porque su rutina usual de la hora de dormir se interrumpe",
+        "steps": [
+          {
+            "title": "Reconoce Su Molestia",
+            "content": "Estás realmente molesto porque no estamos haciendo la hora de dormir de la manera usual esta noche. Esperabas cepillarte los dientes, luego el cuento, luego las canciones, como siempre."
+          },
+          {
+            "title": "Normaliza Su Sentimiento",
+            "content": "Es difícil cuando las cosas cambian de lo que esperamos."
+          },
+          {
+            "title": "Proporciona Seguridad",
+            "content": "Aunque estemos haciendo las cosas un poco diferente esta noche, sigues estando seguro, y sigo aquí contigo."
+          },
+          {
+            "title": "Ofrece Tranquilidad",
+            "content": "Mañana podemos volver a nuestra rutina regular."
+          }
+        ]
+      },
+      {
+        "id": "magical_thinking",
+        "title": "Respondiendo al Pensamiento Mágico",
+        "scenario": "Tu hijo te cuenta una historia elaborada mezclando realidad y fantasía sobre su día en la escuela",
+        "steps": [
+          {
+            "title": "Aprecia Su Creatividad",
+            "content": "¡Qué historia tan interesante! Suena como que tuviste algunas cosas reales que pasaron en la escuela y algunas cosas que imaginaste."
+          },
+          {
+            "title": "Valora Ambos Tipos de Historias",
+            "content": "Tanto las historias reales como las imaginarias pueden ser divertidas de contar."
+          },
+          {
+            "title": "Enseña Discernimiento",
+            "content": "¿Puedes ayudarme a descifrar qué partes realmente pasaron y qué partes vinieron de tu imaginación?"
+          },
+          {
+            "title": "Fomenta el Compartir Continuo",
+            "content": "Me encanta escuchar ambos tipos de historias de ti."
+          }
+        ]
+      }
+    ]
+  }
+}
