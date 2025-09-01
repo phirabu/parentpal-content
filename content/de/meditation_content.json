@@ -1,28 +1,16 @@
 {
   "meditations": [
     {
-      "id": "quick-breath-reset",
-      "categoryId": "quick-resets",
-      "title": "3-Minuten Atem-Reset",
-      "description": "Eine schnelle Atempraxis, um dich zu zentrieren, wenn Erziehung überwältigend wird",
-      "durationMinutes": 3,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/",
+      "id": "morning-routine",
+      "categoryId": "parent-meditations",
+      "title": "10-Minuten Morgenroutine",
+      "description": "Meditation, um dich auf die Morgenroutine mit deinen Kindern vorzubereiten. Starte den Tag mit einer liebevollen und verbundenen Routine.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/de/01-Verbundener-Morgen-Meditation.m4a",
       "instructor": "Luisa",
-      "tags": ["atmung", "stressabbau", "schnell", "zentrierung"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
-      "publishedAt": "2024-03-20T10:00:00Z"
-    },
-    {
-      "id": "parenting-pause",
-      "categoryId": "quick-resets", 
-      "title": "Die Erziehungspause",
-      "description": "Finde deine Mitte, bevor du auf herausfordernde Momente mit deinem Kind reagierst",
-      "durationMinutes": 5,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/de/",
-      "instructor": "Luisa",
-      "tags": ["pause", "reaktion", "achtsamkeit", "erziehung"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
-      "publishedAt": "2024-03-20T10:05:00Z"
+      "tags": ["Mantra-Meditation", "Verbundenheit", "kurz", "zentrierung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/01_parent-meditations.jpg",
+      "publishedAt": "2025-08-27T10:00:00Z"
     }
   ]
 }

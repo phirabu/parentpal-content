@@ -3,20 +3,11 @@
     {
       "id": "quick-resets",
       "title": "Reinicios Rápidos",
-      "subtitle": "3-5 minutos",
+      "subtitle": "5-10 minutos",
       "description": "Breves momentos de calma para padres ocupados",
       "color": "#4FC3F7",
       "iconName": "flash_on",
       "sortOrder": 1
-    },
-    {
-      "id": "deep-practice",
-      "title": "Práctica Profunda", 
-      "subtitle": "10-20 minutos",
-      "description": "Cultiva la autocompasión y la presencia",
-      "color": "#6EC6B8",
-      "iconName": "spa",
-      "sortOrder": 2
     }
   ]
 }

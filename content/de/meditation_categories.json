@@ -3,20 +3,11 @@
     {
       "id": "quick-resets",
       "title": "Schnelle Rückbesinnung",
-      "subtitle": "3-5 Minuten",
+      "subtitle": "5-10 Minuten",
       "description": "Kurze Momente der Ruhe für beschäftigte Eltern",
       "color": "#4FC3F7",
       "iconName": "flash_on",
       "sortOrder": 1
-    },
-    {
-      "id": "deep-practice",
-      "title": "Tiefe Praxis", 
-      "subtitle": "10-20 Minuten",
-      "description": "Kultiviere Selbstmitgefühl und Präsenz",
-      "color": "#6EC6B8",
-      "iconName": "spa",
-      "sortOrder": 2
     }
   ]
 }

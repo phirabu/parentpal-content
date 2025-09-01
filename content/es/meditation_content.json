@@ -1,27 +1,15 @@
 {
   "meditations": [
     {
-      "id": "quick-breath-reset",
-      "categoryId": "quick-resets",
-      "title": "Reinicio de Respiración de 3 Minutos",
-      "description": "Una práctica rápida de respiración para centrarte cuando la crianza se siente abrumadora",
-      "durationMinutes": 3,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/",
+      "id": "morning-routine",
+      "categoryId": "parent-meditations",
+      "title": "Rutina matutina de 10 minutos",
+      "description": "Meditación para prepararte para la rutina de la mañana con tus hijos. Empieza el día con una rutina amorosa y conectada.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/es/01-Conectados-en-la-Manana",
       "instructor": "Luisa",
-      "tags": ["respiración", "alivio-estrés", "rápido", "centrarse"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
-      "publishedAt": "2025-08-27T10:00:00Z"
-    },
-    {
-      "id": "parenting-pause",
-      "categoryId": "quick-resets", 
-      "title": "La Pausa de Crianza",
-      "description": "Encuentra tu centro antes de responder a momentos desafiantes con tu hijo",
-      "durationMinutes": 5,
-      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/es/",
-      "instructor": "Luisa",
-      "tags": ["pausa", "respuesta", "atención-plena", "crianza"],
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/",
+      "tags": ["meditación con mantra", "conexión", "rápida", "centrar"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/01_parent-meditations.jpg",
       "publishedAt": "2025-08-27T10:00:00Z"
     }
   ]

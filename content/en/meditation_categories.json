@@ -1,22 +1,13 @@
 {
   "categories": [
     {
-      "id": "quick-resets",
-      "title": "Quick Resets",
-      "subtitle": "3-5 minutes",
+      "id": "parent-meditations",
+      "title": "Parent Meditations",
+      "subtitle": "5-10 minutes",
       "description": "Brief moments of calm for busy parents",
       "color": "#4FC3F7",
       "iconName": "flash_on",
       "sortOrder": 1
-    },
-    {
-      "id": "deep-practice",
-      "title": "Deep Practice", 
-      "subtitle": "10-20 minutes",
-      "description": "Cultivate self-compassion and presence",
-      "color": "#6EC6B8",
-      "iconName": "spa",
-      "sortOrder": 2
     }
   ]
 }
