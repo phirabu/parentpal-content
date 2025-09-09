@@ -90,7 +90,88 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_repairing_reconnection",
+        "title": "Welcome to Repairing & Reconnection",
+        "description": "Introduction that normalizes the universal parent experience of making mistakes and sets the tone for learning how to turn difficult moments into opportunities for deeper connection. Perfection isn't the goal - what matters is what happens after we mess up.",
+        "duration": "1:30",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/repairing_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/2-jrtGcu7pw",
+        "mediaType": "video",
+        "tags": [
+          "repair",
+          "reconnection",
+          "masterclass",
+          "introduction",
+          "accountability"
+        ]
+      },
+      {
+        "id": "when_we_lose_control",
+        "title": "When We Lose Control",
+        "description": "Explores the biology and psychology behind why parents lose control, validating guilt while explaining children's experience during ruptures. Reframes losing control from 'I'm a terrible parent' to 'I'm a human who hit my limit.'",
+        "duration": "4:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/repairing_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/HORqaRxi1CM",
+        "mediaType": "video",
+        "tags": [
+          "nervous system",
+          "triggers",
+          "guilt",
+          "shame",
+          "biology"
+        ]
+      },
+      {
+        "id": "how_to_repair_with_child",
+        "title": "How to Repair With Your Child",
+        "description": "Practical guide with specific scripts and strategies for repairing with children aged 3-7. Breaks down the five-step formula: regulate yourself, get on their level, name what happened, acknowledge their experience, share your plan.",
+        "duration": "5:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/repairing_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/IvKxYIQMTdY",
+        "mediaType": "video",
+        "tags": [
+          "repair scripts",
+          "age-appropriate",
+          "accountability",
+          "communication",
+          "five-step formula"
+        ]
+      },
+      {
+        "id": "preventing_future_breakdowns",
+        "title": "Preventing Future Breakdowns",
+        "description": "Helps parents identify physical and emotional warning signs before losing control. Emphasizes sustainable self-awareness practices over perfect prevention, encouraging small maintainable habits that support better regulation.",
+        "duration": "4:30",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/repairing_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/nQhNLBHRql0",
+        "mediaType": "video",
+        "tags": [
+          "prevention",
+          "self-awareness",
+          "triggers",
+          "warning signs",
+          "self-compassion"
+        ]
+      },
+      {
+        "id": "outro_repairing_reconnection",
+        "title": "Outro - Repairing & Reconnection",
+        "description": "Encouraging conclusion reinforcing that repair builds relationships where love remains steady through life's messy moments. Children need adults who can take responsibility, apologize genuinely, and demonstrate that relationships can weather storms.",
+        "duration": "1:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/repairing_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/3WHqVyY-Nec",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "encouragement",
+          "love",
+          "resilience",
+          "humanity"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "repairing_after_yelling",
