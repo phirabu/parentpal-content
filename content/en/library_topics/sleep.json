@@ -90,7 +90,248 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_sleep_masterclass",
+        "title": "Welcome to Sleep: Building Peaceful Bedtime Routines",
+        "description": "Introduction to transforming bedtime from a nightly battle into a peaceful transition that both you and your child can look forward to. Learn a collaborative approach that makes your child a partner in creating sustainable routines.",
+        "duration": "0:48",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/07j12o3r8sE",
+        "mediaType": "video",
+        "tags": [
+          "sleep",
+          "bedtime routines",
+          "masterclass",
+          "introduction"
+        ]
+      },
+      {
+        "id": "understanding_sleep_challenges",
+        "title": "Understanding Sleep Challenges",
+        "description": "Discover why bedtime becomes such a struggle for 3-7 year olds and how understanding your child's sleep resistance changes your entire approach. Core insight: 'Your child wants to sleep well - they just need help getting there.'",
+        "duration": "4:09",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/igtdL4YhlaM",
+        "mediaType": "video",
+        "tags": [
+          "sleep challenges",
+          "resistance",
+          "understanding",
+          "child development"
+        ]
+      },
+      {
+        "id": "three_step_approach_sleep",
+        "title": "The Three-Step Approach: Including Your Child in Sleep Success",
+        "description": "Learn the game-changing framework that transforms bedtime battles by making your child an active participant in creating sleep solutions. Core concept: 'When children help write the story, they're more likely to follow it.'",
+        "duration": "3:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/1odoOeIEaCg",
+        "mediaType": "video",
+        "tags": [
+          "three-step approach",
+          "collaboration",
+          "sleep solutions",
+          "framework"
+        ]
+      },
+      {
+        "id": "creating_your_sleep_story",
+        "title": "Creating Your Sleep Story",
+        "description": "Step-by-step guide to collaboratively developing bedtime routines and boundaries with your child during calm moments, making them co-authors of bedtime success. Best time: weekend mornings or after-school snacks.",
+        "duration": "3:41",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/LvlsUbzGJwo",
+        "mediaType": "video",
+        "tags": [
+          "sleep story",
+          "collaboration",
+          "routines",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "sharing_story_preparing_changes",
+        "title": "Sharing Your Story: Preparing Your Child for Sleep Changes",
+        "description": "How to introduce new bedtime expectations in a way that feels supportive rather than punitive, setting everyone up for success. Present changes as 'our plan' not 'my rules' using positive, collaborative language.",
+        "duration": "4:06",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/clcEJHm7T1A",
+        "mediaType": "video",
+        "tags": [
+          "communication",
+          "expectations",
+          "preparation",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "following_through_consistently",
+        "title": "Following Through Consistently",
+        "description": "The secret to making sleep changes stick - how to respond calmly and consistently when your child tests the new boundaries. Consistency builds trust and security through brief responses that prevent engagement cycles.",
+        "duration": "3:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/ul5O_WDPrI8",
+        "mediaType": "video",
+        "tags": [
+          "consistency",
+          "boundaries",
+          "calm response",
+          "follow through"
+        ]
+      },
+      {
+        "id": "bedtime_stalling_tactics",
+        "title": "Bedtime Stalling Tactics: Beyond One More",
+        "description": "Practical strategies for handling endless requests for water, bathroom trips, and 'just one more' that turn bedtime into a marathon. Build legitimate needs into the routine with one 'last chance' for requests.",
+        "duration": "4:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/qvgQVnv2lnc",
+        "mediaType": "video",
+        "tags": [
+          "stalling tactics",
+          "boundaries",
+          "bedtime requests",
+          "strategies"
+        ]
+      },
+      {
+        "id": "goodnight_not_goodbye",
+        "title": "Goodnight Is Not Goodbye",
+        "description": "Help your child understand that sleep is just a pause, not abandonment, addressing the deep separation anxiety that fuels bedtime resistance. Create connection anchors for nighttime and meaningful morning reunion rituals.",
+        "duration": "3:51",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/_uHKbhHKKrw",
+        "mediaType": "video",
+        "tags": [
+          "separation anxiety",
+          "connection",
+          "reassurance",
+          "attachment"
+        ]
+      },
+      {
+        "id": "turning_fear_into_power",
+        "title": "Turning Fear into Power: Helping Children Face Bedtime Monsters",
+        "description": "Transform bedtime fears from obstacles into opportunities for empowerment, using imagination as a tool rather than the enemy. Never dismiss fears as 'not real' - help your child become the hero of their story.",
+        "duration": "3:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/jVxTsecv-W4",
+        "mediaType": "video",
+        "tags": [
+          "bedtime fears",
+          "monsters",
+          "empowerment",
+          "imagination"
+        ]
+      },
+      {
+        "id": "middle_night_wake_ups",
+        "title": "Middle of Night Wake-Ups",
+        "description": "How to respond when your child appears at your bedside at 2 AM, balancing their need for comfort with everyone's need for sleep. Keep interactions brief and boring while maintaining consistency.",
+        "duration": "3:51",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/1wBT9XIiIvA",
+        "mediaType": "video",
+        "tags": [
+          "night wakings",
+          "sleep disruption",
+          "consistency",
+          "nighttime routine"
+        ]
+      },
+      {
+        "id": "transitioning_from_cosleeping",
+        "title": "Transitioning from Co-Sleeping: A Gentle Two-Stage Approach",
+        "description": "A respectful, gradual method for families ready to transition from co-sleeping to independent sleep, honoring the attachment while building independence. Two stages: parent present but not in bed, then gradual distance increase.",
+        "duration": "3:44",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/r69wR-KRWK0",
+        "mediaType": "video",
+        "tags": [
+          "co-sleeping",
+          "transition",
+          "independence",
+          "gentle approach"
+        ]
+      },
+      {
+        "id": "when_child_needs_presence",
+        "title": "When Your Child Needs You Present",
+        "description": "Strategies for children who genuinely need parental presence to fall asleep, including how to gradually build independence without trauma. Presence doesn't mean engagement - use gradual fading technique.",
+        "duration": "3:57",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/n4ANWT4rJsA",
+        "mediaType": "video",
+        "tags": [
+          "parental presence",
+          "gradual fading",
+          "support",
+          "independence"
+        ]
+      },
+      {
+        "id": "power_struggles_around_sleep",
+        "title": "Power Struggles Around Sleep",
+        "description": "When bedtime becomes a control battle, learn how to step out of the struggle and restore cooperation without sacrificing boundaries. Power struggles need two participants - offer choices within boundaries.",
+        "duration": "3:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_13.jpg",
+        "mediaUrl": "https://youtu.be/aDnp6iid0mQ",
+        "mediaType": "video",
+        "tags": [
+          "power struggles",
+          "cooperation",
+          "boundaries",
+          "de-escalation"
+        ]
+      },
+      {
+        "id": "daily_reflection_progress",
+        "title": "Daily Reflection and Progress",
+        "description": "Learn to track sleep progress realistically, celebrating small wins while maintaining patience with the longer journey. Progress isn't linear - notice patterns over weeks, not days.",
+        "duration": "4:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_14.jpg",
+        "mediaUrl": "https://youtu.be/ofFKVvekm1w",
+        "mediaType": "video",
+        "tags": [
+          "progress tracking",
+          "reflection",
+          "celebration",
+          "patience"
+        ]
+      },
+      {
+        "id": "building_healthy_sleep_routines",
+        "title": "Building Healthy Sleep Routines",
+        "description": "Create a bedtime routine that actually works for your family, with the right balance of connection, predictability, and boundaries. Routine starts 45-60 minutes before sleep with the same order every night.",
+        "duration": "4:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_15.jpg",
+        "mediaUrl": "https://youtu.be/ajxBAG1gVGU",
+        "mediaType": "video",
+        "tags": [
+          "bedtime routine",
+          "structure",
+          "predictability",
+          "family dynamics"
+        ]
+      },
+      {
+        "id": "sleep_bedtime_outro",
+        "title": "Sleep and Bedtime Outro",
+        "description": "Celebration of your commitment to transforming bedtime and encouragement for the journey ahead as you implement these sleep strategies. Remember: small steps lead to peaceful nights.",
+        "duration": "1:24",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/sleep_masterclass_16.jpg",
+        "mediaUrl": "https://youtu.be/s4Tlskflwtw",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "encouragement",
+          "strategies",
+          "journey"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_sleep_changes_story_approach",
