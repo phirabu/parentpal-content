@@ -90,7 +90,200 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "introduction_discipline_natural_consequences",
+        "title": "Introduction - Discipline & Natural Consequences",
+        "description": "Welcome video setting the stage for transforming how parents think about discipline. Addresses the confusion between discipline and punishment, introducing discipline as guidance and teaching rather than making children feel bad.",
+        "duration": "0:53",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/tNoq_U2AOkQ",
+        "mediaType": "video",
+        "tags": [
+          "discipline",
+          "natural consequences",
+          "masterclass",
+          "introduction",
+          "guidance"
+        ]
+      },
+      {
+        "id": "redefining_discipline",
+        "title": "Redefining Discipline",
+        "description": "Explores the crucial difference between discipline and punishment. True discipline teaches and builds children up through understanding and growth, while punishment tears down through shame and fear. Not about being permissive, but responding with curiosity instead of judgment.",
+        "duration": "4:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/DMcPQnUMvMw",
+        "mediaType": "video",
+        "tags": [
+          "discipline philosophy",
+          "teaching",
+          "punishment alternatives",
+          "empathy",
+          "growth mindset"
+        ]
+      },
+      {
+        "id": "why_punishments_backfire",
+        "title": "Why Punishments Backfire",
+        "description": "Explains why traditional punishment strategies often make behavior worse. Using the iceberg metaphor, shows how punishments only address surface behavior while ignoring underlying needs and feelings that drive challenging actions.",
+        "duration": "4:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/gwCuyy3iuso",
+        "mediaType": "video",
+        "tags": [
+          "punishment effects",
+          "iceberg metaphor",
+          "underlying needs",
+          "behavior drivers",
+          "connection"
+        ]
+      },
+      {
+        "id": "staying_calm_difficult_moments",
+        "title": "Staying Calm in Difficult Moments",
+        "description": "Tackles the critical moment when parents feel triggered. Emphasizes that the parent's emotional state is the real emergency. Learn breathing strategies, recognizing triggers, lowering voice, and getting physically closer to your child.",
+        "duration": "3:19",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/WwEm9uyJcUY",
+        "mediaType": "video",
+        "tags": [
+          "self-regulation",
+          "calm parenting",
+          "triggers",
+          "breathing techniques",
+          "repair"
+        ]
+      },
+      {
+        "id": "setting_clear_boundaries_without_punishment",
+        "title": "Setting Clear Boundaries Without Punishment",
+        "description": "Introduces the 'Yes, we are' approach to end repeated requests followed by yelling. Learn to mean what you say the first time by being physically present, making eye contact, and following through with calm consistency.",
+        "duration": "3:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/AHV4YhaGvKQ",
+        "mediaType": "video",
+        "tags": [
+          "boundaries",
+          "consistency",
+          "follow-through",
+          "cooperation",
+          "presence"
+        ]
+      },
+      {
+        "id": "natural_vs_unrelated_consequences",
+        "title": "Natural vs Unrelated Consequences",
+        "description": "Helps parents understand the difference between consequences that flow naturally from behavior versus arbitrary punishments. Natural consequences teach cause and effect without power struggles, helping children understand how the world works.",
+        "duration": "5:04",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/r9jfG7nOBo8",
+        "mediaType": "video",
+        "tags": [
+          "natural consequences",
+          "logical consequences",
+          "cause and effect",
+          "learning",
+          "real world"
+        ]
+      },
+      {
+        "id": "alternatives_to_timeout",
+        "title": "Alternatives to Timeout",
+        "description": "Reveals why traditional timeouts often fail and provides two powerful alternatives: Time-In and Time-Away. Young children need adult support to regulate emotions, not isolation. Learn to create supportive calm-down spaces.",
+        "duration": "3:53",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/GL_oBRt8CiE",
+        "mediaType": "video",
+        "tags": [
+          "timeout alternatives",
+          "time-in",
+          "co-regulation",
+          "calm-down space",
+          "emotional support"
+        ]
+      },
+      {
+        "id": "addressing_underlying_emotions",
+        "title": "Addressing Underlying Emotions",
+        "description": "Teaches parents to become emotional detectives, looking beneath surface behaviors to understand feelings driving challenging actions. Hitting stems from powerlessness, lying from fear, defiance from needing control.",
+        "duration": "3:24",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/1HkWmGC8aNo",
+        "mediaType": "video",
+        "tags": [
+          "emotional intelligence",
+          "underlying feelings",
+          "behavior detective",
+          "validation",
+          "root causes"
+        ]
+      },
+      {
+        "id": "when_there_are_no_consequences",
+        "title": "When There Are No Consequences",
+        "description": "Shows that not every boundary needs a consequence. Some situations need gentle, firm follow-through on life's non-negotiables. Children find comfort in predictable routines guided by loving, confident adults.",
+        "duration": "2:51",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/rm5kCshcUHc",
+        "mediaType": "video",
+        "tags": [
+          "non-negotiables",
+          "routines",
+          "gentle persistence",
+          "confidence",
+          "predictability"
+        ]
+      },
+      {
+        "id": "understanding_rewards_incentives",
+        "title": "Understanding Rewards and Incentives",
+        "description": "Balanced view on when rewards help and when they undermine intrinsic motivation. While rewards can jumpstart new routines, over-reliance leads children to lose touch with internal satisfaction and pride.",
+        "duration": "3:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/rfiDjvjLaTI",
+        "mediaType": "video",
+        "tags": [
+          "rewards",
+          "intrinsic motivation",
+          "internal satisfaction",
+          "incentives",
+          "balance"
+        ]
+      },
+      {
+        "id": "transition_punishment_to_guidance",
+        "title": "Making the Transition from Punishment to Guidance",
+        "description": "Guides parents through shifting from punishment-based discipline to guidance-focused approaches. Addresses explaining changes to children, handling initial testing, and managing slip-ups. Progress over perfection.",
+        "duration": "3:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/oCVjRoz0PqE",
+        "mediaType": "video",
+        "tags": [
+          "transition",
+          "change process",
+          "progress",
+          "testing boundaries",
+          "patience"
+        ]
+      },
+      {
+        "id": "outro_discipline_journey_forward",
+        "title": "Outro - Your Journey Forward with Discipline and Consequences",
+        "description": "Inspiring conclusion reinforcing that discipline is about guidance, not punishment. Every moment choosing connection over control builds trust and cooperation. You're raising children who will internalize lifelong emotional skills.",
+        "duration": "1:05",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/discipline_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/iAgDV9TLl1w",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "encouragement",
+          "character building",
+          "trust",
+          "long-term vision"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "setting_clear_boundaries_without_punishment",
