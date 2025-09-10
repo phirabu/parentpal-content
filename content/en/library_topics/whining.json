@@ -90,7 +90,113 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_understanding_whining",
+        "title": "Welcome to Understanding Whining",
+        "description": "Introduction acknowledging the universal parent experience of feeling frustrated by whining while setting a supportive tone. Frames whining as a solvable communication challenge and previews practical strategies.",
+        "duration": "0:36",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/zQQxze4zs1M",
+        "mediaType": "video",
+        "tags": [
+          "whining",
+          "introduction",
+          "communication",
+          "masterclass"
+        ]
+      },
+      {
+        "id": "when_whining_takes_over",
+        "title": "When Whining Takes Over",
+        "description": "Helps parents distinguish between normal developmental whining and problematic patterns where whining becomes the default communication mode. Learn why children develop these habits and recognize real-world examples.",
+        "duration": "3:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/cb0O_yNKD70",
+        "mediaType": "video",
+        "tags": [
+          "whining patterns",
+          "communication habits",
+          "behavior recognition",
+          "family dynamics"
+        ]
+      },
+      {
+        "id": "speaking_honestly_about_needs",
+        "title": "Speaking Honestly About What We Need",
+        "description": "Challenges common responses like 'I can't hear you when you whine' and introduces authentic communication that models honesty. Learn to be truthful about your reactions without being harsh.",
+        "duration": "3:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/oPZjH3JUmso",
+        "mediaType": "video",
+        "tags": [
+          "honest communication",
+          "authenticity",
+          "parent responses",
+          "modeling behavior"
+        ]
+      },
+      {
+        "id": "helping_children_recognize_communication",
+        "title": "Helping Children Recognize Their Communication Choices",
+        "description": "Provides playful, shame-free methods for helping children recognize different voice tones and communication styles. Emphasizes teaching during calm moments rather than correcting during whining episodes.",
+        "duration": "3:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/GspGFkm3gGg",
+        "mediaType": "video",
+        "tags": [
+          "voice awareness",
+          "teaching strategies",
+          "skill building",
+          "playful learning"
+        ]
+      },
+      {
+        "id": "helper_mindset_in_action",
+        "title": "Your Helper Mindset in Action",
+        "description": "Teaches how to shift from frustrated reactions to helpful guidance when whining occurs. Provides specific language and mindset shifts for responding in the moment while managing your own emotions.",
+        "duration": "2:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/7NZApCGoh9w",
+        "mediaType": "video",
+        "tags": [
+          "real-time response",
+          "emotional regulation",
+          "helper mindset",
+          "parent guidance"
+        ]
+      },
+      {
+        "id": "when_whining_tests_boundaries",
+        "title": "When Whining Tests Boundaries",
+        "description": "Addresses when children use escalated whining to test limits and try to change decisions. Learn to maintain boundaries with empathy while avoiding power struggles.",
+        "duration": "2:58",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/ksHBUB5i3wQ",
+        "mediaType": "video",
+        "tags": [
+          "boundaries",
+          "limit testing",
+          "empathy",
+          "validation"
+        ]
+      },
+      {
+        "id": "building_stronger_communication",
+        "title": "Building Stronger Communication Together",
+        "description": "Reinforces that building better communication is a process requiring time and patience. Focus on progress over perfection and celebrate the relationship-building aspects of this approach.",
+        "duration": "0:57",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/whining_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/oCJBORlDBpw",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "progress",
+          "relationship building",
+          "encouragement"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "general_whining_response",
