@@ -90,7 +90,188 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_parenting_principles",
+        "title": "Welcome to Parenting Principles & Foundation",
+        "description": "Introduction that sets the stage for building a solid foundation before tackling specific challenges. Learn five core principles that serve as practical tools for every parenting situation with children aged 3-7.",
+        "duration": "0:57",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/XYvNlxSxqUQ",
+        "mediaType": "video",
+        "tags": [
+          "foundation",
+          "principles",
+          "introduction",
+          "masterclass"
+        ]
+      },
+      {
+        "id": "emotional_compass_navigation",
+        "title": "The Emotional Compass - Your Child's Internal Navigation System",
+        "description": "Learn that all child behavior points toward underlying emotions, like a compass pointing north. Look beyond surface behaviors to understand the feelings driving your child's actions, transforming your response from reactive to responsive.",
+        "duration": "1:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/S9GWKRE_1sQ",
+        "mediaType": "video",
+        "tags": [
+          "emotions",
+          "behavior",
+          "understanding",
+          "connection"
+        ]
+      },
+      {
+        "id": "calm_leadership_temperature",
+        "title": "Calm Leadership - You Set the Emotional Temperature",
+        "description": "Discover you are the emotional thermostat in your home, setting the temperature your child will match. Learn the power of staying regulated during child meltdowns, using your calm nervous system to help your child find balance.",
+        "duration": "1:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/QVc3gapH5vg",
+        "mediaType": "video",
+        "tags": [
+          "emotional regulation",
+          "co-regulation",
+          "calm leadership",
+          "lighthouse"
+        ]
+      },
+      {
+        "id": "connected_boundaries_limits",
+        "title": "Connected Boundaries - Setting Limits with Love",
+        "description": "Learn how to maintain firm limits while staying emotionally connected to your child. You don't have to choose between being kind and being clear - connected boundaries allow for both simultaneously.",
+        "duration": "2:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/u_fYuOQtMfc",
+        "mediaType": "video",
+        "tags": [
+          "boundaries",
+          "limits",
+          "connection",
+          "validation"
+        ]
+      },
+      {
+        "id": "developmental_lens_understanding",
+        "title": "The Developmental Lens - Seeing Through Your Child's Eyes",
+        "description": "Gain insight into your child's developing brain and learn that behaviors aren't character flaws but normal developmental stages. Understand how children think concretely, live in the present, and believe in magical thinking.",
+        "duration": "2:16",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/qgJgFKan-VY",
+        "mediaType": "video",
+        "tags": [
+          "brain development",
+          "age-appropriate",
+          "expectations",
+          "magical thinking"
+        ]
+      },
+      {
+        "id": "growth_mindset_progress",
+        "title": "Growth Mindset - Progress Over Perfection",
+        "description": "Reframe parenting as a practice rather than a performance. Learn to embrace mistakes as learning opportunities, model resilience, celebrate small wins, and maintain realistic expectations for both yourself and your child.",
+        "duration": "2:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/mpVqqzaB6mY",
+        "mediaType": "video",
+        "tags": [
+          "growth mindset",
+          "progress",
+          "resilience",
+          "learning"
+        ]
+      },
+      {
+        "id": "authentic_communication_clarity",
+        "title": "Authentic Communication - Saying What You Actually Mean",
+        "description": "Eliminate confusing rhetorical questions and indirect communication. Learn to speak clearly and directly to your children, reducing power struggles and teaching them to trust your words.",
+        "duration": "2:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/EUcXLi-rnOU",
+        "mediaType": "video",
+        "tags": [
+          "communication",
+          "clarity",
+          "directness",
+          "trust"
+        ]
+      },
+      {
+        "id": "emotional_validation_power",
+        "title": "Emotional Validation - The Power of Being Truly Seen",
+        "description": "Discover the transformative power of seeing, acknowledging, and accepting your child's emotional experience without trying to fix or minimize it. Learn how validation naturally settles emotions and builds trust.",
+        "duration": "2:22",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/TVZdFi4xiNk",
+        "mediaType": "video",
+        "tags": [
+          "validation",
+          "emotions",
+          "understanding",
+          "presence"
+        ]
+      },
+      {
+        "id": "consistent_presence_anchor",
+        "title": "Consistent Presence - Being Your Child's Steady Anchor",
+        "description": "Be your child's emotional anchor through consistent, steady presence especially during difficult moments. Learn to show up emotionally available and regulated, building the trust and safety children need to thrive.",
+        "duration": "2:22",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/8zcScvwKfCo",
+        "mediaType": "video",
+        "tags": [
+          "presence",
+          "emotional anchor",
+          "reliability",
+          "trust"
+        ]
+      },
+      {
+        "id": "building_connection_foundation",
+        "title": "Building Connection - The Foundation of Everything Else",
+        "description": "Explore how genuine connection makes all other parenting strategies more effective. Learn practical ways to make emotional deposits through small daily moments and build connection even while setting boundaries.",
+        "duration": "2:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/oYThWzbIRYs",
+        "mediaType": "video",
+        "tags": [
+          "connection",
+          "relationship",
+          "emotional deposits",
+          "cooperation"
+        ]
+      },
+      {
+        "id": "putting_together_principles",
+        "title": "Putting It All Together - Your Principles in Action",
+        "description": "See how all five principles work together in real parenting moments. Using a challenging morning routine scenario, learn how each principle contributes to a calmer, more connected response.",
+        "duration": "2:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/fOqU7tijHqQ",
+        "mediaType": "video",
+        "tags": [
+          "integration",
+          "principles",
+          "practice",
+          "application"
+        ]
+      },
+      {
+        "id": "foundation_set_confidence",
+        "title": "Your Foundation is Set - Moving Forward with Confidence",
+        "description": "Reinforcement of the five core principles with encouragement to practice them with patience and self-compassion. Perfection isn't required - just presence, persistence, and love through the growth process.",
+        "duration": "1:28",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/parenting_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/qCcDoYiyqcg",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "encouragement",
+          "progress",
+          "self-compassion"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "staying_calm_outbursts",
