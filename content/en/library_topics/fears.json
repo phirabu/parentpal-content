@@ -90,7 +90,248 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_fears_anxiety",
+        "title": "Welcome to Fears and Anxiety",
+        "description": "A warm introduction to supporting children through fears and anxiety. This video normalizes childhood fears while previewing the module's core approach: building coping skills rather than eliminating fears entirely.",
+        "duration": "0:41",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/CwI2s5TwTuU",
+        "mediaType": "video",
+        "tags": [
+          "fears",
+          "anxiety",
+          "introduction",
+          "coping skills"
+        ]
+      },
+      {
+        "id": "understanding_childhood_fears_video",
+        "title": "Understanding Childhood Fears",
+        "description": "Explores the science behind childhood fears and why they appear so strongly in ages 3-7. Reframes fear as a protective mechanism rather than a problem to be solved. Core insight: 'Fear deserves the same respect as physical pain.'",
+        "duration": "4:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/ki0Q18QwWD0",
+        "mediaType": "video",
+        "tags": [
+          "fear science",
+          "protective mechanism",
+          "brain development",
+          "survival instinct"
+        ]
+      },
+      {
+        "id": "child_afraid_to_be_alone",
+        "title": "When Your Child Is Afraid to Be Alone",
+        "description": "Addresses children who follow parents constantly or become distressed when separated. Explains the emotional basis behind this common fear and how their sense of security is tied to physical presence.",
+        "duration": "4:26",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/7N4kDBhYzoA",
+        "mediaType": "video",
+        "tags": [
+          "separation anxiety",
+          "being alone",
+          "attachment",
+          "security"
+        ]
+      },
+      {
+        "id": "conversation_games_building_connection",
+        "title": "Conversation and Games for Building Connection",
+        "description": "Provides specific tools and games like 'Can't See Me But You Can Hear Me' to help children develop confidence about being alone while maintaining connection. Games should feel playful and light.",
+        "duration": "4:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/E7oEa0d9jgA",
+        "mediaType": "video",
+        "tags": [
+          "games",
+          "connection",
+          "coping tools",
+          "imagination"
+        ]
+      },
+      {
+        "id": "building_independence_gradually",
+        "title": "Building Independence Gradually",
+        "description": "Shows how to apply foundation games to real-life situations through 'micro-brave moments.' Each successful experience creates a deposit in their confidence bank, building internalized feelings of capability.",
+        "duration": "3:53",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/bJMpC0neJ2Y",
+        "mediaType": "video",
+        "tags": [
+          "independence",
+          "brave moments",
+          "confidence building",
+          "gradual exposure"
+        ]
+      },
+      {
+        "id": "when_trauma_creates_fear",
+        "title": "When Trauma Creates Fear",
+        "description": "Addresses fears that develop after scary experiences, distinguishing trauma-based fears from developmental fears. Avoiding discussion of traumatic events makes fears grow through isolation.",
+        "duration": "4:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/99F0_1Ba3Ok",
+        "mediaType": "video",
+        "tags": [
+          "trauma",
+          "post-incident fears",
+          "processing",
+          "safety"
+        ]
+      },
+      {
+        "id": "telling_the_story",
+        "title": "Telling the Story",
+        "description": "Explains the powerful healing tool of repeatedly discussing scary experiences with children. Telling the story helps organize fragmented scary memories into a complete picture, with repetition being healing.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/-mcaJio3JGA",
+        "mediaType": "video",
+        "tags": [
+          "storytelling",
+          "trauma processing",
+          "memory organization",
+          "healing"
+        ]
+      },
+      {
+        "id": "building_coping_after_trauma",
+        "title": "Building Coping After Trauma",
+        "description": "Focuses on helping children develop resilience after frightening experiences. Recovery isn't about forgetting, but about building the child's sense of safety and capability moving forward.",
+        "duration": "3:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/e_XY3KAfWEI",
+        "mediaType": "video",
+        "tags": [
+          "post-traumatic growth",
+          "resilience",
+          "coping skills",
+          "recovery"
+        ]
+      },
+      {
+        "id": "understanding_anxiety_in_child",
+        "title": "Understanding Anxiety in Your Child",
+        "description": "Distinguishes between specific fears and generalized anxiety. Anxiety often shows up in behaviors rather than words - nail biting, sleep problems, and 'difficult' behavior may mask underlying anxiety.",
+        "duration": "4:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/_iUTQLVtvq8",
+        "mediaType": "video",
+        "tags": [
+          "anxiety signs",
+          "behavioral symptoms",
+          "generalized anxiety",
+          "recognition"
+        ]
+      },
+      {
+        "id": "sitting_with_feelings_presence",
+        "title": "Sitting With Feelings: The Power of Presence Over Problem-Solving",
+        "description": "Teaches parents how to provide emotional support by validating feelings before jumping to solutions. Your calm presence is often more powerful than immediate solutions, building internal resilience.",
+        "duration": "4:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/upebE9QLTXA",
+        "mediaType": "video",
+        "tags": [
+          "validation",
+          "emotional presence",
+          "co-regulation",
+          "trust building"
+        ]
+      },
+      {
+        "id": "exploring_anxious_feelings_together",
+        "title": "Exploring Anxious Feelings Together",
+        "description": "Provides tools for helping children understand and articulate their anxious feelings. When children can identify and name their feelings, they gain power over them rather than being overwhelmed.",
+        "duration": "4:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/OnFw2wVtgLo",
+        "mediaType": "video",
+        "tags": [
+          "emotional vocabulary",
+          "body awareness",
+          "self-awareness",
+          "mind-body connection"
+        ]
+      },
+      {
+        "id": "handling_what_if_questions",
+        "title": "Handling 'What If' Questions",
+        "description": "Addresses the common pattern of anxious children asking repetitive 'what if' questions. Helps children learn to tolerate uncertainty rather than seeking constant reassurance from anxiety's control attempts.",
+        "duration": "4:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/dpHKu5qH-tI",
+        "mediaType": "video",
+        "tags": [
+          "what if questions",
+          "uncertainty tolerance",
+          "reassurance seeking",
+          "brave thoughts"
+        ]
+      },
+      {
+        "id": "when_anxiety_shows_in_body",
+        "title": "When Anxiety Shows Up in the Body",
+        "description": "Helps parents understand physical symptoms of anxiety like stomachaches before stressful events. Physical symptoms from emotional stress are real - validate both realities while building emotional awareness.",
+        "duration": "4:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_13.jpg",
+        "mediaUrl": "https://youtu.be/sr3t5xsDue4",
+        "mediaType": "video",
+        "tags": [
+          "physical symptoms",
+          "stomachaches",
+          "mind-body connection",
+          "somatic anxiety"
+        ]
+      },
+      {
+        "id": "understanding_anxiety_behaviors",
+        "title": "Understanding Anxiety Behaviors",
+        "description": "Explores how anxiety manifests in behavioral changes and helps parents respond with understanding. That 'difficult' behavior might actually be anxiety overflow - understanding this changes how we respond.",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_14.jpg",
+        "mediaUrl": "https://youtu.be/qrG5HWZinzw",
+        "mediaType": "video",
+        "tags": [
+          "anxiety behaviors",
+          "defiance",
+          "avoidance",
+          "emotional distress"
+        ]
+      },
+      {
+        "id": "building_resilience_trusting_strength",
+        "title": "Building Resilience: Trusting Their Inner Strength",
+        "description": "Focuses on helping children discover their own internal resources and coping abilities. Guide them to become their own problem solvers and recognize they've overcome challenges before.",
+        "duration": "4:04",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_15.jpg",
+        "mediaUrl": "https://youtu.be/K7KG9D8ykOY",
+        "mediaType": "video",
+        "tags": [
+          "resilience",
+          "inner strength",
+          "problem solving",
+          "self-efficacy"
+        ]
+      },
+      {
+        "id": "moving_forward_with_confidence",
+        "title": "Moving Forward with Confidence",
+        "description": "A supportive conclusion reinforcing that fears are natural and normal. Your patient, supportive presence teaches children they're stronger than they realize. Every small step forward matters.",
+        "duration": "1:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/anxiety_masterclass_16.jpg",
+        "mediaUrl": "https://youtu.be/VjH7AjpnJc4",
+        "mediaType": "video",
+        "tags": [
+          "confidence",
+          "conclusion",
+          "support",
+          "progress"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "child_wont_stay_alone",
