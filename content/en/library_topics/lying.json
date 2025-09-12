@@ -90,7 +90,248 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_lying_stealing",
+        "title": "Welcome to Lying & Stealing",
+        "description": "A warm introduction to the module that normalizes parents' concerns about lying and stealing behaviors. Explains that these behaviors are common developmental challenges that can be addressed with understanding and appropriate strategies.",
+        "duration": "0:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/iDx6awak0_0",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "stealing",
+          "masterclass",
+          "introduction"
+        ]
+      },
+      {
+        "id": "what_is_lying_understanding",
+        "title": "What is Lying? Understanding Your Child's Truth",
+        "description": "Explores the different types of 'lies' that young children tell, helping parents understand that what looks like deception often serves innocent developmental purposes. Breaks down fantasy versus reality confusion and wishful thinking.",
+        "duration": "4:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/j5Dtq-HNUoA",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "development",
+          "fantasy",
+          "truth"
+        ]
+      },
+      {
+        "id": "why_kids_lie_real_message",
+        "title": "Why Kids Lie: Understanding the Real Message",
+        "description": "Focuses on the emotional and developmental reasons behind lying behavior, emphasizing that children typically lie to protect relationships, not damage them. Addresses parents' fears about character development.",
+        "duration": "3:53",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/LCrFWFk2hDQ",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "emotional needs",
+          "relationship",
+          "development"
+        ]
+      },
+      {
+        "id": "when_lying_begins_developmental",
+        "title": "When Lying Begins: Developmental Context",
+        "description": "Provides developmental context for when and how lying behaviors emerge, helping parents understand age-appropriate expectations and responses. Explains how cognitive development affects truth-telling abilities.",
+        "duration": "4:09",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/Bljsgm5VJyk",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "development",
+          "age-appropriate",
+          "cognitive"
+        ]
+      },
+      {
+        "id": "kids_lie_avoid_tasks",
+        "title": "When Kids Lie to Avoid Tasks",
+        "description": "Addresses one of the most common lying scenarios - when children lie to get out of responsibilities or avoid unpleasant tasks. Provides specific strategies for responding to task-avoidance lies.",
+        "duration": "3:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/1RF-D3E29V8",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "task avoidance",
+          "responsibilities",
+          "strategies"
+        ]
+      },
+      {
+        "id": "kids_lie_avoid_trouble",
+        "title": "When Kids Lie to Get Out of Trouble",
+        "description": "Focuses on lies told to avoid consequences or punishment, exploring how to create safety for truth-telling while still maintaining accountability. Addresses the delicate balance between understanding and boundaries.",
+        "duration": "4:06",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/LvxgvhK3gaU",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "consequences",
+          "safety",
+          "accountability"
+        ]
+      },
+      {
+        "id": "kids_lie_seek_praise",
+        "title": "When Kids Lie to Seek Praise",
+        "description": "Examines lies told to gain attention, approval, or praise, helping parents recognize the underlying need for connection and validation. Provides strategies for meeting these needs appropriately.",
+        "duration": "3:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/7V7szsF7dbg",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "attention seeking",
+          "validation",
+          "connection"
+        ]
+      },
+      {
+        "id": "initial_response_to_lies",
+        "title": "Your Initial Response to Lies",
+        "description": "Provides a framework for parents' immediate response when they discover lying, focusing on staying calm and responding strategically rather than reactively. Your first response sets the tone for future honesty.",
+        "duration": "3:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/3xkmDS6EAjs",
+        "mediaType": "video",
+        "tags": [
+          "lying",
+          "parent response",
+          "calm",
+          "strategy"
+        ]
+      },
+      {
+        "id": "creating_safety_for_honesty",
+        "title": "Creating Safety for Honesty",
+        "description": "Explores how to build a family environment where truth-telling feels safe and valued, even when the truth reveals mistakes or problems. Focuses on building trust through consistent, supportive responses.",
+        "duration": "4:19",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/YqRO-zIkYVk",
+        "mediaType": "video",
+        "tags": [
+          "honesty",
+          "safety",
+          "trust",
+          "family environment"
+        ]
+      },
+      {
+        "id": "understanding_why_children_steal",
+        "title": "Understanding Why Children Steal",
+        "description": "Shifts focus to stealing behaviors, explaining the developmental and emotional reasons behind taking things that don't belong to them. Helps parents understand that stealing in young children rarely indicates moral failing.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/Gf6jCrbKkoA",
+        "mediaType": "video",
+        "tags": [
+          "stealing",
+          "ownership",
+          "development",
+          "impulse control"
+        ]
+      },
+      {
+        "id": "finding_something_doesnt_belong",
+        "title": "When You Find Something That Doesn't Belong",
+        "description": "Provides specific strategies for responding when parents discover their child has taken something that belongs to someone else. Focuses on calm, curious responses that lead to learning and repair.",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/7EjeR8L8f8g",
+        "mediaType": "video",
+        "tags": [
+          "stealing",
+          "response",
+          "repair",
+          "teaching"
+        ]
+      },
+      {
+        "id": "jealousy_drives_stealing",
+        "title": "When Jealousy Drives Stealing",
+        "description": "Addresses stealing behaviors that stem from jealousy or feelings of inferiority, helping parents validate difficult emotions while teaching appropriate ways to handle wanting what others have.",
+        "duration": "3:37",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/4fMbg3HIHAw",
+        "mediaType": "video",
+        "tags": [
+          "stealing",
+          "jealousy",
+          "emotions",
+          "validation"
+        ]
+      },
+      {
+        "id": "family_conversations_about_honesty",
+        "title": "Family Conversations About Honesty",
+        "description": "Guides parents in creating ongoing dialogue about honesty and integrity as family values, moving beyond crisis response to proactive teaching and modeling.",
+        "duration": "4:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_13.jpg",
+        "mediaUrl": "https://youtu.be/CSG6nrYsdSc",
+        "mediaType": "video",
+        "tags": [
+          "honesty",
+          "family values",
+          "conversation",
+          "integrity"
+        ]
+      },
+      {
+        "id": "fantasy_vs_reality",
+        "title": "Fantasy vs. Reality - When Imagination Meets Truth",
+        "description": "Helps parents distinguish between creative imagination and intentional deception, celebrating children's creativity while teaching the difference between 'real' and 'pretend.'",
+        "duration": "4:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_14.jpg",
+        "mediaUrl": "https://youtu.be/IlZ5b5MorRE",
+        "mediaType": "video",
+        "tags": [
+          "imagination",
+          "fantasy",
+          "reality",
+          "creativity"
+        ]
+      },
+      {
+        "id": "when_to_seek_support",
+        "title": "When to Seek Additional Support",
+        "description": "Addresses when lying and stealing behaviors might indicate underlying challenges that could benefit from professional support, helping parents distinguish between normal development and concerning patterns.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_15.jpg",
+        "mediaUrl": "https://youtu.be/4oQ93DcUbWI",
+        "mediaType": "video",
+        "tags": [
+          "support",
+          "professional help",
+          "development",
+          "concerning patterns"
+        ]
+      },
+      {
+        "id": "moving_forward_with_trust",
+        "title": "Moving Forward with Trust and Understanding",
+        "description": "An encouraging conclusion that reinforces the key principles of the module and helps parents maintain hope and confidence in their approach to building honesty and integrity.",
+        "duration": "1:14",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/lying_masterclass_16.jpg",
+        "mediaUrl": "https://youtu.be/3pFsWD9nxdQ",
+        "mediaType": "video",
+        "tags": [
+          "trust",
+          "integrity",
+          "conclusion",
+          "encouragement"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "task_avoidance_lying",
