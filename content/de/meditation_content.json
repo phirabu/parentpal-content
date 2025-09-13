@@ -11,6 +11,18 @@
       "tags": ["Mantra-Meditation", "Verbundenheit", "kurz", "zentrierung"],
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/01_parent-meditations.jpg",
       "publishedAt": "2025-08-27T10:00:00Z"
-    }
+    },
+    {
+      "id": "stress-free-child-evening-routine",
+      "categoryId": "parent-meditations",
+      "title": "Meditation für eine stressfreie Abendroutine mit deinen Kindern",
+      "description": "Meditation zur Vorbereitung auf die Abendroutine mit deinen Kindern. Lass den ganzen Stress des Tages los und richte deinen Geist auf einen spielerischen und fröhlichen Abend mit deinen Kindern aus.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/de/02-Bevor-ins-Bett-Bringen.m4a",
+      "instructor": "Luisa",
+      "tags": ["mantra-meditation", "stressabbau", "visualisierung", "verbindung"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/02_parent-meditations.jpg",
+      "publishedAt": "2025-08-27T10:00:00Z"
+    }  
   ]
 }

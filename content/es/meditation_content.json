@@ -8,9 +8,21 @@
       "durationMinutes": 10,
       "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/es/01-Conectados-en-la-Manana.m4a",
       "instructor": "Luisa",
-      "tags": ["meditación con mantra", "conexión", "rápida", "centrar"],
+      "tags": ["meditación-mantra", "conexión", "rápida", "centrar"],
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/01_parent-meditations.jpg",
       "publishedAt": "2025-08-27T10:00:00Z"
-    }
+    },
+    {
+      "id": "stress-free-child-evening-routine",
+      "categoryId": "parent-meditations",
+      "title": "Meditación para una rutina nocturna sin estrés con tus hijos",
+      "description": "Meditación para prepararte para la rutina nocturna con tus hijos. Libérate de todo el estrés del día y redirige tu mente hacia una noche alegre y juguetona con tus niños.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/es/02-antes-de-la-rutina-para-dormir-v2.m4a",
+      "instructor": "Luisa",
+      "tags": ["meditación-mantra", "alivio-del-estrés", "visualización", "conexión"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/02_parent-meditations.jpg",
+      "publishedAt": "2025-08-27T10:00:00Z"
+    }    
   ]
 }

@@ -11,6 +11,18 @@
       "tags": ["mantra-meditation", "connecting", "quick", "centering"],
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/01_parent-meditations.jpg",
       "publishedAt": "2025-08-27T10:00:00Z"
-    }
+    },
+    {
+      "id": "stress-free-child-evening-routine",
+      "categoryId": "parent-meditations",
+      "title": "Meditation for a stress free evening routine with your children",
+      "description": "Meditation to prepare you for the evening routine with your children. Let go of all the stress of the day and redirect your mind to a playfully and happy evening with your kids.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/en/02-Before-Bed-Time-Meditation.m4a",
+      "instructor": "Luisa",
+      "tags": ["mantra-meditation", "stress-relief", "visualization", "connecting"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/02_parent-meditations.jpg",
+      "publishedAt": "2025-08-27T10:00:00Z"
+    }    
   ]
 }
