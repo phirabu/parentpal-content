@@ -90,7 +90,188 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_screen_time_management",
+        "title": "Welcome to Screen Time Management",
+        "description": "A warm introduction to the screen time management module that acknowledges the daily struggles parents face with device battles and meltdowns. Sets the stage for practical, conflict-reducing strategies that work in real family life while building healthy relationships with technology.",
+        "duration": "0:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/40GTJv0ETsY",
+        "mediaType": "video",
+        "tags": [
+          "screen time",
+          "introduction",
+          "technology balance",
+          "boundary setting"
+        ]
+      },
+      {
+        "id": "understanding_screen_time_child_world",
+        "title": "Understanding Screen Time in Your Child's World",
+        "description": "Provides essential context about how screens fit into modern childhood and what screen time means for developing brains aged 3-7. Addresses parental guilt and confusion by exploring the reality of technology in today's world, emphasizing that content and context matter more than just counting minutes.",
+        "duration": "4:36",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/uDk-AWDsIZ4",
+        "mediaType": "video",
+        "tags": [
+          "child development",
+          "brain development",
+          "technology context",
+          "screen time balance"
+        ]
+      },
+      {
+        "id": "balance_perspective_beyond_good_bad",
+        "title": "The Balance Perspective: Moving Beyond Good vs Bad",
+        "description": "Challenges the binary thinking about screen time being either 'good' or 'evil' and introduces a more nuanced, practical approach. Shows parents how to make thoughtful, intentional choices about screen time without guilt or shame.",
+        "duration": "3:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/a2d7mhIrolM",
+        "mediaType": "video",
+        "tags": [
+          "balanced approach",
+          "intentional choices",
+          "family wellness",
+          "guilt-free parenting"
+        ]
+      },
+      {
+        "id": "assessing_family_reality",
+        "title": "Assessing Your Family's Reality: Taking Honest Inventory",
+        "description": "Guides parents through a non-judgmental assessment of their current screen time patterns and family circumstances. Encourages honest observation of when, how long, and what type of screen time is happening, as well as examining what's working and what isn't.",
+        "duration": "4:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/lfHymqUC8rc",
+        "mediaType": "video",
+        "tags": [
+          "family assessment",
+          "screen time patterns",
+          "self-reflection",
+          "observation"
+        ]
+      },
+      {
+        "id": "setting_clear_boundaries",
+        "title": "Setting Clear Boundaries: Making Limits That Actually Work",
+        "description": "Explains why vague boundaries fail and teaches parents how to create specific, enforceable limits that children can understand. Focuses on the developmental reality that young children think literally and need concrete expectations.",
+        "duration": "3:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/ZgaAMaAJszE",
+        "mediaType": "video",
+        "tags": [
+          "boundaries",
+          "limit setting",
+          "clear expectations",
+          "consistency"
+        ]
+      },
+      {
+        "id": "preparation_conversation",
+        "title": "The Preparation Conversation: Setting Your Child Up for Success",
+        "description": "Teaches parents how to prepare children for screen time changes through respectful advance communication. Explains why sudden changes overwhelm young brains and provides age-appropriate conversation scripts for discussing new screen time rules.",
+        "duration": "4:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/DDbStsf0y4c",
+        "mediaType": "video",
+        "tags": [
+          "communication",
+          "preparation",
+          "age-appropriate",
+          "transitions"
+        ]
+      },
+      {
+        "id": "handling_resistance_confidence",
+        "title": "When They Push Back: Handling Resistance with Confidence",
+        "description": "Addresses the inevitable resistance children show when screen time limits are enforced and teaches parents how to respond rather than react. Covers common pushback scenarios and provides specific language for staying calm and consistent.",
+        "duration": "4:14",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/PAW2YcM3rG8",
+        "mediaType": "video",
+        "tags": [
+          "resistance",
+          "pushback",
+          "emotional regulation",
+          "consistency"
+        ]
+      },
+      {
+        "id": "smooth_transitions",
+        "title": "Smooth Transitions: Making Screen Time Endings Easier",
+        "description": "Explains why screen time transitions are particularly challenging for young brains and provides practical strategies for making endings more predictable and manageable. Focuses on preparation, timing, visual aids, and transition rituals.",
+        "duration": "3:57",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/orm__pexGwc",
+        "mediaType": "video",
+        "tags": [
+          "transitions",
+          "screen time endings",
+          "rituals",
+          "predictability"
+        ]
+      },
+      {
+        "id": "supporting_non_screen_engagement",
+        "title": "Supporting Non-Screen Engagement: Beyond 'Go Play'",
+        "description": "Addresses the common challenge of children claiming boredom after screen time ends and provides strategies for supporting independent play and creativity. Explains how to set up invitation spaces and navigate boredom productively.",
+        "duration": "4:19",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/lN_D5tIS1f4",
+        "mediaType": "video",
+        "tags": [
+          "independent play",
+          "boredom",
+          "creativity",
+          "non-screen activities"
+        ]
+      },
+      {
+        "id": "managing_parent_screen_stress",
+        "title": "Managing Your Own Screen Time Stress: Parent Self-Regulation",
+        "description": "Addresses the emotional burden parents carry around screen time decisions and how parental anxiety affects the entire family dynamic. Explores parent relationships with technology and provides strategies for making decisions from a calm, centered place.",
+        "duration": "3:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/NtP14DwhV0c",
+        "mediaType": "video",
+        "tags": [
+          "parent self-care",
+          "self-regulation",
+          "technology modeling",
+          "stress management"
+        ]
+      },
+      {
+        "id": "real_world_challenges",
+        "title": "Real-World Challenges: Consistency in Special Situations",
+        "description": "Tackles the reality that life disrupts perfect screen time routines through illness, travel, different homes, grandparents, and public situations. Provides strategies for maintaining core values while adapting to special circumstances.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/AhA-wUGUIaQ",
+        "mediaType": "video",
+        "tags": [
+          "flexibility",
+          "special situations",
+          "consistency",
+          "real-world application"
+        ]
+      },
+      {
+        "id": "building_screen_time_confidence",
+        "title": "Building Your Screen Time Confidence",
+        "description": "An encouraging conclusion that acknowledges the complexity of modern screen time management while celebrating the progress parents have made. Reinforces that this is an ongoing process and emphasizes the deeper lessons children learn through consistent, compassionate boundary-setting.",
+        "duration": "1:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/screentime_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/iDMgrlwoJ4o",
+        "mediaType": "video",
+        "tags": [
+          "parent confidence",
+          "long-term perspective",
+          "self-trust",
+          "conclusion"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_new_screen_time_boundaries",
