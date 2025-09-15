@@ -90,7 +90,248 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "understanding_child_unique_personality_intro",
+        "title": "Understanding Your Child's Unique Personality (Intro)",
+        "description": "Welcome to the Personality and Social Skills module. This introductory video sets the stage for understanding three main personality types and emphasizes that there's no 'better' personality type - each brings unique gifts and growth opportunities.",
+        "duration": "0:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/c9NetrEl8SE",
+        "mediaType": "video",
+        "tags": [
+          "personality types",
+          "introduction",
+          "unique strengths",
+          "child development"
+        ]
+      },
+      {
+        "id": "three_personality_types_meeting_child",
+        "title": "Three Personality Types: Meeting Your Child Where They Are",
+        "description": "Explores the three main personality types through relatable playground scenarios. Explains the characteristics of determined, cautious, and harmonizer children, helping parents recognize patterns and understand their child's needs without putting them in rigid boxes.",
+        "duration": "3:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_02.jpg",
+        "mediaUrl": "https://youtu.be/0K9yPBsZmT8",
+        "mediaType": "video",
+        "tags": [
+          "determined child",
+          "cautious child",
+          "harmonizer child",
+          "personality patterns"
+        ]
+      },
+      {
+        "id": "determined_child_understanding_natural_leader",
+        "title": "The Determined Child: Understanding Your Natural Leader",
+        "description": "Deep dive into determined children who dig in their heels and have strong opinions about everything. Helps parents understand that strong will is actually a gift - they're raising future leaders who won't be easily swayed by peer pressure.",
+        "duration": "4:19",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_03.jpg",
+        "mediaUrl": "https://youtu.be/jI7FHtvOh4c",
+        "mediaType": "video",
+        "tags": [
+          "determined child",
+          "strong-willed",
+          "leadership",
+          "independence"
+        ]
+      },
+      {
+        "id": "parenting_your_determined_child",
+        "title": "Parenting Your Determined Child",
+        "description": "Practical strategies for parenting determined children without triggering power struggles. Focuses on offering appropriate choices, staying calm during intensity, and using fewer words with clearer boundaries.",
+        "duration": "5:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_04.jpg",
+        "mediaUrl": "https://youtu.be/qRwgNJQeXBk",
+        "mediaType": "video",
+        "tags": [
+          "parenting strategies",
+          "determined child",
+          "boundaries",
+          "choices"
+        ]
+      },
+      {
+        "id": "cautious_child_understanding_sensitive_observer",
+        "title": "The Cautious Child: Understanding Your Sensitive Observer",
+        "description": "Celebrates cautious children who observe before jumping in and take time to warm up to new situations. Explains that their careful approach is actually wisdom and helps parents appreciate this temperament as a strength.",
+        "duration": "3:16",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_05.jpg",
+        "mediaUrl": "https://youtu.be/DuxeR90H5-0",
+        "mediaType": "video",
+        "tags": [
+          "cautious child",
+          "sensitive",
+          "observer",
+          "temperament"
+        ]
+      },
+      {
+        "id": "helping_your_cautious_child",
+        "title": "Helping Your Cautious Child",
+        "description": "Specific strategies for supporting cautious children while honoring their natural temperament. Focuses on preparation, creating bridges between observation and participation, and celebrating small steps forward.",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_06.jpg",
+        "mediaUrl": "https://youtu.be/8uing0E_rWM",
+        "mediaType": "video",
+        "tags": [
+          "cautious child",
+          "support strategies",
+          "confidence building",
+          "gradual exposure"
+        ]
+      },
+      {
+        "id": "harmonizer_child",
+        "title": "The Harmonizer Child",
+        "description": "Introduces harmonizer children who are natural peacekeepers with hearts tuned to others' emotions. Explains their gifts while addressing the challenge of sometimes disappearing in their own kindness.",
+        "duration": "2:50",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_07.jpg",
+        "mediaUrl": "https://youtu.be/TbwrOOhIIZA",
+        "mediaType": "video",
+        "tags": [
+          "harmonizer child",
+          "peacekeeper",
+          "empathy",
+          "kindness"
+        ]
+      },
+      {
+        "id": "empowering_your_harmonizer_child",
+        "title": "Empowering Your Harmonizer Child",
+        "description": "Strategies for helping harmonizer children find balance between caring for others and advocating for themselves. Teaches them to honor both their caring heart and their authentic voice.",
+        "duration": "3:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_08.jpg",
+        "mediaUrl": "https://youtu.be/DI32rEmwPw8",
+        "mediaType": "video",
+        "tags": [
+          "harmonizer child",
+          "self-advocacy",
+          "balance",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "social_misunderstandings",
+        "title": "Social Misunderstandings",
+        "description": "Explains why children ages 3-7 frequently misinterpret social situations, creating stories that feel completely real even when they're not accurate. Helps parents understand this is normal brain development, not a character flaw.",
+        "duration": "3:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_09.jpg",
+        "mediaUrl": "https://youtu.be/HENgDQkvKvI",
+        "mediaType": "video",
+        "tags": [
+          "social development",
+          "misunderstandings",
+          "brain development",
+          "perspective"
+        ]
+      },
+      {
+        "id": "when_nobody_likes_me",
+        "title": "When Nobody Likes Me",
+        "description": "Addresses the heartbreaking moment when children express social rejection fears. Provides strategies for listening, validating feelings, and helping children see a bigger picture while building their social confidence.",
+        "duration": "3:22",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_10.jpg",
+        "mediaUrl": "https://youtu.be/w-982M-SoAc",
+        "mediaType": "video",
+        "tags": [
+          "social rejection",
+          "validation",
+          "confidence building",
+          "friendship"
+        ]
+      },
+      {
+        "id": "teaching_perspective_taking",
+        "title": "Teaching Perspective-Taking",
+        "description": "Helps children develop the ability to see situations from others' viewpoints, a crucial skill that develops gradually between ages 3-7. Provides practical strategies for building empathy and understanding.",
+        "duration": "3:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_11.jpg",
+        "mediaUrl": "https://youtu.be/LRMt8xBQlFQ",
+        "mediaType": "video",
+        "tags": [
+          "perspective-taking",
+          "empathy",
+          "social skills",
+          "understanding others"
+        ]
+      },
+      {
+        "id": "friendship_conflicts",
+        "title": "Friendship Conflicts",
+        "description": "Addresses the inevitable conflicts that arise in childhood friendships and how to guide children through resolution while building their conflict resolution skills.",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_12.jpg",
+        "mediaUrl": "https://youtu.be/i99vI3SdfBo",
+        "mediaType": "video",
+        "tags": [
+          "friendship",
+          "conflict resolution",
+          "problem-solving",
+          "communication"
+        ]
+      },
+      {
+        "id": "building_social_confidence",
+        "title": "Building Social Confidence",
+        "description": "Provides practical strategies for helping children feel comfortable being themselves around others and giving them tools to connect when they want to, respecting their natural social energy levels.",
+        "duration": "3:58",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_13.jpg",
+        "mediaUrl": "https://youtu.be/F6SkwBn8o9A",
+        "mediaType": "video",
+        "tags": [
+          "social confidence",
+          "authenticity",
+          "social skills",
+          "practice"
+        ]
+      },
+      {
+        "id": "sibling_social_dynamics",
+        "title": "Sibling Social Dynamics",
+        "description": "Explores how sibling interactions serve as a practice ground for social skills, addressing competition, different personalities within families, and helping children learn cooperation and conflict resolution.",
+        "duration": "4:35",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_14.jpg",
+        "mediaUrl": "https://youtu.be/nLRyzqTDYt4",
+        "mediaType": "video",
+        "tags": [
+          "siblings",
+          "family dynamics",
+          "cooperation",
+          "social learning"
+        ]
+      },
+      {
+        "id": "celebrating_your_childs_nature",
+        "title": "Celebrating Your Child's Nature",
+        "description": "Emphasizes that every child has a beautiful, authentic way of being in the world. Focuses on observation without judgment, protecting children from misguided comments, and creating environments where they can thrive.",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/zQ1lssjFQD0",
+        "mediaType": "video",
+        "tags": [
+          "acceptance",
+          "celebration",
+          "authentic self",
+          "nurturing"
+        ]
+      },
+      {
+        "id": "embracing_childs_unique_path_outro",
+        "title": "Embracing Your Child's Unique Path (Outro)",
+        "description": "Concluding video that celebrates completing the module and reinforces that personality is a gift to understand and nurture, not something to fix or change.",
+        "duration": "0:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/personality_masterclass_01.jpg",
+        "mediaUrl": "https://youtu.be/Lnz1Fwm-dUM",
+        "mediaType": "video",
+        "tags": [
+          "conclusion",
+          "personality gifts",
+          "nurturing",
+          "celebration"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "supporting_feisty_child_social_conflict",
