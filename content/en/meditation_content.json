@@ -23,6 +23,18 @@
       "tags": ["mantra-meditation", "stress-relief", "visualization", "connecting"],
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/02_parent-meditations.jpg",
       "publishedAt": "2025-08-27T10:00:00Z"
-    }    
+    },
+    {
+      "id": "meditation-yelled-children",
+      "categoryId": "parent-meditations",
+      "title": "Meditation After Having Yelled at your Children",
+      "description": "Meditation to release guilt after yelling at your children. It will also help you repair the relationship and teach your children how to apologize.",
+      "durationMinutes": 10,
+      "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/meditations/parent-meditations/en/03-01-After-Yelling-Meditation.m4a",
+      "instructor": "Luisa",
+      "tags": ["mantra-meditation", "stress-relief", "visualization", "connecting"],
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/meditations/03_parent-meditations.jpg",
+      "publishedAt": "2025-08-27T10:00:00Z"
+    }         
   ]
 }
