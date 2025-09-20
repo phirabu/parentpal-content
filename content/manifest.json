@@ -1,7 +1,7 @@
 {
-  "version": "0.0.20",
+  "version": "0.0.21",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2025-09-153T21:46:43Z",
+  "lastUpdated": "2025-09-20T21:46:43Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
