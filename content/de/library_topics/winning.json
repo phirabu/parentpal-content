@@ -90,7 +90,216 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_zu_gewinnen_verlieren_wettbewerb",
+        "title": "Willkommen zu Gewinnen, Verlieren & Wettbewerb",
+        "description": "Dieses Einführungsvideo heißt Eltern im Modul zum Thema willkommen, wie sie Kindern im Alter von 3-7 Jahren dabei helfen, Wettkampfsituationen mit emotionaler Ausgeglichenheit zu bewältigen. Es schafft die Grundlage, indem es häufige Herausforderungen anerkennt, wie Kinder, die vom Verlieren am Boden zerstört sind, wütend während Spielen werden oder sich mehr ums Gewinnen als ums Spaß haben kümmern. Das Video skizziert, was Eltern im Verlauf des Kapitels lernen werden, und betont das Ziel, Wettb",
+        "duration": "1:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/01-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/01-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "wetteifernde_kinder_verstehen",
+        "title": "Wetteifernde Kinder verstehen",
+        "description": "Dieses Video erforscht, warum manche Kinder von Natur aus wetteifernder sind als andere und was starke Reaktionen auf Wettbewerb antreibt. Es unterscheidet zwischen gesundem Wettbewerbsgeist und problematischen Mustern und hilft Eltern zu verstehen, dass Wettbewerbsverhalten eine Stärke sein kann, wenn es richtig gelenkt wird. Der Inhalt behandelt verschiedene Typen wetteifernder Kinder und betont, dass hinter den meisten Wettkampfverhalten ein Kind steht, das sich fähig und wertvoll fühlen möch",
+        "duration": "4:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/02-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/02-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "wenn_wettbewerb_problematisch_wird",
+        "title": "Wenn Wettbewerb problematisch wird",
+        "description": "Dieses Video hilft Eltern zu erkennen, wann gesunder Wettbewerb in bedenkliches Verhalten übergeht, das Intervention erfordert. Es umreißt spezifische Warnsignale einschließlich körperlicher Reaktionen auf Verlieren, vollständige Vermeidung unsicherer Ausgänge, emotionale Dysregulation, Betrug, soziale Schwierigkeiten und Selbstwert, der völlig ans Gewinnen gekoppelt ist. Der Inhalt betont, dass sich diese Verhaltensweisen oft während Stress verstärken und echte Bedrängnis statt Manipulation dar",
+        "duration": "5:04",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/03-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/03-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "drei_typen_wetteifernder_kinder",
+        "title": "Drei Typen wetteifernder Kinder",
+        "description": "Dieses Video kategorisiert wetteifernde Kinder in drei Haupttypen, um Eltern zu helfen, gezielten Support zu bieten. Es behandelt natürlich wetteifernde Kinder (geboren mit innerem Antrieb), starr denkende Kinder (die Vorhersagbarkeit ersehnen) und Kinder, die mit Unzulänglichkeit/Eifersucht umgehen (die Wettbewerb nutzen, um Wert zu beweisen). Das Verstehen der zugrundeliegenden Motivation hilft Eltern, angemessen zu reagieren, anstatt Einheitsansätze zu verwenden.",
+        "duration": "5:36",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/04-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/04-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "reflektierte_gespräche_über_gewinnen_und_verlieren",
+        "title": "Reflektierte Gespräche über Gewinnen und Verlieren",
+        "description": "Dieses Video lehrt Eltern, wie sie bedeutungsvolle Gespräche führen, die Kindern helfen, ihre Gefühle bezüglich Wettbewerb zu verstehen. Es betont das Timing (nicht während emotionaler Momente), echte Neugier vor sofortigen Lösungen und Bestätigung vor Führung. Der Ansatz hilft Kindern, emotionale Bewusstheit und innere Regulierungsfähigkeiten durch das Verstehen ihrer eigenen Muster und Auslöser zu entwickeln.",
+        "duration": "6:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/05-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/05-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "klare_grenzen_um_wettbewerb_setzen",
+        "title": "Klare Grenzen um Wettbewerb setzen",
+        "description": "Dieses Video bietet praktische Strategien zum Setzen spezifischer, durchsetzbarer Grenzen um Wettkampfverhalten. Es betont, dass vage Anweisungen wie \"sei ein guter Verlierer\" nicht funktionieren, wenn Kinder emotional überflutet sind. Stattdessen brauchen Eltern konkrete Regeln über akzeptables und inakzeptables Verhalten während wetteifernder Momente, mit klaren Alternativen für angemessene Ausdrucksweise.",
+        "duration": "4:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/06-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/06-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "gesunde_bewältigungsfähigkeiten_für_wettbewerb_auf",
+        "title": "Gesunde Bewältigungsfähigkeiten für Wettbewerb aufbauen",
+        "description": "Dieses Video konzentriert sich darauf, Kindern zu helfen, ihre eigenen personalisierten Bewältigungsstrategien für den Umgang mit wetteifernder Enttäuschung zu entwickeln. Es betont, dass die effektivsten Bewältigungsfähigkeiten die sind, die Kinder selbst entwickeln, statt von Eltern auferlegten Lösungen. Der Ansatz beinhaltet, Kinder zu fragen, was ihnen helfen könnte, Bewältigungsfähigkeiten zu modellieren und Strategien auf individuelle Persönlichkeiten und Bedürfnisse abzustimmen.",
+        "duration": "4:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/07-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/07-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "dein_kind_vor_wettkampfsituationen_vorbereiten",
+        "title": "Dein Kind vor Wettkampfsituationen vorbereiten",
+        "description": "Dieses Video lehrt Eltern, wie sie Kinder proaktiv auf Wettkampfsituationen vorbereiten, bevor Emotionen eskalieren. Es behandelt vorbereitende Gespräche im Auto oder vor Aktivitäten, realistische Erwartungen setzen und Kindern helfen, mental zu üben, mit Enttäuschung umzugehen. Der Ansatz beinhaltet Geschichtenerzählen, Mantras kreieren und sicherstellen, dass auch Eltern sich auf verschiedene Ausgänge vorbereiten.",
+        "duration": "5:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/08-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/08-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "nah_bleiben_und_während_wettbewerb_überwachen",
+        "title": "Nah bleiben und während Wettbewerb überwachen",
+        "description": "Dieses Video erklärt \"warme Überwachung\" - nah genug sein, um zu helfen, wenn nötig, während Kinder üben lassen, Herausforderungen selbstständig zu bewältigen. Es behandelt, sich angemessen zu positionieren, zu wissen, wann eingegriffen werden sollte versus wann Kinder durch Emotionen arbeiten gelassen werden sollten, und die eigene emotionale Regulation zu modellieren. Das Ziel ist, einen sicheren Raum zu schaffen, in dem Kinder wichtige Lebensfähigkeiten üben können.",
+        "duration": "5:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/09-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/09-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "angeben_verstehen",
+        "title": "Angeben verstehen",
+        "description": "Dieses Video hilft Eltern, zwischen gesundem Stolz und problematischem Angeben zu unterscheiden, und erklärt, dass übermäßiges Angeben oft Unsicherheit statt Selbstüberschätzung signalisiert. Es behandelt, wie Angeben im täglichen Leben tatsächlich aussieht, und hilft Eltern, die zugrundeliegenden Gefühle zu verstehen, die das Verhalten antreiben, wobei betont wird, dass Kinder, die angeben, sich oft innerlich am wenigsten selbstsicher fühlen.",
+        "duration": "4:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/10-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/10-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "übermäßiges_angeben_ansprechen",
+        "title": "Übermäßiges Angeben ansprechen",
+        "description": "Dieses Video bietet praktische Strategien, um auf Angeben zu reagieren, ohne den Geist eines Kindes zu zerbrechen. Es behandelt ruhig zu bleiben, zugrundeliegende Gefühle zu reflektieren, von Vergleichen zu persönlicher Leistung umzulenken, bessere Wege zu üben, Erfolge zu teilen, und Muster anzusprechen, während Anstrengung und Verbesserung über Endergebnisse gefeiert werden.",
+        "duration": "4:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/11-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/11-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "hänseln_zwischen_geschwistern",
+        "title": "Hänseln zwischen Geschwistern",
+        "description": "Dieses Video behandelt wetteiferndes Hänseln zwischen Geschwistern, erklärt, warum es oft passiert, wenn Eltern anwesend sind, und wie zu reagieren ist, ohne der Familien-Schiedsrichter zu werden. Es behandelt das Verstehen von Geschwisterdynamik, beide Kinder anzusprechen, ohne Partei zu ergreifen, und Familienregeln über den Umgang miteinander während wetteifernder Momente zu setzen.",
+        "duration": "6:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/12-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/12-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "soziale_situationen_und_missverständnisse",
+        "title": "Soziale Situationen und Missverständnisse",
+        "description": "Dieses Video hilft Eltern zu reagieren, wenn Kinder aufgebracht über wetteifernde soziale Situationen nach Hause kommen, und lehrt sie, \"sanfte Detektive\" zu werden, um zu verstehen, was tatsächlich passiert ist versus die Interpretation eines Kindes. Es behandelt, Gefühle zu bestätigen, ohne sofort alle Erzählungen zu akzeptieren, offene Fragen zu stellen und Kindern zu helfen, ausgewogenes Denken über soziale Interaktionen zu entwickeln.",
+        "duration": "4:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/13-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/13-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "modellieren_und_familiengespräche",
+        "title": "Modellieren und Familiengespräche",
+        "description": "Dieses Video betont die Macht des elterlichen Modellierens beim Lehren von Kindern, wie sie mit Wettbewerb würdevoll umgehen. Es behandelt das Demonstrieren gesunder Reaktionen sowohl auf Gewinnen als auch auf Verlieren, natürliche Gesprächsgelegenheiten zu schaffen, altersgerechte persönliche Erfahrungen zu teilen und Familientraditionen rund um Anstrengung und Verbesserung statt nur Ergebnisse zu etablieren.",
+        "duration": "5:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/14-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/14-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "wenn_gewinnen_und_verlieren_freundschaften_beeinfl",
+        "title": "Wenn Gewinnen und Verlieren Freundschaften beeinflusst",
+        "description": "Dieses Video behandelt, wie Kindern geholfen wird, Freundschaften zu erhalten, wenn Wettbewerb Konflikte schafft. Es behandelt, Kindern zu helfen, zwischen normaler wetteifernder Aufregung und verletzendem Verhalten zu unterscheiden, Empathie für Freunde-Perspektiven zu entwickeln, angemessene Reaktionen zu üben und zu wissen, wann eingegriffen werden sollte versus Kinder Dinge selbst ausarbeiten zu lassen.",
+        "duration": "6:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/15-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/15-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      },
+      {
+        "id": "mit_gesundem_wettbewerb_vorwärtsgehen",
+        "title": "Mit gesundem Wettbewerb vorwärtsgehen",
+        "description": "Dieses abschließende Video erinnert Eltern daran, dass Wettbewerbsverhalten eine zu lenkende Stärke ist, nicht etwas zu eliminierendes, und betont, dass Veränderung Zeit und Übung braucht. Es verstärkt Schlüsselstrategien wie reflektierte Gespräche, Vorbereitung, Nahbleiben während Kämpfen und ausgewogene Ansätze zu modellieren. Der Fokus liegt darauf, lebenslange Fähigkeiten von Belastbarkeit, Empathie und emotionaler Regulation aufzubauen.",
+        "duration": "1:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/16-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/16-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Winning"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "highly_competitive_child_loses",

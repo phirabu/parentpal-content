@@ -90,7 +90,211 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_zu_ängste_und_ängstlichkeit",
+        "title": "Willkommen zu Ängste und Ängstlichkeit",
+        "description": "Angst ist ein natürliches Gefühl, das sich sowohl für Kinder als auch Eltern überwältigend anfühlen kann Dein Ziel ist es, deinem Kind zu helfen, Selbstvertrauen und Bewältigungsstrategien zu entwickeln, nicht alle Ängste zu beseitigen",
+        "duration": "0:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/01-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/01-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "kindliche_ängste_verstehen",
+        "title": "Kindliche Ängste verstehen",
+        "description": "Angst ist fest in unserer DNA als Überlebensmechanismus verankert - es ist ein Merkmal, kein Fehler Du kannst Angst nicht mit Logik oder Erklärungen wegreden",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/02-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/02-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "wenn_dein_kind_angst_hat_allein_zu_sein",
+        "title": "Wenn dein Kind Angst hat, allein zu sein",
+        "description": "Kinder sind nicht anhänglich, um Aufmerksamkeit zu bekommen - sie haben wirklich Angst, sich emotional allein zu fühlen Ihr Sicherheitsgefühl ist noch sehr stark mit deiner körperlichen Anwesenheit verbunden",
+        "duration": "4:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/03-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/03-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "gespräche_und_spiele_zum_verbindungsaufbau",
+        "title": "Gespräche und Spiele zum Verbindungsaufbau",
+        "description": "Das \"Du siehst mich nicht, aber du hörst mich\"-Spiel hilft dabei, zu üben, in verschiedenen Räumen mit Audio-Verbindung zu sein Das \"Alles sehen mit der Vorstellungskraft\"-Spiel baut positive Visualisierungsfähigkeiten auf",
+        "duration": "4:58",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/04-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/04-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "selbstständigkeit_schrittweise_aufbauen",
+        "title": "Selbstständigkeit schrittweise aufbauen",
+        "description": "Beginne mit winzigen, bewältigbaren realen Situationen wie zum Wasser holen in die Küche gehen Wechselt euch beim Mutigsein ab - zeige erst das Verhalten vor, dann lass sie es versuchen",
+        "duration": "4:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/05-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/05-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "wenn_trauma_angst_erzeugt",
+        "title": "Wenn Trauma Angst erzeugt",
+        "description": "Traumabedingte Ängste unterscheiden sich von typischen entwicklungsbedingten Ängsten Das Vermeiden von Gesprächen über traumatische Ereignisse lässt Ängste durch Isolation wachsen",
+        "duration": "4:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/06-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/06-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "die_geschichte_erzählen",
+        "title": "Die Geschichte erzählen",
+        "description": "Das Erzählen der Geschichte hilft, fragmentierte beängstigende Erinnerungen in ein vollständiges Bild zu organisieren Beziehe Fakten, Emotionen und Abfolge ein - vermeide nicht die beängstigenden Teile",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/07-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/07-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "bewältigung_nach_trauma_aufbauen",
+        "title": "Bewältigung nach Trauma aufbauen",
+        "description": "Hilf Kindern, die ganze Geschichte zu sehen, einschließlich was vor, während und nach dem Ereignis passiert ist Konzentriere dich darauf, wer ihnen geholfen hat und wie sie jetzt sicher sind",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/08-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/08-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "ängstlichkeit_bei_deinem_kind_verstehen",
+        "title": "Ängstlichkeit bei deinem Kind verstehen",
+        "description": "Ängstlichkeit zeigt sich bei 3-7-Jährigen oft in Verhaltensweisen statt in Worten Häufige Anzeichen sind Nägelkauen, übermäßiges Naschen, Toilettenprobleme, Schlafprobleme und verstärkte Wutanfälle",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/09-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/09-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "mit_gefühlen_dasitzen_die_kraft_der_präsenz_über_p",
+        "title": "Mit Gefühlen dasitzen: Die Kraft der Präsenz über Problemlösung",
+        "description": "Beginne mit Bestätigung, bevor du \"warum\"-Fragen stellst, wenn Kinder aufgeregt sind Das Denkgehirn von Kindern ist nicht vollständig online, wenn sie in emotionaler Not sind",
+        "duration": "5:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/10-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/10-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "ängstliche_gefühle_gemeinsam_erkunden",
+        "title": "Ängstliche Gefühle gemeinsam erkunden",
+        "description": "Hilf Kindern zu bemerken, wie sich Ängstlichkeit in ihrem Körper anfühlt Baue emotionalen Wortschatz schrittweise und geduldig auf",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/11-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/11-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "mit_was_ist_wenn_fragen_umgehen",
+        "title": "Mit \"Was ist wenn\"-Fragen umgehen",
+        "description": "\"Was ist wenn\"-Fragen sind Ängstlichkeits Versuch, unsichere Situationen zu kontrollieren Jede Frage zu beantworten kann versehentlich den Ängstlichkeitszyklus nähren",
+        "duration": "4:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/12-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/12-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "wenn_ängstlichkeit_sich_im_körper_zeigt",
+        "title": "Wenn Ängstlichkeit sich im Körper zeigt",
+        "description": "Körperliche Symptome durch emotionalen Stress sind echt, nicht Manipulation Kinder erleben dieselbe Geist-Körper-Verbindung wie Erwachsene, aber ihnen fehlt der Wortschatz, es zu erklären",
+        "duration": "4:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/13-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/13-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "ängstlichkeits_verhalten_verstehen",
+        "title": "Ängstlichkeits-Verhalten verstehen",
+        "description": "Ängstlichkeit kann sich als Trotz, Vermeidung oder Rückschritte zeigen Die Toleranz von Kindern für alltägliche Frustrationen sinkt, wenn sie Ängstlichkeit tragen",
+        "duration": "4:44",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/14-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/14-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "widerstandsfähigkeit_aufbauen_ihrer_inneren_stärke",
+        "title": "Widerstandsfähigkeit aufbauen: Ihrer inneren Stärke vertrauen",
+        "description": "Hilf Kindern zu erkennen, dass sie schon früher Herausforderungen überwunden haben Führe sie dazu, ganze Bilder von Situationen zu sehen, nicht nur beängstigende Teile",
+        "duration": "4:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/15-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/15-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      },
+      {
+        "id": "mit_selbstvertrauen_vorangehen",
+        "title": "Mit Selbstvertrauen vorangehen",
+        "description": "Ängste sind völlig natürlich und normal für 3-7-jährige Kinder Deine geduldige, unterstützende Präsenz lehrt Kinder, dass sie stärker sind, als sie glauben",
+        "duration": "1:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/16-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/anxiety-mc-3-7/16-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Fears"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "child_wont_stay_alone",

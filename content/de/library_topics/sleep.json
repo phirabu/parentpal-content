@@ -90,7 +90,212 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_zum_schlaf_friedliche_schlafenszeit_rou",
+        "title": "Willkommen zum Schlaf: Friedliche Schlafenszeit-Routinen entwickeln (30 Sekunden)",
+        "description": "Einführung dazu, wie du die Schlafenszeit von einem nächtlichen Kampf in einen friedlichen Übergang verwandelst, auf den ihr beide euch freuen könnt. Schlafherausforderungen sind Gelegenheiten, Verbindung und Vertrauen aufzubauen Du lernst einen kooperativen Ansatz, der dein Kind zum Partner macht",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/01-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/01-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "schlafherausforderungen_verstehen",
+        "title": "Schlafherausforderungen verstehen",
+        "description": "Entdecke, warum die Schlafenszeit für 3-7-Jährige zu einem solchen Kampf wird und wie das Verstehen des Schlafwiderstands deines Kindes deinen gesamten Ansatz verändert. Schlaf fühlt sich für kleine Kinder wie Trennung an Widerstand entsteht oft aus unbefriedigten Bedürfnissen oder Ängsten",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/02-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/02-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "der_dreischritt_ansatz_dein_kind_in_den_schlaf_erf",
+        "title": "Der Dreischritt-Ansatz: Dein Kind in den Schlaf-Erfolg einbeziehen",
+        "description": "Lerne das bahnbrechende Framework, das Schlafenszeit-Kämpfe verwandelt, indem es dein Kind zum aktiven Teilnehmer bei der Entwicklung von Schlaflösungen macht. Geschichte Erschaffen: Entwickle den Plan zusammen mit deinem Kind Geschichte Teilen: Präsentiere Veränderungen in ruhigen Tagesmomenten",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/03-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/03-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "eure_schlaf_geschichte_entwickeln",
+        "title": "Eure Schlaf-Geschichte entwickeln",
+        "description": "Schritt-für-Schritt-Anleitung zur gemeinsamen Entwicklung von Schlafenszeit-Routinen und Grenzen mit deinem Kind in ruhigen Momenten, damit es zum Co-Autor des Schlafenszeit-Erfolgs wird. Beste Zeit: Wochenendmorgen oder Nachmittagssnack Nutze visuelle Hilfsmittel wie Zeichnungen oder Pläne",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/04-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/04-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "eure_geschichte_teilen_dein_kind_auf_schlaf_veränd",
+        "title": "Eure Geschichte teilen: Dein Kind auf Schlaf-Veränderungen vorbereiten",
+        "description": "Wie du neue Schlafenszeit-Erwartungen so einführst, dass sie unterstützend statt bestrafend wirken und alle auf Erfolg vorbereitest. Präsentiere Veränderungen als \"unser Plan\", nicht \"meine Regeln\" Verwende positive, kooperative Sprache",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/05-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/05-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "konsequent_durchziehen",
+        "title": "Konsequent durchziehen",
+        "description": "Das Geheimnis, damit Schlaf-Veränderungen dauerhaft wirken - wie du ruhig und konsequent reagierst, wenn dein Kind die neuen Grenzen testet. Beständigkeit schafft Vertrauen und Sicherheit Verwende jedes Mal dieselben ruhigen Sätze",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/06-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/06-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "schlafenszeit_hinhalte_taktiken_mehr_als_nur_noch_",
+        "title": "Schlafenszeit-Hinhalte-Taktiken: Mehr als nur \"Noch einmal\"",
+        "description": "Praktische Strategien für endlose Wünsche nach Wasser, Toilettengänge und \"nur noch einmal\", die die Schlafenszeit zu einem Marathon machen. Baue berechtigte Bedürfnisse in die Routine ein Eine \"letzte Chance\" für Wünsche",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/07-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/07-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "gute_nacht_ist_nicht_auf_wiedersehen",
+        "title": "Gute Nacht ist nicht Auf Wiedersehen",
+        "description": "Hilf deinem Kind zu verstehen, dass Schlaf nur eine Pause ist, keine Aufgabe der Verbindung, und gehe auf die tiefe Trennungsangst ein, die Schlafenszeit-Widerstand anheizt. Kleine Kinder verstehen Zeit nicht Schlaf fühlt sich für sie wie eine Ewigkeit an",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/08-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/08-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "aus_angst_wird_kraft_kindern_helfen_schlafenszeit_",
+        "title": "Aus Angst wird Kraft: Kindern helfen, Schlafenszeit-Monster zu bewältigen",
+        "description": "Verwandle Schlafenszeit-Ängste von Hindernissen in Möglichkeiten zur Stärkung, indem du Fantasie als Werkzeug statt als Feind nutzt. Rede Ängste niemals als \"nicht echt\" weg Nutze die Fantasie, um Lösungen zu schaffen",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/09-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/09-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "nächtliches_aufwachen",
+        "title": "Nächtliches Aufwachen",
+        "description": "Wie du reagierst, wenn dein Kind um 2 Uhr nachts an deinem Bett steht, und dabei ihr Bedürfnis nach Trost mit dem Schlafbedürfnis aller ausbalancierst. Halte Interaktionen kurz und langweilig Bringe es jedes Mal ruhig zurück",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/10-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/10-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "übergang_vom_gemeinsamen_schlafen_ein_sanfter_zwei",
+        "title": "Übergang vom gemeinsamen Schlafen: Ein sanfter Zweiphasen-Ansatz",
+        "description": "Eine respektvolle, schrittweise Methode für Familien, die bereit sind, vom gemeinsamen Schlafen zum eigenständigen Schlaf überzugehen, die die Bindung ehrt und gleichzeitig Selbständigkeit aufbaut. Phase 1: Elternteil anwesend, aber nicht im Bett Phase 2: Schrittweise Distanzvergrößerung",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/11-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/11-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "wenn_dein_kind_dich_in_der_nähe_braucht",
+        "title": "Wenn dein Kind dich in der Nähe braucht",
+        "description": "Strategien für Kinder, die wirklich elterliche Anwesenheit brauchen, um einzuschlafen, einschließlich schrittweisem Aufbau von Selbständigkeit ohne Trauma. Manche Kinder brauchen länger mehr Unterstützung Anwesenheit bedeutet nicht Interaktion",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/12-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/12-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "machtkämpfe_um_den_schlaf",
+        "title": "Machtkämpfe um den Schlaf",
+        "description": "Wenn die Schlafenszeit zu einem Kontrollkampf wird, lerne, wie du aus dem Kampf aussteigst und die Kooperation wiederherstellst, ohne Grenzen aufzugeben. Machtkämpfe brauchen zwei Teilnehmer Biete Wahlmöglichkeiten innerhalb von Grenzen",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/13-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/13-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen",
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "tägliche_reflexion_und_fortschritt",
+        "title": "Tägliche Reflexion und Fortschritt",
+        "description": "Lerne, Schlaffortschritt realistisch zu verfolgen, kleine Gewinne zu feiern und gleichzeitig Geduld für die längere Reise zu bewahren. Fortschritt ist nicht linear Erkenne Muster über Wochen, nicht Tage",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/14-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/14-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "gesunde_schlaf_routinen_aufbauen",
+        "title": "Gesunde Schlaf-Routinen aufbauen",
+        "description": "Entwickle eine Schlafenszeit-Routine, die für deine Familie wirklich funktioniert, mit der richtigen Balance aus Verbindung, Vorhersagbarkeit und Grenzen. Routine beginnt 45-60 Minuten vor dem Schlaf Jede Nacht dieselbe Reihenfolge",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/15-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/15-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      },
+      {
+        "id": "schlaf_und_schlafenszeit_abschluss",
+        "title": "Schlaf und Schlafenszeit Abschluss",
+        "description": "Würdigung deines Engagements für die Verwandlung der Schlafenszeit und Ermutigung für den Weg vor dir bei der Umsetzung dieser Schlaf-Strategien. Du hast jetzt einen kompletten Werkzeugkasten Veränderung braucht Zeit - sei geduldig",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/16-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep/16-sleep.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Sleep"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_sleep_changes_story_approach",

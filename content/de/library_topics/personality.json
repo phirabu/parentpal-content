@@ -90,7 +90,229 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "_die_einzigartige_persönlichkeit_deines_kindes_ver",
+        "title": "- Die einzigartige Persönlichkeit deines Kindes verstehen (Intro)",
+        "description": "- Die einzigartige Persönlichkeit deines Kindes verstehen (Intro)",
+        "duration": "0:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/01-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/01-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_drei_persönlichkeitstypen_dein_kind_dort_treffen_",
+        "title": "- Drei Persönlichkeitstypen: Dein Kind dort treffen, wo es steht",
+        "description": "- Drei Persönlichkeitstypen: Dein Kind dort treffen, wo es steht",
+        "duration": "4:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/02-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/02-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_das_entschlossene_kind_deinen_natürlichen_anführe",
+        "title": "- Das entschlossene Kind: Deinen natürlichen Anführer verstehen",
+        "description": "- Das entschlossene Kind: Deinen natürlichen Anführer verstehen",
+        "duration": "5:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/03-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/03-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_dein_entschlossenes_kind_erziehen",
+        "title": "- Dein entschlossenes Kind erziehen",
+        "description": "- Dein entschlossenes Kind erziehen",
+        "duration": "6:05",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/04-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/04-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_das_vorsichtige_kind_deinen_sensiblen_beobachter_",
+        "title": "- Das vorsichtige Kind: Deinen sensiblen Beobachter verstehen",
+        "description": "- Das vorsichtige Kind: Deinen sensiblen Beobachter verstehen",
+        "duration": "3:59",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/05-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/05-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_deinem_vorsichtigen_kind_helfen",
+        "title": "- Deinem vorsichtigen Kind helfen",
+        "description": "- Deinem vorsichtigen Kind helfen",
+        "duration": "5:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/06-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/06-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_das_harmonisierende_kind",
+        "title": "- Das harmonisierende Kind",
+        "description": "- Das harmonisierende Kind",
+        "duration": "3:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/07-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/07-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_dein_harmonisierendes_kind_stärken",
+        "title": "- Dein harmonisierendes Kind stärken",
+        "description": "- Dein harmonisierendes Kind stärken",
+        "duration": "4:09",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/08-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/08-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_soziale_missverständnisse",
+        "title": "- Soziale Missverständnisse",
+        "description": "- Soziale Missverständnisse",
+        "duration": "3:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/09-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/09-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_wenn_mich_niemand_mag",
+        "title": "- Wenn mich niemand mag",
+        "description": "- Wenn mich niemand mag",
+        "duration": "3:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/10-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/10-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_perspektivenwechsel_lehren",
+        "title": "- Perspektivenwechsel lehren",
+        "description": "- Perspektivenwechsel lehren",
+        "duration": "4:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/11-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/11-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_freundschaftskonflikte",
+        "title": "- Freundschaftskonflikte",
+        "description": "- Freundschaftskonflikte",
+        "duration": "4:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/12-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/12-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_soziales_selbstvertrauen_aufbauen",
+        "title": "- Soziales Selbstvertrauen aufbauen",
+        "description": "- Soziales Selbstvertrauen aufbauen",
+        "duration": "4:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/13-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/13-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_geschwister_soziale_dynamiken",
+        "title": "- Geschwister-Soziale Dynamiken",
+        "description": "- Geschwister-Soziale Dynamiken",
+        "duration": "5:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/14-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/14-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_die_natur_deines_kindes_feiern",
+        "title": "- Die Natur deines Kindes feiern",
+        "description": "- Die Natur deines Kindes feiern",
+        "duration": "5:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/15-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/15-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "_den_einzigartigen_weg_deines_kindes_annehmen_outr",
+        "title": "- Den einzigartigen Weg deines Kindes annehmen (Outro)",
+        "description": "- Den einzigartigen Weg deines Kindes annehmen (Outro)",
+        "duration": "0:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/16-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/16-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      },
+      {
+        "id": "zusammenfassung_der_wichtigsten_erkenntnisse",
+        "title": "Zusammenfassung der wichtigsten Erkenntnisse",
+        "description": "Zusammenfassung der wichtigsten Erkenntnisse",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/17-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/personality-mc-3-7/17-personality.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Personality"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "supporting_feisty_child_social_conflict",

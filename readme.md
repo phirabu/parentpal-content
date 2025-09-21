@@ -2,10 +2,11 @@
 
 ## Prompt to update media content with claude:
 
-I have created new media files for the personality and social skills category. Can you please update the media section in the following file: /Users/philipp/development/Projects/parentpal-content/content/en/library_topics/personality.json
+I have created new media files. Can you please update the media section of the following files: 
 
-Please use the following file as reference: /Users/philipp/development/Projects/parentpal-content/content/en/library_topics/tantrums.json
 
-The audio descriptions including the image and audio links are stored in the following file: /Users/philipp/development/Projects/rootwise-course/Rootwise-Masterclass-3-7/en/personality_social_skills/video-descriptions.md
+Please use the following files as reference: /Volumes/philipp/development/projects/parentpal-content/content/de/library_topics/tantrums.json
+
+The audio descriptions including the image and audio links are stored in the following files: 
 
 Please show an example how you update the file.

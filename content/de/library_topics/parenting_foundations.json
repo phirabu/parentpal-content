@@ -90,7 +90,174 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_zu_erziehungsprinzipien_grundlage",
+        "title": "Willkommen zu Erziehungsprinzipien & Grundlage",
+        "description": "Die Grundlage kommt vor spezifischen Strategien Fünf Kernprinzipien werden alle Erziehungsentscheidungen leiten",
+        "duration": "1.02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/01-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/01-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "der_emotionale_kompass_das_innere_navigationssyste",
+        "title": "Der Emotionale Kompass - Das innere Navigationssystem deines Kindes",
+        "description": "Jedes Verhalten zeigt auf eine dahinterliegende Emotion Konzentriere dich auf das Gefühl, nicht nur darauf, das Verhalten zu stoppen",
+        "duration": "2:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/02-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/02-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "ruhige_führung_du_setzt_die_emotionale_temperatur",
+        "title": "Ruhige Führung - Du setzt die emotionale Temperatur",
+        "description": "Du setzt die emotionale Temperatur für deine Familie Kinder gleichen dein emotionales Energielevel an",
+        "duration": "2:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/03-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/03-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "verbundene_grenzen_grenzen_mit_liebe_setzen",
+        "title": "Verbundene Grenzen - Grenzen mit Liebe setzen",
+        "description": "Halte Grenzen ein und bleibe dabei emotional verbunden Erkenne Gefühle an und behalte gleichzeitig Grenzen bei",
+        "duration": "2:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/04-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/04-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Verbindung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "die_entwicklungsbrille_durch_die_augen_deines_kind",
+        "title": "Die Entwicklungsbrille - Durch die Augen deines Kindes sehen",
+        "description": "Kindergehirne werden erst in ihren Zwanzigern vollständig entwickelt sein Kinder leben vollkommen im gegenwärtigen Moment",
+        "duration": "2:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/05-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/05-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      },
+      {
+        "id": "wachstumsmentalität_fortschritt_statt_perfektion",
+        "title": "Wachstumsmentalität - Fortschritt statt Perfektion",
+        "description": "Erziehung ist Übung, nicht Aufführung Herausforderungen liefern Informationen, nicht Beweise für Versagen",
+        "duration": "2:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/06-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/06-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      },
+      {
+        "id": "authentische_kommunikation_sagen_was_du_tatsächlic",
+        "title": "Authentische Kommunikation - Sagen, was du tatsächlich meinst",
+        "description": "Sag das, was du tatsächlich meinst, direkt und freundlich Kindergehirne sind konkret und wörtlich",
+        "duration": "2:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/07-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/07-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "emotionale_bestätigung_die_kraft_wirklich_gesehen_",
+        "title": "Emotionale Bestätigung - Die Kraft, wirklich gesehen zu werden",
+        "description": "Bestätigung erfüllt Kinders tiefes Bedürfnis, verstanden zu werden Versuche nicht, Emotionen zu reparieren, zu verkleinern oder zu verändern",
+        "duration": "2:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/08-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/08-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "beständige_präsenz_der_stabile_anker_deines_kindes",
+        "title": "Beständige Präsenz - Der stabile Anker deines Kindes sein",
+        "description": "Sei emotional verfügbar und stabil, besonders an schweren Tagen Diene als emotionaler Anker deines Kindes während Stürmen",
+        "duration": "2:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/09-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/09-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      },
+      {
+        "id": "verbindung_aufbauen_die_grundlage_für_alles_andere",
+        "title": "Verbindung aufbauen - Die Grundlage für alles andere",
+        "description": "Verbindung macht Kinder eher bereit zuzuhören und zu kooperieren Verbindung geschieht in kleinen Momenten während des Tages",
+        "duration": "2:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/10-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/10-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "alles_zusammenfügen_deine_prinzipien_in_aktion",
+        "title": "Alles zusammenfügen - Deine Prinzipien in Aktion",
+        "description": "Alle fünf Prinzipien arbeiten zusammen wie Instrumente in einem Orchester Jedes Prinzip unterstützt und verstärkt die anderen",
+        "duration": "2:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/11-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/11-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      },
+      {
+        "id": "deine_grundlage_steht_mit_vertrauen_nach_vorne_bli",
+        "title": "Deine Grundlage steht - Mit Vertrauen nach vorne blicken",
+        "description": "Fünf Prinzipien bieten Grundlage für alle zukünftigen Herausforderungen Übe täglich, erwarte Unperfektion, lerne weiter",
+        "duration": "1:49",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/12-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/12-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      },
+      {
+        "id": "zusammenfassung_der_kernprinzipien",
+        "title": "Zusammenfassung der Kernprinzipien",
+        "description": "Zusammenfassung der Kernprinzipien",
+        "duration": "0:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/13-parenting-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/13-foundations.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Parenting Foundations"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "staying_calm_outbursts",

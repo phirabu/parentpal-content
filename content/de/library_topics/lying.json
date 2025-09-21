@@ -90,7 +90,210 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_bei_lügen_stehlen",
+        "title": "Willkommen bei Lügen & Stehlen",
+        "description": "Lügen und Stehlen sind normale Entwicklungsverhaltensweisen, keine Charakterfehler Diese Verhaltensweisen können Gelegenheiten zum Lehren sein, nicht zur Bestrafung",
+        "duration": "0:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/01-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/01-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "was_ist_lügen_die_wahrheit_deines_kindes_verstehen",
+        "title": "Was ist Lügen? Die Wahrheit deines Kindes verstehen",
+        "description": "Die Beziehung von Kindern zur Wahrheit bildet sich zwischen 3-7 Jahren noch Fantasie und Realität verschwimmen oft in den Köpfen kleiner Kinder - das ist gesunde Vorstellungskraft",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/02-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/02-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "warum_kinder_lügen_die_wahre_botschaft_verstehen",
+        "title": "Warum Kinder lügen: Die wahre Botschaft verstehen",
+        "description": "Kinder lügen hauptsächlich, um elterliche Liebe und Zustimmung zu behalten Angst vor Konsequenzen und das Gefühl, von Fragen in die Enge getrieben zu werden, treibt viele Lügen an",
+        "duration": "4:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/03-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/03-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen",
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "wenn_lügen_beginnt_entwicklungskontext",
+        "title": "Wenn Lügen beginnt: Entwicklungskontext",
+        "description": "Lügenverhaltensweisen entstehen, während sich Sprache und soziales Bewusstsein entwickeln Jedes Alter bringt verschiedene Arten und Motivationen für Lügen mit sich",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/04-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/04-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "wenn_kinder_lügen_um_aufgaben_zu_vermeiden",
+        "title": "Wenn Kinder lügen, um Aufgaben zu vermeiden",
+        "description": "Aufgabenvermeidende Lügen stammen oft aus Überforderungsgefühlen Kinder brauchen Unterstützung beim Aufteilen schwieriger oder langweiliger Aufgaben",
+        "duration": "4:14",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/05-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/05-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "wenn_kinder_lügen_um_ärger_zu_vermeiden",
+        "title": "Wenn Kinder lügen, um Ärger zu vermeiden",
+        "description": "Angstbasierte Lügen zeigen an, dass Kinder sich nicht sicher fühlen, die Wahrheit zu sagen Wahrheit sagen von Konsequenzen zu trennen ermutigt zur Ehrlichkeit",
+        "duration": "4:48",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/06-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/06-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "wenn_kinder_lügen_um_lob_zu_suchen",
+        "title": "Wenn Kinder lügen, um Lob zu suchen",
+        "description": "Lobsuchende Lügen zeigen ein kindliches Bedürfnis nach Aufmerksamkeit und Bestätigung an Diese Verhaltensweisen zeigen ein Verlangen nach Verbindung, nicht Manipulation",
+        "duration": "3:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/07-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/07-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "deine_erste_reaktion_auf_lügen",
+        "title": "Deine erste Reaktion auf Lügen",
+        "description": "Deine erste Reaktion bestimmt den Ton für die zukünftige Ehrlichkeit deines Kindes Bleib ruhig und reguliere deine eigenen Emotionen, bevor du die Lüge ansprichst",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/08-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/08-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "sicherheit_für_ehrlichkeit_schaffen",
+        "title": "Sicherheit für Ehrlichkeit schaffen",
+        "description": "Sicherheit für Ehrlichkeit erfordert bewusste Anstrengung und geht gegen natürliche Erziehungsinstinkte Wie du auf schwierige Wahrheiten reagierst, lehrt Kinder, ob Ehrlichkeit sicher ist",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/09-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/09-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "verstehen_warum_kinder_stehlen",
+        "title": "Verstehen, warum Kinder stehlen",
+        "description": "Das Konzept von Eigentum entwickelt sich bei Kindern im Alter von 3-7 noch Die meisten Diebstähle stammen aus Herausforderungen der Impulskontrolle, nicht aus Unehrlichkeit",
+        "duration": "4:28",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/10-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/10-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "wenn_du_etwas_findest_das_nicht_gehört",
+        "title": "Wenn du etwas findest, das nicht gehört",
+        "description": "Bleib ruhig beim Entdecken gestohlener Gegenstände - deine Reaktion bestimmt den Ton Höre die Geschichte deines Kindes an, bevor du korrigierst oder eine Standpauke hältst",
+        "duration": "5:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/11-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/11-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "wenn_eifersucht_zum_stehlen_führt",
+        "title": "Wenn Eifersucht zum Stehlen führt",
+        "description": "Eifersucht ist eine normale Emotion, die Stehlverhalten antreiben kann Bestätige eifersüchtige Gefühle, während du das unangemessene Verhalten ansprichst",
+        "duration": "4:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/12-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/12-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung"
+        ]
+      },
+      {
+        "id": "familiengespräche_über_ehrlichkeit",
+        "title": "Familiengespräche über Ehrlichkeit",
+        "description": "Mach Ehrlichkeit zu einem regelmäßigen Thema von Familiengesprächen, nicht nur wenn Probleme auftreten Teile deine eigenen Schwierigkeiten mit Ehrlichkeit in altersgerechter Weise",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/13-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/13-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "fantasie_vs_realität_wenn_vorstellungskraft_auf_wa",
+        "title": "Fantasie vs. Realität - Wenn Vorstellungskraft auf Wahrheit trifft",
+        "description": "Feiere Vorstellungskraft und Kreativität als wichtige Entwicklungsgeschenke Unterscheide zwischen Fantasiespiel und absichtlicher Täuschung",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/14-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/14-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      },
+      {
+        "id": "wann_zusätzliche_unterstützung_zu_suchen",
+        "title": "Wann zusätzliche Unterstützung zu suchen",
+        "description": "Die meisten Lügen- und Stehlverhaltensweisen sind völlig normale Teile der Entwicklung Besorgniserregende Muster umfassen hartnäckige, ausgeschmückte Lügen auch ohne Konsequenzen",
+        "duration": "5:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/15-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/15-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "vorwärtsgehen_mit_vertrauen_und_verständnis",
+        "title": "Vorwärtsgehen mit Vertrauen und Verständnis",
+        "description": "Hinter jedem Lügen- oder Stehlverhalten ist ein Kind, das versucht, ein Bedürfnis zu erfüllen Konzentrier dich darauf, mit der Zeit Vertrauen aufzubauen und Sicherheit für Ehrlichkeit zu schaffen",
+        "duration": "1:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/16-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/lying-mc-3-7/16-lying.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Lying"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "task_avoidance_lying",

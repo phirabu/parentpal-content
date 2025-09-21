@@ -90,7 +90,233 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_transitions_change_masterclass",
+        "title": "Willkommen zu Übergänge & Veränderung",
+        "description": "Ein einführender Überblick, der die Herausforderungen täglicher Übergänge (Anziehen, Schlafenszeit, Aktivitäten verlassen) und großer Lebensveränderungen normalisiert. Schafft die Erwartung, dass reibungslosere Übergänge möglich sind, während sowohl elterliche Kämpfe als auch kindliche Entwicklungsbedürfnisse geehrt werden.",
+        "duration": "1:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/01-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/01-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Übergänge",
+          "Veränderung",
+          "Masterclass",
+          "Einführung"
+        ]
+      },
+      {
+        "id": "understanding_why_transitions_hard",
+        "title": "Verstehen, warum Übergänge schwer sind",
+        "description": "Erforscht die neurologischen und entwicklungsbedingten Gründe, warum Übergänge große Reaktionen bei kleinen Kindern auslösen. Erklärt, wie Kinderkonzentration auf den gegenwärtigen Moment und noch sich entwickelnde Gehirnflexibilität echte Schwierigkeiten mit Veränderungen schaffen, und hilft Eltern dabei, Widerstand nicht als Trotz, sondern als normale Entwicklungsreaktion zu verstehen.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/02-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/02-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Gehirnentwicklung",
+          "Übergänge",
+          "Widerstand",
+          "Gegenwartsbewusstsein"
+        ]
+      },
+      {
+        "id": "present_moment_challenge",
+        "title": "Die Gegenwartsmoment-Herausforderung",
+        "description": "Tiefer Einblick, wie sich Kinderkonzentration auf den gegenwärtigen Moment vom Erwachsenen-Gesamtbild-Denken unterscheidet. Bietet spezifische Strategien zur Überbrückung der Kluft zwischen der unmittelbaren Erfahrung eines Kindes und notwendigen Übergängen, wobei Verbindung vor Kooperation betont wird.",
+        "duration": "4:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/03-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/03-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Gegenwart",
+          "Zeitkonzepte",
+          "Verbindung",
+          "Kommunikation"
+        ]
+      },
+      {
+        "id": "getting_close_physical_proximity",
+        "title": "Nähe kommen - Die Kraft körperlicher Nähe",
+        "description": "Zeigt, wie körperliche Nähe Übergänge von Machtkämpfen zu Momenten der Verbindung verwandelt. Zeigt den Unterschied zwischen Anweisungen quer durch den Raum zu rufen versus näher zu kommen, Blickkontakt herzustellen und ruhige Präsenz zu schaffen.",
+        "duration": "4:12",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/04-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/04-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "körperliche Nähe",
+          "Verbindung",
+          "Co-Regulation",
+          "Präsenz"
+        ]
+      },
+      {
+        "id": "clear_communication_abstract_concrete",
+        "title": "Klare Kommunikation - Von Abstrakt zu Konkret",
+        "description": "Lehrt Eltern, vage, abstrakte Sprache durch konkrete, spezifische Anweisungen zu ersetzen, die der Art entsprechen, wie kleine Kindergehirne Informationen verarbeiten. Fokussiert darauf, klare Schritte zu geben statt Zeitkonzepte oder allgemeine Anweisungen.",
+        "duration": "3:44",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/05-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/05-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Kommunikation",
+          "Sprache",
+          "konkrete Anweisungen",
+          "Verständnis"
+        ]
+      },
+      {
+        "id": "preparing_child_expectations_anxiety",
+        "title": "Dein Kind vorbereiten - Erwartungen setzen und Angst reduzieren",
+        "description": "Erklärt, wie man Kinder auf Übergänge und Veränderungen vorbereitet, indem man sowohl Fakten als auch emotionale Validierung bietet. Zeigt, wie Vorbereitung Angst reduziert, indem sie dem Nervensystem der Kinder Zeit gibt, sich an kommende Veränderungen anzupassen.",
+        "duration": "5:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/06-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/06-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Vorbereitung",
+          "Angstreduzierung",
+          "Erwartungen",
+          "emotionale Validierung"
+        ]
+      },
+      {
+        "id": "power_balance_empowering_boundaries",
+        "title": "Das Machtgleichgewicht - Kinder innerhalb von Grenzen ermächtigen",
+        "description": "Behandelt, wie Kinder am meisten widerstehen, wenn sie sich machtlos fühlen, und zeigt, wie man sinnvolle Wahlmöglichkeiten innerhalb nicht-verhandelbarer Grenzen anbietet. Lehrt das Konzept des strategischen Machteilens bei gleichzeitiger Beibehaltung elterlicher Autorität.",
+        "duration": "5:28",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/07-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/07-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Autonomie",
+          "Wahlmöglichkeiten",
+          "Grenzen",
+          "Machtbalance"
+        ]
+      },
+      {
+        "id": "comfort_objects_transition_support",
+        "title": "Die Bedeutung von Trostgegenständen - Wie Übergangsobjekte dein Kind unterstützen",
+        "description": "Erforscht, wie Übergangsobjekte (Trostgegenstände wie Kuscheltiere, Decken oder besondere Spielzeuge) als emotionale Anker während Übergängen dienen. Zeigt, wie diese Gegenstände Sicherheit und Verbindung bieten, wenn Kinder unvertrauten Situationen gegenüberstehen.",
+        "duration": "4:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/08-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/08-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Trostgegenstände",
+          "Übergangsobjekte",
+          "emotionale Sicherheit",
+          "Anpassung"
+        ]
+      },
+      {
+        "id": "not_task_its_feeling",
+        "title": "Es ist nicht die Aufgabe, es ist das Gefühl",
+        "description": "Enthüllt, dass Kinderwiderstand meist aus dem Gefühl stammt, kontrolliert zu werden, anstatt aus Verwirrung über die Aufgabe selbst. Zeigt, wie man die emotionale Schicht unter dem Widerstand anspricht, während man notwendige Erwartungen aufrechterhält.",
+        "duration": "5:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/09-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/09-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Validierung",
+          "Widerstand verstehen",
+          "Gefühle",
+          "Kontrolle"
+        ]
+      },
+      {
+        "id": "shifting_have_to_want_to",
+        "title": "Von 'Ich muss' zu 'Ich möchte' wechseln",
+        "description": "Lehrt, wie man Kindern hilft, Wahlmöglichkeiten und Eigenverantwortung innerhalb notwendiger Routinen und Verantwortlichkeiten zu finden. Zeigt, wie man sowohl 'muss'-Realitäten als auch 'möchte'-Elemente anerkennt, ohne falsche Positivität zu erzwingen.",
+        "duration": "4:50",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/10-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/10-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Eigenverantwortung",
+          "Motivation",
+          "Wahlmöglichkeiten",
+          "innere Bereitschaft"
+        ]
+      },
+      {
+        "id": "when_routines_break_down",
+        "title": "Wenn Routinen zusammenbrechen",
+        "description": "Behandelt, wie man Struktur und Verbindung aufrechterhält, wenn normale Routinen durch Krankheit, Reisen, Besucher oder Lebensstress gestört werden. Betont Flexibilität innerhalb der Struktur anstatt Routinen ganz aufzugeben.",
+        "duration": "5:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/11-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/11-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Flexibilität",
+          "Routine-Störungen",
+          "Anpassung",
+          "Struktur"
+        ]
+      },
+      {
+        "id": "managing_your_transition_stress",
+        "title": "Deinen eigenen Übergangsstress bewältigen",
+        "description": "Fokussiert darauf, wie die emotionale Regulation der Eltern direkt die Fähigkeit der Kinder beeinflusst, Übergänge reibungslos zu bewältigen. Bietet konkrete Strategien, um während hastiger oder stressiger Momente ruhig zu bleiben.",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/12-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/12-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Elternstress",
+          "Selbstregulation",
+          "Ruhe bewahren",
+          "Co-Regulation"
+        ]
+      },
+      {
+        "id": "supporting_major_life_transitions",
+        "title": "Dein Kind durch große Lebensübergänge unterstützen",
+        "description": "Bietet Anleitung für das Navigieren großer Lebensveränderungen wie Umzug, neue Geschwister oder Familienveränderungen. Betont die Wichtigkeit ehrlicher Kommunikation, die sowohl Fakten als auch emotionale Validierung beinhaltet.",
+        "duration": "6:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/13-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/13-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "große Veränderungen",
+          "Lebensübergänge",
+          "Familienveränderungen",
+          "ehrliche Kommunikation"
+        ]
+      },
+      {
+        "id": "building_coping_strategies_changes",
+        "title": "Bewältigungsstrategien für große Lebensveränderungen aufbauen",
+        "description": "Lehrt spezifische, praktische Bewältigungsstrategien, die Kinder verwenden können, wenn sie überwältigenden Emotionen während großer Übergänge gegenüberstehen. Betont das Lehren dieser Fähigkeiten in ruhigen Momenten, damit sie bei Bedarf verfügbar sind.",
+        "duration": "5:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/14-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/14-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Bewältigungsstrategien",
+          "emotionale Regulation",
+          "Resilienz",
+          "Fähigkeitsaufbau"
+        ]
+      },
+      {
+        "id": "celebrating_transition_transformation",
+        "title": "Deine Übergangs-Verwandlung feiern",
+        "description": "Eine abschließende Botschaft, die Fortschritt feiert, während sie realistische Erwartungen über anhaltende Herausforderungen setzt. Verstärkt, dass das Ziel Fortschritt, nicht Perfektion ist, und erkennt an, dass manche Tage schwerer sein werden als andere.",
+        "duration": "1:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/15-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/change-mc-3-7/15-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Fortschritt",
+          "Ermutigung",
+          "Abschluss",
+          "Verwandlung"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "managing_morning_routine_resistance",

@@ -90,7 +90,71 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_zu_wiedergutmachung_wiederverbindung",
+        "title": "Willkommen zu Wiedergutmachung & Wiederverbindung",
+        "description": "Diese einladende Einführung normalisiert die universelle Elternerfahrung, Fehler zu machen, und setzt den Ton dafür, zu lernen, wie schwierige Momente in Gelegenheiten für tiefere Verbindung verwandelt werden können. Das Video betont, dass Perfektion nicht das Ziel ist - was zählt, ist, was passiert, nachdem wir einen Fehler gemacht haben. Eltern werden mit dem Konzept vertraut gemacht, dass Wiedergutmachung nicht nur darum geht, zu reparieren, was schief gelaufen ist, sondern Kindern zu zeigen,",
+        "duration": "0:49",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/01-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/repairing-mc-3-7/01-repairing.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "wenn_wir_die_kontrolle_verlieren",
+        "title": "Wenn wir die Kontrolle verlieren",
+        "description": "Dieses grundlegende Video erforscht die Biologie und Psychologie dahinter, warum Eltern die Kontrolle verlieren, und hilft ihnen zu verstehen, dass diese Momente menschlich und keine Versagen sind. Es validiert die Scham und Schuld, die Eltern fühlen, während es erklärt, was Kinder während dieser Brüche erleben. Das Video reframt Kontrollverlust von \"Ich bin ein schrecklicher Elternteil\" zu \"Ich bin ein Mensch, der seine Grenze erreicht hat\" und betont, dass Wiedergutmachung alles verändert und ",
+        "duration": "5:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/02-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/repairing-mc-3-7/02-repairing.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "wie_du_mit_deinem_kind_wiedergutmachung_leistest",
+        "title": "Wie du mit deinem Kind Wiedergutmachung leistest",
+        "description": "Dieser praktische Leitfaden bietet Eltern spezifische Skripts und Strategien für Wiedergutmachung mit Kindern im Alter von 3-7 Jahren. Das Video gliedert den Wiedergutmachungsprozess in klare, umsetzbare Schritte und bietet altersgerechte Sprachbeispiele. Es unterscheidet zwischen gesunder Wiedergutmachung und übermäßigem Entschuldigen und zeigt Eltern, wie sie Verantwortlichkeit modellieren können, ohne ihre Autorität zu untergraben oder Kinder für erwachsene Emotionen verantwortlich zu machen.",
+        "duration": "5:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/03-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/repairing-mc-3-7/03-repairing.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Repairing"
+        ]
+      },
+      {
+        "id": "zukünftigen_zusammenbrüchen_vorbeugen",
+        "title": "Zukünftigen Zusammenbrüchen vorbeugen",
+        "description": "Dieses reflektierende Video hilft Eltern, Detektive ihrer eigenen Muster zu werden und körperliche und emotionale Warnzeichen zu identifizieren, bevor sie die Kontrolle verlieren. Es betont nachhaltige Selbstbewusstseinspraktiken über perfekte Vorbeugung und ermutigt Eltern, kleine, aufrechterhaltbare Gewohnheiten aufzubauen, die bessere Regulation unterstützen. Das Video reframt das Ziel von niemals schwierige Momente zu haben zu sich selbst besser zu verstehen, damit diese Momente seltener auf",
+        "duration": "3:35",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/04-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/repairing-mc-3-7/04-repairing.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Repairing"
+        ]
+      },
+      {
+        "id": "abschluss_wiedergutmachung_wiederverbindung",
+        "title": "Abschluss - Wiedergutmachung & Wiederverbindung",
+        "description": "Dieser ermutigende Abschluss verstärkt, dass Wiedergutmachung darum geht, Beziehungen aufzubauen, in denen Liebe durch die unordentlichen Momente des Lebens beständig bleibt. Es erinnert Eltern daran, dass Kinder keine Perfektion brauchen - sie brauchen Erwachsene, die Verantwortung übernehmen, sich aufrichtig entschuldigen und demonstrieren können, dass Beziehungen Stürme überstehen können. Das Video rahmt Erziehung als Kindern beibringen, wie es ist, menschlich zu sein, und betont die wundersc",
+        "duration": "1:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/05-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/repairing-mc-3-7/05-repairing.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Repairing"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "repairing_after_yelling",

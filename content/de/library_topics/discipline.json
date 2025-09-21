@@ -90,7 +90,161 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "einführung_erziehung_natürliche_konsequenzen",
+        "title": "Einführung - Erziehung & Natürliche Konsequenzen",
+        "description": "Dieses Willkommensvideo legt den Grundstein für die Transformation, wie Eltern über Erziehung denken. Es spricht die häufige Verwirrung zwischen Erziehung und Bestrafung an und führt das Konzept ein, dass effektive Erziehung tatsächlich um Führung und Lehren geht, anstatt Kinder sich schlecht fühlen zu lassen. Das Video verspricht praktische Strategien, die Kooperation durch Verbindung aufbauen, anstatt durch Angst, während trotzdem wichtige Grenzen aufrechterhalten werden. Erziehung bedeutet Fü",
+        "duration": "0:59",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/01-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/01-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "erziehung_neu_definieren",
+        "title": "Erziehung neu definieren",
+        "description": "Dieses grundlegende Video erforscht den entscheidenden Unterschied zwischen Erziehung und Bestrafung und erklärt, dass wahre Erziehung vom lateinischen Wort kommt, das \"lehren\" bedeutet. Durch nachvollziehbare Beispiele wie ein Kind, das auf Wände malt oder ein Geschwisterchen stößt, lernen Eltern, wie Erziehung Kinder durch Verständnis und Wachstum aufbaut, während Bestrafung sie durch Scham und Angst niedermacht. Das Video betont, dass diese Veränderung nicht bedeutet, nachgiebig zu sein, sond",
+        "duration": "4:35",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/02-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/02-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "warum_bestrafungen_nach_hinten_losgehen",
+        "title": "Warum Bestrafungen nach hinten losgehen",
+        "description": "Dieses augenöffnende Video erklärt, warum traditionelle Bestrafungsstrategien Verhalten oft verschlimmern, anstatt es zu verbessern. Mit der Eisberg-Metapher zeigt es, wie Bestrafungen nur Oberflächenverhalten ansprechen, während sie die zugrundeliegenden Bedürfnisse und Gefühle ignorieren, die herausfordernde Handlungen antreiben. Eltern lernen, warum Kinder anfangen zu lügen, Belohnungssysteme zu manipulieren und Machtkämpfe zu eskalieren, wenn sich Konsequenzen hart oder vom eigentlichen Prob",
+        "duration": "5:3ß",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/03-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/03-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Verbindung"
+        ]
+      },
+      {
+        "id": "ruhig_bleiben_in_schwierigen_momenten",
+        "title": "Ruhig bleiben in schwierigen Momenten",
+        "description": "Dieses praktische Video geht den kritischen Moment an, wenn Eltern sich durch das Verhalten ihres Kindes getriggert fühlen. Es betont, dass der emotionale Zustand der Eltern, nicht das Verhalten des Kindes, der wahre Notfall ist. Eltern lernen spezifische Techniken, um ruhig zu bleiben, einschließlich Atemstrategien, persönliche Auslöser erkennen, die Stimme senken und körperlich näher zum Kind kommen. Das Video behandelt auch, wie man repariert, wenn man doch die Beherrschung verliert. Dein emo",
+        "duration": "4:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/04-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/04-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Discipline"
+        ]
+      },
+      {
+        "id": "klare_grenzen_setzen_ohne_bestrafung",
+        "title": "Klare Grenzen setzen ohne Bestrafung",
+        "description": "Dieses transformative Video führt den \"Ja, das machen wir\"-Ansatz ein, um den Zyklus von wiederholten Bitten gefolgt von Schreien zu beenden. Eltern lernen, wie sie beim ersten Mal meinen, was sie sagen, indem sie körperlich anwesend sind, Augenkontakt herstellen und mit ruhiger Konsequenz durchgreifen. Durch Beispiele wie Schuhe anziehen und Aufräumzeit sehen Eltern, wie dieser Ansatz Vertrauen aufbaut und Kindern lehrt, dass Kooperation durch Verbindung kommt, nicht durch Zwang. Kinder lernen,",
+        "duration": "4:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/05-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/05-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "natürliche_vs_unzusammenhängende_konsequenzen",
+        "title": "Natürliche vs. unzusammenhängende Konsequenzen",
+        "description": "Dieses entscheidende Video hilft Eltern, den Unterschied zwischen Konsequenzen zu verstehen, die natürlich aus Verhalten fließen, versus willkürliche Bestrafungen, die kleine Kinder verwirren. Mit Beispielen wie Schlagen führt zu verlorenem Nachtisch (unzusammenhängend) versus Spielzeug werfen führt zu verlorenem Spielzeugzugang (natürlich) lernen Eltern, warum natürliche Konsequenzen für sich entwickelnde Gehirne besser funktionieren. Das Video betont ruhige, sachliche Reaktionen, die Kindern h",
+        "duration": "5:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/06-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/06-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "alternativen_zur_auszeit",
+        "title": "Alternativen zur Auszeit",
+        "description": "Dieses Video deckt auf, warum traditionelle Auszeiten oft versagen und bietet zwei mächtige Alternativen: Time-In und Sich-Zeit-nehmen. Eltern lernen, dass kleine Kinder nicht die Gehirnentwicklung haben, die nötig ist, um allein während Auszeiten zu reflektieren, und stattdessen erwachsene Unterstützung brauchen, um ihre Emotionen zu regulieren. Das Video zeigt, wie man einen unterstützenden Beruhigungsraum schafft und Kindern beibringt zu erkennen, wann sie emotionale Pausen brauchen. Traditio",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/07-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/07-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Discipline"
+        ]
+      },
+      {
+        "id": "zugrundeliegende_emotionen_ansprechen",
+        "title": "Zugrundeliegende Emotionen ansprechen",
+        "description": "Dieses aufschlussreiche Video lehrt Eltern, emotionale Detektive zu werden und unter Oberflächenverhalten zu schauen, um die Gefühle zu verstehen, die herausfordernde Handlungen antreiben. Eltern lernen, dass Schlagen oft von Ohnmacht stammt, Lügen von Angst oder Scham, und Trotz vom Bedürfnis nach Kontrolle oder sich ungehört zu fühlen. Das Video zeigt, wie man Emotionen bestätigt und gleichzeitig Grenzen aufrechterhält, um dauerhafte Verhaltensänderung zu schaffen, indem man die Grundursachen ",
+        "duration": "3:48",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/08-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/08-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "wenn_es_keine_konsequenzen_gibt",
+        "title": "Wenn es keine Konsequenzen gibt",
+        "description": "Dieses befreiende Video zeigt Eltern, dass nicht jede Grenze eine Konsequenz braucht. Durch Beispiele von Schlafenszeit-Routinen, Anziehen und das Haus verlassen lernen Eltern, wie man feste Grenzen mit ruhiger Selbstsicherheit und sanfter Beharrlichkeit aufrechterhält. Das Video betont, dass manche Dinge im Leben einfach so sind, wie sie sind, und Kinder finden Trost in vorhersagbaren Routinen, die von liebevollen, selbstsicheren Erwachsenen geführt werden. Nicht jede Grenze braucht eine Konseq",
+        "duration": "3:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/09-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/09-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen",
+          "natürliche Konsequenzen"
+        ]
+      },
+      {
+        "id": "belohnungen_und_anreize_verstehen",
+        "title": "Belohnungen und Anreize verstehen",
+        "description": "Dieses ausgewogene Video hilft Eltern zu verstehen, wann Belohnungen hilfreich sein können und wann sie intrinsische Motivation untergraben könnten. Eltern lernen, dass während Belohnungen neue Routinen ankurbeln können, Überabhängigkeit dazu führen kann, dass Kinder den Kontakt zu innerer Zufriedenheit und Stolz verlieren. Das Video bietet Richtlinien für den durchdachten Einsatz von Belohnungen und Strategien für den Aufbau echter innerer Motivation durch spezifische Beobachtungen und Reflexio",
+        "duration": "3:31",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/10-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/10-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Discipline"
+        ]
+      },
+      {
+        "id": "den_übergang_von_bestrafung_zu_führung_schaffen",
+        "title": "Den Übergang von Bestrafung zu Führung schaffen",
+        "description": "Dieses ermutigende Video führt Eltern durch den praktischen Prozess der Veränderung von bestrafungsbasierten zu führungsorientierten Erziehungsansätzen. Es geht auf häufige Bedenken ein über das Erklären von Veränderungen an Kinder, das Handhaben anfänglicher Tests von Grenzen und das Bewältigen unvermeidlicher Ausrutscher. Das Video betont Fortschritt statt Perfektion und hilft Eltern zu verstehen, dass dieser Übergang Beziehungen stärkt und Kindern wertvolle Lektionen über Wachstum und Verände",
+        "duration": "3:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/11-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/11-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Discipline"
+        ]
+      },
+      {
+        "id": "outro_dein_weiterer_weg_mit_erziehung_und_konseque",
+        "title": "Outro - Dein weiterer Weg mit Erziehung und Konsequenzen",
+        "description": "Dieser inspirierende Abschluss fasst die Schlüsselkonzepte des Moduls zusammen und ermutigt Eltern auf ihrer fortlaufenden Reise. Er verstärkt, dass Erziehung um Führung geht, nicht um Bestrafung, und erinnert Eltern daran, dass sie langfristige Fähigkeiten in ihren Kindern aufbauen, einschließlich Respekt, Verantwortung und emotionale Intelligenz. Das Video erkennt an, dass Veränderung Zeit braucht und feiert jeden Schritt in Richtung verbundenerer, ruhigerer Erziehung. Erziehung geht darum, zu",
+        "duration": "1:16",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/12-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/discipline-mc-3-7/12-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Verbindung"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "setting_clear_boundaries_without_punishment",

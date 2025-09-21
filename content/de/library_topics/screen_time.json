@@ -90,7 +90,159 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "willkommen_beim_bildschirmzeit_management",
+        "title": "Willkommen beim Bildschirmzeit-Management",
+        "description": "Eine warme Einführung in das Bildschirmzeit-Management Modul, die die täglichen Kämpfe von Eltern mit Geräteschlachten und Zusammenbrüchen anerkennt. Bereitet die Bühne für praktische, konfliktreduzierende Strategien vor, die im echten Familienleben funktionieren, während sie gesunde Beziehungen zur Technologie aufbauen. Bildschirmzeit-Kämpfe sind häufig und du bist nicht allein in dieser Herausforderung Dieses Modul fokussiert auf praktische Strategien, die tägliche Machtkämpfe reduzieren",
+        "duration": "0:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/01-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/01-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "bildschirmzeit_in_der_welt_deines_kindes_verstehen",
+        "title": "Bildschirmzeit in der Welt deines Kindes verstehen",
+        "description": "Bietet wesentlichen Kontext darüber, wie Bildschirme in die moderne Kindheit passen und was Bildschirmzeit für sich entwickelnde Gehirne im Alter von 3-7 bedeutet. Adressiert elterliche Schuldgefühle und Verwirrung durch Erkundung der Realität von Technologie in der heutigen Welt, betont, dass Inhalt und Kontext wichtiger sind als nur das Zählen von Minuten. Hilft Eltern, über Alles-oder-Nichts-Denken hinauszugehen. Jede Generation hat sich wegen neuer Technologie Sorgen um die Auswirkungen auf ",
+        "duration": "5:06",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/02-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/02-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "die_balance_perspektive_über_gut_vs_schlecht_hinau",
+        "title": "Die Balance-Perspektive: Über Gut vs Schlecht hinausgehen",
+        "description": "Hinterfragt das binäre Denken über Bildschirmzeit als entweder \"gut\" oder \"böse\" und führt einen nuancierteren, praktischeren Ansatz ein. Zeigt Eltern, wie sie durchdachte, bewusste Entscheidungen über Bildschirmzeit ohne Schuld oder Scham treffen können, während sie das Gesamtbild der Familienbedürfnisse und -umstände berücksichtigen. Alles-oder-Nichts-Ansätze zur Bildschirmzeit schaffen oft mehr Stress als Lösungen Kontext ist wichtig - dieselbe Aktivität kann zu verschiedenen Zeiten verschied",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/03-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/03-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "die_realität_deiner_familie_bewerten_ehrliche_best",
+        "title": "Die Realität deiner Familie bewerten: Ehrliche Bestandsaufnahme",
+        "description": "Führt Eltern durch eine nicht-urteilende Bewertung ihrer aktuellen Bildschirmzeit-Muster und Familienumstände. Ermutigt zur ehrlichen Beobachtung von wann, wie lange und welche Art von Bildschirmzeit stattfindet, sowie zur Untersuchung dessen, was funktioniert und was nicht. Betont, dass dies Informationssammlung ist, nicht Beweissammlung gegen dich selbst. Ehrliche Bewertung ist Informationssammlung, nicht Selbstbeurteilung Betrachte Dauer, Inhalt, Timing und was Bildschirmzeit ersetzt",
+        "duration": "4:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/04-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/04-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "klare_grenzen_setzen_grenzen_schaffen_die_tatsächl",
+        "title": "Klare Grenzen setzen: Grenzen schaffen, die tatsächlich funktionieren",
+        "description": "Erklärt, warum vage Grenzen scheitern und lehrt Eltern, wie sie spezifische, durchsetzbare Grenzen schaffen, die Kinder verstehen können. Fokussiert auf die entwicklungsbedingte Realität, dass kleine Kinder wörtlich denken und konkrete Erwartungen anstelle abstrakter Konzepte wie \"nicht zu viel\" oder \"bald\" benötigen. Klare Grenzen sind wie Straßenschilder für sich entwickelnde Köpfe Kleine Kinder brauchen spezifische Informationen: wie viel Zeit, wann es endet, wann es zurückkehrt",
+        "duration": "4:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/05-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/05-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "das_vorbereitungsgespräch_dein_kind_auf_erfolg_vor",
+        "title": "Das Vorbereitungsgespräch: Dein Kind auf Erfolg vorbereiten",
+        "description": "Lehrt Eltern, wie sie Kinder durch respektvolle Vorabkommunikation auf Bildschirmzeit-Änderungen vorbereiten. Erklärt, warum plötzliche Änderungen kleine Gehirne überfordern und bietet altersangemessene Gesprächsskripte für die Diskussion neuer Bildschirmzeit-Regeln, während Gefühle validiert und feste Grenzen aufrechterhalten werden. Kinder auf Veränderungen vorzubereiten macht Übergänge für alle sanfter Vorabankündigung hilft sich entwickelnden Gehirnen, Veränderungen in handhabbaren Portionen",
+        "duration": "4:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/06-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/06-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emotionale Entwicklung",
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "wenn_sie_widerstand_leisten_widerstand_mit_selbstv",
+        "title": "Wenn sie Widerstand leisten: Widerstand mit Selbstvertrauen handhaben",
+        "description": "Adressiert den unvermeidlichen Widerstand, den Kinder zeigen, wenn Bildschirmzeit-Grenzen durchgesetzt werden, und lehrt Eltern, wie sie reagieren anstatt zu reaktionieren. Behandelt häufige Widerstandsszenarien (Wutanfälle, Verhandeln, Vergleiche, Verweigerung) und bietet spezifische Sprache für das Ruhigbleiben und Beständigsein, während Kinder durch große Emotionen unterstützt werden. Kinderwiderstand bedeutet nicht, dass deine Grenze falsch ist Widerstand zeigt oft an, dass die Grenze genau ",
+        "duration": "4:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/07-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/07-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "sanfte_übergänge_bildschirmzeit_enden_leichter_mac",
+        "title": "Sanfte Übergänge: Bildschirmzeit-Enden leichter machen",
+        "description": "Erklärt, warum Bildschirmzeit-Übergänge besonders herausfordernd für kleine Gehirne sind und bietet praktische Strategien, um Enden vorhersagbarer und handhabbarer zu machen. Fokussiert auf Vorbereitung, Timing, visuelle Hilfsmittel und Übergangsrituale, die mit der Kindesentwicklung arbeiten, anstatt dagegen. Kinder haben Schwierigkeiten mit Bildschirm-Übergängen aufgrund entwicklungsbedingter Gehirnunterschiede Bestimme Endpunkte, bevor die Bildschirmzeit beginnt",
+        "duration": "4:37",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/08-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/08-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "bildschirmfreie_beschäftigung_unterstützen_über_ge",
+        "title": "Bildschirmfreie Beschäftigung unterstützen: Über 'Geh spielen' hinaus",
+        "description": "Adressiert die häufige Herausforderung von Kindern, die nach dem Ende der Bildschirmzeit Langeweile behaupten, und bietet Strategien zur Unterstützung unabhängigen Spiels und Kreativität. Erklärt, wie man Einladungsräume einrichtet, Langeweile produktiv navigiert und die Kapazität der Kinder für selbstgesteuerte Aktivitäten aufbaut, ohne ihre Zeit zu überprogrammieren. \"Geh einfach spielen\" funktioniert selten nach hochstimulierender Bildschirmzeit Langeweile ist wertvoll und oft die Schwelle zu",
+        "duration": "5:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/09-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/09-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "deinen_eigenen_bildschirmzeit_stress_managen_elter",
+        "title": "Deinen eigenen Bildschirmzeit-Stress managen: Elterliche Selbstregulierung",
+        "description": "Adressiert die emotionale Belastung, die Eltern bei Bildschirmzeit-Entscheidungen tragen und wie elterliche Angst die gesamte Familiendynamik beeinflusst. Erkundet Eltern-Beziehungen zur Technologie, externen Druck und bietet Strategien für Entscheidungen aus einem ruhigen, zentrierten Ort anstatt aus Schuld oder Reaktivität. Dein emotionaler Zustand bezüglich Bildschirmzeit beeinflusst dein Kind mehr als die Bildschirme selbst Sei ehrlich über deine eigenen Technologie-Muster zuerst",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/10-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/10-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Masterclass",
+          "Screen Time"
+        ]
+      },
+      {
+        "id": "herausforderungen_der_realen_welt_beständigkeit_in",
+        "title": "Herausforderungen der realen Welt: Beständigkeit in besonderen Situationen",
+        "description": "Tackelt die Realität, dass das Leben perfekte Bildschirmzeit-Routinen durch Krankheit, Reisen, verschiedene Zuhause, Großeltern und öffentliche Situationen stört. Bietet Strategien zur Aufrechterhaltung von Kernwerten bei gleichzeitiger Anpassung an besondere Umstände und lehrt Eltern, wie sie ihre Flexibilitätslinie finden, ohne alle Grenzen aufzugeben. Flexibilität bedeutet nicht, alle Grenzen aufzugeben Schaffe temporäre Regeln für besondere Situationen wie Krankheit oder Reisen",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/11-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/11-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      },
+      {
+        "id": "dein_bildschirmzeit_selbstvertrauen_aufbauen",
+        "title": "Dein Bildschirmzeit-Selbstvertrauen aufbauen",
+        "description": "Ein ermutigender Abschluss, der die Komplexität des modernen Bildschirmzeit-Managements anerkennt und gleichzeitig den Fortschritt feiert, den Eltern gemacht haben. Verstärkt, dass dies ein fortlaufender Prozess anstatt einer einmaligen Lösung ist, und betont die tieferen Lektionen, die Kinder durch beständiges, mitfühlsames Grenzziehen lernen. Bildschirmzeit-Management ist fortlaufend, keine einmalige Entscheidung Manche Tage werden sanfter sein als andere - das ist völlig normal",
+        "duration": "1:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/12-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/screetime-mc-3-7/12-screentime.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "Grenzen"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_new_screen_time_boundaries",
