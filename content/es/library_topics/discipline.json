@@ -90,7 +90,188 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "intro_discipline_natural_consequences",
+        "title": "Introducción - Disciplina y Consecuencias Naturales",
+        "description": "Este video de bienvenida prepara el escenario para transformar cómo las madres piensan sobre la disciplina. Aborda la confusión común entre disciplina y castigo, e introduce el concepto de que la disciplina efectiva realmente se trata de guía y enseñanza en lugar de hacer que los niños se sientan mal.",
+        "duration": "0:59",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/01-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/01-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "disciplina",
+          "guía",
+          "enseñanza",
+          "introducción"
+        ]
+      },
+      {
+        "id": "redefining_discipline",
+        "title": "Redefiniendo la Disciplina",
+        "description": "Explora la diferencia crucial entre disciplina y castigo, explicando que la verdadera disciplina viene de la palabra latina que significa 'enseñar'. A través de ejemplos relacionables, las madres aprenden cómo la disciplina construye a los niños a través del entendimiento y crecimiento.",
+        "duration": "4:35",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/02-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/02-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "disciplina vs castigo",
+          "enseñanza",
+          "desarrollo",
+          "empatía"
+        ]
+      },
+      {
+        "id": "why_punishments_backfire",
+        "title": "Por Qué los Castigos Resultan Contraproducentes",
+        "description": "Explica por qué las estrategias de castigo tradicionales a menudo empeoran el comportamiento en lugar de mejorarlo. Usando la metáfora del iceberg, muestra cómo los castigos solo abordan el comportamiento superficial mientras ignoran las necesidades y sentimientos subyacentes.",
+        "duration": "5:30",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/03-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/03-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "comportamiento iceberg",
+          "castigo",
+          "necesidades subyacentes",
+          "conexión"
+        ]
+      },
+      {
+        "id": "staying_calm_difficult_moments",
+        "title": "Mantener la Calma en Momentos Difíciles",
+        "description": "Aborda el momento crítico cuando las madres se sienten activadas por el comportamiento de su hijo. Enfatiza que el estado emocional de la madre, no el comportamiento del niño, es la emergencia real. Aprende técnicas específicas para mantenerte calmada.",
+        "duration": "4:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/04-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/04-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "autorregulación",
+          "calma",
+          "respiración",
+          "reparación"
+        ]
+      },
+      {
+        "id": "setting_clear_limits_without_punishment",
+        "title": "Establecer Límites Claros Sin Castigo",
+        "description": "Introduce el enfoque 'Sí, lo haremos' para terminar el ciclo de peticiones repetidas seguidas de gritos. Aprende cómo decir en serio lo que dices la primera vez estando físicamente presente y cumpliendo con consistencia calmada.",
+        "duration": "4:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/05-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/05-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "límites",
+          "consistencia",
+          "presencia física",
+          "cooperación"
+        ]
+      },
+      {
+        "id": "natural_vs_unrelated_consequences",
+        "title": "Consecuencias Naturales vs No Relacionadas",
+        "description": "Ayuda a las madres a entender la diferencia entre consecuencias que fluyen naturalmente del comportamiento versus castigos arbitrarios que confunden a los niños pequeños. Las consecuencias naturales enseñan causa y efecto sin luchas de poder.",
+        "duration": "5:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/06-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/06-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "consecuencias naturales",
+          "causa y efecto",
+          "aprendizaje",
+          "desarrollo cerebral"
+        ]
+      },
+      {
+        "id": "alternatives_to_timeout",
+        "title": "Alternativas al Tiempo Fuera",
+        "description": "Revela por qué los tiempos fuera tradicionales a menudo fallan y proporciona dos alternativas poderosas: Tiempo Adentro y Tiempo Afuera. Los niños pequeños necesitan apoyo adulto para regular sus emociones, no aislamiento.",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/07-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/07-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "tiempo fuera",
+          "tiempo adentro",
+          "regulación emocional",
+          "espacio de calma"
+        ]
+      },
+      {
+        "id": "addressing_underlying_emotions",
+        "title": "Abordando las Emociones Subyacentes",
+        "description": "Enseña a las madres a convertirse en detectives emocionales, mirando bajo los comportamientos superficiales para entender los sentimientos que impulsan las acciones desafiantes. Aprende a validar emociones mientras mantienes límites.",
+        "duration": "3:48",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/08-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/08-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "emociones",
+          "validación",
+          "comportamiento subyacente",
+          "detective emocional"
+        ]
+      },
+      {
+        "id": "when_no_consequences_needed",
+        "title": "Cuando No Hay Consecuencias",
+        "description": "Muestra a las madres que no todos los límites necesitan una consecuencia. Aprende cómo mantener límites firmes con confianza calmada y persistencia gentil en rutinas no negociables de la vida diaria.",
+        "duration": "3:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/09-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/09-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "límites no negociables",
+          "rutinas",
+          "persistencia gentil",
+          "confianza calmada"
+        ]
+      },
+      {
+        "id": "understanding_rewards_incentives",
+        "title": "Entendiendo Recompensas e Incentivos",
+        "description": "Ayuda a las madres a entender cuándo las recompensas pueden ser útiles y cuándo podrían socavar la motivación intrínseca. Proporciona pautas para usar recompensas reflexivamente y estrategias para construir motivación interna genuina.",
+        "duration": "3:31",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/10-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/10-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "recompensas",
+          "motivación intrínseca",
+          "incentivos",
+          "satisfacción interna"
+        ]
+      },
+      {
+        "id": "transitioning_punishment_to_guidance",
+        "title": "Haciendo la Transición del Castigo a la Guía",
+        "description": "Guía a las madres a través del proceso práctico de cambiar de disciplina basada en castigo a enfoques enfocados en guía. Aborda preocupaciones comunes sobre explicar cambios a los niños y manejar pruebas iniciales de límites.",
+        "duration": "3:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/11-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/11-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "transición",
+          "cambio gradual",
+          "progreso",
+          "paciencia"
+        ]
+      },
+      {
+        "id": "farewell_discipline_consequences_path",
+        "title": "Despedida - Tu Camino Adelante con Disciplina y Consecuencias",
+        "description": "Resume los conceptos clave del módulo y alienta a las madres en su viaje continuo. Refuerza que la disciplina se trata de guía, no castigo, y que están construyendo habilidades a largo plazo en sus hijos.",
+        "duration": "1:16",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/discipline_masterclass/12-discipline.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/discipline-mc-3-7/12-discipline.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "resumen",
+          "confianza",
+          "desarrollo del carácter",
+          "viaje continuo"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "setting_clear_boundaries_without_punishment",

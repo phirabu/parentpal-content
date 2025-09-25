@@ -90,7 +90,248 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "welcome_fears_anxiety",
+        "title": "Bienvenida a Miedos y Ansiedad",
+        "description": "Una cálida introducción para apoyar a los niños a través de sus miedos y ansiedad. Normaliza los miedos infantiles mientras presenta el enfoque central del módulo: desarrollar habilidades de afrontamiento en lugar de eliminar los miedos por completo.",
+        "duration": "0:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/01-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/01-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "introducción",
+          "miedos",
+          "ansiedad",
+          "afrontamiento"
+        ]
+      },
+      {
+        "id": "understanding_childhood_fears_module",
+        "title": "Entendiendo los Miedos Infantiles",
+        "description": "Explora la ciencia detrás de los miedos infantiles y por qué aparecen tan fuertemente en las edades de 3 a 7 años. Reformula el miedo como un mecanismo de protección en lugar de un problema a resolver.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/02-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/02-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "desarrollo cerebral",
+          "miedo",
+          "supervivencia",
+          "protección"
+        ]
+      },
+      {
+        "id": "when_child_afraid_being_alone",
+        "title": "Cuando Tu Hijo Tiene Miedo de Estar Solo",
+        "description": "Aborda el desafío específico de los niños que siguen constantemente a los padres o se angustian cuando se separan. Explica la base emocional detrás de este miedo común y proporciona estrategias de apoyo.",
+        "duration": "4:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/03-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/03-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "separación",
+          "estar solo",
+          "conexión emocional",
+          "seguridad"
+        ]
+      },
+      {
+        "id": "conversation_games_build_connection",
+        "title": "Conversación y Juegos para Construir Conexión",
+        "description": "Proporciona herramientas y juegos específicos para ayudar a los niños a desarrollar confianza sobre estar solos mientras mantienen la conexión con los padres. Incluye juegos prácticos para practicar la separación de manera lúdica.",
+        "duration": "4:58",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/04-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/04-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "juegos",
+          "conexión",
+          "imaginación",
+          "práctica"
+        ]
+      },
+      {
+        "id": "building_independence_gradually",
+        "title": "Construyendo Independencia Gradualmente",
+        "description": "Muestra cómo tomar la base construida a través de juegos y aplicarla a situaciones de la vida real a través de 'micro-momentos valientes'. Enfatiza el progreso gradual y el trabajo con el sistema nervioso del niño.",
+        "duration": "4:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/05-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/05-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "independencia",
+          "progreso gradual",
+          "valentía",
+          "confianza"
+        ]
+      },
+      {
+        "id": "when_trauma_creates_fear",
+        "title": "Cuando el Trauma Crea Miedo",
+        "description": "Aborda los miedos que se desarrollan después de experiencias aterradoras, distinguiendo los miedos basados en trauma de los miedos del desarrollo y proporcionando estrategias de apoyo específicas.",
+        "duration": "4:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/06-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/06-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "trauma",
+          "miedos específicos",
+          "procesamiento",
+          "apoyo"
+        ]
+      },
+      {
+        "id": "telling_the_story",
+        "title": "Contando la Historia",
+        "description": "Explica la poderosa herramienta de sanación de discutir repetidamente experiencias aterradoras con los niños para ayudar a sus cerebros a procesar y organizar memorias traumáticas.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/07-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/07-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "procesamiento",
+          "narración",
+          "memorias",
+          "sanación"
+        ]
+      },
+      {
+        "id": "building_coping_capacity_after_trauma",
+        "title": "Construyendo Capacidad de Afrontamiento Después del Trauma",
+        "description": "Se enfoca en ayudar a los niños a desarrollar resiliencia y habilidades de afrontamiento después de experimentar algo aterrador. Enfatiza el crecimiento postraumático y la construcción de seguridad.",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/08-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/08-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "resiliencia",
+          "recuperación",
+          "crecimiento postraumático",
+          "seguridad"
+        ]
+      },
+      {
+        "id": "understanding_anxiety_your_child",
+        "title": "Entendiendo la Ansiedad en Tu Hijo",
+        "description": "Distingue entre miedos específicos y ansiedad generalizada, ayudando a los padres a reconocer síntomas de ansiedad que pueden no estar obviamente relacionados con el miedo.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/09-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/09-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "ansiedad generalizada",
+          "síntomas",
+          "comportamiento",
+          "reconocimiento"
+        ]
+      },
+      {
+        "id": "accompanying_feelings_presence_over_problem_solving",
+        "title": "Acompañando los Sentimientos: El Poder de la Presencia Sobre la Resolución de Problemas",
+        "description": "Enseña a los padres cómo proporcionar apoyo emocional validando sentimientos antes de saltar a soluciones. Enfatiza que la presencia tranquila es a menudo más poderosa que las soluciones inmediatas.",
+        "duration": "5:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/10-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/10-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "validación",
+          "presencia",
+          "apoyo emocional",
+          "acompañamiento"
+        ]
+      },
+      {
+        "id": "exploring_anxious_feelings_together",
+        "title": "Explorando Sentimientos Ansiosos Juntos",
+        "description": "Proporciona herramientas para ayudar a los niños a entender y articular sus sentimientos ansiosos mientras construyen vocabulario emocional. Enfatiza la conexión mente-cuerpo y la autoconciencia.",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/11-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/11-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "vocabulario emocional",
+          "conexión mente-cuerpo",
+          "exploración",
+          "autoconciencia"
+        ]
+      },
+      {
+        "id": "managing_what_if_questions",
+        "title": "Manejando Preguntas de '¿Y Si?'",
+        "description": "Aborda el patrón común de niños ansiosos haciendo preguntas repetitivas de '¿y si?' y cómo responder de manera útil sin alimentar el ciclo de ansiedad.",
+        "duration": "4:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/12-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/12-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "preguntas ansiosas",
+          "incertidumbre",
+          "tolerancia",
+          "respuestas útiles"
+        ]
+      },
+      {
+        "id": "when_anxiety_shows_up_in_body",
+        "title": "Cuando la Ansiedad Aparece en el Cuerpo",
+        "description": "Ayuda a los padres a entender y responder a síntomas físicos de ansiedad como dolores de estómago y dolores de cabeza. Valida que los síntomas físicos del estrés emocional son reales.",
+        "duration": "4:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/13-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/13-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "síntomas físicos",
+          "conexión mente-cuerpo",
+          "validación",
+          "somatización"
+        ]
+      },
+      {
+        "id": "understanding_anxiety_behaviors",
+        "title": "Entendiendo los Comportamientos de Ansiedad",
+        "description": "Explora cómo la ansiedad se manifiesta en cambios de comportamiento y ayuda a los padres a responder con comprensión en lugar de solo disciplina. Aborda la ansiedad subyacente mientras mantiene límites.",
+        "duration": "4:44",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/14-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/14-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "comportamiento",
+          "manifestaciones",
+          "comprensión",
+          "límites"
+        ]
+      },
+      {
+        "id": "building_resilience_trusting_inner_strength",
+        "title": "Construyendo Resiliencia: Confiando en Su Fuerza Interior",
+        "description": "Se enfoca en ayudar a los niños a descubrir sus propios recursos internos y habilidades de afrontamiento. Construye conciencia de sus fortalezas y capacidad para manejar desafíos.",
+        "duration": "4:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/15-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/15-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "resiliencia",
+          "fortaleza interior",
+          "recursos propios",
+          "confianza"
+        ]
+      },
+      {
+        "id": "moving_forward_with_confidence",
+        "title": "Avanzando con Confianza",
+        "description": "Una conclusión de apoyo que refuerza los mensajes clave del módulo y alienta a los padres a confiar en el proceso de crecimiento gradual. Celebra cada pequeño paso adelante.",
+        "duration": "1:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/anxiety_masterclass/16-anxiety.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/anxiety-mc-3-7/16-anxiety.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "conclusión",
+          "confianza",
+          "apoyo continuo",
+          "crecimiento"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "child_wont_stay_alone",

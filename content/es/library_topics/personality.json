@@ -90,7 +90,168 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "entendiendo_personalidad_unica",
+        "title": "Entendiendo la Personalidad Única de tu Hijo",
+        "description": "Bienvenida al módulo de personalidad que establece el escenario para entender tres tipos principales de personalidad y enfatiza que cada tipo trae regalos únicos y oportunidades de crecimiento.",
+        "duration": "0:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/01-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/01-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["personalidad", "tipos", "regalos únicos", "crecimiento"]
+      },
+      {
+        "id": "tres_tipos_personalidad",
+        "title": "Tres Tipos de Personalidad: Conociendo a tu Hijo Donde Está",
+        "description": "Explora los tres tipos principales de personalidad (determinado, cauteloso, armonizador) a través de escenarios del parque, ayudando a reconocer patrones sin poner a los niños en cajas rígidas.",
+        "duration": "4:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/02-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/02-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["determinado", "cauteloso", "armonizador", "patrones"]
+      },
+      {
+        "id": "nino_determinado_lider",
+        "title": "El Niño Determinado: Entendiendo a tu Líder Natural",
+        "description": "Inmersión profunda en niños determinados que tienen opiniones fuertes. Ayuda a entender que la voluntad fuerte es un regalo y están criando futuros líderes resistentes a la presión de pares.",
+        "duration": "5:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/03-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/03-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["determinado", "liderazgo", "voluntad fuerte", "independencia"]
+      },
+      {
+        "id": "criando_nino_determinado",
+        "title": "Criando a tu Niño Determinado",
+        "description": "Estrategias prácticas para criar niños determinados sin desencadenar luchas de poder, enfocándose en ofrecer opciones, mantenerse calmado y usar límites más claros con menos palabras.",
+        "duration": "6:05",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/04-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/04-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["estrategias", "opciones", "calma", "límites claros"]
+      },
+      {
+        "id": "nino_cauteloso_observador",
+        "title": "El Niño Cauteloso: Entendiendo a tu Observador Sensible",
+        "description": "Celebra a niños cautelosos que observan antes de participar. Explica que su enfoque cuidadoso es sabiduría y ayuda a los padres a apreciar este temperamento como fortaleza.",
+        "duration": "3:59",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/05-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/05-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["cauteloso", "observador", "sabiduría", "procesamiento"]
+      },
+      {
+        "id": "ayudando_nino_cauteloso",
+        "title": "Ayudando a tu Niño Cauteloso",
+        "description": "Estrategias específicas para apoyar niños cautelosos mientras honras su temperamento natural, enfocándose en preparación, crear puentes entre observación y participación.",
+        "duration": "5:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/06-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/06-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["preparación", "apoyo", "puentes", "participación gradual"]
+      },
+      {
+        "id": "nino_armonizador_pacificador",
+        "title": "El Niño Armonizador",
+        "description": "Introduce a niños armonizadores que son pacificadores naturales con corazones sintonizados a las emociones de otros, abordando el desafío de a veces desaparecer en su bondad.",
+        "duration": "3:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/07-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/07-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["armonizador", "empatía", "pacificador", "bondad"]
+      },
+      {
+        "id": "empoderando_nino_armonizador",
+        "title": "Empoderando a tu Niño Armonizador",
+        "description": "Estrategias para ayudar a niños armonizadores a encontrar balance entre cuidar a otros y abogar por sí mismos, enseñándoles a honrar su corazón cariñoso y su voz auténtica.",
+        "duration": "4:09",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/08-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/08-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["empoderamiento", "balance", "auto-defensa", "voz auténtica"]
+      },
+      {
+        "id": "malentendidos_sociales",
+        "title": "Malentendidos Sociales",
+        "description": "Explica por qué niños de 3-7 años frecuentemente malinterpretan situaciones sociales, creando historias que se sienten reales. Ayuda a padres a entender esto como desarrollo cerebral normal.",
+        "duration": "3:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/09-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/09-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["malentendidos", "desarrollo", "social", "interpretación"]
+      },
+      {
+        "id": "cuando_nadie_me_quiere",
+        "title": "Cuando Nadie Me Quiere",
+        "description": "Aborda el momento desgarrador cuando niños expresan miedos de rechazo social. Proporciona estrategias para escuchar, validar y ayudar a ver un panorama más grande mientras construye confianza.",
+        "duration": "3:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/10-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/10-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["rechazo", "validación", "confianza", "perspectiva"]
+      },
+      {
+        "id": "ensenando_toma_perspectiva",
+        "title": "Enseñando Toma de Perspectiva",
+        "description": "Ayuda a niños a desarrollar la habilidad de ver situaciones desde puntos de vista de otros, una habilidad crucial que se desarrolla gradualmente entre los 3-7 años.",
+        "duration": "4:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/11-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/11-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["perspectiva", "empatía", "comprensión", "desarrollo social"]
+      },
+      {
+        "id": "conflictos_amistad",
+        "title": "Conflictos de Amistad",
+        "description": "Aborda conflictos inevitables en amistades de la niñez y cómo guiar a niños a través de la resolución mientras construye habilidades de resolución de conflictos.",
+        "duration": "4:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/12-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/12-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["conflictos", "amistad", "resolución", "habilidades"]
+      },
+      {
+        "id": "construyendo_confianza_social",
+        "title": "Construyendo Confianza Social",
+        "description": "Proporciona estrategias prácticas para ayudar a niños a sentirse cómodos siendo ellos mismos alrededor de otros y darles herramientas para conectarse respetando sus niveles naturales de energía.",
+        "duration": "4:39",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/13-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/13-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["confianza social", "autenticidad", "herramientas", "energía natural"]
+      },
+      {
+        "id": "dinamicas_sociales_hermanos",
+        "title": "Dinámicas Sociales entre Hermanos",
+        "description": "Explora cómo interacciones entre hermanos sirven como campo de práctica para habilidades sociales, abordando competencia, diferentes personalidades y enseñando cooperación.",
+        "duration": "5:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/14-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/14-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["hermanos", "práctica social", "competencia", "cooperación"]
+      },
+      {
+        "id": "celebrando_naturaleza_hijo",
+        "title": "Celebrando la Naturaleza de tu Hijo",
+        "description": "Enfatiza que cada niño tiene una manera hermosa de estar en el mundo. Se enfoca en observación sin juicio, proteger de comentarios mal dirigidos y crear ambientes donde prosperar.",
+        "duration": "5:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/15-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/15-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["celebración", "naturaleza única", "observación", "ambiente"]
+      },
+      {
+        "id": "abrazando_camino_unico",
+        "title": "Abrazando el Camino Único de tu Hijo",
+        "description": "Video concluyente que celebra completar el módulo y refuerza que la personalidad es un regalo para entender y nutrir, no algo que arreglar o cambiar.",
+        "duration": "0:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/16-personality.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/16-personality.m4a",
+        "mediaType": "audio",
+        "tags": ["camino único", "regalo", "nutrir", "aceptación"]
+      }
+    ],
     "scripts": [
       {
         "id": "supporting_feisty_child_social_conflict",

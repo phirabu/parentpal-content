@@ -90,7 +90,128 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenida_manejo_tiempo_pantalla",
+        "title": "Bienvenida al Manejo del Tiempo de Pantalla",
+        "description": "Introducción cálida que reconoce las luchas diarias con batallas de dispositivos y berrinches, preparando el escenario para estrategias prácticas que reducen conflictos en la vida familiar real.",
+        "duration": "0:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/01-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/01-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["bienvenida", "batallas", "estrategias prácticas", "reducir conflictos"]
+      },
+      {
+        "id": "tiempo_pantalla_mundo_hijo",
+        "title": "Entendiendo el Tiempo de Pantalla en el Mundo de tu Hijo",
+        "description": "Proporciona contexto esencial sobre cómo las pantallas encajan en la infancia moderna y su significado para cerebros en desarrollo de 3-7 años, abordando la culpa parental y enfatizando que el contenido y contexto importan más que solo contar minutos.",
+        "duration": "5:06",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/02-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/02-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["contexto", "desarrollo cerebral", "contenido", "equilibrio"]
+      },
+      {
+        "id": "perspectiva_equilibrio",
+        "title": "La Perspectiva del Equilibrio: Más Allá de Bueno vs Malo",
+        "description": "Desafía el pensamiento binario sobre el tiempo de pantalla e introduce un enfoque más matizado y práctico, mostrando cómo hacer elecciones reflexivas e intencionales sin culpa o vergüenza.",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/03-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/03-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["equilibrio", "enfoque matizado", "decisiones reflexivas", "sin culpa"]
+      },
+      {
+        "id": "evaluando_realidad_familia",
+        "title": "Evaluando la Realidad de tu Familia: Haciendo un Inventario Honesto",
+        "description": "Guía a los padres a través de una evaluación sin juicio de sus patrones actuales de tiempo de pantalla y circunstancias familiares, enfocándose en la recopilación de información para crear cambios realistas y sostenibles.",
+        "duration": "4:52",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/04-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/04-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["evaluación", "sin juicio", "patrones", "cambios sostenibles"]
+      },
+      {
+        "id": "estableciendo_limites_claros",
+        "title": "Estableciendo Límites Claros: Haciendo Límites que Realmente Funcionen",
+        "description": "Explica por qué los límites vagos fallan y enseña a crear límites específicos y aplicables que los niños puedan entender, enfocándose en expectativas concretas para mentes en desarrollo.",
+        "duration": "4:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/05-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/05-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["límites claros", "específicos", "aplicables", "expectativas concretas"]
+      },
+      {
+        "id": "conversacion_preparacion",
+        "title": "La Conversación de Preparación: Preparando a tu Hijo para el Éxito",
+        "description": "Enseña cómo preparar a los niños para cambios de tiempo de pantalla a través de comunicación previa respetuosa, proporcionando guiones apropiados para la edad mientras valida sentimientos y mantiene límites firmes.",
+        "duration": "4:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/06-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/06-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["preparación", "comunicación", "guiones", "validar sentimientos"]
+      },
+      {
+        "id": "cuando_hacen_resistencia",
+        "title": "Cuando Hacen Resistencia: Manejando la Resistencia con Confianza",
+        "description": "Aborda la inevitable resistencia que los niños muestran cuando se aplican límites de tiempo de pantalla, enseñando a responder en lugar de reaccionar con escenarios y lenguaje específicos.",
+        "duration": "4:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/07-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/07-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["resistencia", "responder vs reaccionar", "consistencia", "manejo de emociones"]
+      },
+      {
+        "id": "transiciones_suaves",
+        "title": "Transiciones Suaves: Haciendo los Finales del Tiempo de Pantalla Más Fáciles",
+        "description": "Explica por qué las transiciones del tiempo de pantalla son desafiantes para cerebros jóvenes y proporciona estrategias prácticas usando preparación, advertencias, ayudas visuales y rituales de transición.",
+        "duration": "4:37",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/08-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/08-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["transiciones", "rituales", "advertencias", "predecible"]
+      },
+      {
+        "id": "apoyando_compromiso_sin_pantallas",
+        "title": "Apoyando el Compromiso Sin Pantallas: Más Allá de 'Ve a Jugar'",
+        "description": "Aborda el desafío del aburrimiento después del tiempo de pantalla y proporciona estrategias para apoyar el juego independiente, configurar espacios de invitación y construir capacidad para actividades autodirigidas.",
+        "duration": "5:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/09-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/09-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["aburrimiento", "juego independiente", "espacios de invitación", "creatividad"]
+      },
+      {
+        "id": "manejando_tu_propio_estres",
+        "title": "Manejando tu Propio Estrés del Tiempo de Pantalla: Autorregulación de Padres",
+        "description": "Aborda la carga emocional que los padres cargan alrededor de las decisiones de tiempo de pantalla y cómo la ansiedad parental afecta la dinámica familiar, proporcionando estrategias para decisiones centradas.",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/10-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/10-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["autorregulación", "ansiedad parental", "decisiones centradas", "modelado"]
+      },
+      {
+        "id": "desafios_mundo_real",
+        "title": "Desafíos del Mundo Real: Consistencia en Situaciones Especiales",
+        "description": "Aborda la realidad de que la vida interrumpe rutinas perfectas a través de enfermedad, viajes y diferentes hogares, proporcionando estrategias para mantener valores centrales mientras se adapta a circunstancias especiales.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/11-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/11-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["flexibilidad", "situaciones especiales", "consistencia", "adaptabilidad"]
+      },
+      {
+        "id": "construyendo_tu_confianza",
+        "title": "Construyendo tu Confianza en el Tiempo de Pantalla",
+        "description": "Conclusión alentadora que reconoce la complejidad del manejo moderno del tiempo de pantalla, reforzando que es un proceso continuo y celebrando el progreso hacia relaciones tecnológicas saludables.",
+        "duration": "1:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/12-screentime.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/12-screentime.m4a",
+        "mediaType": "audio",
+        "tags": ["confianza", "proceso continuo", "progreso", "relaciones saludables"]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_new_screen_time_boundaries",

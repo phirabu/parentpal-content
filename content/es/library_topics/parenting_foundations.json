@@ -90,7 +90,128 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenida_principios_crianza",
+        "title": "Bienvenida a los Principios y Fundamentos de la Crianza",
+        "description": "Introducción a los cinco principios fundamentales de Rootwise que forman la base de todos los enfoques de crianza para niños de 3-7 años.",
+        "duration": "1:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/01-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/01-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["fundamentos", "principios", "confianza", "conexión"]
+      },
+      {
+        "id": "brujula_emocional",
+        "title": "La Brújula Emocional - El Sistema de Navegación Interno de tu Hijo",
+        "description": "Aprende que todo comportamiento infantil apunta hacia emociones subyacentes, transformando tu respuesta de reactiva a receptiva al entender los sentimientos detrás de las acciones.",
+        "duration": "2:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/02-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/02-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["emociones", "comportamiento", "comprensión", "conexión"]
+      },
+      {
+        "id": "liderazgo_tranquilo",
+        "title": "Liderazgo Tranquilo - Tú Estableces la Temperatura Emocional",
+        "description": "Descubre cómo eres el termostato emocional en tu hogar, usando tu sistema nervioso tranquilo para ayudar a tu hijo a encontrar equilibrio durante las crisis.",
+        "duration": "2:11",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/03-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/03-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["regulación", "liderazgo", "calma", "co-regulación"]
+      },
+      {
+        "id": "limites_conectados",
+        "title": "Límites Conectados - Estableciendo Límites con Amor",
+        "description": "Aprende cómo mantener límites firmes mientras permaneces emocionalmente conectado con tu hijo, sin elegir entre ser amable y ser claro.",
+        "duration": "2:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/04-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/04-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["límites", "conexión", "amor", "estructura"]
+      },
+      {
+        "id": "lente_desarrollo",
+        "title": "El Lente del Desarrollo - Viendo a través de los Ojos de tu Hijo",
+        "description": "Obtén perspicacia sobre el cerebro en desarrollo de tu hijo, entendiendo que los comportamientos son etapas normales de desarrollo, no defectos de carácter.",
+        "duration": "2:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/05-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/05-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["desarrollo", "cerebro", "expectativas", "normalidad"]
+      },
+      {
+        "id": "mentalidad_crecimiento",
+        "title": "Mentalidad de Crecimiento - Progreso sobre Perfección",
+        "description": "Reenmarca la crianza como práctica en lugar de actuación, abraza errores como oportunidades de aprendizaje y modela resistencia para tu hijo.",
+        "duration": "2:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/06-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/06-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["crecimiento", "progreso", "aprendizaje", "resistencia"]
+      },
+      {
+        "id": "comunicacion_autentica",
+        "title": "Comunicación Auténtica - Diciendo lo que Realmente Quieres Decir",
+        "description": "Elimina preguntas retóricas confusas y comunicación indirecta, hablando clara y directamente para reducir luchas de poder y construir confianza.",
+        "duration": "2:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/07-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/07-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["comunicación", "claridad", "directa", "confianza"]
+      },
+      {
+        "id": "reconocimiento_emocional",
+        "title": "Reconocimiento Emocional - El Poder de Ser Verdaderamente Vista",
+        "description": "Aprende el poder transformador del reconocimiento emocional - ver, reconocer y aceptar la experiencia emocional de un niño sin tratar de arreglarla.",
+        "duration": "2:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/08-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/08-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["reconocimiento", "validación", "emociones", "presencia"]
+      },
+      {
+        "id": "presencia_consistente",
+        "title": "Presencia Consistente - Siendo el Ancla Firme de tu Hijo",
+        "description": "Aprende a ser el ancla emocional de tu hijo a través de presencia consistente y firme, especialmente durante momentos difíciles.",
+        "duration": "2:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/09-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/09-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["presencia", "consistencia", "ancla", "disponibilidad"]
+      },
+      {
+        "id": "construyendo_conexion",
+        "title": "Construyendo Conexión - La Base de Todo lo Demás",
+        "description": "Explora cómo la conexión genuina hace más efectivas todas las estrategias de crianza, aprendiendo a hacer depósitos emocionales en pequeños momentos diarios.",
+        "duration": "2:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/10-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/10-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["conexión", "relación", "cooperación", "seguridad"]
+      },
+      {
+        "id": "integrando_todo",
+        "title": "Integrándolo Todo - Tus Principios en Acción",
+        "description": "Demostración práctica de cómo los cinco principios funcionan juntos en momentos reales de crianza, usando un escenario desafiante de rutina matutina.",
+        "duration": "2:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/11-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/11-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["integración", "aplicación", "práctica", "escenarios"]
+      },
+      {
+        "id": "base_establecida",
+        "title": "Tu Base Está Establecida - Avanzando con Confianza",
+        "description": "Refuerza los cinco principios fundamentales y anima a los padres a practicarlos con paciencia, recordando que solo se necesita presencia, persistencia y amor.",
+        "duration": "1:49",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/12-foundations.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/12-foundations.m4a",
+        "mediaType": "audio",
+        "tags": ["confianza", "práctica", "paciencia", "progreso"]
+      }
+    ],
     "scripts": [
       {
         "id": "staying_calm_outbursts",

@@ -90,7 +90,168 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenida_sueno_rutinas_pacificas",
+        "title": "Bienvenida al Sueño: Construyendo Rutinas Pacíficas para la Hora de Dormir",
+        "description": "Introducción a transformar la hora de dormir de una batalla nocturna a una transición pacífica que tanto tú como tu hijo pueden esperar con ansias, usando un enfoque colaborativo.",
+        "duration": "0:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/01-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/01-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["bienvenida", "rutinas pacíficas", "colaborativo", "conexión"]
+      },
+      {
+        "id": "entendiendo_desafios_sueno",
+        "title": "Entendiendo los Desafíos del Sueño",
+        "description": "Descubre por qué la hora de dormir se convierte en tal lucha para niños de 3-7 años y cómo entender la resistencia al sueño de tu hijo cambia todo tu enfoque.",
+        "duration": "4:34",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/02-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/02-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["separación", "necesidades no satisfechas", "miedos", "resistencia"]
+      },
+      {
+        "id": "enfoque_tres_pasos",
+        "title": "El Enfoque de Tres Pasos: Incluyendo a Tu Hijo en el Éxito del Sueño",
+        "description": "Aprende el marco que cambia el juego y transforma las batallas de la hora de dormir haciendo a tu hijo un participante activo en crear soluciones del sueño.",
+        "duration": "4:30",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/03-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/03-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["crear historia", "compartir historia", "seguir adelante", "cooperación"]
+      },
+      {
+        "id": "creando_tu_historia_sueno",
+        "title": "Creando Tu Historia del Sueño",
+        "description": "Guía paso a paso para desarrollar colaborativamente rutinas de la hora de dormir y límites con tu hijo durante momentos tranquilos, haciéndolos co-autores del éxito.",
+        "duration": "4:03",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/04-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/04-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["colaboración", "ayudas visuales", "trabajo en equipo", "co-autores"]
+      },
+      {
+        "id": "compartiendo_tu_historia",
+        "title": "Compartiendo Tu Historia: Preparando a Tu Hijo para Cambios del Sueño",
+        "description": "Cómo introducir nuevas expectativas de la hora de dormir de una manera que se sienta de apoyo en lugar de punitiva, preparando a todos para el éxito.",
+        "duration": "4:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/05-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/05-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["nuestro plan", "lenguaje positivo", "colaborativo", "preparación"]
+      },
+      {
+        "id": "siguiendo_adelante_consistentemente",
+        "title": "Siguiendo Adelante Consistentemente",
+        "description": "El secreto para hacer que los cambios del sueño se mantengan - cómo responder tranquilamente y consistentemente cuando tu hijo prueba los nuevos límites.",
+        "duration": "4:25",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/06-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/06-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["consistencia", "confianza", "seguridad", "respuestas breves"]
+      },
+      {
+        "id": "tacticas_dilacion_hora_dormir",
+        "title": "Tácticas de Dilación de la Hora de Dormir: Más Allá de Una Más",
+        "description": "Estrategias prácticas para manejar peticiones interminables por agua, viajes al baño, y 'solo una más' que convierten la hora de dormir en un maratón.",
+        "duration": "4:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/07-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/07-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["dilación", "última oportunidad", "disco rayado", "validar límites"]
+      },
+      {
+        "id": "buenas_noches_no_es_adios",
+        "title": "Buenas Noches No Es Adiós",
+        "description": "Ayuda a tu hijo a entender que el sueño es solo una pausa, no abandono, abordando la ansiedad profunda de separación que alimenta la resistencia de la hora de dormir.",
+        "duration": "4:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/08-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/08-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["ansiedad separación", "anclas conexión", "rituales reunión", "permanencia"]
+      },
+      {
+        "id": "convirtiendo_miedo_en_poder",
+        "title": "Convirtiendo el Miedo en Poder: Ayudando a los Niños a Enfrentar Monstruos de la Hora de Dormir",
+        "description": "Transforma los miedos de la hora de dormir de obstáculos a oportunidades de empoderamiento, usando la imaginación como una herramienta en lugar del enemigo.",
+        "duration": "4:16",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/09-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/09-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["miedos reales", "imaginación", "niño héroe", "herramientas concretas"]
+      },
+      {
+        "id": "despertares_medianoche",
+        "title": "Despertares a Medianoche",
+        "description": "Cómo responder cuando tu hijo aparece junto a tu cama a las 2 AM, equilibrando su necesidad de comodidad con la necesidad de sueño de todos.",
+        "duration": "4:09",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/10-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/10-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["interacciones breves", "caminar de vuelta", "consistencia nocturna", "presencia tranquila"]
+      },
+      {
+        "id": "transicionando_desde_co_dormir",
+        "title": "Transicionando desde Co-Dormir: Un Enfoque Suave de Dos Etapas",
+        "description": "Un método respetuoso y gradual para familias listas para hacer la transición desde co-dormir al sueño independiente, honrando el apego mientras construye independencia.",
+        "duration": "4:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/11-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/11-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["etapas graduales", "sin vergüenza", "ritmo del niño", "independencia"]
+      },
+      {
+        "id": "cuando_hijo_necesita_presencia",
+        "title": "Cuando Tu Hijo Te Necesita Presente",
+        "description": "Estrategias para niños que genuinamente necesitan presencia parental para dormirse, incluyendo cómo construir gradualmente independencia sin trauma.",
+        "duration": "4:31",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/12-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/12-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["más apoyo", "presencia sin compromiso", "desvanecimiento gradual", "micro-progreso"]
+      },
+      {
+        "id": "luchas_poder_alrededor_sueno",
+        "title": "Luchas de Poder Alrededor del Sueño",
+        "description": "Cuando la hora de dormir se convierte en una batalla de control, aprende cómo salir de la lucha y restaurar la cooperación sin sacrificar límites.",
+        "duration": "4:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/13-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/13-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["dos participantes", "opciones dentro límites", "consecuencias naturales", "neutral"]
+      },
+      {
+        "id": "reflexion_diaria_progreso",
+        "title": "Reflexión Diaria y Progreso",
+        "description": "Aprende a seguir el progreso del sueño realísticamente, celebrando pequeñas victorias mientras mantienes paciencia con el viaje más largo.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/14-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/14-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["progreso no lineal", "patrones semanales", "celebrar esfuerzo", "regresión normal"]
+      },
+      {
+        "id": "construyendo_rutinas_saludables",
+        "title": "Construyendo Rutinas Saludables del Sueño",
+        "description": "Crea una rutina de hora de dormir que realmente funcione para tu familia, con el equilibrio correcto de conexión, predictibilidad, y límites.",
+        "duration": "4:22",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/15-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/15-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["rutina 45-60 minutos", "mismo orden", "actividades tranquilizantes", "horarios visuales"]
+      },
+      {
+        "id": "outro_sueno_hora_dormir",
+        "title": "Outro del Sueño y Hora de Dormir",
+        "description": "Celebración de tu compromiso de transformar la hora de dormir y ánimo para el viaje por delante mientras implementas estas estrategias del sueño.",
+        "duration": "1:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/16-sleep.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep/16-sleep.m4a",
+        "mediaType": "audio",
+        "tags": ["kit herramientas", "cambio toma tiempo", "viaje único", "pasos pequeños"]
+      }
+    ],
     "scripts": [
       {
         "id": "introducing_sleep_changes_story_approach",

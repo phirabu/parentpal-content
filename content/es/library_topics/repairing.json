@@ -90,7 +90,58 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenida_reparacion_reconexion",
+        "title": "Bienvenida a Reparación y Reconexión",
+        "description": "Introducción acogedora que normaliza la experiencia universal de los padres de cometer errores y establece el tono para aprender cómo convertir momentos difíciles en oportunidades para conexión más profunda.",
+        "duration": "0:49",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/01-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/01-repairing.m4a",
+        "mediaType": "audio",
+        "tags": ["errores", "conexión", "reparación", "normalización"]
+      },
+      {
+        "id": "cuando_perdemos_control",
+        "title": "Cuando Perdemos el Control",
+        "description": "Explora la biología y psicología detrás de por qué los padres pierden el control, ayudándoles a entender que estos momentos son humanos en lugar de fracasos, reenmarcando la experiencia hacia crecimiento.",
+        "duration": "5:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/02-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/02-repairing.m4a",
+        "mediaType": "audio",
+        "tags": ["biología", "sistema nervioso", "límites", "validación"]
+      },
+      {
+        "id": "como_reparar_con_hijo",
+        "title": "Cómo Reparar Con tu Hijo",
+        "description": "Guía práctica que proporciona guiones específicos y estrategias para reparar con niños de 3-7 años, desglosando el proceso en pasos claros y ejemplos apropiados para la edad.",
+        "duration": "5:56",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/03-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/03-repairing.m4a",
+        "mediaType": "audio",
+        "tags": ["guiones", "estrategias", "pasos claros", "apropiado para la edad"]
+      },
+      {
+        "id": "previniendo_futuros_colapsos",
+        "title": "Previniendo Futuros Colapsos",
+        "description": "Ayuda a los padres a convertirse en detectives de sus propios patrones, identificando señales de advertencia físicas y emocionales antes de perder el control, enfocándose en autoconciencia sostenible.",
+        "duration": "3:35",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/04-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/04-repairing.m4a",
+        "mediaType": "audio",
+        "tags": ["patrones", "señales de advertencia", "autoconciencia", "prevención"]
+      },
+      {
+        "id": "outro_reparacion_reconexion",
+        "title": "Outro - Reparación y Reconexión",
+        "description": "Conclusión alentadora que refuerza que la reparación construye relaciones donde el amor permanece firme, enfatizando que los niños necesitan responsabilidad y modelado de humanidad, no perfección.",
+        "duration": "1:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/05-repairing.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/05-repairing.m4a",
+        "mediaType": "audio",
+        "tags": ["amor constante", "resistencia", "responsabilidad", "modelado"]
+      }
+    ],
     "scripts": [
       {
         "id": "repairing_after_yelling",

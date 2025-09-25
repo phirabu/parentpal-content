@@ -90,7 +90,218 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenido_transiciones_cambio",
+        "title": "Bienvenido a Transiciones y Cambio",
+        "description": "Las transiciones se sienten abrumadoras tanto para niños como padres - no estás solo. La resistencia de los niños al cambio es evolutivamente normal, no desafío.",
+        "duration": "1:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/01-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/01-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "introducción",
+          "normalización",
+          "conexión"
+        ]
+      },
+      {
+        "id": "por_que_transiciones_dificiles",
+        "title": "Entendiendo Por Qué las Transiciones Son Difíciles",
+        "description": "Los niños de 3-7 años viven casi completamente en el momento presente. Sus cerebros luchan para procesar cambios inesperados. Es desarrollo cerebral, no desafío.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/02-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/02-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "neurología",
+          "desarrollo",
+          "momento presente"
+        ]
+      },
+      {
+        "id": "desafio_momento_presente",
+        "title": "El Desafío del Momento Presente",
+        "description": "Los niños no piensan naturalmente hacia adelante - 'más tarde' se siente abstracto. Reconocer su experiencia presente antes de pedirles que cambien crea conexión.",
+        "duration": "4:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/03-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/03-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "momento presente",
+          "conexión",
+          "señales físicas"
+        ]
+      },
+      {
+        "id": "poder_proximidad_fisica",
+        "title": "Acercarse - El Poder de la Proximidad Física",
+        "description": "La proximidad física crea conexión, y la conexión hace posible la cooperación. Tu presencia calmada habla más fuerte que tus palabras.",
+        "duration": "4:12",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/04-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/04-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "proximidad",
+          "presencia calmada",
+          "cooperación"
+        ]
+      },
+      {
+        "id": "comunicacion_clara_concreta",
+        "title": "Comunicación Clara - De lo Abstracto a lo Concreto",
+        "description": "Los conceptos abstractos como 'pronto' no tienen significado para cerebros en desarrollo. Los niños entienden 'después de esto, entonces eso' mejor que palabras de tiempo.",
+        "duration": "3:44",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/05-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/05-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "comunicación",
+          "instrucciones concretas",
+          "pasos específicos"
+        ]
+      },
+      {
+        "id": "preparando_hijo_expectativas",
+        "title": "Preparando a Tu Hijo - Estableciendo Expectativas",
+        "description": "La preparación muestra respeto dando información sobre lo que viene. Incluye tanto hechos como reconocimiento de sentimientos. No estás pidiendo permiso.",
+        "duration": "5:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/06-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/06-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "preparación",
+          "expectativas",
+          "validación"
+        ]
+      },
+      {
+        "id": "balance_poder_autonomia",
+        "title": "El Balance de Poder - Empoderando a los Niños",
+        "description": "Los niños resisten más cuando sienten que no tienen control. Ofrecer opciones dentro de límites honra su necesidad de autonomía mientras mantienes autoridad.",
+        "duration": "5:28",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/07-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/07-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "autonomía",
+          "opciones",
+          "poder compartido"
+        ]
+      },
+      {
+        "id": "magia_articulos_consuelo",
+        "title": "La Magia de los Artículos de Consuelo",
+        "description": "Los objetos transicionales ayudan a los niños a llevar seguridad entre diferentes ambientes. Proporcionan conexión tangible al hogar y la seguridad.",
+        "duration": "4:40",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/08-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/08-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "objetos transicionales",
+          "seguridad",
+          "consuelo"
+        ]
+      },
+      {
+        "id": "no_es_tarea_sentimiento",
+        "title": "No Es la Tarea, Es el Sentimiento",
+        "description": "Los niños resisten el sentimiento de impotencia, no la tarea misma. Reconocer sentimientos primero, luego mantener límites crea cooperación.",
+        "duration": "5:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/09-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/09-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "validación emocional",
+          "resistencia",
+          "cooperación"
+        ]
+      },
+      {
+        "id": "tengo_que_a_quiero",
+        "title": "Cambiando de 'Tengo Que' a 'Quiero'",
+        "description": "Los niños se sienten más cooperativos cuando encuentran algo de apropiación en tareas necesarias. Dentro de cada 'tengo que' hay elementos de 'quiero' por descubrir.",
+        "duration": "4:50",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/10-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/10-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "motivación interna",
+          "apropiación",
+          "agencia"
+        ]
+      },
+      {
+        "id": "cuando_rutinas_desmoronan",
+        "title": "Cuando las Rutinas se Desmoronan",
+        "description": "La flexibilidad dentro de estructura no es rendirse a las rutinas. Identifica elementos centrales que más importan y adapta los detalles durante interrupciones.",
+        "duration": "5:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/11-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/11-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "flexibilidad",
+          "adaptación",
+          "estructura"
+        ]
+      },
+      {
+        "id": "manejando_estres_transicion",
+        "title": "Manejando Tu Propio Estrés de Transición",
+        "description": "Los niños absorben y responden al estrés de los padres durante transiciones. Tu energía de prisa es contagiosa y aumenta la resistencia. Toma tres respiraciones profundas.",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/12-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/12-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "autorregulación parental",
+          "contagio emocional",
+          "calma"
+        ]
+      },
+      {
+        "id": "apoyando_transiciones_vida",
+        "title": "Apoyando a Tu Hijo en Transiciones de Vida",
+        "description": "Los niños necesitan tanto hechos como sentimientos sobre cambios importantes. Evita promesas falsas. Crea listas de 'igual y diferente' para mostrar continuidad dentro del cambio.",
+        "duration": "6:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/13-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/13-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "cambios mayores",
+          "comunicación honesta",
+          "continuidad"
+        ]
+      },
+      {
+        "id": "construyendo_habilidades_afrontamiento",
+        "title": "Construyendo Habilidades de Afrontamiento",
+        "description": "Los niños no tienen estrategias naturales de afrontamiento - necesitan ser enseñadas. Construye la 'caja de herramientas' antes de la crisis. El movimiento físico funciona mejor.",
+        "duration": "5:55",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/14-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/14-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "estrategias de afrontamiento",
+          "construcción proactiva",
+          "resiliencia"
+        ]
+      },
+      {
+        "id": "celebrando_transformacion_transiciones",
+        "title": "Celebrando Tu Transformación de Transiciones",
+        "description": "Las transiciones siempre serán desafiantes - eso es normal. El progreso no se trata de perfección sino de pequeñas mejoras con el tiempo. Confía en el proceso.",
+        "duration": "1:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/change_masterclass/15-change.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/change-mc-3-7/15-change.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "progreso",
+          "confianza",
+          "cierre"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "managing_morning_routine_resistance",

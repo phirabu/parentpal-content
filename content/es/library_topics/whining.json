@@ -92,17 +92,101 @@
     ],
     "media": [
       {
-        "id": "whining_general_whining_response",
-        "title": "Respondiendo a Quejas Generales con Conexión y Redirección",
-        "description": "Tu hijo se está quejando por querer un refrigerio en esa voz distintiva que te hace sentir tenso y frustrado",
-        "duration": "1:59",
-        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining/communication_values_reflection.jpg",
-        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/scripts/whining_general_whining_response.mp3",
+        "id": "bienvenida_entendiendo_lloriqueo",
+        "title": "Bienvenida a Entendiendo el Lloriqueo",
+        "description": "Reconoce la experiencia universal de sentirse frustrado por el lloriqueo mientras establece un tono de apoyo. Enmarca el lloriqueo como un desafío de comunicación solucionable.",
+        "duration": "0:38",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/01-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/01-whining.m4a",
         "mediaType": "audio",
         "tags": [
-          "quejas",
-          "niño",
-          "guiones"
+          "introducción",
+          "comunicación",
+          "conexión"
+        ]
+      },
+      {
+        "id": "cuando_lloriqueo_toma_control",
+        "title": "Cuando el Lloriqueo Toma Control",
+        "description": "Distingue entre el lloriqueo normal del desarrollo y los patrones problemáticos. Los niños lloriquean porque a menudo obtiene atención y resultados más rápidos.",
+        "duration": "4:12",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/02-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/02-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "patrones",
+          "desarrollo",
+          "reconocimiento"
+        ]
+      },
+      {
+        "id": "hablando_honestamente_necesidades",
+        "title": "Hablando Honestamente Sobre Lo Que Necesitamos",
+        "description": "Introduce comunicación auténtica que modela honestidad mientras aborda el comportamiento. Puedes ser sincero y amable al mismo tiempo.",
+        "duration": "3:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/03-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/03-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "honestidad",
+          "autenticidad",
+          "respuestas"
+        ]
+      },
+      {
+        "id": "reconocer_opciones_comunicacion",
+        "title": "Ayudando a los Niños a Reconocer Sus Opciones de Comunicación",
+        "description": "Métodos juguetones y libres de vergüenza para ayudar a los niños a reconocer diferentes tonos de voz. Enfatiza enseñar durante momentos tranquilos.",
+        "duration": "3:33",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/04-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/04-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "conciencia de voz",
+          "enseñanza juguetona",
+          "habilidades"
+        ]
+      },
+      {
+        "id": "mentalidad_ayudante_accion",
+        "title": "Tu Mentalidad de Ayudante en Acción",
+        "description": "Cómo cambiar de reacciones frustradas a guía útil cuando ocurre el lloriqueo. Cambia de oponente a guía cuando ocurre el lloriqueo.",
+        "duration": "3:18",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/05-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/05-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "respuesta en tiempo real",
+          "guía",
+          "mentalidad"
+        ]
+      },
+      {
+        "id": "lloriqueo_prueba_limites",
+        "title": "Cuando el Lloriqueo Prueba Límites",
+        "description": "Cómo mantener límites con empatía mientras se evitan luchas de poder. Puedes reconocer sentimientos sin cambiar límites.",
+        "duration": "3:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/06-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/06-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "límites",
+          "validación",
+          "firmeza"
+        ]
+      },
+      {
+        "id": "construyendo_comunicacion_fuerte",
+        "title": "Construyendo Comunicación Más Fuerte Juntos",
+        "description": "Construir mejor comunicación es un proceso que toma tiempo y paciencia. Enfócate en el progreso sobre la perfección. Este enfoque fortalece las relaciones a largo plazo.",
+        "duration": "1:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/whining_masterclass/07-whining.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/whining-mc-3-7/07-whining.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "progreso",
+          "paciencia",
+          "relación"
         ]
       }
     ],

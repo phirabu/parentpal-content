@@ -90,7 +90,168 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenido_mentiras_robo",
+        "title": "Bienvenido a Mentiras y Robo",
+        "description": "Introducción que normaliza las preocupaciones de los padres sobre mentiras y robos como comportamientos de desarrollo comunes que pueden abordarse con comprensión y estrategias apropiadas.",
+        "duration": "0:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/01-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/01-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["desarrollo", "honestidad", "comprensión"]
+      },
+      {
+        "id": "que_es_mentir",
+        "title": "¿Qué es Mentir? Entendiendo la Verdad de tu Hijo",
+        "description": "Explora diferentes tipos de mentiras en niños pequeños, desde confusión fantasía-realidad hasta mentiras protectoras, ayudando a padres a responder apropiadamente según el desarrollo.",
+        "duration": "4:43",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/02-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/02-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["fantasía", "realidad", "desarrollo", "imaginación"]
+      },
+      {
+        "id": "por_que_ninos_mienten",
+        "title": "Por Qué los Niños Mienten: Entendiendo el Mensaje Real",
+        "description": "Se enfoca en las razones emocionales detrás del comportamiento de mentir, enfatizando que los niños típicamente mienten para proteger relaciones y mantener amor y aprobación.",
+        "duration": "4:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/03-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/03-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["emociones", "conexión", "aprobación", "relaciones"]
+      },
+      {
+        "id": "cuando_comienzan_mentiras",
+        "title": "Cuándo Comienzan las Mentiras: Contexto de Desarrollo",
+        "description": "Proporciona contexto de desarrollo para cuándo emergen los comportamientos de mentir, ayudando a establecer expectativas realistas apropiadas para cada edad.",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/04-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/04-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["desarrollo", "edades", "expectativas", "cognitivo"]
+      },
+      {
+        "id": "mentiras_evitar_tareas",
+        "title": "Cuando los Niños Mienten para Evitar Tareas",
+        "description": "Aborda mentiras usadas para evitar responsabilidades, proporcionando estrategias para responder mientras se mantienen límites y se validan sentimientos de abrumación.",
+        "duration": "4:14",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/05-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/05-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["tareas", "responsabilidades", "límites", "cooperación"]
+      },
+      {
+        "id": "mentiras_salir_problemas",
+        "title": "Cuando los Niños Mienten para Salir de Problemas",
+        "description": "Se enfoca en mentiras para evitar consecuencias, explorando cómo crear seguridad para decir la verdad mientras se mantiene responsabilidad y se enfatiza reparar sobre castigar.",
+        "duration": "4:48",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/06-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/06-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["consecuencias", "seguridad", "honestidad", "reparación"]
+      },
+      {
+        "id": "mentiras_buscar_elogios",
+        "title": "Cuando los Niños Mienten para Buscar Elogios",
+        "description": "Examina mentiras para obtener atención y aprobación, ayudando a padres a reconocer necesidades de conexión mientras se enseña auto-validación y valor intrínseco.",
+        "duration": "3:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/07-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/07-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["atención", "validación", "conexión", "autoestima"]
+      },
+      {
+        "id": "respuesta_inicial_mentiras",
+        "title": "Tu Respuesta Inicial a las Mentiras",
+        "description": "Proporciona un marco para respuestas inmediatas cuando se descubren mentiras, enfocándose en mantener calma y responder estratégicamente para fomentar honestidad futura.",
+        "duration": "4:23",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/08-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/08-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["respuesta", "calma", "estrategia", "honestidad"]
+      },
+      {
+        "id": "creando_seguridad_honestidad",
+        "title": "Creando Seguridad para la Honestidad",
+        "description": "Explora cómo construir un ambiente familiar donde decir la verdad se sienta seguro y valorado, construyendo confianza a través de respuestas consistentes y de apoyo.",
+        "duration": "4:45",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/09-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/09-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["seguridad", "confianza", "ambiente", "verdad"]
+      },
+      {
+        "id": "entendiendo_por_que_roban",
+        "title": "Entendiendo Por Qué los Niños Roban",
+        "description": "Explica las razones de desarrollo y emocionales detrás de tomar cosas ajenas, enfatizando que el robo en niños pequeños rara vez indica falla moral sino desafíos de desarrollo.",
+        "duration": "4:28",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/10-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/10-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["robo", "propiedad", "impulsos", "desarrollo"]
+      },
+      {
+        "id": "encuentras_algo_no_pertenece",
+        "title": "Cuando Encuentras Algo que No Pertenece",
+        "description": "Proporciona estrategias específicas para responder cuando se descubre que el niño tomó algo ajeno, enfocándose en respuestas calmadas que llevan al aprendizaje y reparación.",
+        "duration": "5:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/11-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/11-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["descubrimiento", "reparación", "enseñanza", "empatía"]
+      },
+      {
+        "id": "celos_impulsan_robo",
+        "title": "Cuando los Celos Impulsan el Robo",
+        "description": "Aborda robos motivados por celos o sentimientos de inferioridad, validando emociones difíciles mientras se enseñan maneras apropiadas de manejar el deseo por lo que otros tienen.",
+        "duration": "4:07",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/12-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/12-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["celos", "emociones", "validación", "manejo"]
+      },
+      {
+        "id": "conversaciones_familiares_honestidad",
+        "title": "Conversaciones Familiares Sobre Honestidad",
+        "description": "Guía para crear diálogo continuo sobre honestidad como valor familiar, moviéndose más allá de respuestas de crisis hacia enseñanza y modelado proactivos de integridad.",
+        "duration": "4:13",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/13-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/13-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["conversaciones", "valores", "integridad", "modelado"]
+      },
+      {
+        "id": "fantasia_vs_realidad",
+        "title": "Fantasía vs. Realidad - Cuando la Imaginación Se Encuentra con la Verdad",
+        "description": "Ayuda a distinguir entre imaginación creativa y engaño intencional, celebrando la creatividad mientras se enseña la diferencia entre historias reales y de pretender.",
+        "duration": "4:42",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/14-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/14-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["imaginación", "creatividad", "fantasía", "verdad"]
+      },
+      {
+        "id": "cuando_buscar_apoyo",
+        "title": "Cuándo Buscar Apoyo Adicional",
+        "description": "Aborda cuándo comportamientos de mentir y robar podrían indicar desafíos subyacentes, ayudando a distinguir entre desarrollo normal y patrones preocupantes que requieren apoyo profesional.",
+        "duration": "5:02",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/15-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/15-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["apoyo profesional", "desarrollo normal", "patrones", "intervención"]
+      },
+      {
+        "id": "avanzando_confianza_comprension",
+        "title": "Avanzando con Confianza y Comprensión",
+        "description": "Conclusión alentadora que refuerza principios clave del módulo, ayudando a padres a mantener esperanza y confianza en construir honestidad e integridad a largo plazo.",
+        "duration": "1:20",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/16-lying.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/16-lying.m4a",
+        "mediaType": "audio",
+        "tags": ["confianza", "comprensión", "integridad", "futuro"]
+      }
+    ],
     "scripts": [
       {
         "id": "task_avoidance_lying",

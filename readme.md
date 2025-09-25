@@ -5,7 +5,7 @@
 I have created new media files. Can you please update the media section of the following files: 
 
 
-Please use the following files as reference: /Volumes/philipp/development/projects/parentpal-content/content/de/library_topics/tantrums.json
+Please use the following files as reference: 
 
 The audio descriptions including the image and audio links are stored in the following files: 
 

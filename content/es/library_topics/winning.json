@@ -90,7 +90,232 @@
         "publishedAt": "2025-08-28T10:00:00Z"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "id": "bienvenidos_ganar_perder",
+        "title": "Bienvenidos a Ganar, Perder y Competencia",
+        "description": "La competencia en sí no es mala - se trata de ayudar a los niños a manejarla apropiadamente. Aprenderás a apoyar el espíritu competitivo mientras enseñas gracia en victorias y derrotas.",
+        "duration": "1:27",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/01-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/01-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "competencia",
+          "introducción",
+          "equilibrio emocional"
+        ]
+      },
+      {
+        "id": "entendiendo_ninos_competitivos",
+        "title": "Entendiendo a los Niños Competitivos",
+        "description": "Algunos niños están naturalmente diseñados para comparar y competir desde los tres años. Detrás del comportamiento competitivo hay un niño que quiere sentirse capaz y valorado.",
+        "duration": "4:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/02-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/02-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "naturaleza competitiva",
+          "fortalezas",
+          "motivación"
+        ]
+      },
+      {
+        "id": "competencia_problematica",
+        "title": "Cuando la Competencia se Vuelve Problemática",
+        "description": "Observa reacciones físicas, evitación completa, respuestas emocionales desproporcionadas. Estos comportamientos no son desafío - representan angustia genuina y falta de herramientas emocionales.",
+        "duration": "5:04",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/03-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/03-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "señales de alarma",
+          "angustia",
+          "intervención"
+        ]
+      },
+      {
+        "id": "tres_tipos_competitivos",
+        "title": "Tres Tipos de Niños Competitivos",
+        "description": "Los niños naturalmente competitivos, de pensamiento rígido, y lidiando con inadecuación/celos. Entender la motivación subyacente ayuda a responder apropiadamente.",
+        "duration": "5:36",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/04-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/04-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "tipos de niños",
+          "motivaciones",
+          "apoyo dirigido"
+        ]
+      },
+      {
+        "id": "conversaciones_reflexivas",
+        "title": "Conversaciones Reflexivas Sobre Ganar y Perder",
+        "description": "Espera momentos calmados - nunca durante desregulación emocional. Comienza con curiosidad genuina sobre la experiencia del niño. Valida sentimientos antes de ofrecer guía.",
+        "duration": "6:15",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/05-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/05-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "comunicación",
+          "validación",
+          "inteligencia emocional"
+        ]
+      },
+      {
+        "id": "estableciendo_limites_claros",
+        "title": "Estableciendo Límites Claros Alrededor de la Competencia",
+        "description": "Usa lenguaje específico y concreto en lugar de conceptos abstractos como 'buen comportamiento deportivo'. Distingue entre tener sentimientos y actuar sobre ellos inapropiadamente.",
+        "duration": "5:00",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/06-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/06-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "límites",
+          "reglas concretas",
+          "expectativas"
+        ]
+      },
+      {
+        "id": "habilidades_manejo_saludables",
+        "title": "Construyendo Habilidades Saludables de Manejo",
+        "description": "Los niños usan habilidades de manejo que ayudan a crear más que soluciones impuestas. Pregunta a los niños qué podría ayudar en lugar de prescribir estrategias.",
+        "duration": "4:54",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/07-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/07-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "estrategias de manejo",
+          "personalización",
+          "autonomía"
+        ]
+      },
+      {
+        "id": "preparando_situaciones_competitivas",
+        "title": "Preparando a Tu Hijo Antes de Situaciones Competitivas",
+        "description": "Las conversaciones de preparación plantan semillas de resiliencia. Establece expectativas realistas durante momentos calmados. 'Solo una persona puede ganar, y eso está bien.'",
+        "duration": "5:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/08-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/08-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "preparación",
+          "expectativas",
+          "resiliencia"
+        ]
+      },
+      {
+        "id": "supervision_calida",
+        "title": "Manteniéndote Cerca y Supervisando",
+        "description": "'Supervisión cálida' - estar lo suficientemente cerca para ayudar mientras permites práctica independiente. Intervén cuando los niños se vuelven inseguros, pero déjalos practicar.",
+        "duration": "5:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/09-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/09-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "supervisión",
+          "independencia",
+          "modelado"
+        ]
+      },
+      {
+        "id": "entendiendo_presumir",
+        "title": "Entendiendo el Presumir",
+        "description": "El orgullo saludable celebra logro personal; presumir rebaja a otros. Los niños que presumen excesivamente a menudo se sienten menos seguros por dentro.",
+        "duration": "4:10",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/10-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/10-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "presumir",
+          "inseguridad",
+          "validación"
+        ]
+      },
+      {
+        "id": "abordando_presumir_excesivo",
+        "title": "Abordando el Presumir Excesivo",
+        "description": "Mantén la calma y recuerda que presumir se trata de sentirse mejor. Refleja los sentimientos positivos sin reforzar comparaciones con otros.",
+        "duration": "4:46",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/11-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/11-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "estrategias",
+          "redirección",
+          "celebración apropiada"
+        ]
+      },
+      {
+        "id": "burlas_hermanos",
+        "title": "Burlas Entre Hermanos",
+        "description": "Las burlas competitivas a menudo suceden alrededor de padres porque los niños se sienten seguros expresando emociones. Aborda los sentimientos de ambos niños sin tomar lados.",
+        "duration": "6:01",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/12-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/12-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "hermanos",
+          "burlas",
+          "dinámica familiar"
+        ]
+      },
+      {
+        "id": "situaciones_sociales_malentendidos",
+        "title": "Situaciones Sociales y Malentendidos",
+        "description": "Los niños a menudo interpretan desilusión competitiva normal como rechazo personal. Valida emociones sin aceptar inmediatamente todas las narrativas.",
+        "duration": "4:47",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/13-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/13-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "habilidades sociales",
+          "interpretación",
+          "perspectiva"
+        ]
+      },
+      {
+        "id": "modelado_conversaciones_familiares",
+        "title": "Modelado y Conversaciones Familiares",
+        "description": "Los niños aprenden más viendo a los padres que de instrucciones. Modela desilusión, emoción, y recuperación de maneras medidas y apropiadas.",
+        "duration": "5:17",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/14-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/14-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "modelado parental",
+          "tradiciones familiares",
+          "enseñanza indirecta"
+        ]
+      },
+      {
+        "id": "ganar_perder_amistades",
+        "title": "Cuando Ganar y Perder Afecta las Amistades",
+        "description": "Las amistades pueden sobrevivir momentos competitivos cuando ambas personas los manejan bien. Ayuda a los niños a distinguir emoción normal del comportamiento hiriente.",
+        "duration": "6:08",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/15-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/15-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "amistades",
+          "empatía",
+          "conexión"
+        ]
+      },
+      {
+        "id": "competencia_saludable_outro",
+        "title": "Avanzando con Competencia Saludable",
+        "description": "La competitividad es una fortaleza cuando se canaliza apropiadamente. El valor del niño no está determinado por ganar/perder sino por cómo manejan los resultados.",
+        "duration": "1:32",
+        "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/16-winning.jpg",
+        "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/winning-mc-3-7/16-winning.m4a",
+        "mediaType": "audio",
+        "tags": [
+          "resumen",
+          "habilidades de vida",
+          "crecimiento"
+        ]
+      }
+    ],
     "scripts": [
       {
         "id": "highly_competitive_child_loses",
