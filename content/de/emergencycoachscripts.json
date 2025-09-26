@@ -21,10 +21,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Die Gefühle des Kindes anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, zeigt ihnen, dass ihre Gefühle berechtigt sind, aber die Erwartung bleibt bestehen. Wahlmöglichkeiten zu bieten, gibt ihnen Kontrolle innerhalb Ihrer Struktur.",
           "script": [
-            "Du bist wirklich verärgert wegen der Schlafenszeit. Ich kann sehen, dass sich das schwer für dich anfühlt.",
-            "UND Schlafenszeit findet trotzdem statt. Dein Körper braucht Schlaf, um stark zu werden.",
-            "Möchtest du zu deinem Zimmer gehen oder soll ich dich vorsichtig tragen?",
-            "Ich bleibe direkt hier bei dir, während du diese großen Gefühle hast."
+            "Du bist wirklich verärgert wegen der Schlafenszeit. Ich sehe, dass es dir gerade schwer fällt.",
+            "UND Schlafenszeit ist trotzdem dran. Du brauchst deinen Schlaf, um morgen fit zu sein.",
+            "Möchtest du selbst in dein Zimmer gehen oder soll ich dich begleiten?",
+            "Ich bin für dich da, während du diese großen Gefühle hast."
           ],
           "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit."
         },
@@ -35,10 +35,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Verspieltheit kann den emotionalen Zustand verändern und Kooperation wahrscheinlicher machen. Es behält die Grenze bei und reduziert gleichzeitig Machtkämpfe durch Verbindung.",
           "script": [
-            "Oh nein! Es sieht aus, als hätte dich das Schlafenszeit-Monster erwischt! Das Schlafenszeit-Monster lässt Kinder SO verärgert über den Schlaf fühlen.",
-            "Ich frage mich... sollen wir zum Bett marschieren wie Soldaten oder hüpfen wie Häschen?",
-            "Deine Kuscheltiere fragen sich wahrscheinlich, wo du bist. Sollen wir ihnen eine Gute-Nacht-Geschichte erzählen?",
-            "Auch wenn du verärgert bist, liebe ich dich trotzdem. Lass uns deinen Körper fürs Schlafen bereit machen."
+            "Oh nein! Hat dich etwa das Schlafenszeit-Monster erwischt? Das macht Kinder manchmal richtig wütend aufs Schlafengehen!",
+            "Was meinst du... sollen wir zum Bett marschieren wie Soldaten oder hüpfen wie Hasen?",
+            "Deine Kuscheltiere warten bestimmt schon auf dich. Wollen wir ihnen zusammen Gute Nacht sagen?",
+            "Auch wenn du gerade sauer bist, hab ich dich lieb. Komm, wir machen dich bettfertig."
           ],
           "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit."
         },
@@ -49,10 +49,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Wahlmöglichkeiten innerhalb der nicht verhandelbaren Grenze zu bieten, gibt Kindern ein Gefühl von Autonomie und Kontrolle, wodurch sie eher kooperieren.",
           "script": [
-            "Ich kann sehen, dass sich die Schlafenszeit gerade überwältigend anfühlt.",
-            "Du darfst wählen: zuerst Schlafanzug oder zuerst Zähneputzen?",
-            "Möchtest du deine Tür heute Nacht einen Spalt offen oder geschlossen?",
-            "Dein Körper geht jetzt ins Bett, und du kannst wählen, ob du es dir leicht oder schwer machst."
+            "Ich merke, dass dir die Schlafenszeit gerade zu viel ist.",
+            "Du darfst entscheiden: erst Schlafanzug anziehen oder erst Zähne putzen?",
+            "Soll deine Tür heute Nacht einen Spalt offen bleiben oder zu?",
+            "Jetzt ist Schlafenszeit, und du kannst entscheiden, ob wir es uns leicht oder schwer machen."
           ],
           "mantra": "Das ist vorübergehend. Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache. Konsequenz ist Freundlichkeit."
         }
@@ -79,10 +79,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Sich zu weigern, Partei zu ergreifen, verhindert, dass Sie zum Schiedsrichter werden und lehrt Kinder, zusammenzuarbeiten. Das Spielzeug wegzunehmen entfernt den unmittelbaren Auslöser, während sie sich regulieren.",
           "script": [
-            "Ich sehe zwei Kinder, die beide dasselbe Spielzeug wollen. Das ist frustrierend!",
-            "Ich werde nicht entscheiden, wer es bekommt. Ihr wollt es beide, und das ist verständlich.",
-            "Das Spielzeug macht eine Pause, bis ihr beide zusammen eine Lösung finden könnt.",
-            "Wenn ihr bereit seid, Probleme zu lösen, bin ich hier, um euch beim Brainstorming zu helfen."
+            "Ich sehe zwei Kinder, die beide das gleiche Spielzeug wollen. Das ist wirklich frustrierend!",
+            "Ich entscheide nicht, wer es bekommt. Ihr wollt es beide haben - das verstehe ich.",
+            "Das Spielzeug macht erstmal Pause, bis ihr zusammen eine Lösung findet.",
+            "Wenn ihr soweit seid, helfe ich euch gerne beim Überlegen."
           ],
           "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen."
         },
@@ -93,10 +93,10 @@
           "timeRequired": "10-15 Minuten",
           "why_it_works": "Die Perspektiven beider Kinder zu bestätigen, hilft ihnen, sich gehört zu fühlen und reduziert die Intensität des Konflikts. Ihnen Zeit zum Nachdenken zu geben, fördert Problemlösungsfähigkeiten.",
           "script": [
-            "Sarah, du bist verärgert, weil du die Puppe willst. Jake, du bist verärgert, weil du sie zuerst hattest.",
-            "Beide eure Gefühle ergeben für mich völlig Sinn.",
-            "Hier ist, was passieren wird: Ich stelle einen Timer auf 2 Minuten. Ihr könnt beide über Ideen nachdenken.",
-            "Dann kommen wir wieder zusammen und ihr könnt eure Lösungen teilen."
+            "Sarah, du bist sauer, weil du die Puppe haben willst. Jake, du bist sauer, weil du sie zuerst hattest.",
+            "Ich kann euch beide total verstehen.",
+            "So machen wir's: Ich stelle einen Timer auf 2 Minuten. Ihr könnt beide überlegen, was wir machen könnten.",
+            "Dann treffen wir uns wieder und ihr erzählt mir eure Ideen."
           ],
           "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen."
         },
@@ -107,10 +107,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Körperliche Trennung verhindert Eskalation und gibt beiden Kindern Raum, ihre Emotionen zu regulieren, bevor sie versuchen, Probleme zu lösen.",
           "script": [
-            "Ich sehe greifende Hände und schreiende Stimmen. Körper müssen sicher sein.",
-            "Sarah, du kommst mit mir in die Küche. Jake, du bleibst hier im Wohnzimmer.",
-            "Wenn alle ruhig sind, sprechen wir über das Spielzeug.",
-            "Gerade jetzt ist meine Aufgabe, alle sicher zu halten."
+            "Ich sehe Hände, die greifen und höre laute Stimmen. Ich passe auf, dass niemand verletzt wird.",
+            "Sarah, komm mal mit mir in die Küche. Jake, du bleibst bitte hier.",
+            "Wenn ihr euch beide beruhigt habt, reden wir über das Spielzeug.",
+            "Jetzt sorge ich erstmal dafür, dass alle sicher sind."
           ],
           "mantra": "Ich muss das nicht FÜR sie lösen. Ich kann ihnen helfen, es zusammen zu lösen."
         }
@@ -137,10 +137,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Ihre Gefühle zu bestätigen und gleichzeitig mit dem Plan fortzufahren, zeigt ihnen, dass Sie mit ihren großen Emotionen umgehen können und sie trotzdem mit Routinen sicher halten.",
           "script": [
-            "Dein Körper sagt mir, dass sich etwas an der Schule heute schwer anfühlt.",
-            "UND Schule findet trotzdem statt. Lass uns deinen Körper fertig machen zum Gehen.",
-            "Du kannst dich selbst anziehen oder ich kann dir beim Anziehen helfen. Du entscheidest.",
-            "Wir gehen in 5 Minuten. Ich glaube, du schaffst das."
+            "Ich merke, dass dir heute etwas an der Schule schwer fällt.",
+            "UND Schule ist trotzdem dran. Komm, wir machen dich fertig.",
+            "Du kannst dich selbst anziehen oder ich helfe dir dabei. Was ist dir lieber?",
+            "In 5 Minuten gehen wir los. Du schaffst das, da bin ich mir sicher."
           ],
           "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen."
         },
@@ -151,10 +151,10 @@
           "timeRequired": "10-15 Minuten",
           "why_it_works": "Verbindung vor Anweisung hilft Kindern, sich verstanden und unterstützt zu fühlen, wodurch sie eher bereit sind, bei notwendigen Aufgaben zu kooperieren.",
           "script": [
-            "Komm her, Kleiner. Ich kann sehen, dass sich dieser Morgen groß und schwer anfühlt.",
-            "Erzähl mir, was in deinem Kopf über die Schule heute vor sich geht.",
-            "Das klingt wirklich [schwer/beängstigend/frustrierend]. Ich verstehe das.",
-            "Auch wenn sich die Schule schwer anfühlt, weiß ich, dass du damit umgehen kannst. Lass uns zusammen fertig werden."
+            "Komm mal zu mir. Ich sehe, dass dir der Morgen heute schwer fällt.",
+            "Erzähl mal, was dich an der Schule heute beschäftigt.",
+            "Das hört sich wirklich [schwer/beängstigend/frustrierend] an. Das kann ich gut verstehen.",
+            "Auch wenn die Schule sich heute schwer anfühlt, weiß ich, dass du das schaffst. Komm, wir machen uns zusammen fertig."
           ],
           "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen."
         },
@@ -165,10 +165,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Verspieltheit kann Widerstand in Kooperation verwandeln, indem notwendige Aufgaben wie Spiele statt wie Forderungen wirken.",
           "script": [
-            "Oh nein! Es sieht aus, als würden deine Klamotten versuchen, sich vor dir zu verstecken!",
-            "Sollen wir das hinterhältige Shirt fangen? Ich glaube, es ist hinter die Tür gegangen!",
-            "Ich frage mich, ob dein Rucksack bereit für ein Abenteuer heute ist...",
-            "Dein starker Körper wird einen Tag in der Schule haben, und ich bin hier, wenn du nach Hause kommst."
+            "Oh nein! Deine Anziehsachen spielen wohl heute Verstecken mit dir!",
+            "Sollen wir das freche T-Shirt fangen? Ich glaube, es ist hinter die Tür gehüpft!",
+            "Mal sehen, ob dein Rucksack schon bereit für dein heutiges Abenteuer ist...",
+            "Du gehst heute zur Schule und ich bin da, wenn du wieder nach Hause kommst."
           ],
           "mantra": "Ihr Widerstand bedeutet nicht, dass ich nachgeben sollte. Struktur fühlt sich sicher an, auch wenn sie dagegen ankämpfen."
         }
@@ -195,10 +195,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte modelliert emotionale Regulierung und zeigt ihnen, dass ihre großen Gefühle Sie nicht wegdrängen oder Ihre Grenzen ändern können.",
           "script": [
-            "Du bist gerade so wütend auf mich. Du wünschst dir, ich würde meine Meinung ändern.",
-            "Es ist okay, wütend auf mich zu sein. Ich kann mit deinen großen Gefühlen umgehen.",
-            "Auch wenn du wütend auf mich bist, liebe ich dich vollständig.",
-            "Wenn du bereit bist, bin ich hier. Die Antwort ist immer noch [Grenze]."
+            "Du bist gerade richtig wütend auf mich. Du wünschst dir, ich würde anders entscheiden.",
+            "Es ist völlig okay, wütend auf mich zu sein. Ich halte das aus.",
+            "Auch wenn du gerade sauer auf mich bist, hab ich dich ganz doll lieb.",
+            "Wenn du soweit bist, bin ich für dich da. Meine Antwort bleibt trotzdem [Grenze]."
           ],
           "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben."
         },
@@ -209,10 +209,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Emotionen zu benennen hilft Kindern zu verstehen, was sie fühlen, und lehrt sie, dass alle Gefühle akzeptabel sind, auch wenn sie unvollkommen ausgedrückt werden.",
           "script": [
-            "Wow, das sind einige wirklich große, wütende Gefühle, die aus deinem Körper kommen.",
-            "Du bist so frustriert, dass du willst, dass ich es mit deinen größten Worten weiß.",
-            "Ich höre dich. Du wünschst dir, die Dinge wären gerade anders.",
-            "Ich liebe dich, auch wenn du wütend bist. Auch wenn du diese Worte benutzt."
+            "Wow, das sind aber ganz schön große wütende Gefühle, die da aus dir rauskommen.",
+            "Du bist so frustriert, dass du mir das mit den stärksten Worten zeigen willst.",
+            "Ich höre dich. Du wünschst dir, dass alles anders wäre.",
+            "Ich hab dich lieb, auch wenn du wütend bist. Auch mit diesen Worten."
           ],
           "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben."
         },
@@ -223,10 +223,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Ihre eigene Erfahrung mit ähnlichen Gefühlen zu teilen, hilft Kindern, sich weniger allein zu fühlen und zeigt ihnen, dass starke Emotionen normal und handhabbar sind.",
           "script": [
-            "Weißt du was? Manchmal fühle ich mich auch wirklich frustriert mit Menschen, die ich liebe.",
-            "Wenn du sagst, du hasst mich, denke ich, du meinst, du hasst, was ich von dir verlange.",
-            "Ich verstehe das. Diese Regel fühlt sich gerade wirklich unfair für dich an.",
-            "Und ich liebe dich trotzdem. Und die Regel ist immer noch die Regel."
+            "Weißt du was? Manchmal bin ich auch richtig frustriert mit Menschen, die ich lieb habe.",
+            "Wenn du sagst 'Ich hasse dich', meinst du eigentlich, du hasst das, was ich gerade von dir will.",
+            "Das verstehe ich total. Die Regel fühlt sich für dich gerade richtig unfair an.",
+            "Und trotzdem hab ich dich lieb. Und die Regel bleibt trotzdem bestehen."
           ],
           "mantra": "Sie hassen mich nicht wirklich. Das ist ihr unreifes Gehirn, das versucht, Kontrolle zu bekommen. Ich kann standhaft bleiben."
         }
@@ -253,10 +253,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Informationen zu geben reduziert Angst, indem das Unbekannte bekannt gemacht wird. Körperlich nah zu bleiben aktiviert ihr Bindungssystem und hilft ihnen, sich sicher zu fühlen.",
           "script": [
-            "Dein Körper hat Angst hier zu sein. Arztbesuche können sich wirklich groß anfühlen.",
-            "Ich bleibe die ganze Zeit direkt neben dir.",
-            "Wir sind ein Team. Du musst nicht allein mutig sein.",
-            "Danach werden wir [spezifischer Plan]. Darauf kannst du dich freuen."
+            "Du hast Angst vor dem Arztbesuch. Das fühlt sich wirklich groß für dich an.",
+            "Ich bleibe die ganze Zeit bei dir.",
+            "Wir schaffen das zusammen. Du bist nicht allein.",
+            "Danach machen wir [spezifischer Plan]. Das wird schön."
           ],
           "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein."
         },
@@ -267,10 +267,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Detaillierte Informationen helfen, Angst zu reduzieren, indem Unbekanntes eliminiert wird. Wahlmöglichkeiten zu bieten gibt ihnen etwas Kontrolle in einer Situation, in der sie sich machtlos fühlen.",
           "script": [
-            "Lass mich dir genau sagen, was passieren wird, damit sich dein Gehirn bereit machen kann.",
-            "Zuerst [Schritt 1], dann [Schritt 2]. Ich halte deine Hand.",
-            "Du darfst wählen: Möchtest du auf meinem Schoß oder auf dem Tisch sitzen?",
-            "Wenn du weinen oder meine Hand drücken musst, ist das völlig okay."
+            "Ich erkläre dir genau, was passieren wird, dann weißt du Bescheid.",
+            "Zuerst [Schritt 1], dann [Schritt 2]. Ich halte dabei deine Hand.",
+            "Du kannst entscheiden: Möchtest du auf meinem Schoß oder auf dem Tisch sitzen?",
+            "Wenn du weinen musst oder meine Hand fest drücken willst, ist das total in Ordnung."
           ],
           "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein."
         },
@@ -311,10 +311,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Ihre Enttäuschung anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, lehrt sie, dass Gefühle berechtigt sind, aber keine Handlungen kontrollieren. Vorankündigung hilft ihrem Gehirn, sich vorzubereiten.",
           "script": [
-            "Ich kann sehen, dass du noch nicht bereit bist aufzuhören. Diese Aktivität macht dir wirklich Spaß.",
-            "Wir haben noch 2 Minuten. Du kannst diese Zeit nutzen, wie du willst.",
-            "Wenn der Timer klingelt, gehen wir. Du kannst zum Auto gehen oder ich kann dich tragen.",
-            "Es ist schwer, lustige Sachen zu beenden. Und wir hören trotzdem auf."
+            "Ich merke, du willst noch nicht aufhören. Das macht dir richtig Spaß hier.",
+            "Wir haben noch 2 Minuten. Die kannst du nutzen, wie du möchtest.",
+            "Wenn der Timer klingelt, gehen wir los. Du kannst selbst zum Auto laufen oder ich trage dich.",
+            "Es ist schwer, wenn schöne Sachen zu Ende gehen. Wir müssen trotzdem los."
           ],
           "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen."
         },
@@ -325,10 +325,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Enttäuschung zu bestätigen hilft Kindern, sich verstanden zu fühlen, während sie lernen, dass sie Gefühle haben können und trotzdem notwendige Handlungen befolgen können.",
           "script": [
-            "Du wünschst dir, du könntest für immer spielen. Das ergibt für mich völlig Sinn.",
-            "Es ist enttäuschend, wenn lustige Sachen enden müssen.",
-            "Du kannst traurig über das Gehen sein UND wir gehen trotzdem jetzt.",
-            "Ich werde mir merken, wie sehr du das geliebt hast für das nächste Mal."
+            "Du würdest am liebsten ewig weiterspielen. Das kann ich total verstehen.",
+            "Es ist wirklich schade, wenn tolle Sachen aufhören müssen.",
+            "Du darfst ruhig traurig sein UND wir gehen trotzdem jetzt.",
+            "Ich merke mir, wie viel Spaß dir das gemacht hat. Wir kommen wieder."
           ],
           "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen."
         },
@@ -369,10 +369,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Das Verhalten sofort zu stoppen und gleichzeitig die Emotion zu bestätigen, lehrt sie, dass alle Gefühle okay sind, aber nicht alle Handlungen okay sind. Alternativen anzubieten gibt ihnen angemessene Ventile.",
           "script": [
-            "Ich lasse nicht zu, dass du schlägst. Körper müssen sicher sein.",
-            "Ich werde deinen Körper/mich bewegen, damit alle sicher bleiben.",
-            "Du hast große Gefühle UND schlagen ist nicht okay.",
-            "Wenn dein Körper ruhig ist, können wir über das sprechen, was passiert ist."
+            "Ich lasse nicht zu, dass du schlägst. Ich passe auf, dass alle sicher sind.",
+            "Ich halte dich fest/gehe weg, damit niemand verletzt wird.",
+            "Du hast große Gefühle UND schlagen ist trotzdem nicht okay.",
+            "Wenn du wieder ruhiger bist, können wir darüber reden, was passiert ist."
           ],
           "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen."
         },
@@ -383,10 +383,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Gefühle von Handlungen zu trennen hilft Kindern zu verstehen, dass Emotionen immer akzeptabel sind, aber Verhalten Grenzen und Konsequenzen hat.",
           "script": [
-            "Du bist so wütend, dass dein Körper schlagen will. Das verstehe ich.",
-            "UND ich werde nicht zulassen, dass du mich oder jemand anderen verletzt.",
-            "Deine wütenden Gefühle sind okay. Schlagen ist nicht okay.",
-            "Lass uns einen sicheren Weg finden, wie dein Körper diese großen Gefühle zeigen kann."
+            "Du bist so wütend, dass du am liebsten schlagen würdest. Das verstehe ich.",
+            "UND ich lasse nicht zu, dass du mich oder andere verletzt.",
+            "Wütend sein ist okay. Schlagen ist nicht okay.",
+            "Komm, wir finden einen anderen Weg für deine großen Gefühle."
           ],
           "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen."
         },
@@ -397,10 +397,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Körperliche Ventile für große Emotionen anzubieten hilft Kindern, angemessene Wege zu lernen, intensive Gefühle freizusetzen, während alle sicher bleiben.",
           "script": [
-            "Ich kann sehen, dass dein Körper viel große Energie hat, die herauskommen will.",
-            "Du kannst dieses Kissen schlagen, mit den Füßen stampfen oder deine Hände ganz fest zusammendrücken.",
-            "Deine Gefühle sind wichtig UND die Körper der Menschen müssen sicher bleiben.",
-            "Ich werde dir helfen, einen Weg zu finden, diese Gefühle sicher herauszubekommen."
+            "Ich sehe, du hast ganz viel Energie in dir, die raus will.",
+            "Du kannst ins Kissen boxen, fest aufstampfen oder deine Hände ganz fest zusammendrücken.",
+            "Deine Gefühle sind wichtig UND alle müssen dabei sicher bleiben.",
+            "Ich helfe dir, einen guten Weg zu finden, deine Gefühle rauszulassen."
           ],
           "mantra": "Dieses Verhalten ist Kommunikation, keine Manipulation. Sie brauchen meine Hilfe, um bessere Wege zum Ausdrücken zu lernen."
         }
@@ -427,10 +427,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Überwältigende Reize zu entfernen hilft Kindern bei der Regulierung. Öffentliche Räume können überstimulierend sein, und eine Umgebungsveränderung hilft oft, ihr Nervensystem zu resetten.",
           "script": [
-            "Ich kann sehen, dass das gerade wirklich überwältigend für dich ist.",
-            "Wir machen eine Pause draußen, wo es ruhiger ist.",
-            "Du kannst deine Gefühle haben, und wir müssen alle sicher halten.",
-            "Wenn du bereit bist, können wir zusammen entscheiden, ob wir weiter einkaufen oder später wiederkommen."
+            "Das ist gerade alles zu viel für dich, oder?",
+            "Komm, wir gehen kurz raus, wo es ruhiger ist.",
+            "Du darfst deine Gefühle haben, und ich passe auf uns alle auf.",
+            "Wenn du soweit bist, überlegen wir zusammen, ob wir weitereinkaufen oder später wiederkommen."
           ],
           "mantra": "Die Meinungen anderer Leute sind nicht wichtig. Mein Kind braucht gerade meine ruhige Präsenz."
         },
@@ -441,10 +441,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Präsent zu bleiben zeigt dem Kind, dass es mit seinen großen Emotionen nicht allein ist. Es modelliert, dass Gefühle handhabbar und vorübergehend sind.",
           "script": [
-            "Du hast gerade so große Gefühle. Ich bin direkt hier bei dir.",
-            "Ich kann sehen, dass du wirklich [Gegenstand] wolltest. Es ist enttäuschend, wenn wir nicht haben können, was wir wollen.",
-            "Ich bleibe in der Nähe, während du diese Gefühle hast.",
-            "Wenn du bereit bist, können wir zusammen unser Einkaufen beenden."
+            "Du hast gerade richtig große Gefühle. Ich bin für dich da.",
+            "Ich weiß, du wolltest unbedingt [Gegenstand] haben. Es ist echt blöd, wenn man etwas nicht bekommen kann.",
+            "Ich bleibe bei dir, während du diese Gefühle hast.",
+            "Wenn es dir besser geht, können wir zusammen fertig einkaufen."
           ],
           "mantra": "Das ist vorübergehend. Ich bringe ihnen bei, dass sie sicher sind, große Emotionen mit mir zu haben."
         },
@@ -485,10 +485,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Klare Grenzen bei Sicherheit und gleichzeitig ihre Gefühle anzuerkennen, zeigt ihnen, dass manche Dinge nicht verhandelbar sind, aber Sie sich trotzdem um ihre Emotionen kümmern.",
           "script": [
-            "Dein Körper sagt nein zum Autositz. Ich höre das.",
-            "UND meine Aufgabe ist es, dich sicher zu halten. Autositze halten Körper in Autos sicher.",
-            "Ich werde dir beim Anschnallen helfen. Du kannst verärgert sein, während ich meine Aufgabe mache.",
-            "Sobald du sicher bist, können wir darüber sprechen, was das schwer macht."
+            "Du willst gerade gar nicht in den Autositz. Das höre ich.",
+            "UND ich muss dich sicher halten. Der Autositz schützt dich im Auto.",
+            "Ich helfe dir beim Anschnallen. Du darfst dabei ruhig sauer sein.",
+            "Wenn du angeschnallt bist, können wir darüber reden, was das so schwer macht."
           ],
           "mantra": "Sicherheit ist nicht verhandelbar. Ich kann fest UND liebevoll sein."
         },
@@ -499,10 +499,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Wahlmöglichkeiten innerhalb der Sicherheitsanforderung zu bieten gibt ihnen etwas Kontrolle und behält gleichzeitig die Grenze bei. Es hilft ihnen, sich weniger machtlos zu fühlen.",
           "script": [
-            "Der Autositz passiert, weil ich dich sicher halten muss.",
-            "Du darfst wählen: Möchtest du selbst hineinklettern oder soll ich dir helfen?",
-            "Möchtest du [Trostgegenstand] halten oder unsere Fahrmusik auswählen?",
-            "Dein Körper kommt in den Sitz, und du kannst wählen, wie du es bequemer machst."
+            "In den Autositz musst du, weil ich dich beschützen will.",
+            "Du kannst entscheiden: Kletterst du selbst rein oder soll ich dir helfen?",
+            "Möchtest du [Lieblingskuscheltier] mitnehmen oder die Musik aussuchen?",
+            "Du musst in den Sitz, aber du kannst es dir gemütlich machen."
           ],
           "mantra": "Ich kann Wahlmöglichkeiten innerhalb der nicht verhandelbaren Grenze geben."
         },
@@ -513,10 +513,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Sich Zeit zu nehmen, ihren Widerstand zu verstehen, offenbart oft spezifische Sorgen (Unbehagen, Wunsch nach Unabhängigkeit), die angesprochen werden können, während die Sicherheit aufrechterhalten wird.",
           "script": [
-            "Komm erst hierher. Ich kann sehen, dass du wirklich nicht in deinen Sitz willst.",
-            "Erzähl mir, was heute am Autositz schwer ist.",
-            "Das ergibt Sinn. [Ihre Sorge bestätigen].",
-            "Ich muss dich trotzdem sicher halten, und jetzt verstehe ich besser, wie du dich fühlst."
+            "Komm mal kurz zu mir. Ich sehe, du willst wirklich nicht in deinen Sitz.",
+            "Erzähl mal, was dich am Autositz stört.",
+            "Das kann ich verstehen. [Sorge bestätigen].",
+            "Ich muss dich trotzdem anschnallen, aber jetzt weiß ich, was dich beschäftigt."
           ],
           "mantra": "Ihre Perspektive zu verstehen bedeutet nicht, die Grenze zu ändern."
         }
@@ -543,10 +543,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Überwältigende Aufgaben lösen die Kampf-oder-Flucht-Reaktion aus. Arbeit in kleinere Stücke zu unterteilen lässt es erreichbar erscheinen und reduziert Angst.",
           "script": [
-            "Diese Hausaufgaben fühlen sich wirklich groß und überwältigend für dein Gehirn gerade an.",
-            "Lass sie uns zusammen anschauen und in winzige Stücke aufteilen.",
-            "Du musst nicht ALLES davon gerade jetzt machen. Nur einen kleinen Teil.",
-            "Ich glaube, dein Gehirn kann das schaffen, wenn wir es kleiner machen."
+            "Die Hausaufgaben fühlen sich gerade riesig für dich an, stimmt's?",
+            "Komm, wir schauen sie uns zusammen an und teilen sie in kleine Häppchen auf.",
+            "Du musst nicht alles auf einmal machen. Nur ein kleines Stück.",
+            "Ich bin mir sicher, du schaffst das, wenn wir es in kleine Schritte aufteilen."
           ],
           "mantra": "Große Aufgaben fühlen sich unmöglich für Kinder an. Ich kann ihnen helfen zu sehen, dass es machbar ist."
         },
@@ -557,10 +557,10 @@
           "timeRequired": "10-15 Minuten",
           "why_it_works": "Wenn Kinder in emotionalem Stress sind, geht ihr präfrontaler Kortex (Lern-Gehirn) offline. Emotionale Regulierung muss vor akademischer Arbeit kommen.",
           "script": [
-            "Dein Körper sagt mir, dass sich das gerade wirklich schwer anfühlt.",
-            "Lass uns zuerst deine großen Gefühle versorgen, dann gehen wir die Hausaufgaben an.",
-            "Manchmal brauchen unsere Gehirne eine Pause, bevor sie neue Dinge lernen können.",
-            "Wenn du dich ruhiger fühlst, wird dein Gehirn bereit zum Arbeiten sein."
+            "Ich merke, das fällt dir gerade richtig schwer.",
+            "Lass uns erst mal deine großen Gefühle beruhigen, dann schauen wir die Hausaufgaben an.",
+            "Manchmal braucht unser Kopf erst eine Pause, bevor er wieder lernen kann.",
+            "Wenn du dich besser fühlst, ist dein Kopf wieder bereit zum Arbeiten."
           ],
           "mantra": "Lernen kann nicht passieren, wenn sie emotional überflutet sind. Gefühle zuerst, dann Akademisches."
         },
@@ -601,10 +601,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Ruhige Dringlichkeit statt hektisches Hetzen zu modellieren hilft Kindern, sich besser zu konzentrieren und reduziert Morgenstress für alle.",
           "script": [
-            "Ich kann sehen, dass du dich heute Morgen langsam bewegst. Manchmal fühlen sich unsere Körper träge an.",
-            "Wir müssen in 10 Minuten gehen. Das ist genug Zeit, wenn wir uns konzentrieren.",
-            "Was ist das Wichtigste, was du gerade jetzt tun musst?",
-            "Ich werde dir helfen, auf Kurs zu bleiben, ohne deinen Körper zu hetzen."
+            "Ich sehe, du kommst heute Morgen nur langsam in Gang. Das kenne ich.",
+            "Wir müssen in 10 Minuten los. Das schaffen wir, wenn wir uns jetzt konzentrieren.",
+            "Was musst du als erstes machen?",
+            "Ich helfe dir dabei, aber ohne Stress."
           ],
           "mantra": "Ich kann ruhig UND uns in Bewegung halten. Panik macht alles schwerer."
         },
@@ -629,10 +629,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Wenn Morgen schlecht laufen, kann ein Moment der Wiederverbindung die gesamte Dynamik verändern und tatsächlich Zeit sparen, indem Widerstand reduziert wird.",
           "script": [
-            "Dieser Morgen fühlt sich schwer für uns beide an. Lass uns einen kurzen Reset machen.",
-            "Gib mir eine Umarmung. Wir werden das zusammen hinbekommen.",
-            "Was würde deinem Körper helfen, sich bereiter für den Tag zu fühlen?",
-            "Wir haben ein paar Minuten, um diesen Morgen besser zu machen, bevor wir gehen."
+            "Der Morgen ist heute schwierig für uns beide. Komm, wir machen kurz Pause.",
+            "Komm mal her zum Kuscheln. Wir schaffen das zusammen.",
+            "Was würde dir helfen, besser in den Tag zu starten?",
+            "Wir haben noch ein paar Minuten, um den Morgen zu retten."
           ],
           "mantra": "Verbindung ist wichtiger als pünktlich zu sein. Eine gute Beziehung zu meinem Kind ist am wichtigsten."
         }
@@ -659,10 +659,10 @@
           "timeRequired": "sofort",
           "why_it_works": "Plötzliche Übergänge von bevorzugten Aktivitäten lösen große Emotionen aus. Vorwarnung gibt dem Gehirn Zeit, sich mental auf die Veränderung vorzubereiten.",
           "script": [
-            "Du hast noch 5 Minuten Bildschirmzeit, dann ist es Zeit auszuschalten.",
-            "Ich weiß, es ist schwer aufzuhören, wenn man Spaß hat. Lass uns zusammen einen Timer stellen.",
-            "Wenn der Timer klingelt, ist die Bildschirmzeit vorbei. Was möchtest du danach machen?",
-            "Ich helfe dir beim Ausschalten, wenn der Timer klingelt."
+            "Du hast noch 5 Minuten, dann ist Bildschirmzeit vorbei.",
+            "Ich weiß, es ist blöd aufzuhören, wenn's gerade Spaß macht. Komm, wir stellen einen Timer.",
+            "Wenn's klingelt, ist Schluss. Was möchtest du danach machen?",
+            "Ich helfe dir dann beim Ausschalten."
           ],
           "mantra": "Übergänge sind schwer für Kinder. Vorwarnung hilft ihrem Gehirn, sich auf die Veränderung vorzubereiten."
         },
@@ -673,10 +673,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Ihre Enttäuschung zu bestätigen und gleichzeitig ansprechende Alternativen anzubieten hilft, ihren Fokus von dem, was sie verlieren, auf das zu lenken, was sie gewinnen.",
           "script": [
-            "Du bist so enttäuscht, dass die Bildschirmzeit vorbei ist. Das ergibt völlig Sinn.",
-            "Es ist schwer, wenn lustige Sachen enden müssen. Du wünschst dir, du könntest weiterspielen.",
-            "Der Bildschirm geht jetzt weg, UND wir können etwas anderes Lustiges finden.",
-            "Was klingt interessant: mit Bausteinen bauen, nach draußen gehen oder zusammen lesen?"
+            "Du bist richtig enttäuscht, dass die Bildschirmzeit vorbei ist. Das verstehe ich total.",
+            "Es ist echt blöd, wenn tolle Sachen aufhören müssen. Du würdest gern weitermachen.",
+            "Der Bildschirm muss jetzt aus, ABER wir finden was anderes Schönes.",
+            "Was hättest du Lust zu machen: Bauen, rausgehen oder zusammen lesen?"
           ],
           "mantra": "Ihre Enttäuschung ist berechtigt. Ich kann sie anerkennen und trotzdem die Grenze aufrechterhalten."
         },
@@ -703,11 +703,11 @@
       "title": "Große Emotionen",
       "description": "Sätze zum Anerkennen und Bestätigen intensiver Gefühle",
       "phrases": [
-        "Ich kann sehen, dass sich das wirklich groß für dich anfühlt.",
-        "Deine Gefühle ergeben für mich Sinn.",
-        "Auch wenn du verärgert bist, liebe ich dich trotzdem.",
-        "Das sind einige mächtige Gefühle, die aus deinem Körper kommen.",
-        "Es ist okay, große Gefühle zu haben. Ich bin hier bei dir."
+        "Das fühlt sich gerade richtig groß für dich an.",
+        "Deine Gefühle sind total verständlich.",
+        "Auch wenn du sauer bist, hab ich dich lieb.",
+        "Das sind ganz schön starke Gefühle, die da aus dir rauskommen.",
+        "Große Gefühle sind okay. Ich bin für dich da."
       ]
     },
     {
@@ -715,11 +715,11 @@
       "title": "Grenzen setzen",
       "description": "Sätze zum Aufrechterhalten von Grenzen und gleichzeitigen Anerkennen von Gefühlen",
       "phrases": [
-        "Die Antwort ist immer noch [Grenze].",
-        "Ich werde dich sicher halten, auch wenn du es nicht magst.",
-        "Das ist schwer UND es passiert trotzdem.",
-        "Du kannst darüber verärgert sein UND es ist trotzdem das, was wir machen.",
-        "Ich höre, dass du das nicht magst, und es ist trotzdem das, was passieren muss."
+        "Meine Antwort bleibt trotzdem [Grenze].",
+        "Ich passe auf dich auf, auch wenn du das gerade nicht willst.",
+        "Das ist schwer für dich UND es muss trotzdem sein.",
+        "Du darfst sauer sein UND wir machen es trotzdem.",
+        "Ich höre, dass du das blöd findest, und es muss trotzdem sein."
       ]
     },
     {
@@ -727,11 +727,11 @@
       "title": "Verbindung & Unterstützung",
       "description": "Sätze zur Stärkung der Bindung in schwierigen Momenten",
       "phrases": [
-        "Wir werden das zusammen durchstehen.",
-        "Ich bin direkt hier bei dir.",
-        "Ich glaube, du schaffst das.",
-        "Du musst das nicht allein machen.",
-        "Auch wenn die Dinge schwer sind, bin ich in deinem Team."
+        "Wir schaffen das zusammen.",
+        "Ich bin für dich da.",
+        "Du schaffst das, da bin ich mir sicher.",
+        "Du bist nicht allein damit.",
+        "Auch wenn's gerade schwer ist, ich bin auf deiner Seite."
       ]
     },
     {
@@ -739,11 +739,11 @@
       "title": "Elterliche Selbstregulierung",
       "description": "Mantras um Eltern zu helfen, ruhig zu bleiben",
       "phrases": [
-        "Ich bin sicher. Das ist kein Notfall.",
-        "Ihre großen Gefühle bedeuten nicht, dass ich etwas falsch mache.",
-        "Konsequenz ist Freundlichkeit, auch wenn es schwer ist.",
-        "Das ist vorübergehend. Dieses Gefühl wird vergehen.",
-        "Ich kann ruhig bleiben, auch wenn sie es nicht können."
+        "Alles ist gut. Das ist kein Notfall.",
+        "Große Gefühle meines Kindes bedeuten nicht, dass ich etwas falsch mache.",
+        "Klare Regeln geben Sicherheit, auch wenn es gerade schwer ist.",
+        "Das geht vorbei. Diese Gefühle werden sich beruhigen.",
+        "Ich bleibe ruhig, auch wenn mein Kind es nicht kann."
       ]
     },
     {
@@ -751,11 +751,11 @@
       "title": "Emotionale Bestätigung",
       "description": "Sätze um Kindern zu helfen, sich gehört und verstanden zu fühlen",
       "phrases": [
-        "Das klingt wirklich [schwer/frustrierend/enttäuschend].",
-        "Ich kann verstehen, warum du dich so fühlen würdest.",
-        "Wenn ich du wäre, würde ich mich vielleicht auch [Emotion] fühlen.",
-        "Deine Gefühle sind wichtig für mich.",
-        "Es ergibt Sinn, dass du [Sache, die sie wollen] wollen würdest."
+        "Das ist wirklich [schwer/frustrierend/enttäuschend] für dich.",
+        "Ich kann gut verstehen, warum du dich so fühlst.",
+        "An deiner Stelle wäre ich wahrscheinlich auch [Emotion].",
+        "Deine Gefühle sind mir wichtig.",
+        "Klar willst du [Sache, die sie wollen] haben - das verstehe ich."
       ]
     },
     {
@@ -763,11 +763,11 @@
       "title": "Wahlmöglichkeiten & Autonomie",
       "description": "Sätze um Kindern Kontrolle innerhalb von Grenzen zu geben",
       "phrases": [
-        "Du darfst wählen: [Option A] oder [Option B].",
-        "Was würde sich besser für deinen Körper gerade anfühlen?",
-        "Wie möchtest du damit umgehen?",
-        "Du bestimmst über [spezifische Sache innerhalb der Grenze].",
-        "Was würde dir helfen, dich bereiter für [Übergang/Aufgabe] zu fühlen?"
+        "Du kannst entscheiden: [Option A] oder [Option B].",
+        "Was wäre für dich gerade besser?",
+        "Wie möchtest du das machen?",
+        "Du darfst über [spezifische Sache innerhalb der Grenze] bestimmen.",
+        "Was würde dir helfen, damit [Übergang/Aufgabe] leichter wird?"
       ]
     }
   ],
