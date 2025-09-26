@@ -21,10 +21,10 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "Reconocer las emociones del niño mientras mantienes el límite les muestra que sus sentimientos son válidos, pero la expectativa permanece. Ofrecer opciones les da control dentro de tu estructura.",
           "script": [
-            "Estás realmente molesto por la hora de dormir. Puedo ver que esto se siente difícil para ti.",
-            "Y la hora de dormir aún va a suceder. Tu cuerpo necesita dormir para crecer fuerte.",
-            "¿Te gustaría caminar a tu cuarto o te gustaría que te cargue con cuidado?",
-            "Me voy a quedar aquí contigo mientras tienes estos sentimientos grandes."
+            "Estás muy molesto por ir a dormir. Veo que es difícil para ti.",
+            "Y aún así es hora de dormir. Necesitas descansar para estar bien mañana.",
+            "¿Quieres ir caminando a tu cuarto o prefieres que te lleve?",
+            "Aquí estoy contigo mientras sientes todo esto."
           ],
           "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
         },
@@ -35,10 +35,10 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "La juguetosnidad puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
           "script": [
-            "¡Oh no! ¡Parece que el monstruo de la hora de dormir te atrapó! El monstruo de la hora de dormir hace que los niños se sientan MUY molestos sobre el sueño.",
-            "Me pregunto... ¿deberíamos marchar a la cama como soldados o saltar como conejitos?",
-            "Tus peluches probablemente se preguntan dónde estás. ¿Deberíamos ir a contarles un cuento de buenas noches?",
-            "Incluso cuando estés molesto, aún te amo. Vamos a preparar tu cuerpo para dormir."
+            "¡Oh no! ¡Te atrapó el monstruo de dormir! ¡Hace que los niños se enojen mucho con la hora de dormir!",
+            "A ver... ¿marchamos a la cama como soldados o saltamos como conejitos?",
+            "Tus peluches te están esperando. ¿Vamos a darles las buenas noches?",
+            "Aunque estés enojado, te quiero muchísimo. Ven, vamos a prepararte para dormir."
           ],
           "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
         },
@@ -49,10 +49,10 @@
           "timeRequired": "inmediato",
           "why_it_works": "Ofrecer opciones dentro del límite no negociable les da a los niños una sensación de autonomía y control, haciéndolos más propensos a cooperar.",
           "script": [
-            "Puedo ver que la hora de dormir se siente abrumadora ahora.",
-            "Puedes elegir: ¿pijama primero o cepillarse los dientes primero?",
-            "¿Te gustaría tu puerta abierta un poquito o cerrada esta noche?",
-            "Tu cuerpo va a ir a la cama ahora, y puedes elegir hacerlo fácil o difícil para ti mismo."
+            "Sé que la hora de dormir te parece demasiado ahora.",
+            "Tú decides: ¿pijama primero o lavarse los dientes primero?",
+            "¿Quieres la puerta un poquito abierta o cerrada?",
+            "Es hora de dormir, y tú decides si lo hacemos por las buenas o por las malas."
           ],
           "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
         }
@@ -79,10 +79,10 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "Negarse a tomar partido te previene de convertirte en el árbitro y enseña a los niños a trabajar juntos. Quitar el juguete elimina el detonante inmediato mientras se regulan.",
           "script": [
-            "Veo dos niños que ambos quieren el mismo juguete. ¡Eso es frustrante!",
-            "No voy a decidir quién lo tiene. Ambos lo quieren, y eso tiene sentido.",
-            "El juguete va a tomar un descanso hasta que ambos puedan encontrar una solución juntos.",
-            "Cuando estén listos para resolver problemas, estoy aquí para ayudarlos a hacer lluvia de ideas."
+            "Veo dos niños que quieren el mismo juguete. ¡Qué frustrante!",
+            "No voy a decidir quién se lo queda. Los dos lo quieren, lo entiendo.",
+            "El juguete descansa hasta que encuentren una solución juntos.",
+            "Cuando estén listos para resolverlo, aquí estoy para ayudarles."
           ],
           "mantra": "No necesito resolver esto POR ellos. Puedo ayudarlos a resolverlo juntos."
         },
@@ -107,10 +107,10 @@
           "timeRequired": "inmediato",
           "why_it_works": "La separación física previene la escalada y les da a ambos niños espacio para regular sus emociones antes de intentar resolver problemas.",
           "script": [
-            "Veo manos agarrando y voces gritando. Los cuerpos necesitan estar seguros.",
-            "Sara, vienes conmigo a la cocina. Jake, te quedas aquí en la sala.",
-            "Cuando todos estén calmados, hablaremos sobre el juguete.",
-            "Ahora mismo, mi trabajo es mantener a todos seguros."
+            "Veo manos que agarran y voces que gritan. Necesito mantenerlos seguros.",
+            "Sara, ven conmigo a la cocina. Jake, quédate aquí por favor.",
+            "Cuando estén tranquilos, hablamos del juguete.",
+            "Ahora mismo me aseguro de que todos estén bien."
           ],
           "mantra": "No necesito resolver esto POR ellos. Puedo ayudarlos a resolverlo juntos."
         }
@@ -195,10 +195,10 @@
           "timeRequired": "inmediato",
           "why_it_works": "Mantenerse calmado ante palabras hirientes modela regulación emocional y les muestra que sus grandes sentimientos no pueden alejarte o cambiar tus límites.",
           "script": [
-            "Estás tan enojado conmigo ahora. Deseas que cambie de opinión.",
-            "Está bien estar enojado conmigo. Puedo manejar tus sentimientos grandes.",
-            "Incluso cuando estás enojado conmigo, aún te amo completamente.",
-            "Cuando estés listo, estaré aquí. La respuesta sigue siendo [límite]."
+            "Estás muy enojado conmigo ahora. Quisieras que cambiara de opinión.",
+            "Está perfectamente bien estar enojado conmigo. Puedo con eso.",
+            "Aunque estés enojado, te quiero muchísimo.",
+            "Cuando estés listo, aquí estoy. Mi respuesta sigue siendo [límite]."
           ],
           "mantra": "Realmente no me odian. Este es su cerebro inmaduro tratando de obtener control. Puedo mantenerme firme."
         },
@@ -223,10 +223,10 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "Compartir tu propia experiencia con sentimientos similares ayuda a los niños a sentirse menos solos y les muestra que las emociones fuertes son normales y manejables.",
           "script": [
-            "¿Sabes qué? A veces yo también me siento realmente frustrada con personas que amo.",
-            "Cuando dices que me odias, creo que quieres decir que odias lo que te estoy pidiendo que hagas.",
-            "Lo entiendo. Esta regla se siente realmente injusta para ti ahora.",
-            "Y aún te amo. Y la regla sigue siendo la regla."
+            "¿Sabes qué? Yo también me frustro con las personas que quiero.",
+            "Cuando dices que me odias, creo que odias lo que te estoy pidiendo.",
+            "Lo entiendo totalmente. Esta regla te parece super injusta.",
+            "Y te quiero un montón. Y la regla sigue en pie."
           ],
           "mantra": "Realmente no me odian. Este es su cerebro inmaduro tratando de obtener control. Puedo mantenerme firme."
         }
@@ -703,11 +703,11 @@
       "title": "Emociones Grandes",
       "description": "Frases para reconocer y validar sentimientos intensos",
       "phrases": [
-        "Puedo ver que esto se siente realmente grande para ti.",
-        "Tus sentimientos tienen sentido para mí.",
-        "Incluso cuando estés molesto, aún te amo.",
-        "Esos son algunos sentimientos poderosos saliendo de tu cuerpo.",
-        "Está bien tener sentimientos grandes. Estoy aquí contigo."
+        "Esto se siente muy grande para ti ahora.",
+        "Tus sentimientos tienen todo el sentido.",
+        "Aunque estés molesto, te quiero.",
+        "Esos sí que son sentimientos poderosos.",
+        "Los sentimientos grandes están bien. Aquí estoy para ti."
       ]
     },
     {
@@ -715,11 +715,11 @@
       "title": "Establecer Límites",
       "description": "Frases para mantener límites mientras reconoces sentimientos",
       "phrases": [
-        "La respuesta sigue siendo [límite].",
-        "Te voy a mantener seguro, incluso cuando no te guste.",
-        "Esto es difícil Y aún va a suceder.",
-        "Puedes estar molesto por esto Y aún es lo que vamos a hacer.",
-        "Escucho que no te gusta esto, y aún es lo que necesita pasar."
+        "Mi respuesta sigue siendo [límite].",
+        "Te voy a cuidar, aunque no te guste.",
+        "Esto es difícil Y tiene que pasar.",
+        "Puedes estar molesto Y aún así lo hacemos.",
+        "Escucho que no te gusta, y aún tenemos que hacerlo."
       ]
     },
     {
@@ -728,10 +728,10 @@
       "description": "Frases para fortalecer el apego durante momentos difíciles",
       "phrases": [
         "Vamos a superar esto juntos.",
-        "Estoy aquí contigo.",
-        "Creo que puedes manejar esto.",
-        "No tienes que hacer esto solo.",
-        "Incluso cuando las cosas son difíciles, estoy en tu equipo."
+        "Aquí estoy contigo.",
+        "Tú puedes con esto, lo sé.",
+        "No estás solo en esto.",
+        "Aunque sea difícil, estoy de tu lado."
       ]
     },
     {
@@ -739,11 +739,11 @@
       "title": "Autorregulación de Padres",
       "description": "Mantras para ayudar a los padres a mantenerse calmados",
       "phrases": [
-        "Estoy seguro. Esto no es una emergencia.",
-        "Sus sentimientos grandes no significan que estoy haciendo algo mal.",
-        "La consistencia es bondad, incluso cuando es difícil.",
-        "Esto es temporal. Este sentimiento pasará.",
-        "Puedo mantenerme calmado incluso cuando ellos no pueden."
+        "Estamos seguros. Esto no es una emergencia.",
+        "Los sentimientos grandes no significan que hago algo mal.",
+        "Ser consistente es ser amable, aunque sea difícil.",
+        "Esto va a pasar. Estos sentimientos son temporales.",
+        "Puedo mantener la calma aunque mi hijo no pueda."
       ]
     },
     {

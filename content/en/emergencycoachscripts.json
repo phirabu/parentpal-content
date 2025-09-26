@@ -21,10 +21,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Acknowledging the child's emotions while maintaining the boundary shows them their feelings are valid, but the expectation remains. Offering choices gives them control within your structure.",
           "script": [
-            "You're really upset about bedtime. I can see this feels hard for you.",
-            "AND bedtime is still happening. Your body needs sleep to grow strong.",
-            "Would you like to walk to your room or would you like me to carry you gently?",
-            "I'm going to stay right here with you while you have these big feelings."
+            "You're really upset about bedtime. I can see this is hard for you.",
+            "AND bedtime is still happening. You need your sleep to feel good tomorrow.",
+            "Do you want to walk to your room or should I carry you?",
+            "I'm here for you while you have these big feelings."
           ],
           "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness."
         },
@@ -35,10 +35,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Playfulness can shift the emotional state and make cooperation more likely. It maintains the boundary while reducing power struggles through connection.",
           "script": [
-            "Oh no! It looks like the bedtime monster got you! The bedtime monster makes kids feel SO upset about sleep.",
-            "I wonder... should we march to bed like soldiers or hop like bunnies?",
-            "Your stuffed animals are probably wondering where you are. Should we go tell them a bedtime story?",
-            "Even when you're upset, I still love you. Let's get your body ready for sleep."
+            "Oh no! Did the bedtime monster get you? It makes kids SO mad about going to bed!",
+            "Hey, should we march to bed like soldiers or hop like bunnies?",
+            "Your stuffies are probably waiting for you. Want to go say goodnight to them?",
+            "Even when you're upset, I love you so much. Come on, let's get you ready for bed."
           ],
           "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness."
         },
@@ -49,10 +49,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Offering choices within the non-negotiable boundary gives children a sense of autonomy and control, making them more likely to cooperate.",
           "script": [
-            "I can see bedtime feels overwhelming right now.",
-            "You get to choose: pajamas first or teeth brushing first?",
-            "Would you like your door open a crack or closed tonight?",
-            "Your body is going to bed now, and you can choose to make it easy or hard for yourself."
+            "I know bedtime feels like too much right now.",
+            "You can choose: PJs first or brush teeth first?",
+            "Want your door open a little or closed tonight?",
+            "It's bedtime now, and you get to decide if we do this the easy way or the hard way."
           ],
           "mantra": "This is temporary. Their big feelings don't mean I'm doing something wrong. Consistency is kindness."
         }
@@ -79,10 +79,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Refusing to pick sides prevents you from becoming the referee and teaches kids to work together. Taking the toy away removes the immediate trigger while they regulate.",
           "script": [
-            "I see two kids who both want the same toy. That's frustrating!",
-            "I'm not going to decide who gets it. You both want it, and that makes sense.",
-            "The toy is going to take a break until you both can figure out a solution together.",
-            "When you're ready to problem-solve, I'm here to help you brainstorm ideas."
+            "I see two kids who both want the same toy. That's really frustrating!",
+            "I'm not choosing who gets it. You both want it - I get that.",
+            "The toy's taking a break until you can work this out together.",
+            "When you're ready to figure this out, I'll help you think of ideas."
           ],
           "mantra": "I don't need to solve this FOR them. I can help them solve it together."
         },
@@ -107,10 +107,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Physical separation prevents escalation and gives both children space to regulate their emotions before attempting problem-solving.",
           "script": [
-            "I see hands grabbing and voices yelling. Bodies need to be safe.",
-            "Sarah, you come with me to the kitchen. Jake, you stay here in the living room.",
-            "When everyone is calm, we'll talk about the toy.",
-            "Right now, my job is to keep everyone safe."
+            "I see grabbing hands and loud voices. I need to keep everyone safe.",
+            "Sarah, come with me to the kitchen. Jake, you stay here please.",
+            "When you're both calm, we'll talk about the toy.",
+            "Right now I'm making sure everyone's safe."
           ],
           "mantra": "I don't need to solve this FOR them. I can help them solve it together."
         }
@@ -137,10 +137,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Validating their feelings while moving forward with the plan shows them you can handle their big emotions and still keep them safe with routines.",
           "script": [
-            "Your body is telling me that something about school feels hard today.",
-            "AND school is still happening. Let's get your body ready to go.",
-            "You can get dressed yourself, or I can help you get dressed. You choose.",
-            "We're leaving in 5 minutes. I believe you can do this."
+            "I can tell something about school feels hard today.",
+            "AND school is still happening. Let's get you ready.",
+            "You can get dressed yourself, or I can help. What do you want?",
+            "We're leaving in 5 minutes. You've got this."
           ],
           "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it."
         },
@@ -151,10 +151,10 @@
           "timeRequired": "10-15 minutes",
           "why_it_works": "Connection before direction helps children feel understood and supported, making them more willing to cooperate with necessary tasks.",
           "script": [
-            "Come here, kiddo. I can see this morning feels big and hard.",
-            "Tell me what's going on in your brain about school today.",
-            "That sounds really [hard/scary/frustrating]. I get it.",
-            "Even when school feels hard, I know you can handle it. Let's get ready together."
+            "Come here, sweetheart. This morning feels really hard, doesn't it?",
+            "Tell me what's going on with school today.",
+            "That sounds really [hard/scary/frustrating]. I totally get it.",
+            "Even when school feels tough, I know you can do it. Let's get ready together."
           ],
           "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it."
         },
@@ -165,10 +165,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Playfulness can transform resistance into cooperation by making necessary tasks feel like games rather than demands.",
           "script": [
-            "Oh no! It looks like your clothes are trying to hide from you!",
-            "Should we catch that sneaky shirt? I think it went behind the door!",
-            "I wonder if your backpack is ready for an adventure today...",
-            "Your strong body is going to have a day at school, and I'll be here when you get home."
+            "Oh no! Your clothes are playing hide and seek!",
+            "Let's catch that sneaky shirt! I think it's hiding behind the door!",
+            "I wonder if your backpack's ready for today's adventure...",
+            "You're going to school today, and I'll be right here when you get home."
           ],
           "mantra": "Their resistance doesn't mean I should give in. Structure feels safe even when they fight it."
         }
@@ -195,10 +195,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Staying calm in the face of hurtful words models emotional regulation and shows them their big feelings can't push you away or change your boundaries.",
           "script": [
-            "You're so mad at me right now. You wish I would change my mind.",
-            "It's okay to be angry with me. I can handle your big feelings.",
-            "Even when you're mad at me, I still love you completely.",
-            "When you're ready, I'm here. The answer is still [boundary]."
+            "You're really mad at me right now. You wish I'd change my mind.",
+            "It's totally okay to be angry with me. I can handle it.",
+            "Even when you're mad, I love you so much.",
+            "When you're ready, I'm here for you. My answer is still [boundary]."
           ],
           "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady."
         },
@@ -209,10 +209,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Naming emotions helps children understand what they're feeling and teaches them that all feelings are acceptable, even when expressed imperfectly.",
           "script": [
-            "Wow, those are some really big, angry feelings coming out of your body.",
-            "You're so frustrated that you want me to know with your biggest words.",
-            "I hear you. You wish things were different right now.",
-            "I love you even when you're angry. Even when you use those words."
+            "Wow, those are some really big angry feelings coming out.",
+            "You're so frustrated you're using your strongest words to tell me.",
+            "I hear you. You wish things were different.",
+            "I love you even when you're angry. Even with those words."
           ],
           "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady."
         },
@@ -223,10 +223,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Sharing your own experience with similar feelings helps children feel less alone and shows them that strong emotions are normal and manageable.",
           "script": [
-            "You know what? Sometimes I feel really frustrated with people I love too.",
-            "When you say you hate me, I think you mean you hate what I'm asking you to do.",
-            "I get it. This rule feels really unfair to you right now.",
-            "And I still love you. And the rule is still the rule."
+            "You know what? Sometimes I get really frustrated with people I love too.",
+            "When you say you hate me, I think you mean you hate what I'm asking.",
+            "I totally get it. This rule feels super unfair right now.",
+            "And I still love you tons. And the rule still stands."
           ],
           "mantra": "They don't actually hate me. This is their immature brain trying to get control. I can stay steady."
         }
@@ -253,10 +253,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Providing information reduces anxiety by making the unknown known. Staying physically close activates their attachment system and helps them feel safe.",
           "script": [
-            "Your body feels scared about being here. Doctor visits can feel really big.",
-            "I'm going to stay right next to you the whole time.",
-            "We're a team. You don't have to be brave alone.",
-            "After this, we're going to [specific plan]. You can look forward to that."
+            "You're scared about being here. Doctor visits can feel really big.",
+            "I'll stay right next to you the whole time.",
+            "We're a team. You don't have to be brave by yourself.",
+            "After this, we'll [specific plan]. That'll be nice."
           ],
           "mantra": "Their fear is real and valid. I can be their calm in this storm."
         },
@@ -311,10 +311,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Acknowledging their disappointment while maintaining the boundary teaches them that feelings are valid but don't control actions. Advance notice helps their brain prepare.",
           "script": [
-            "I can see you're not ready to stop yet. This activity is really fun for you.",
-            "We have 2 more minutes. You can use that time however you want.",
-            "When the timer goes off, we're leaving. You can walk to the car or I can carry you.",
-            "It's hard to stop fun things. And we're still going to stop."
+            "I see you don't want to stop. This is really fun for you.",
+            "We have 2 more minutes. Use them however you want.",
+            "When the timer beeps, we're going. You can walk or I can carry you.",
+            "It's hard when fun things end. We still need to go."
           ],
           "mantra": "Transitions are hard for kids. Staying consistent helps them trust the structure."
         },
@@ -369,10 +369,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Stopping the behavior immediately while validating the emotion teaches them that all feelings are okay, but not all actions are okay. Offering alternatives gives them appropriate outlets.",
           "script": [
-            "I won't let you hit. Bodies need to be safe.",
-            "I'm going to move your body/myself so everyone stays safe.",
-            "You have big feelings AND hitting isn't okay.",
-            "When your body is calm, we can talk about what happened."
+            "I won't let you hit. I need to keep everyone safe.",
+            "I'm moving you/myself so no one gets hurt.",
+            "You have big feelings AND hitting's not okay.",
+            "When you're calm, we can talk about what happened."
           ],
           "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves."
         },
@@ -383,10 +383,10 @@
           "timeRequired": "immediate",
           "why_it_works": "Separating feelings from actions helps children understand that emotions are always acceptable, but behaviors have limits and consequences.",
           "script": [
-            "You're so angry your body wants to hit. I get that.",
-            "AND I'm not going to let you hurt me or anyone else.",
-            "Your angry feelings are okay. Hitting is not okay.",
-            "Let's find a safe way for your body to show those big feelings."
+            "You're so angry you want to hit. I get it.",
+            "AND I won't let you hurt me or anyone else.",
+            "Being angry is okay. Hitting is not.",
+            "Let's find a safe way to get those big feelings out."
           ],
           "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves."
         },
@@ -397,10 +397,10 @@
           "timeRequired": "5-10 minutes",
           "why_it_works": "Providing physical outlets for big emotions helps children learn appropriate ways to release intense feelings while keeping everyone safe.",
           "script": [
-            "I can see your body has lots of big energy that wants to come out.",
-            "You can hit this pillow, stomp your feet, or squeeze your hands really tight.",
-            "Your feelings are important AND people's bodies need to stay safe.",
-            "I'm going to help you find a way to get those feelings out safely."
+            "I see you've got lots of big energy that needs to come out.",
+            "You can punch this pillow, stomp hard, or squeeze your fists super tight.",
+            "Your feelings matter AND everyone needs to stay safe.",
+            "I'll help you find a good way to let those feelings out."
           ],
           "mantra": "This behavior is communication, not manipulation. They need my help learning better ways to express themselves."
         }
@@ -703,11 +703,11 @@
       "title": "Big Emotions",
       "description": "Phrases to acknowledge and validate intense feelings",
       "phrases": [
-        "I can see this feels really big for you.",
-        "Your feelings make sense to me.",
-        "Even when you're upset, I still love you.",
-        "These are some powerful feelings coming out of your body.",
-        "It's okay to have big feelings. I'm here with you."
+        "This feels really big for you right now.",
+        "Your feelings make total sense.",
+        "Even when you're upset, I love you.",
+        "Those are some really powerful feelings.",
+        "Big feelings are okay. I'm here for you."
       ]
     },
     {
@@ -715,11 +715,11 @@
       "title": "Setting Boundaries",
       "description": "Phrases to maintain limits while acknowledging feelings",
       "phrases": [
-        "The answer is still [boundary].",
-        "I'm going to keep you safe, even when you don't like it.",
+        "My answer is still [boundary].",
+        "I'll keep you safe, even when you don't like it.",
         "This is hard AND it's still happening.",
-        "You can be upset about this AND it's still what we're doing.",
-        "I hear that you don't like this, and it's still what needs to happen."
+        "You can be upset AND we're still doing this.",
+        "I hear you don't like it, and we still need to do it."
       ]
     },
     {
@@ -727,11 +727,11 @@
       "title": "Connection & Support",
       "description": "Phrases to strengthen attachment during difficult moments",
       "phrases": [
-        "We're going to get through this together.",
-        "I'm right here with you.",
-        "I believe you can handle this.",
-        "You don't have to do this alone.",
-        "Even when things are hard, I'm on your team."
+        "We'll get through this together.",
+        "I'm right here for you.",
+        "You can handle this, I know it.",
+        "You're not alone in this.",
+        "Even when it's hard, I'm on your side."
       ]
     },
     {
@@ -739,11 +739,11 @@
       "title": "Parent Self-Regulation",
       "description": "Mantras to help parents stay calm",
       "phrases": [
-        "I am safe. This is not an emergency.",
-        "Their big feelings don't mean I'm doing something wrong.",
-        "Consistency is kindness, even when it's hard.",
-        "This is temporary. This feeling will pass.",
-        "I can stay calm even when they can't."
+        "We're safe. This isn't an emergency.",
+        "Big feelings don't mean I'm doing something wrong.",
+        "Being consistent is being kind, even when it's tough.",
+        "This will pass. These feelings are temporary.",
+        "I can stay calm even when my child can't."
       ]
     },
     {
