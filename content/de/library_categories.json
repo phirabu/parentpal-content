@@ -164,6 +164,17 @@
       "description": "Geschwisterliebe wachsen lassen und Streit liebevoll lösen",
       "color": "#FFF3E0",
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/siblings.jpg"
+    },
+    {
+      "title": "Töpfchenlernen",
+      "id": "potty_training",
+      "type": "special",
+      "subtitle": "2-4 Jahre",
+      "sortOrder": 23,
+      "resourceCount": 12,
+      "description": "Sanfter, kindgeführter Ansatz zum Töpfchenlernen",
+      "color": "#FFF9E6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/potty_training.jpg"
     }
   ]
 }

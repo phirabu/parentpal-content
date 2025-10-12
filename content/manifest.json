@@ -1,7 +1,7 @@
 {
-  "version": "0.9.7",
+  "version": "0.9.8",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2025-10-05T16:38:03Z",
+  "lastUpdated": "2025-10-12T20:24:57Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
@@ -98,7 +98,8 @@
         "content/en/library_topics/sleep.json",
         "content/en/library_topics/screen_time.json",
         "content/en/library_topics/change.json",
-        "content/en/library_topics/discipline.json"
+        "content/en/library_topics/discipline.json",
+        "content/en/library_topics/potty_training.json"
       ],
       "required": true,
       "description": "Library topic files for EN"
@@ -118,7 +119,8 @@
         "content/es/library_topics/sleep.json",
         "content/es/library_topics/screen_time.json",
         "content/es/library_topics/change.json",
-        "content/es/library_topics/discipline.json"
+        "content/es/library_topics/discipline.json",
+        "content/es/library_topics/potty_training.json"
       ],
       "required": true,
       "description": "Library topic files for ES"
@@ -138,7 +140,8 @@
         "content/de/library_topics/sleep.json",
         "content/de/library_topics/screen_time.json",
         "content/de/library_topics/change.json",
-        "content/de/library_topics/discipline.json"
+        "content/de/library_topics/discipline.json",
+        "content/de/library_topics/potty_training.json"
       ],
       "required": true,
       "description": "Library topic files for DE"

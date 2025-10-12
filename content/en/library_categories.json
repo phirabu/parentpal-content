@@ -164,6 +164,17 @@
       "description": "Foster positive relationships between siblings",
       "color": "#FFF3E0",
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/siblings.jpg"
+    },
+    {
+      "title": "Potty Training",
+      "id": "potty_training",
+      "type": "special",
+      "subtitle": "Ages 2-4",
+      "sortOrder": 23,
+      "resourceCount": 12,
+      "description": "Gentle, child-led approach to potty learning",
+      "color": "#FFF9E6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/potty_training.jpg"
     }
   ]
 }
