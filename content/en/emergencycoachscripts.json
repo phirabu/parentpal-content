@@ -695,6 +695,180 @@
           "mantra": "Kids are more likely to follow rules they help create. Including them in problem-solving builds cooperation."
         }
       ]
+    },
+    {
+      "id": "potty_training_refusal",
+      "title": "Potty Training Refusal",
+      "scenario": "Child refuses to try the potty, wants to stay in diapers, or resists potty learning",
+      "icon": "🚽",
+      "ageRange": "2-4 years",
+      "prevention_tips": [
+        "Wait for genuine readiness signs before starting",
+        "Make potty visible and accessible without pressure",
+        "Read potty books together casually",
+        "Let child observe family members using toilet",
+        "Avoid comparing to other children or setting arbitrary timelines"
+      ],
+      "strategies": [
+        {
+          "id": "follow_their_lead",
+          "name": "Follow Their Lead",
+          "difficulty": "easy",
+          "timeRequired": "ongoing",
+          "why_it_works": "Potty learning is about body sovereignty. Pressure creates power struggles and delays success. When children feel in control of their own body, they're more motivated to learn.",
+          "script": [
+            "Your body is yours. You're in charge of when you're ready for the potty.",
+            "Some kids use the potty, some kids use diapers. When you're ready, you can decide.",
+            "I'm not going to make you try. This is your choice about your body.",
+            "I believe you'll figure this out when your body is ready."
+          ],
+          "mantra": "My child will figure this out. Pressure doesn't help learning, it creates resistance."
+        },
+        {
+          "id": "curiosity_without_pressure",
+          "name": "Curiosity Without Pressure",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Normalizing the potty through exploration removes fear and builds familiarity. When it's just another interesting object, children are more likely to try it.",
+          "script": [
+            "Want to check out the potty with me? No using it, just looking.",
+            "Your teddy might want to try sitting on the potty. Let's help them.",
+            "I'm going to use the bathroom. Want to come see how it works?",
+            "The potty is here whenever you feel curious about it."
+          ],
+          "mantra": "Familiarity reduces resistance. I can create curiosity without creating pressure."
+        },
+        {
+          "id": "acknowledge_feelings",
+          "name": "Acknowledge Their Feelings",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Resistance often masks fear or anxiety. Acknowledging feelings helps children feel understood and reduces the emotional charge around potty learning.",
+          "script": [
+            "You seem worried about the potty. What feels hard about it?",
+            "Trying new things can feel uncertain. That makes sense.",
+            "You like diapers because they're familiar. I get that.",
+            "When you're ready to talk about the potty, I'm here to listen."
+          ],
+          "mantra": "Their resistance is communication, not defiance. I can stay curious about what they need."
+        }
+      ]
+    },
+    {
+      "id": "potty_training_accidents",
+      "title": "Potty Training Accidents",
+      "scenario": "Child has potty accident and is upset, embarrassed, or showing shame",
+      "icon": "💧",
+      "ageRange": "2-5 years",
+      "prevention_tips": [
+        "Normalize that accidents are part of learning",
+        "Keep spare clothes easily accessible everywhere",
+        "Avoid over-praising potty success (reduces shame around accidents)",
+        "Watch for early signals and offer gentle reminders",
+        "Ensure child is actually developmentally ready for potty learning"
+      ],
+      "strategies": [
+        {
+          "id": "matter_of_fact",
+          "name": "Matter-of-Fact Response",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Staying neutral prevents shame from forming. Accidents are data points, not failures. Your calm reaction teaches them that mistakes are safe and normal.",
+          "script": [
+            "Your pants are wet. Let's get you dry clothes.",
+            "Pee came out. That happens when bodies are learning.",
+            "No big deal. Let's clean this up together.",
+            "Bodies are figuring out what that feeling means before pee comes. You're learning."
+          ],
+          "mantra": "Accidents are not failures. They're learning opportunities. My calm matters more than the mess."
+        },
+        {
+          "id": "no_shame_language",
+          "name": "No-Shame Language",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Shame interferes with learning and damages the parent-child relationship. De-shaming language keeps their self-worth intact while they master this skill.",
+          "script": [
+            "You're still learning. This is part of the process.",
+            "Next time you'll catch that feeling a little sooner.",
+            "Your body is getting better at recognizing that feeling.",
+            "Everyone has accidents when they're learning something new."
+          ],
+          "mantra": "Shame doesn't teach. It only makes learning harder and damages their confidence."
+        },
+        {
+          "id": "problem_solving_together",
+          "name": "Problem-Solving Together",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Involving children in solutions helps them feel capable and builds problem-solving skills. It shifts from failure to learning opportunity.",
+          "script": [
+            "You had an accident. What do you think we should do?",
+            "Can you help me figure out how to clean this up?",
+            "What was happening before the pee came? Let's be detectives.",
+            "Next time you feel that feeling, what could you do differently?"
+          ],
+          "mantra": "I can help them learn from this without making them feel bad about themselves."
+        }
+      ]
+    },
+    {
+      "id": "poop_withholding",
+      "title": "Poop Withholding Anxiety",
+      "scenario": "Child is afraid to poop on potty, holds poop for days, or shows anxiety about pooping",
+      "icon": "😰",
+      "ageRange": "2-5 years",
+      "prevention_tips": [
+        "Separate pee and poop learning (pee first, poop later)",
+        "Teach about body continuity (poop is extra, not a body part)",
+        "Avoid showing disgust or negative reactions to poop",
+        "Ensure diet supports easy bowel movements",
+        "Model casual, positive attitudes about pooping yourself"
+      ],
+      "strategies": [
+        {
+          "id": "body_continuity_education",
+          "name": "Body Continuity Education",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Young children worry about body parts separating. Understanding that poop is 'extra food' not a body part reduces existential anxiety about pooping.",
+          "script": [
+            "Your body is so smart! It takes what it needs from food and gets rid of extra.",
+            "Poop is the extra stuff your body doesn't need. Your body stays whole and safe.",
+            "It's kind of like a gas station - your body takes the energy and lets go of what's left.",
+            "After poop comes out, we say bye to it! It's done its job helping your body."
+          ],
+          "mantra": "This anxiety is developmental and normal. Education reduces fear more than pressure ever could."
+        },
+        {
+          "id": "gradual_desensitization",
+          "name": "Gradual Desensitization",
+          "difficulty": "intermediate",
+          "timeRequired": "days to weeks",
+          "why_it_works": "Forcing creates trauma. Gradual exposure lets them build comfort at their own pace. Each small step builds confidence for the next.",
+          "script": [
+            "You can poop in your diaper in your room. No rush.",
+            "Want to try pooping in your diaper while in the bathroom? Just to get comfortable.",
+            "How about sitting on the potty with your diaper on? Just practicing.",
+            "You're getting closer. Your body is figuring this out at your speed."
+          ],
+          "mantra": "Slow is fast. Forcing creates trauma. Gradual steps build lasting success."
+        },
+        {
+          "id": "manage_your_anxiety",
+          "name": "Manage Your Own Anxiety",
+          "difficulty": "advanced",
+          "timeRequired": "ongoing",
+          "why_it_works": "Children absorb parental anxiety. Your belief in their capability becomes their belief. Your calm is contagious.",
+          "script": [
+            "I notice I'm worried about this, and that's my feeling, not your problem.",
+            "My child's struggles today don't predict struggles months from now.",
+            "I can be patient while their body figures this out.",
+            "This is temporary. They will not be withholding poop when they're 10."
+          ],
+          "mantra": "Yes, they're struggling, AND yes, they will figure this out. My confidence helps theirs grow."
+        }
+      ]
     }
   ],
   "universal_phrases": [

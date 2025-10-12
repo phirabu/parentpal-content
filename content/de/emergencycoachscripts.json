@@ -695,6 +695,180 @@
           "mantra": "Kinder befolgen eher Regeln, die sie mitgestaltet haben. Sie in die Problemlösung einzubeziehen baut Kooperation auf."
         }
       ]
+    },
+    {
+      "id": "potty_training_refusal",
+      "title": "Töpfchentraining-Verweigerung",
+      "scenario": "Kind weigert sich, das Töpfchen zu versuchen, möchte in Windeln bleiben oder widersteht dem Töpfchenlernen",
+      "icon": "🚽",
+      "ageRange": "2-4 Jahre",
+      "prevention_tips": [
+        "Warte auf echte Bereitschaftszeichen bevor du beginnst",
+        "Mache Töpfchen sichtbar und zugänglich ohne Druck",
+        "Liest Töpfchenbücher zusammen beiläufig",
+        "Lass das Kind Familienmitglieder beim Toilettengang beobachten",
+        "Vermeide Vergleiche mit anderen Kindern oder willkürliche Zeitpläne"
+      ],
+      "strategies": [
+        {
+          "id": "follow_their_lead",
+          "name": "Folge ihrer Führung",
+          "difficulty": "einfach",
+          "timeRequired": "laufend",
+          "why_it_works": "Töpfchenlernen geht um Körpersouveränität. Druck erzeugt Machtkämpfe und verzögert Erfolg. Wenn Kinder sich in Kontrolle über ihren eigenen Körper fühlen, sind sie motivierter zu lernen.",
+          "script": [
+            "Dein Körper gehört dir. Du entscheidest, wann du bereit fürs Töpfchen bist.",
+            "Manche Kinder benutzen das Töpfchen, manche Kinder Windeln. Wenn du bereit bist, kannst du entscheiden.",
+            "Ich werde dich nicht zwingen zu versuchen. Das ist deine Wahl über deinen Körper.",
+            "Ich glaube, du wirst das herausfinden wenn dein Körper bereit ist."
+          ],
+          "mantra": "Mein Kind wird das herausfinden. Druck hilft nicht beim Lernen, er erzeugt Widerstand."
+        },
+        {
+          "id": "curiosity_without_pressure",
+          "name": "Neugier ohne Druck",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "why_it_works": "Das Töpfchen durch Erkundung zu normalisieren entfernt Angst und baut Vertrautheit auf. Wenn es nur ein weiteres interessantes Objekt ist, sind Kinder eher bereit es zu versuchen.",
+          "script": [
+            "Möchtest du das Töpfchen mit mir anschauen? Nicht benutzen, nur schauen.",
+            "Dein Teddy möchte vielleicht versuchen auf dem Töpfchen zu sitzen. Lass uns ihm helfen.",
+            "Ich gehe jetzt auf die Toilette. Möchtest du mitkommen und sehen wie es funktioniert?",
+            "Das Töpfchen ist hier wenn du neugierig darauf wirst."
+          ],
+          "mantra": "Vertrautheit reduziert Widerstand. Ich kann Neugier erzeugen ohne Druck zu erzeugen."
+        },
+        {
+          "id": "acknowledge_feelings",
+          "name": "Erkenne ihre Gefühle an",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "why_it_works": "Widerstand maskiert oft Angst oder Sorge. Gefühle anzuerkennen hilft Kindern sich verstanden zu fühlen und reduziert die emotionale Ladung um das Töpfchenlernen.",
+          "script": [
+            "Du scheinst besorgt über das Töpfchen. Was fühlt sich schwierig daran an?",
+            "Neue Dinge zu versuchen kann sich unsicher anfühlen. Das macht Sinn.",
+            "Du magst Windeln weil sie vertraut sind. Ich verstehe das.",
+            "Wenn du bereit bist über das Töpfchen zu sprechen, bin ich hier zum Zuhören."
+          ],
+          "mantra": "Ihr Widerstand ist Kommunikation, keine Trotzreaktion. Ich kann neugierig bleiben was sie brauchen."
+        }
+      ]
+    },
+    {
+      "id": "potty_training_accidents",
+      "title": "Töpfchentraining-Missgeschicke",
+      "scenario": "Kind hat ein Töpfchen-Missgeschick und ist verärgert, verlegen oder zeigt Scham",
+      "icon": "💧",
+      "ageRange": "2-5 Jahre",
+      "prevention_tips": [
+        "Normalisiere dass Missgeschicke Teil des Lernens sind",
+        "Halte Ersatzkleidung überall leicht zugänglich",
+        "Vermeide übermäßiges Loben von Töpfchenerfolg (reduziert Scham über Missgeschicke)",
+        "Beobachte frühe Signale und biete sanfte Erinnerungen",
+        "Stelle sicher dass das Kind tatsächlich entwicklungsmäßig bereit fürs Töpfchenlernen ist"
+      ],
+      "strategies": [
+        {
+          "id": "matter_of_fact",
+          "name": "Sachliche Reaktion",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "why_it_works": "Neutral zu bleiben verhindert dass Scham entsteht. Missgeschicke sind Datenpunkte, keine Fehler. Deine ruhige Reaktion lehrt sie dass Fehler sicher und normal sind.",
+          "script": [
+            "Deine Hose ist nass. Lass uns dir trockene Kleidung holen.",
+            "Pipi ist rausgekommen. Das passiert wenn Körper lernen.",
+            "Keine große Sache. Lass uns das zusammen aufräumen.",
+            "Körper finden heraus was dieses Gefühl bedeutet bevor Pipi rauskommt. Du lernst."
+          ],
+          "mantra": "Missgeschicke sind keine Fehler. Sie sind Lernmöglichkeiten. Meine Ruhe zählt mehr als die Unordnung."
+        },
+        {
+          "id": "no_shame_language",
+          "name": "Schamfreie Sprache",
+          "difficulty": "einfach",
+          "timeRequired": "sofort",
+          "why_it_works": "Scham stört das Lernen und schadet der Eltern-Kind-Beziehung. Schamfreie Sprache hält ihr Selbstwertgefühl intakt während sie diese Fähigkeit meistern.",
+          "script": [
+            "Du lernst noch. Das ist Teil des Prozesses.",
+            "Nächstes Mal wirst du dieses Gefühl etwas früher fangen.",
+            "Dein Körper wird besser darin dieses Gefühl zu erkennen.",
+            "Jeder hat Missgeschicke wenn er etwas Neues lernt."
+          ],
+          "mantra": "Scham lehrt nicht. Sie macht nur das Lernen schwerer und schadet ihrem Selbstvertrauen."
+        },
+        {
+          "id": "problem_solving_together",
+          "name": "Gemeinsam Probleme lösen",
+          "difficulty": "mittel",
+          "timeRequired": "5-10 Minuten",
+          "why_it_works": "Kinder in Lösungen einzubeziehen hilft ihnen sich fähig zu fühlen und baut Problemlösungsfähigkeiten auf. Es verschiebt von Versagen zu Lernmöglichkeit.",
+          "script": [
+            "Du hattest ein Missgeschick. Was denkst du sollten wir tun?",
+            "Kannst du mir helfen herauszufinden wie wir das aufräumen?",
+            "Was ist passiert bevor das Pipi rauskam? Lass uns Detektive sein.",
+            "Nächstes Mal wenn du dieses Gefühl fühlst, was könntest du anders machen?"
+          ],
+          "mantra": "Ich kann ihnen helfen daraus zu lernen ohne dass sie sich schlecht über sich selbst fühlen."
+        }
+      ]
+    },
+    {
+      "id": "poop_withholding",
+      "title": "Kaka-Zurückhaltungs-Angst",
+      "scenario": "Kind hat Angst auf dem Töpfchen zu kacken, hält Kaka tagelang zurück oder zeigt Angst ums Kacken",
+      "icon": "😰",
+      "ageRange": "2-5 Jahre",
+      "prevention_tips": [
+        "Trenne Pipi- und Kaka-Lernen (Pipi zuerst, Kaka später)",
+        "Lehre über Körperkontinuität (Kaka ist extra, kein Körperteil)",
+        "Vermeide Ekel oder negative Reaktionen auf Kaka zu zeigen",
+        "Stelle sicher dass Ernährung leichte Stuhlgänge unterstützt",
+        "Modelliere selbst lässige, positive Einstellungen zum Kacken"
+      ],
+      "strategies": [
+        {
+          "id": "body_continuity_education",
+          "name": "Körperkontinuitäts-Aufklärung",
+          "difficulty": "einfach",
+          "timeRequired": "5-10 Minuten",
+          "why_it_works": "Kleine Kinder sorgen sich um sich trennende Körperteile. Zu verstehen dass Kaka 'extra Essen' ist nicht ein Körperteil reduziert existenzielle Angst ums Kacken.",
+          "script": [
+            "Dein Körper ist so schlau! Er nimmt was er braucht vom Essen und wird los was extra ist.",
+            "Kaka ist das Extra-Zeug das dein Körper nicht braucht. Dein Körper bleibt ganz und sicher.",
+            "Es ist wie eine Tankstelle - dein Körper nimmt die Energie und lässt los was übrig ist.",
+            "Nachdem Kaka rauskommt, sagen wir Tschüss dazu! Es hat seine Arbeit getan deinem Körper zu helfen."
+          ],
+          "mantra": "Diese Angst ist entwicklungsbedingt und normal. Aufklärung reduziert Angst mehr als Druck es jemals könnte."
+        },
+        {
+          "id": "gradual_desensitization",
+          "name": "Graduelle Desensibilisierung",
+          "difficulty": "mittel",
+          "timeRequired": "Tage bis Wochen",
+          "why_it_works": "Zwingen erzeugt Trauma. Graduelle Exposition lässt sie Komfort in ihrem eigenen Tempo aufbauen. Jeder kleine Schritt baut Vertrauen für den nächsten auf.",
+          "script": [
+            "Du kannst in deiner Windel in deinem Zimmer kacken. Keine Eile.",
+            "Möchtest du versuchen in deiner Windel zu kacken während du im Badezimmer bist? Nur um dich wohlzufühlen.",
+            "Wie wäre es auf dem Töpfchen zu sitzen mit deiner Windel an? Nur üben.",
+            "Du kommst näher. Dein Körper findet das in deinem Tempo heraus."
+          ],
+          "mantra": "Langsam ist schnell. Zwingen erzeugt Trauma. Graduelle Schritte bauen dauerhaften Erfolg auf."
+        },
+        {
+          "id": "manage_your_anxiety",
+          "name": "Manage deine eigene Angst",
+          "difficulty": "fortgeschritten",
+          "timeRequired": "laufend",
+          "why_it_works": "Kinder absorbieren elterliche Angst. Dein Glaube an ihre Fähigkeit wird zu ihrem Glauben. Deine Ruhe ist ansteckend.",
+          "script": [
+            "Ich bemerke ich bin besorgt darüber, und das ist mein Gefühl, nicht dein Problem.",
+            "Die Schwierigkeiten meines Kindes heute sagen nicht Schwierigkeiten in Monaten vorher.",
+            "Ich kann geduldig sein während ihr Körper das herausfindet.",
+            "Das ist vorübergehend. Sie werden nicht Kaka zurückhalten wenn sie 10 sind."
+          ],
+          "mantra": "Ja, sie kämpfen, UND ja, sie werden das herausfinden. Mein Vertrauen hilft ihrem zu wachsen."
+        }
+      ]
     }
   ],
   "universal_phrases": [

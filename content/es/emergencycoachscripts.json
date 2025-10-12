@@ -695,6 +695,180 @@
           "mantra": "Los niños son más propensos a seguir reglas que ayudan a crear. Incluirlos en la resolución de problemas construye cooperación."
         }
       ]
+    },
+    {
+      "id": "potty_training_refusal",
+      "title": "Rechazo del Entrenamiento del Orinal",
+      "scenario": "El niño se niega a intentar el orinal, quiere quedarse en pañales o resiste el aprendizaje del orinal",
+      "icon": "🚽",
+      "ageRange": "2-4 años",
+      "prevention_tips": [
+        "Espera señales genuinas de preparación antes de comenzar",
+        "Haz el orinal visible y accesible sin presión",
+        "Lee libros sobre el orinal juntos casualmente",
+        "Deja que el niño observe a los miembros de la familia usar el baño",
+        "Evita comparar con otros niños o establecer líneas de tiempo arbitrarias"
+      ],
+      "strategies": [
+        {
+          "id": "follow_their_lead",
+          "name": "Sigue su Liderazgo",
+          "difficulty": "easy",
+          "timeRequired": "continuo",
+          "why_it_works": "El aprendizaje del orinal se trata de soberanía corporal. La presión crea luchas de poder y retrasa el éxito. Cuando los niños se sienten en control de su propio cuerpo, están más motivados para aprender.",
+          "script": [
+            "Tu cuerpo es tuyo. Tú decides cuándo estás listo para el orinal.",
+            "Algunos niños usan el orinal, algunos niños usan pañales. Cuando estés listo, puedes decidir.",
+            "No voy a obligarte a intentarlo. Esta es tu elección sobre tu cuerpo.",
+            "Creo que descubrirás esto cuando tu cuerpo esté listo."
+          ],
+          "mantra": "Mi hijo descubrirá esto. La presión no ayuda al aprendizaje, crea resistencia."
+        },
+        {
+          "id": "curiosity_without_pressure",
+          "name": "Curiosidad sin Presión",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Normalizar el orinal a través de la exploración elimina el miedo y construye familiaridad. Cuando es solo otro objeto interesante, los niños son más propensos a intentarlo.",
+          "script": [
+            "¿Quieres revisar el orinal conmigo? Sin usarlo, solo mirando.",
+            "Tu osito podría querer intentar sentarse en el orinal. Ayudémoslo.",
+            "Voy a usar el baño. ¿Quieres venir a ver cómo funciona?",
+            "El orinal está aquí cuando sientas curiosidad por él."
+          ],
+          "mantra": "La familiaridad reduce la resistencia. Puedo crear curiosidad sin crear presión."
+        },
+        {
+          "id": "acknowledge_feelings",
+          "name": "Reconoce sus Sentimientos",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "La resistencia a menudo enmascara miedo o ansiedad. Reconocer los sentimientos ayuda a los niños a sentirse comprendidos y reduce la carga emocional alrededor del aprendizaje del orinal.",
+          "script": [
+            "Pareces preocupado por el orinal. ¿Qué se siente difícil al respecto?",
+            "Intentar cosas nuevas puede sentirse incierto. Eso tiene sentido.",
+            "Te gustan los pañales porque son familiares. Lo entiendo.",
+            "Cuando estés listo para hablar sobre el orinal, estoy aquí para escuchar."
+          ],
+          "mantra": "Su resistencia es comunicación, no desafío. Puedo mantenerme curioso sobre lo que necesitan."
+        }
+      ]
+    },
+    {
+      "id": "potty_training_accidents",
+      "title": "Accidentes en el Entrenamiento del Orinal",
+      "scenario": "El niño tiene un accidente del orinal y está molesto, avergonzado o mostrando vergüenza",
+      "icon": "💧",
+      "ageRange": "2-5 años",
+      "prevention_tips": [
+        "Normaliza que los accidentes son parte del aprendizaje",
+        "Mantén ropa de repuesto fácilmente accesible en todas partes",
+        "Evita elogiar excesivamente el éxito del orinal (reduce la vergüenza sobre accidentes)",
+        "Observa señales tempranas y ofrece recordatorios gentiles",
+        "Asegúrate de que el niño esté realmente listo en su desarrollo para el aprendizaje del orinal"
+      ],
+      "strategies": [
+        {
+          "id": "matter_of_fact",
+          "name": "Respuesta Objetiva",
+          "difficulty": "easy",
+          "timeRequired": "inmediato",
+          "why_it_works": "Mantenerse neutral previene que se forme vergüenza. Los accidentes son puntos de datos, no fracasos. Tu reacción calmada les enseña que los errores son seguros y normales.",
+          "script": [
+            "Tus pantalones están mojados. Vamos a conseguirte ropa seca.",
+            "Salió pipí. Eso pasa cuando los cuerpos están aprendiendo.",
+            "No es gran cosa. Limpiemos esto juntos.",
+            "Los cuerpos están descubriendo qué significa esa sensación antes de que salga el pipí. Estás aprendiendo."
+          ],
+          "mantra": "Los accidentes no son fracasos. Son oportunidades de aprendizaje. Mi calma importa más que el desorden."
+        },
+        {
+          "id": "no_shame_language",
+          "name": "Lenguaje Sin Vergüenza",
+          "difficulty": "easy",
+          "timeRequired": "inmediato",
+          "why_it_works": "La vergüenza interfiere con el aprendizaje y daña la relación padre-hijo. El lenguaje sin vergüenza mantiene intacta su autoestima mientras dominan esta habilidad.",
+          "script": [
+            "Todavía estás aprendiendo. Esto es parte del proceso.",
+            "La próxima vez atraparás esa sensación un poco antes.",
+            "Tu cuerpo está mejorando en reconocer esa sensación.",
+            "Todos tienen accidentes cuando están aprendiendo algo nuevo."
+          ],
+          "mantra": "La vergüenza no enseña. Solo hace el aprendizaje más difícil y daña su confianza."
+        },
+        {
+          "id": "problem_solving_together",
+          "name": "Resolver Problemas Juntos",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Involucrar a los niños en las soluciones les ayuda a sentirse capaces y construye habilidades de resolución de problemas. Cambia de fracaso a oportunidad de aprendizaje.",
+          "script": [
+            "Tuviste un accidente. ¿Qué crees que deberíamos hacer?",
+            "¿Puedes ayudarme a descubrir cómo limpiar esto?",
+            "¿Qué estaba pasando antes de que saliera el pipí? Seamos detectives.",
+            "La próxima vez que sientas esa sensación, ¿qué podrías hacer diferente?"
+          ],
+          "mantra": "Puedo ayudarlos a aprender de esto sin hacer que se sientan mal consigo mismos."
+        }
+      ]
+    },
+    {
+      "id": "poop_withholding",
+      "title": "Ansiedad por Retención de Popó",
+      "scenario": "El niño tiene miedo de hacer popó en el orinal, retiene popó por días o muestra ansiedad sobre hacer popó",
+      "icon": "😰",
+      "ageRange": "2-5 años",
+      "prevention_tips": [
+        "Separa el aprendizaje de pipí y popó (pipí primero, popó después)",
+        "Enseña sobre continuidad corporal (el popó es extra, no una parte del cuerpo)",
+        "Evita mostrar disgusto o reacciones negativas al popó",
+        "Asegura que la dieta apoye evacuaciones fáciles",
+        "Modela actitudes casuales y positivas sobre hacer popó tú mismo"
+      ],
+      "strategies": [
+        {
+          "id": "body_continuity_education",
+          "name": "Educación sobre Continuidad Corporal",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Los niños pequeños se preocupan por las partes del cuerpo que se separan. Entender que el popó es 'comida extra' no una parte del cuerpo reduce la ansiedad existencial sobre hacer popó.",
+          "script": [
+            "¡Tu cuerpo es tan inteligente! Toma lo que necesita de la comida y se deshace de lo extra.",
+            "El popó es la cosa extra que tu cuerpo no necesita. Tu cuerpo permanece completo y seguro.",
+            "Es como una estación de gasolina - tu cuerpo toma la energía y deja ir lo que sobra.",
+            "¡Después de que sale el popó, le decimos adiós! Ha terminado su trabajo ayudando a tu cuerpo."
+          ],
+          "mantra": "Esta ansiedad es del desarrollo y normal. La educación reduce el miedo más de lo que la presión jamás podría."
+        },
+        {
+          "id": "gradual_desensitization",
+          "name": "Desensibilización Gradual",
+          "difficulty": "intermediate",
+          "timeRequired": "días a semanas",
+          "why_it_works": "Forzar crea trauma. La exposición gradual les permite construir comodidad a su propio ritmo. Cada pequeño paso construye confianza para el siguiente.",
+          "script": [
+            "Puedes hacer popó en tu pañal en tu habitación. Sin prisa.",
+            "¿Quieres intentar hacer popó en tu pañal mientras estás en el baño? Solo para sentirte cómodo.",
+            "¿Qué tal sentarte en el orinal con tu pañal puesto? Solo practicando.",
+            "Te estás acercando. Tu cuerpo está descubriendo esto a tu velocidad."
+          ],
+          "mantra": "Lento es rápido. Forzar crea trauma. Los pasos graduales construyen éxito duradero."
+        },
+        {
+          "id": "manage_your_anxiety",
+          "name": "Maneja tu Propia Ansiedad",
+          "difficulty": "advanced",
+          "timeRequired": "continuo",
+          "why_it_works": "Los niños absorben la ansiedad parental. Tu creencia en su capacidad se convierte en su creencia. Tu calma es contagiosa.",
+          "script": [
+            "Noto que estoy preocupado por esto, y ese es mi sentimiento, no tu problema.",
+            "Las luchas de mi hijo hoy no predicen luchas meses en el futuro.",
+            "Puedo ser paciente mientras su cuerpo descubre esto.",
+            "Esto es temporal. No estarán reteniendo popó cuando tengan 10 años."
+          ],
+          "mantra": "Sí, están luchando, Y sí, descubrirán esto. Mi confianza ayuda a que crezca la suya."
+        }
+      ]
     }
   ],
   "universal_phrases": [
