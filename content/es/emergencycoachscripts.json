@@ -33,7 +33,7 @@
           "name": "Enfoque Lúdico",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La juguetosnidad puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
+          "why_it_works": "La juguetonidad puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
           "script": [
             "¡Oh no! ¡Te atrapó el monstruo de dormir! ¡Hace que los niños se enojen mucho con la hora de dormir!",
             "A ver... ¿marchamos a la cama como soldados o saltamos como conejitos?",
@@ -163,7 +163,7 @@
           "name": "Poder Lúdico",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La juguetosnidad puede transformar la resistencia en cooperación haciendo que las tareas necesarias se sientan como juegos en lugar de demandas.",
+          "why_it_works": "La juguetonidad puede transformar la resistencia en cooperación haciendo que las tareas necesarias se sientan como juegos en lugar de demandas.",
           "script": [
             "¡Oh no! ¡Parece que tu ropa está tratando de esconderse de ti!",
             "¿Deberíamos atrapar esa camisa traviesa? ¡Creo que se fue detrás de la puerta!",
@@ -713,7 +713,7 @@
         {
           "id": "follow_their_lead",
           "name": "Sigue su Liderazgo",
-          "difficulty": "easy",
+          "difficulty": "fácil",
           "timeRequired": "continuo",
           "why_it_works": "El aprendizaje del orinal se trata de soberanía corporal. La presión crea luchas de poder y retrasa el éxito. Cuando los niños se sienten en control de su propio cuerpo, están más motivados para aprender.",
           "script": [
@@ -727,7 +727,7 @@
         {
           "id": "curiosity_without_pressure",
           "name": "Curiosidad sin Presión",
-          "difficulty": "easy",
+          "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
           "why_it_works": "Normalizar el orinal a través de la exploración elimina el miedo y construye familiaridad. Cuando es solo otro objeto interesante, los niños son más propensos a intentarlo.",
           "script": [
@@ -741,7 +741,7 @@
         {
           "id": "acknowledge_feelings",
           "name": "Reconoce sus Sentimientos",
-          "difficulty": "intermediate",
+          "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
           "why_it_works": "La resistencia a menudo enmascara miedo o ansiedad. Reconocer los sentimientos ayuda a los niños a sentirse comprendidos y reduce la carga emocional alrededor del aprendizaje del orinal.",
           "script": [
@@ -771,7 +771,7 @@
         {
           "id": "matter_of_fact",
           "name": "Respuesta Objetiva",
-          "difficulty": "easy",
+          "difficulty": "fácil",
           "timeRequired": "inmediato",
           "why_it_works": "Mantenerse neutral previene que se forme vergüenza. Los accidentes son puntos de datos, no fracasos. Tu reacción calmada les enseña que los errores son seguros y normales.",
           "script": [
@@ -785,7 +785,7 @@
         {
           "id": "no_shame_language",
           "name": "Lenguaje Sin Vergüenza",
-          "difficulty": "easy",
+          "difficulty": "fácil",
           "timeRequired": "inmediato",
           "why_it_works": "La vergüenza interfiere con el aprendizaje y daña la relación padre-hijo. El lenguaje sin vergüenza mantiene intacta su autoestima mientras dominan esta habilidad.",
           "script": [
@@ -799,7 +799,7 @@
         {
           "id": "problem_solving_together",
           "name": "Resolver Problemas Juntos",
-          "difficulty": "intermediate",
+          "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
           "why_it_works": "Involucrar a los niños en las soluciones les ayuda a sentirse capaces y construye habilidades de resolución de problemas. Cambia de fracaso a oportunidad de aprendizaje.",
           "script": [
@@ -829,7 +829,7 @@
         {
           "id": "body_continuity_education",
           "name": "Educación sobre Continuidad Corporal",
-          "difficulty": "easy",
+          "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
           "why_it_works": "Los niños pequeños se preocupan por las partes del cuerpo que se separan. Entender que el popó es 'comida extra' no una parte del cuerpo reduce la ansiedad existencial sobre hacer popó.",
           "script": [
@@ -843,7 +843,7 @@
         {
           "id": "gradual_desensitization",
           "name": "Desensibilización Gradual",
-          "difficulty": "intermediate",
+          "difficulty": "intermedio",
           "timeRequired": "días a semanas",
           "why_it_works": "Forzar crea trauma. La exposición gradual les permite construir comodidad a su propio ritmo. Cada pequeño paso construye confianza para el siguiente.",
           "script": [
@@ -857,7 +857,7 @@
         {
           "id": "manage_your_anxiety",
           "name": "Maneja tu Propia Ansiedad",
-          "difficulty": "advanced",
+          "difficulty": "avanzado",
           "timeRequired": "continuo",
           "why_it_works": "Los niños absorben la ansiedad parental. Tu creencia en su capacidad se convierte en su creencia. Tu calma es contagiosa.",
           "script": [

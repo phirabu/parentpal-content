@@ -31,7 +31,7 @@
         "description": "Entiende las razones del desarrollo detrás de comportamientos desafiantes",
         "category": "Guía",
         "readTime": 10,
-        "content": "# Por Qué Tu Hijo Actúa Como Lo Hace\n\nMuchos comportamientos que frustran a los padres tienen perfecto sentido cuando se ven a través del lente del desarrollo infantil.\n\n## Probar Límites es Desarrollo Cerebral\n\nCuando tu hijo empuja contra las reglas y límites, no está tratando de volverte loco—está haciendo trabajo cerebral importante. Probar límites les ayuda a entender cómo funciona el mundo.\n\n## Las Explosiones Emocionales son Comunicación\n\nLas rabietas y explosiones emocionales de tu hijo son sus intentos de comunicar sentimientos que aún no tienen las habilidades para expresar apropiadamente.\n\n## Las Preguntas Repetitivas Muestran Aprendizaje\n\nCuando tu hijo hace la misma pregunta una y otra vez, incluso después de que la has respondido, no está tratando de molestarte. Está procesando información, buscando tranquilidad, o tratando de entender algo.\n\n## La Regresión es Crecimiento Normal\n\nA veces tu hijo puede parecer retroceder en su desarrollo—queriendo ser tratado como bebé después de actuar independientemente. Esta regresión a menudo ocurre durante momentos de estrés o desarrollo rápido.\n\n## La Expresión Física es Evolutiva\n\nLos niños pequeños expresan emociones a través de sus cuerpos porque sus habilidades verbales y de regulación emocional aún se están desarrollando. Golpear cuando están enojados o saltar cuando están emocionados son respuestas apropiadas para el desarrollo.",
+        "content": "# Por Qué Tu Hijo Actúa Como Lo Hace\n\nMuchos comportamientos que frustran a los padres tienen perfecto sentido cuando se ven a través del lente del desarrollo infantil.\n\n## Probar Límites es Desarrollo Cerebral\n\nCuando tu hijo empuja contra las reglas y límites, no está tratando de volverte loco—está haciendo trabajo cerebral importante. Probar límites les ayuda a entender cómo funciona el mundo.\n\n## Las Explosiones Emocionales son Comunicación\n\nLas rabietas y explosiones emocionales de tu hijo son sus intentos de comunicar sentimientos que aún no tienen las habilidades para expresar apropiadamente.\n\n## Las Preguntas Repetitivas Muestran Aprendizaje\n\nCuando tu hijo hace la misma pregunta una y otra vez, incluso después de que la has respondido, no está tratando de molestarte. Está procesando información, buscando tranquilidad, o tratando de entender algo.\n\n## La Regresión es Crecimiento Normal\n\nA veces tu hijo puede parecer retroceder en su desarrollo—queriendo ser tratado como bebé después de actuar independientemente. Esta regresión a menudo ocurre durante momentos de estrés o desarrollo rápido.\n\n## La Expresión Física es Propia del Desarrollo\n\nLos niños pequeños expresan emociones a través de sus cuerpos porque sus habilidades verbales y de regulación emocional aún se están desarrollando. Golpear cuando están enojados o saltar cuando están emocionados son respuestas propias de su edad.",
         "tags": [
           "comportamiento",
           "desarrollo",
@@ -59,7 +59,7 @@
           },
           {
             "title": "Guía la Resolución de Problemas",
-            "content": "Pensemos en lo que a tu hermana le podría gustar jugar. ¿Qué juegos le gustan usualmente?"
+            "content": "Pensemos en lo que a tu hermana le podría gustar jugar. ¿Qué juegos le gustan normalmente?"
           },
           {
             "title": "Encuentra Terreno Común",
@@ -116,7 +116,7 @@
       {
         "id": "routine_dependency",
         "title": "Trabajando con la Dependencia de Rutina",
-        "scenario": "Tu hijo tiene una crisis porque su rutina usual de la hora de dormir se interrumpe",
+        "scenario": "Tu hijo tiene una crisis porque su rutina habitual de la hora de dormir se interrumpe",
         "steps": [
           {
             "title": "Reconoce Su Molestia",

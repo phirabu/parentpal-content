@@ -5,7 +5,7 @@
       "winning",
       "child"
     ],
-    "title": "Gewinnen & Verlieren verstehen",
+    "title": "Gewinnen und Verlieren verstehen",
     "description": "Baue Widerstandsfähigkeit und Perspektive durch Wettbewerb und Spiele auf",
     "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/winninglosing.jpg",
     "articles": [
@@ -93,15 +93,16 @@
     "media": [
       {
         "id": "willkommen_zu_gewinnen_verlieren_wettbewerb",
-        "title": "Willkommen zu Gewinnen, Verlieren & Wettbewerb",
+        "title": "Willkommen zu Gewinnen, Verlieren und Wettbewerb",
         "description": "Dieses Einführungsvideo heißt Eltern im Modul zum Thema willkommen, wie sie Kindern im Alter von 3-7 Jahren dabei helfen, Wettkampfsituationen mit emotionaler Ausgeglichenheit zu bewältigen. Es schafft die Grundlage, indem es häufige Herausforderungen anerkennt, wie Kinder, die vom Verlieren am Boden zerstört sind, wütend während Spielen werden oder sich mehr ums Gewinnen als ums Spaß haben kümmern. Das Video skizziert, was Eltern im Verlauf des Kapitels lernen werden, und betont das Ziel, Wettb",
         "duration": "1:27",
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/winning_masterclass/01-winning.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/01-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Wettbewerb",
+          "Einführung",
+          "emotionales Gleichgewicht"
         ]
       },
       {
@@ -113,8 +114,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/02-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "wetteifernde Natur",
+          "Stärken",
+          "Motivation"
         ]
       },
       {
@@ -126,8 +128,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/03-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Warnsignale",
+          "Bedrängnis",
+          "Intervention"
         ]
       },
       {
@@ -139,8 +142,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/04-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Kindertypen",
+          "Motivationen",
+          "gezielte Unterstützung"
         ]
       },
       {
@@ -152,8 +156,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/05-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Kommunikation",
+          "Bestätigung",
+          "emotionale Intelligenz"
         ]
       },
       {
@@ -165,8 +170,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/06-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Grenzen",
+          "konkrete Regeln",
+          "Erwartungen"
         ]
       },
       {
@@ -178,8 +184,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/07-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Bewältigungsstrategien",
+          "Personalisierung",
+          "Autonomie"
         ]
       },
       {
@@ -191,8 +198,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/08-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Vorbereitung",
+          "Erwartungen",
+          "Resilienz"
         ]
       },
       {
@@ -204,8 +212,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/09-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Aufsicht",
+          "Selbstständigkeit",
+          "Vorbildfunktion"
         ]
       },
       {
@@ -217,8 +226,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/10-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Angeben",
+          "Unsicherheit",
+          "Bestätigung"
         ]
       },
       {
@@ -230,8 +240,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/11-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Strategien",
+          "Umlenken",
+          "angemessenes Feiern"
         ]
       },
       {
@@ -243,8 +254,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/12-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Geschwister",
+          "Hänseln",
+          "Familiendynamik"
         ]
       },
       {
@@ -256,8 +268,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/13-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "soziale Fähigkeiten",
+          "Interpretation",
+          "Perspektive"
         ]
       },
       {
@@ -269,8 +282,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/14-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "elterliches Vorleben",
+          "Familientraditionen",
+          "indirektes Lehren"
         ]
       },
       {
@@ -282,8 +296,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/15-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Freundschaften",
+          "Empathie",
+          "Verbindung"
         ]
       },
       {
@@ -295,8 +310,9 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/winning-mc-3-7/16-winning.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Winning"
+          "Zusammenfassung",
+          "Lebenskompetenzen",
+          "Wachstum"
         ]
       }
     ],

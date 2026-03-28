@@ -5,7 +5,7 @@
       "sleep",
       "child"
     ],
-    "title": "Verständnis für Schlaf & Schlafenszeit",
+    "title": "Verständnis für Schlaf und Schlafenszeit",
     "description": "Schaffe friedliche Abendroutinen und gesunde Schlafgewohnheiten für die ganze Familie",
     "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/sleep.jpg",
     "articles": [
@@ -19,7 +19,7 @@
         "tags": [
           "Schlafwiderstand",
           "Entwicklungsverständnis",
-          "Schlafenskämpfe",
+          "Schlafkämpfe",
           "Schlafmuster"
         ],
         "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep/understanding_sleep_resistance.jpg",
@@ -112,21 +112,21 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/02-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
         "id": "der_dreischritt_ansatz_dein_kind_in_den_schlaf_erf",
         "title": "Der Dreischritt-Ansatz: Dein Kind in den Schlaf-Erfolg einbeziehen",
-        "description": "Lerne das bahnbrechende Framework, das Schlafenszeit-Kämpfe verwandelt, indem es dein Kind zum aktiven Teilnehmer bei der Entwicklung von Schlaflösungen macht. Geschichte Erschaffen: Entwickle den Plan zusammen mit deinem Kind Geschichte Teilen: Präsentiere Veränderungen in ruhigen Tagesmomenten",
+        "description": "Lerne die bahnbrechende Methode, die Schlafenszeit-Kämpfe verwandelt, indem sie dein Kind zum aktiven Teilnehmer bei der Entwicklung von Schlaflösungen macht. Geschichte Erschaffen: Entwickle den Plan zusammen mit deinem Kind Geschichte Teilen: Präsentiere Veränderungen in ruhigen Tagesmomenten",
         "duration": "0:00",
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/03-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/03-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -150,8 +150,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/05-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -163,8 +163,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/06-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -201,8 +201,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/09-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -214,8 +214,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/10-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -239,8 +239,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/12-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -265,8 +265,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/14-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -278,8 +278,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/15-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       },
       {
@@ -291,8 +291,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/sleep-mc-3-7/16-sleep.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Sleep"
+          "Meisterkurs",
+          "Schlaf"
         ]
       }
     ],

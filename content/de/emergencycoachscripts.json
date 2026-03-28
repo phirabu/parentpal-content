@@ -19,7 +19,7 @@
           "name": "Bestätigung und Grenze",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Die Gefühle des Kindes anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, zeigt ihnen, dass ihre Gefühle berechtigt sind, aber die Erwartung bleibt bestehen. Wahlmöglichkeiten zu bieten, gibt ihnen Kontrolle innerhalb Ihrer Struktur.",
+          "why_it_works": "Die Gefühle des Kindes anzuerkennen und gleichzeitig die Grenze aufrechtzuerhalten, zeigt ihnen, dass ihre Gefühle berechtigt sind, aber die Erwartung bleibt bestehen. Wahlmöglichkeiten zu bieten, gibt ihnen Kontrolle innerhalb deiner Struktur.",
           "script": [
             "Du bist wirklich verärgert wegen der Schlafenszeit. Ich sehe, dass es dir gerade schwer fällt.",
             "UND Schlafenszeit ist trotzdem dran. Du brauchst deinen Schlaf, um morgen fit zu sein.",
@@ -135,7 +135,7 @@
           "name": "Anerkennung und Handlung",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Ihre Gefühle zu bestätigen und gleichzeitig mit dem Plan fortzufahren, zeigt ihnen, dass Sie mit ihren großen Emotionen umgehen können und sie trotzdem mit Routinen sicher halten.",
+          "why_it_works": "Ihre Gefühle zu bestätigen und gleichzeitig mit dem Plan fortzufahren, zeigt ihnen, dass du mit ihren großen Emotionen umgehen kannst und sie trotzdem mit Routinen sicher hältst.",
           "script": [
             "Ich merke, dass dir heute etwas an der Schule schwer fällt.",
             "UND Schule ist trotzdem dran. Komm, wir machen dich fertig.",
@@ -193,7 +193,7 @@
           "name": "Ruhig bleiben und Reflektieren",
           "difficulty": "mittel",
           "timeRequired": "sofort",
-          "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte modelliert emotionale Regulierung und zeigt ihnen, dass ihre großen Gefühle Sie nicht wegdrängen oder Ihre Grenzen ändern können.",
+          "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte modelliert emotionale Regulierung und zeigt ihnen, dass ihre großen Gefühle dich nicht wegdrängen oder deine Grenzen ändern können.",
           "script": [
             "Du bist gerade richtig wütend auf mich. Du wünschst dir, ich würde anders entscheiden.",
             "Es ist völlig okay, wütend auf mich zu sein. Ich halte das aus.",
@@ -474,7 +474,7 @@
         "Sicherstellen, dass der Autositz richtig eingestellt und bequem ist",
         "Spezielle Auto-Spielzeuge oder Musik nur für Autofahrten mitbringen",
         "Anschnallen mit Kuscheltieren zu Hause üben",
-        "Zusätzliche Zeit einplanen, damit Sie sich nicht gehetzt fühlen",
+        "Zusätzliche Zeit einplanen, damit du dich nicht gehetzt fühlst",
         "Unbehagen-Probleme ansprechen (Temperatur, Gurte, etc.)"
       ],
       "strategies": [
@@ -685,7 +685,7 @@
           "name": "Kollaborative Lösung",
           "difficulty": "fortgeschritten",
           "timeRequired": "10-15 Minuten",
-          "why_it_works": "Wenn Kinder an der Entwicklung von Lösungen teilnehmen, fühlen sie Ownership und kooperieren eher. Es baut auch Problemlösungsfähigkeiten auf.",
+          "why_it_works": "Wenn Kinder an der Entwicklung von Lösungen teilnehmen, fühlen sie sich zuständig und kooperieren eher. Es baut auch Problemlösungsfähigkeiten auf.",
           "script": [
             "Bildschirmzeit-Kämpfe sind schwer für uns beide. Lass uns das zusammen lösen.",
             "Was würde dir helfen, dich daran zu erinnern, wann die Bildschirmzeit fast vorbei ist?",
@@ -703,23 +703,23 @@
       "icon": "🚽",
       "ageRange": "2-4 Jahre",
       "prevention_tips": [
-        "Warte auf echte Bereitschaftszeichen bevor du beginnst",
-        "Mache Töpfchen sichtbar und zugänglich ohne Druck",
-        "Liest Töpfchenbücher zusammen beiläufig",
-        "Lass das Kind Familienmitglieder beim Toilettengang beobachten",
-        "Vermeide Vergleiche mit anderen Kindern oder willkürliche Zeitpläne"
+        "Auf echte Bereitschaftszeichen warten, bevor du anfängst",
+        "Töpfchen sichtbar und zugänglich machen, ohne Druck",
+        "Töpfchenbücher zusammen beiläufig lesen",
+        "Kind Familienmitglieder beim Toilettengang beobachten lassen",
+        "Vergleiche mit anderen Kindern oder willkürliche Zeitpläne vermeiden"
       ],
       "strategies": [
         {
           "id": "follow_their_lead",
-          "name": "Folge ihrer Führung",
+          "name": "Lass sie führen",
           "difficulty": "einfach",
           "timeRequired": "laufend",
-          "why_it_works": "Töpfchenlernen geht um Körpersouveränität. Druck erzeugt Machtkämpfe und verzögert Erfolg. Wenn Kinder sich in Kontrolle über ihren eigenen Körper fühlen, sind sie motivierter zu lernen.",
+          "why_it_works": "Beim Töpfchenlernen geht es um Körperselbstbestimmung. Druck erzeugt Machtkämpfe und verzögert Erfolg. Wenn Kinder das Gefühl haben, über ihren eigenen Körper bestimmen zu können, sind sie motivierter zu lernen.",
           "script": [
             "Dein Körper gehört dir. Du entscheidest, wann du bereit fürs Töpfchen bist.",
             "Manche Kinder benutzen das Töpfchen, manche Kinder Windeln. Wenn du bereit bist, kannst du entscheiden.",
-            "Ich werde dich nicht zwingen zu versuchen. Das ist deine Wahl über deinen Körper.",
+            "Ich werde dich nicht dazu zwingen, es zu versuchen. Das ist deine Entscheidung über deinen Körper.",
             "Ich glaube, du wirst das herausfinden wenn dein Körper bereit ist."
           ],
           "mantra": "Mein Kind wird das herausfinden. Druck hilft nicht beim Lernen, er erzeugt Widerstand."
@@ -761,11 +761,11 @@
       "icon": "💧",
       "ageRange": "2-5 Jahre",
       "prevention_tips": [
-        "Normalisiere dass Missgeschicke Teil des Lernens sind",
-        "Halte Ersatzkleidung überall leicht zugänglich",
-        "Vermeide übermäßiges Loben von Töpfchenerfolg (reduziert Scham über Missgeschicke)",
-        "Beobachte frühe Signale und biete sanfte Erinnerungen",
-        "Stelle sicher dass das Kind tatsächlich entwicklungsmäßig bereit fürs Töpfchenlernen ist"
+        "Normalisieren, dass Missgeschicke Teil des Lernens sind",
+        "Ersatzkleidung überall leicht zugänglich halten",
+        "Übermäßiges Loben von Töpfchenerfolg vermeiden (reduziert Scham über Missgeschicke)",
+        "Frühe Signale beobachten und sanfte Erinnerungen anbieten",
+        "Sicherstellen, dass das Kind tatsächlich entwicklungsmäßig bereit fürs Töpfchenlernen ist"
       ],
       "strategies": [
         {
@@ -819,11 +819,11 @@
       "icon": "😰",
       "ageRange": "2-5 Jahre",
       "prevention_tips": [
-        "Trenne Pipi- und Kaka-Lernen (Pipi zuerst, Kaka später)",
-        "Lehre über Körperkontinuität (Kaka ist extra, kein Körperteil)",
-        "Vermeide Ekel oder negative Reaktionen auf Kaka zu zeigen",
-        "Stelle sicher dass Ernährung leichte Stuhlgänge unterstützt",
-        "Modelliere selbst lässige, positive Einstellungen zum Kacken"
+        "Pipi- und Kaka-Lernen trennen (Pipi zuerst, Kaka später)",
+        "Über Körperkontinuität aufklären (Kaka ist extra, kein Körperteil)",
+        "Ekel oder negative Reaktionen auf Kaka vermeiden",
+        "Sicherstellen, dass die Ernährung leichte Stuhlgänge unterstützt",
+        "Selbst eine entspannte, positive Einstellung zum Kacken vorleben"
       ],
       "strategies": [
         {
@@ -831,7 +831,7 @@
           "name": "Körperkontinuitäts-Aufklärung",
           "difficulty": "einfach",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Kleine Kinder sorgen sich um sich trennende Körperteile. Zu verstehen dass Kaka 'extra Essen' ist nicht ein Körperteil reduziert existenzielle Angst ums Kacken.",
+          "why_it_works": "Kleine Kinder sorgen sich darum, dass Körperteile verloren gehen. Zu verstehen, dass Kaka 'übrig gebliebenes Essen' ist und kein Körperteil, reduziert die existenzielle Angst ums Kacken.",
           "script": [
             "Dein Körper ist so schlau! Er nimmt was er braucht vom Essen und wird los was extra ist.",
             "Kaka ist das Extra-Zeug das dein Körper nicht braucht. Dein Körper bleibt ganz und sicher.",
@@ -842,27 +842,27 @@
         },
         {
           "id": "gradual_desensitization",
-          "name": "Graduelle Desensibilisierung",
+          "name": "Schrittweise Gewöhnung",
           "difficulty": "mittel",
           "timeRequired": "Tage bis Wochen",
-          "why_it_works": "Zwingen erzeugt Trauma. Graduelle Exposition lässt sie Komfort in ihrem eigenen Tempo aufbauen. Jeder kleine Schritt baut Vertrauen für den nächsten auf.",
+          "why_it_works": "Zwingen erzeugt Trauma. Schrittweise Gewöhnung lässt sie in ihrem eigenen Tempo Vertrauen aufbauen. Jeder kleine Schritt gibt ihnen Mut für den nächsten.",
           "script": [
             "Du kannst in deiner Windel in deinem Zimmer kacken. Keine Eile.",
             "Möchtest du versuchen in deiner Windel zu kacken während du im Badezimmer bist? Nur um dich wohlzufühlen.",
             "Wie wäre es auf dem Töpfchen zu sitzen mit deiner Windel an? Nur üben.",
             "Du kommst näher. Dein Körper findet das in deinem Tempo heraus."
           ],
-          "mantra": "Langsam ist schnell. Zwingen erzeugt Trauma. Graduelle Schritte bauen dauerhaften Erfolg auf."
+          "mantra": "Langsam ist schnell. Zwingen erzeugt Trauma. Kleine Schritte bauen dauerhaften Erfolg auf."
         },
         {
           "id": "manage_your_anxiety",
-          "name": "Manage deine eigene Angst",
+          "name": "Deine eigene Angst im Griff behalten",
           "difficulty": "fortgeschritten",
           "timeRequired": "laufend",
           "why_it_works": "Kinder absorbieren elterliche Angst. Dein Glaube an ihre Fähigkeit wird zu ihrem Glauben. Deine Ruhe ist ansteckend.",
           "script": [
             "Ich bemerke ich bin besorgt darüber, und das ist mein Gefühl, nicht dein Problem.",
-            "Die Schwierigkeiten meines Kindes heute sagen nicht Schwierigkeiten in Monaten vorher.",
+            "Was mein Kind heute schwer hat, sagt nichts darüber aus, wie es in ein paar Monaten damit umgeht.",
             "Ich kann geduldig sein während ihr Körper das herausfindet.",
             "Das ist vorübergehend. Sie werden nicht Kaka zurückhalten wenn sie 10 sind."
           ],
@@ -949,22 +949,22 @@
     {
       "id": "public_meltdowns",
       "title": "Öffentliche Wutanfälle",
-      "description": "Denken Sie daran: Die Meinungen anderer Leute definieren nicht Ihre Elternschaft. Konzentrieren Sie sich auf Ihr Kind, nicht auf die Blicke."
+      "description": "Denk daran: Die Meinungen anderer Leute definieren nicht deine Elternschaft. Konzentriere dich auf dein Kind, nicht auf die Blicke."
     },
     {
       "id": "safety_first",
       "title": "Sicherheit zuerst",
-      "description": "Wenn Verhalten körperliche Sicherheit betrifft, handeln Sie zuerst und verarbeiten Sie Emotionen später."
+      "description": "Wenn Verhalten körperliche Sicherheit betrifft, handle zuerst und verarbeite Emotionen später."
     },
     {
       "id": "when_to_take_breaks",
       "title": "Wann Pausen zu nehmen sind",
-      "description": "Wenn Sie spüren, dass Sie die Geduld verlieren, ist es okay zu sagen 'Ich brauche einen Moment zum Beruhigen' und sich kurz zurückzuziehen."
+      "description": "Wenn du spürst, dass du die Geduld verlierst, ist es okay zu sagen 'Ich brauche einen Moment zum Beruhigen' und kurz rauszugehen."
     },
     {
       "id": "professional_help",
       "title": "Wann professionelle Hilfe zu suchen ist",
-      "description": "Suchen Sie Unterstützung, wenn Wutanfälle in Häufigkeit/Intensität zunehmen, Selbstverletzung beinhalten oder wenn Sie sich konstant überfordert fühlen."
+      "description": "Hol dir Unterstützung, wenn Wutanfälle in Häufigkeit/Intensität zunehmen, Selbstverletzung beinhalten oder wenn du dich konstant überfordert fühlst."
     }
   ],
   "age_specific_notes": [

@@ -65,7 +65,7 @@
           },
           {
             "title": "Gemeinsame Basis finden",
-            "content": "Vielleicht können wir etwas finden, das ihr beide für Spaß haltet."
+            "content": "Vielleicht können wir etwas finden, das euch beiden Spaß macht."
           }
         ]
       },
@@ -121,7 +121,7 @@
         "scenario": "Dein Kind hat einen Zusammenbruch, weil seine übliche Abendroutine unterbrochen wird",
         "steps": [
           {
-            "title": "Ihre Aufregung anerkennen",
+            "title": "Deinen Kummer anerkennen",
             "content": "Du bist wirklich verärgert, weil wir heute Abend nicht die übliche Art von Abendroutine machen. Du hattest erwartet, erst Zähne putzen, dann Geschichte, dann Lieder, wie immer."
           },
           {
@@ -141,7 +141,7 @@
       {
         "id": "magical_thinking",
         "title": "Auf magisches Denken reagieren",
-        "scenario": "Dein Kind erzählt dir eine ausführliche Geschichte, die Realität und Fantasie über ihren Tag in der Schule vermischt",
+        "scenario": "Dein Kind erzählt dir eine ausführliche Geschichte, die Realität und Fantasie über seinen Tag in der Schule vermischt",
         "steps": [
           {
             "title": "Ihre Kreativität schätzen",

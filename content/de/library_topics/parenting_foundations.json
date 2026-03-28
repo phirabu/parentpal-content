@@ -93,7 +93,7 @@
     "media": [
       {
         "id": "willkommen_zu_erziehungsprinzipien_grundlage",
-        "title": "Willkommen zu Erziehungsprinzipien & Grundlage",
+        "title": "Willkommen zu Erziehungsprinzipien und Grundlage",
         "description": "Die Grundlage kommt vor spezifischen Strategien Fünf Kernprinzipien werden alle Erziehungsentscheidungen leiten",
         "duration": "1.02",
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/01-foundations.jpg",
@@ -151,8 +151,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/05-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Gehirnentwicklung",
+          "Erziehungsgrundlagen"
         ]
       },
       {
@@ -164,8 +164,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/06-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Wachstum",
+          "Erziehungsgrundlagen"
         ]
       },
       {
@@ -201,8 +201,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/09-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Präsenz",
+          "Erziehungsgrundlagen"
         ]
       },
       {
@@ -227,8 +227,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/11-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Integration",
+          "Erziehungsgrundlagen"
         ]
       },
       {
@@ -240,8 +240,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/12-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Vertrauen",
+          "Erziehungsgrundlagen"
         ]
       },
       {
@@ -253,8 +253,8 @@
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/de/foundations-mc-3-7/13-foundations.m4a",
         "mediaType": "audio",
         "tags": [
-          "Masterclass",
-          "Parenting Foundations"
+          "Zusammenfassung",
+          "Erziehungsgrundlagen"
         ]
       }
     ],

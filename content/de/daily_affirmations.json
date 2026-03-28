@@ -17,7 +17,7 @@
     },
     {
       "id": "self-care-1",
-      "text": "Es ist in Ordnung, Pausen zu machen und für sich selbst zu sorgen.",
+      "text": "Es ist in Ordnung, Pausen zu machen und für dich selbst zu sorgen.",
       "category": "self-care"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "id": "mindfulness-2",
-      "text": "Dieser Moment ist alles, worauf du dich jetzt konzentrieren musst.",
+      "text": "Dieser Moment ist alles, worauf du dich jetzt konzentrieren brauchst.",
       "category": "mindfulness"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "id": "resilience-4",
-      "text": "Wachstum geschieht in den Räumen zwischen Kampf und Verständnis.",
+      "text": "Wachstum entsteht im Raum zwischen Anstrengung und Erkenntnis.",
       "category": "resilience"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": "resilience-10",
-      "text": "Du bist genau dort, wo du in deiner Erziehungsreise sein musst.",
+      "text": "Du bist genau dort, wo du auf deiner Reise als Elternteil sein sollst.",
       "category": "resilience"
     }
   ]
