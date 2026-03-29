@@ -77,7 +77,7 @@
           "name": "Sportkommentator-Ansatz",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Sich zu weigern, Partei zu ergreifen, verhindert, dass Sie zum Schiedsrichter werden und lehrt Kinder, zusammenzuarbeiten. Das Spielzeug wegzunehmen entfernt den unmittelbaren Auslöser, während sie sich regulieren.",
+          "why_it_works": "Sich zu weigern, Partei zu ergreifen, verhindert, dass du zum Schiedsrichter wirst, und lehrt Kinder, zusammenzuarbeiten. Das Spielzeug wegzunehmen beseitigt den unmittelbaren Auslöser, während sie sich beruhigen.",
           "script": [
             "Ich sehe zwei Kinder, die beide das gleiche Spielzeug wollen. Das ist wirklich frustrierend!",
             "Ich entscheide nicht, wer es bekommt. Ihr wollt es beide haben - das verstehe ich.",
@@ -181,7 +181,7 @@
       "icon": "😡",
       "ageRange": "3-10 Jahre",
       "prevention_tips": [
-        "Emotionale Regulierung während eigener Frustrationen modellieren",
+        "Emotionale Regulierung während eigener Frustrationen vorleben",
         "Gefühlswörter lehren, wenn das Kind ruhig ist",
         "Emotionen regelmäßig bestätigen, bevor sie eskalieren",
         "Sichere Räume zum Ausdrücken schwieriger Gefühle schaffen",
@@ -193,7 +193,7 @@
           "name": "Ruhig bleiben und Reflektieren",
           "difficulty": "mittel",
           "timeRequired": "sofort",
-          "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte modelliert emotionale Regulierung und zeigt ihnen, dass ihre großen Gefühle dich nicht wegdrängen oder deine Grenzen ändern können.",
+          "why_it_works": "Ruhig zu bleiben angesichts verletzender Worte zeigt dem Kind, wie emotionale Regulierung aussieht, und macht deutlich, dass ihre großen Gefühle dich nicht wegdrängen oder deine Grenzen ändern können.",
           "script": [
             "Du bist gerade richtig wütend auf mich. Du wünschst dir, ich würde anders entscheiden.",
             "Es ist völlig okay, wütend auf mich zu sein. Ich halte das aus.",
@@ -221,7 +221,7 @@
           "name": "Empathie-Brücke",
           "difficulty": "fortgeschritten",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Ihre eigene Erfahrung mit ähnlichen Gefühlen zu teilen, hilft Kindern, sich weniger allein zu fühlen und zeigt ihnen, dass starke Emotionen normal und handhabbar sind.",
+          "why_it_works": "Ihre eigene Erfahrung mit ähnlichen Gefühlen zu teilen, hilft Kindern, sich weniger allein zu fühlen und zeigt ihnen, dass starke Emotionen normal sind und sich bewältigen lassen.",
           "script": [
             "Weißt du was? Manchmal bin ich auch richtig frustriert mit Menschen, die ich lieb habe.",
             "Wenn du sagst 'Ich hasse dich', meinst du eigentlich, du hasst das, was ich gerade von dir will.",
@@ -284,7 +284,7 @@
             "Lass uns zusammen drei tiefe Atemzüge machen. Durch die Nase ein, durch den Mund aus.",
             "Ich möchte, dass du mich anschaust und an [Lieblings-Trostgegenstand/Erinnerung] denkst.",
             "Du kannst meine Hand so fest halten, wie du musst.",
-            "Das wird bald vorbei sein, und dann werden wir [Trostaktivität]."
+            "Das ist bald vorbei, und danach machen wir [Trostaktivität]."
           ],
           "mantra": "Ihre Angst ist real und berechtigt. Ich kann ihre Ruhe in diesem Sturm sein."
         }
@@ -340,9 +340,9 @@
           "why_it_works": "Sich auf das zu konzentrieren, was als nächstes kommt, hilft, ihre Aufmerksamkeit von dem, was sie verlieren, auf das zu lenken, was sie gewinnen, wodurch Übergänge einfacher werden.",
           "script": [
             "Ich weiß, es ist schwer zu gehen. Lass uns darüber sprechen, was wir als nächstes machen werden.",
-            "Nachdem wir hier weggegangen sind, werden wir [nächste Aktivität].",
-            "Und morgen/später können wir [Plan für Rückkehr/ähnliche Aktivität].",
-            "Gerade jetzt muss dein Körper mit mir kommen, auch wenn deine Gefühle noch nicht bereit sind."
+            "Wenn wir hier weg sind, machen wir [nächste Aktivität].",
+            "Und morgen/später können wir [Plan für Wiederkommen/ähnliche Aktivität].",
+            "Jetzt musst du mit mir mitkommen, auch wenn du noch nicht bereit bist."
           ],
           "mantra": "Übergänge sind schwer für Kinder. Konsequent zu bleiben hilft ihnen, der Struktur zu vertrauen."
         }
@@ -355,10 +355,10 @@
       "icon": "✋",
       "ageRange": "2-8 Jahre",
       "prevention_tips": [
-        "Körperliche Ventile für große Emotionen lehren, bevor sie gebraucht werden",
+        "Körperliche Möglichkeiten für große Emotionen lehren, bevor sie gebraucht werden",
         "Auslöser identifizieren, die zu aggressivem Verhalten führen",
         "Sicherstellen, dass das Kind täglich genug körperliche Aktivität bekommt",
-        "Ruhige Konfliktlösung in eigenen Interaktionen modellieren",
+        "Ruhige Konfliktlösung im eigenen Verhalten vorleben",
         "Zugrundeliegende Bedürfnisse ansprechen (Hunger, Müdigkeit, Überstimulation)"
       ],
       "strategies": [
@@ -367,7 +367,7 @@
           "name": "Sofortige Sicherheit",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Das Verhalten sofort zu stoppen und gleichzeitig die Emotion zu bestätigen, lehrt sie, dass alle Gefühle okay sind, aber nicht alle Handlungen okay sind. Alternativen anzubieten gibt ihnen angemessene Ventile.",
+          "why_it_works": "Das Verhalten sofort zu stoppen und gleichzeitig die Emotion zu bestätigen, lehrt sie, dass alle Gefühle okay sind, aber nicht alle Handlungen okay sind. Alternativen anzubieten gibt ihnen angemessene Möglichkeiten, sich auszudrücken.",
           "script": [
             "Ich lasse nicht zu, dass du schlägst. Ich passe auf, dass alle sicher sind.",
             "Ich halte dich fest/gehe weg, damit niemand verletzt wird.",
@@ -395,7 +395,7 @@
           "name": "Energie umleiten",
           "difficulty": "einfach",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Körperliche Ventile für große Emotionen anzubieten hilft Kindern, angemessene Wege zu lernen, intensive Gefühle freizusetzen, während alle sicher bleiben.",
+          "why_it_works": "Körperliche Wege für große Emotionen anzubieten hilft Kindern, angemessene Möglichkeiten zu lernen, intensive Gefühle loszulassen, während alle sicher bleiben.",
           "script": [
             "Ich sehe, du hast ganz viel Energie in dir, die raus will.",
             "Du kannst ins Kissen boxen, fest aufstampfen oder deine Hände ganz fest zusammendrücken.",
@@ -425,7 +425,7 @@
           "name": "Strategischer Ausstieg",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Überwältigende Reize zu entfernen hilft Kindern bei der Regulierung. Öffentliche Räume können überstimulierend sein, und eine Umgebungsveränderung hilft oft, ihr Nervensystem zu resetten.",
+          "why_it_works": "Überwältigende Reize zu entfernen hilft Kindern bei der Regulierung. Öffentliche Räume können überstimulierend sein, und ein Ortswechsel hilft oft dabei, ihr Nervensystem wieder zur Ruhe zu bringen.",
           "script": [
             "Das ist gerade alles zu viel für dich, oder?",
             "Komm, wir gehen kurz raus, wo es ruhiger ist.",
@@ -439,7 +439,7 @@
           "name": "Bleiben und unterstützen",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Präsent zu bleiben zeigt dem Kind, dass es mit seinen großen Emotionen nicht allein ist. Es modelliert, dass Gefühle handhabbar und vorübergehend sind.",
+          "why_it_works": "Präsent zu bleiben zeigt dem Kind, dass es mit seinen großen Emotionen nicht allein ist. Es zeigt ihnen, dass Gefühle zu bewältigen sind und von selbst wieder nachlassen.",
           "script": [
             "Du hast gerade richtig große Gefühle. Ich bin für dich da.",
             "Ich weiß, du wolltest unbedingt [Gegenstand] haben. Es ist echt blöd, wenn man etwas nicht bekommen kann.",
@@ -483,7 +483,7 @@
           "name": "Sicherheit zuerst",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Klare Grenzen bei Sicherheit und gleichzeitig ihre Gefühle anzuerkennen, zeigt ihnen, dass manche Dinge nicht verhandelbar sind, aber Sie sich trotzdem um ihre Emotionen kümmern.",
+          "why_it_works": "Klare Grenzen bei Sicherheit und gleichzeitig ihre Gefühle anzuerkennen, zeigt ihnen, dass manche Dinge nicht verhandelbar sind, aber du dich trotzdem um ihre Emotionen kümmerst.",
           "script": [
             "Du willst gerade gar nicht in den Autositz. Das höre ich.",
             "UND ich muss dich sicher halten. Der Autositz schützt dich im Auto.",
@@ -555,14 +555,14 @@
           "name": "Emotionale Erste Hilfe",
           "difficulty": "mittel",
           "timeRequired": "10-15 Minuten",
-          "why_it_works": "Wenn Kinder in emotionalem Stress sind, geht ihr präfrontaler Kortex (Lern-Gehirn) offline. Emotionale Regulierung muss vor akademischer Arbeit kommen.",
+          "why_it_works": "Wenn Kinder in emotionalem Stress sind, ist ihr präfrontaler Kortex (Lern-Gehirn) nicht mehr erreichbar. Emotionale Beruhigung muss vor der Lernarbeit kommen.",
           "script": [
             "Ich merke, das fällt dir gerade richtig schwer.",
             "Lass uns erst mal deine großen Gefühle beruhigen, dann schauen wir die Hausaufgaben an.",
             "Manchmal braucht unser Kopf erst eine Pause, bevor er wieder lernen kann.",
             "Wenn du dich besser fühlst, ist dein Kopf wieder bereit zum Arbeiten."
           ],
-          "mantra": "Lernen kann nicht passieren, wenn sie emotional überflutet sind. Gefühle zuerst, dann Akademisches."
+          "mantra": "Lernen kann nicht passieren, wenn sie emotional überflutet sind. Gefühle zuerst, dann Aufgaben."
         },
         {
           "id": "partnership_approach",
@@ -576,7 +576,7 @@
             "Ich werde es nicht für dich machen, aber ich sitze in der Nähe, während du arbeitest.",
             "Du bist fähig, das herauszufinden. Ich bin hier, wenn du Hilfe brauchst."
           ],
-          "mantra": "Ich bin ihr Coach, nicht ihr Ersatz. Sie müssen Vertrauen in ihre eigenen Fähigkeiten aufbauen."
+          "mantra": "Ich bin ihre Begleitung, nicht ihr Ersatz. Sie müssen Vertrauen in ihre eigenen Fähigkeiten aufbauen."
         }
       ]
     },
@@ -599,7 +599,7 @@
           "name": "Ruhige Dringlichkeit",
           "difficulty": "mittel",
           "timeRequired": "sofort",
-          "why_it_works": "Ruhige Dringlichkeit statt hektisches Hetzen zu modellieren hilft Kindern, sich besser zu konzentrieren und reduziert Morgenstress für alle.",
+          "why_it_works": "Ruhige Dringlichkeit statt hektischem Hetzen vorzuleben hilft Kindern, sich besser zu konzentrieren und reduziert den Morgenstress für alle.",
           "script": [
             "Ich sehe, du kommst heute Morgen nur langsam in Gang. Das kenne ich.",
             "Wir müssen in 10 Minuten los. Das schaffen wir, wenn wir uns jetzt konzentrieren.",
@@ -620,14 +620,14 @@
             "Gute Wahl. Danach kannst du wählen, was als nächstes kommt.",
             "Du bestimmst die Reihenfolge, und alle drei müssen passieren, bevor wir gehen."
           ],
-          "mantra": "Ihnen Kontrolle über die Reihenfolge zu geben hilft ihnen, sich ermächtigt zu fühlen, während alles trotzdem erledigt wird."
+          "mantra": "Ihnen Kontrolle über die Reihenfolge zu geben hilft ihnen, sich stark und selbstbestimmt zu fühlen, während alles trotzdem erledigt wird."
         },
         {
           "id": "reset_and_reconnect",
           "name": "Zurücksetzen und wieder verbinden",
           "difficulty": "fortgeschritten",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Wenn Morgen schlecht laufen, kann ein Moment der Wiederverbindung die gesamte Dynamik verändern und tatsächlich Zeit sparen, indem Widerstand reduziert wird.",
+          "why_it_works": "Wenn Morgen schlecht laufen, kann ein Moment der Nähe die gesamte Stimmung drehen und tatsächlich Zeit sparen, weil weniger Widerstand entsteht.",
           "script": [
             "Der Morgen ist heute schwierig für uns beide. Komm, wir machen kurz Pause.",
             "Komm mal her zum Kuscheln. Wir schaffen das zusammen.",
@@ -649,7 +649,7 @@
         "Visuelle Timer verwenden, die herunterzählen",
         "Ansprechende Aktivitäten zum Übergang planen",
         "Bildschirmfreie Zeiten schaffen (Mahlzeiten, Abendroutine)",
-        "Gesunde Bildschirmnutzung selbst modellieren"
+        "Gesunden Umgang mit Bildschirmen selbst vorleben"
       ],
       "strategies": [
         {
@@ -720,7 +720,7 @@
             "Dein Körper gehört dir. Du entscheidest, wann du bereit fürs Töpfchen bist.",
             "Manche Kinder benutzen das Töpfchen, manche Kinder Windeln. Wenn du bereit bist, kannst du entscheiden.",
             "Ich werde dich nicht dazu zwingen, es zu versuchen. Das ist deine Entscheidung über deinen Körper.",
-            "Ich glaube, du wirst das herausfinden wenn dein Körper bereit ist."
+            "Ich glaube, du wirst das herausfinden, wenn dein Körper bereit ist."
           ],
           "mantra": "Mein Kind wird das herausfinden. Druck hilft nicht beim Lernen, er erzeugt Widerstand."
         },
@@ -729,12 +729,12 @@
           "name": "Neugier ohne Druck",
           "difficulty": "einfach",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Das Töpfchen durch Erkundung zu normalisieren entfernt Angst und baut Vertrautheit auf. Wenn es nur ein weiteres interessantes Objekt ist, sind Kinder eher bereit es zu versuchen.",
+          "why_it_works": "Das Töpfchen durch Erkundung zu normalisieren nimmt die Angst davor und baut Vertrautheit auf. Wenn es einfach ein weiteres interessantes Ding ist, sind Kinder eher bereit, es auszuprobieren.",
           "script": [
             "Möchtest du das Töpfchen mit mir anschauen? Nicht benutzen, nur schauen.",
-            "Dein Teddy möchte vielleicht versuchen auf dem Töpfchen zu sitzen. Lass uns ihm helfen.",
-            "Ich gehe jetzt auf die Toilette. Möchtest du mitkommen und sehen wie es funktioniert?",
-            "Das Töpfchen ist hier wenn du neugierig darauf wirst."
+            "Dein Teddy möchte vielleicht auf dem Töpfchen sitzen. Sollen wir ihm helfen?",
+            "Ich gehe jetzt auf die Toilette. Möchtest du mitkommen und sehen, wie das geht?",
+            "Das Töpfchen ist hier, wenn du neugierig darauf wirst."
           ],
           "mantra": "Vertrautheit reduziert Widerstand. Ich kann Neugier erzeugen ohne Druck zu erzeugen."
         },
@@ -743,14 +743,14 @@
           "name": "Erkenne ihre Gefühle an",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Widerstand maskiert oft Angst oder Sorge. Gefühle anzuerkennen hilft Kindern sich verstanden zu fühlen und reduziert die emotionale Ladung um das Töpfchenlernen.",
+          "why_it_works": "Widerstand verbirgt oft Angst oder Unsicherheit. Gefühle anzuerkennen hilft Kindern, sich verstanden zu fühlen, und nimmt die emotionale Last rund ums Töpfchenlernen.",
           "script": [
-            "Du scheinst besorgt über das Töpfchen. Was fühlt sich schwierig daran an?",
-            "Neue Dinge zu versuchen kann sich unsicher anfühlen. Das macht Sinn.",
-            "Du magst Windeln weil sie vertraut sind. Ich verstehe das.",
-            "Wenn du bereit bist über das Töpfchen zu sprechen, bin ich hier zum Zuhören."
+            "Du scheinst besorgt wegen des Töpfchens. Was ist das Schwierige daran?",
+            "Neue Dinge ausprobieren kann sich unsicher anfühlen. Das ist ganz normal.",
+            "Du magst Windeln, weil sie vertraut sind. Das verstehe ich.",
+            "Wenn du mal über das Töpfchen reden möchtest, bin ich für dich da."
           ],
-          "mantra": "Ihr Widerstand ist Kommunikation, keine Trotzreaktion. Ich kann neugierig bleiben was sie brauchen."
+          "mantra": "Ihr Widerstand ist Kommunikation, keine Trotzreaktion. Ich kann neugierig bleiben, was sie brauchen."
         }
       ]
     },
@@ -773,12 +773,12 @@
           "name": "Sachliche Reaktion",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Neutral zu bleiben verhindert dass Scham entsteht. Missgeschicke sind Datenpunkte, keine Fehler. Deine ruhige Reaktion lehrt sie dass Fehler sicher und normal sind.",
+          "why_it_works": "Neutral zu bleiben verhindert, dass Scham entsteht. Missgeschicke sind Lernschritte, keine Fehler. Deine ruhige Reaktion zeigt ihnen, dass Missgeschicke sicher und normal sind.",
           "script": [
-            "Deine Hose ist nass. Lass uns dir trockene Kleidung holen.",
-            "Pipi ist rausgekommen. Das passiert wenn Körper lernen.",
-            "Keine große Sache. Lass uns das zusammen aufräumen.",
-            "Körper finden heraus was dieses Gefühl bedeutet bevor Pipi rauskommt. Du lernst."
+            "Deine Hose ist nass. Lass uns dir trockene Sachen holen.",
+            "Das Pipi ist rausgekommen. Das passiert, wenn der Körper noch lernt.",
+            "Kein Problem. Lass uns das zusammen aufräumen.",
+            "Dein Körper übt noch, dieses Gefühl zu erkennen, bevor das Pipi kommt. Du lernst das."
           ],
           "mantra": "Missgeschicke sind keine Fehler. Sie sind Lernmöglichkeiten. Meine Ruhe zählt mehr als die Unordnung."
         },
@@ -787,12 +787,12 @@
           "name": "Schamfreie Sprache",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Scham stört das Lernen und schadet der Eltern-Kind-Beziehung. Schamfreie Sprache hält ihr Selbstwertgefühl intakt während sie diese Fähigkeit meistern.",
+          "why_it_works": "Scham stört das Lernen und schadet der Eltern-Kind-Beziehung. Schamfreie Sprache hält ihr Selbstwertgefühl intakt, während sie diese Fähigkeit üben.",
           "script": [
-            "Du lernst noch. Das ist Teil des Prozesses.",
-            "Nächstes Mal wirst du dieses Gefühl etwas früher fangen.",
-            "Dein Körper wird besser darin dieses Gefühl zu erkennen.",
-            "Jeder hat Missgeschicke wenn er etwas Neues lernt."
+            "Du lernst noch. Das gehört dazu.",
+            "Nächstes Mal wirst du das Gefühl etwas früher bemerken.",
+            "Dein Körper wird immer besser darin, das Gefühl rechtzeitig zu erkennen.",
+            "Jeder hat mal Missgeschicke, wenn er etwas Neues lernt."
           ],
           "mantra": "Scham lehrt nicht. Sie macht nur das Lernen schwerer und schadet ihrem Selbstvertrauen."
         },
@@ -801,14 +801,14 @@
           "name": "Gemeinsam Probleme lösen",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Kinder in Lösungen einzubeziehen hilft ihnen sich fähig zu fühlen und baut Problemlösungsfähigkeiten auf. Es verschiebt von Versagen zu Lernmöglichkeit.",
+          "why_it_works": "Kinder in Lösungen einzubeziehen hilft ihnen, sich fähig zu fühlen, und baut Problemlösungsfähigkeiten auf. So wird aus einem Missgeschick eine Lernsituation.",
           "script": [
-            "Du hattest ein Missgeschick. Was denkst du sollten wir tun?",
-            "Kannst du mir helfen herauszufinden wie wir das aufräumen?",
-            "Was ist passiert bevor das Pipi rauskam? Lass uns Detektive sein.",
-            "Nächstes Mal wenn du dieses Gefühl fühlst, was könntest du anders machen?"
+            "Du hattest ein Missgeschick. Was sollen wir jetzt machen?",
+            "Kannst du mir helfen, das aufzuräumen?",
+            "Was war kurz davor passiert? Lass uns mal nachforschen.",
+            "Wenn du das Gefühl nächstes Mal spürst, was könntest du dann anders machen?"
           ],
-          "mantra": "Ich kann ihnen helfen daraus zu lernen ohne dass sie sich schlecht über sich selbst fühlen."
+          "mantra": "Ich kann ihnen helfen, daraus zu lernen, ohne dass sie sich schlecht fühlen müssen."
         }
       ]
     },
@@ -833,10 +833,10 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Kleine Kinder sorgen sich darum, dass Körperteile verloren gehen. Zu verstehen, dass Kaka 'übrig gebliebenes Essen' ist und kein Körperteil, reduziert die existenzielle Angst ums Kacken.",
           "script": [
-            "Dein Körper ist so schlau! Er nimmt was er braucht vom Essen und wird los was extra ist.",
-            "Kaka ist das Extra-Zeug das dein Körper nicht braucht. Dein Körper bleibt ganz und sicher.",
-            "Es ist wie eine Tankstelle - dein Körper nimmt die Energie und lässt los was übrig ist.",
-            "Nachdem Kaka rauskommt, sagen wir Tschüss dazu! Es hat seine Arbeit getan deinem Körper zu helfen."
+            "Dein Körper ist so schlau! Er nimmt, was er vom Essen braucht, und gibt den Rest wieder ab.",
+            "Kaka ist das Extra-Zeug, das dein Körper nicht mehr braucht. Dein Körper bleibt ganz und unversehrt.",
+            "Stell dir vor wie eine Tankstelle: dein Körper nimmt die Energie und lässt los, was übrig ist.",
+            "Wenn das Kaka rauskommt, sagen wir Tschüss! Es hat seinen Job gemacht und deinem Körper geholfen."
           ],
           "mantra": "Diese Angst ist entwicklungsbedingt und normal. Aufklärung reduziert Angst mehr als Druck es jemals könnte."
         },
@@ -847,10 +847,10 @@
           "timeRequired": "Tage bis Wochen",
           "why_it_works": "Zwingen erzeugt Trauma. Schrittweise Gewöhnung lässt sie in ihrem eigenen Tempo Vertrauen aufbauen. Jeder kleine Schritt gibt ihnen Mut für den nächsten.",
           "script": [
-            "Du kannst in deiner Windel in deinem Zimmer kacken. Keine Eile.",
-            "Möchtest du versuchen in deiner Windel zu kacken während du im Badezimmer bist? Nur um dich wohlzufühlen.",
-            "Wie wäre es auf dem Töpfchen zu sitzen mit deiner Windel an? Nur üben.",
-            "Du kommst näher. Dein Körper findet das in deinem Tempo heraus."
+            "Du kannst in deiner Windel in deinem Zimmer kacken. Kein Stress.",
+            "Möchtest du mal probieren, in deiner Windel zu kacken, während du im Badezimmer bist? Einfach nur um dich daran zu gewöhnen.",
+            "Wie wäre es, mit der Windel auf dem Töpfchen zu sitzen? Nur zum Üben.",
+            "Du kommst immer näher ran. Dein Körper findet das in deinem eigenen Tempo heraus."
           ],
           "mantra": "Langsam ist schnell. Zwingen erzeugt Trauma. Kleine Schritte bauen dauerhaften Erfolg auf."
         },
@@ -859,12 +859,12 @@
           "name": "Deine eigene Angst im Griff behalten",
           "difficulty": "fortgeschritten",
           "timeRequired": "laufend",
-          "why_it_works": "Kinder absorbieren elterliche Angst. Dein Glaube an ihre Fähigkeit wird zu ihrem Glauben. Deine Ruhe ist ansteckend.",
+          "why_it_works": "Kinder spüren die Angst ihrer Eltern. Dein Vertrauen in ihre Fähigkeiten überträgt sich auf sie. Deine Ruhe ist ansteckend.",
           "script": [
-            "Ich bemerke ich bin besorgt darüber, und das ist mein Gefühl, nicht dein Problem.",
-            "Was mein Kind heute schwer hat, sagt nichts darüber aus, wie es in ein paar Monaten damit umgeht.",
-            "Ich kann geduldig sein während ihr Körper das herausfindet.",
-            "Das ist vorübergehend. Sie werden nicht Kaka zurückhalten wenn sie 10 sind."
+            "Ich merke, dass ich mir Sorgen mache, und das ist mein Gefühl, nicht dein Problem.",
+            "Was mein Kind heute noch schwer findet, muss in ein paar Monaten kein Thema mehr sein.",
+            "Ich kann geduldig sein, während ihr Körper das herausfindet.",
+            "Das ist vorübergehend. Sie werden nicht Kaka zurückhalten, wenn sie 10 sind."
           ],
           "mantra": "Ja, sie kämpfen, UND ja, sie werden das herausfinden. Mein Vertrauen hilft ihrem zu wachsen."
         }
@@ -898,7 +898,7 @@
     },
     {
       "id": "connection",
-      "title": "Verbindung & Unterstützung",
+      "title": "Verbindung und Unterstützung",
       "description": "Sätze zur Stärkung der Bindung in schwierigen Momenten",
       "phrases": [
         "Wir schaffen das zusammen.",
@@ -934,7 +934,7 @@
     },
     {
       "id": "choices_and_autonomy",
-      "title": "Wahlmöglichkeiten & Autonomie",
+      "title": "Wahlmöglichkeiten und Autonomie",
       "description": "Sätze um Kindern Kontrolle innerhalb von Grenzen zu geben",
       "phrases": [
         "Du kannst entscheiden: [Option A] oder [Option B].",
@@ -949,7 +949,7 @@
     {
       "id": "public_meltdowns",
       "title": "Öffentliche Wutanfälle",
-      "description": "Denk daran: Die Meinungen anderer Leute definieren nicht deine Elternschaft. Konzentriere dich auf dein Kind, nicht auf die Blicke."
+      "description": "Denk daran: Die Meinungen anderer Leute sagen nichts darüber aus, wie du als Elternteil bist. Konzentriere dich auf dein Kind, nicht auf die Blicke."
     },
     {
       "id": "safety_first",
@@ -964,7 +964,7 @@
     {
       "id": "professional_help",
       "title": "Wann professionelle Hilfe zu suchen ist",
-      "description": "Hol dir Unterstützung, wenn Wutanfälle in Häufigkeit/Intensität zunehmen, Selbstverletzung beinhalten oder wenn du dich konstant überfordert fühlst."
+      "description": "Hol dir Unterstützung, wenn Wutanfälle häufiger oder heftiger werden, Selbstverletzung dazukommt oder du dich dauerhaft überfordert fühlst."
     }
   ],
   "age_specific_notes": [

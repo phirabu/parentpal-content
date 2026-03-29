@@ -87,7 +87,7 @@
     },
     {
       "id": "self-care-4",
-      "text": "Tus necesidades importan, y es saludable honrarlas.",
+      "text": "Tus necesidades importan, y es saludable atenderlas.",
       "category": "self-care"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "id": "parenting-12",
-      "text": "La consistencia importa más que la intensidad en la crianza.",
+      "text": "La constancia importa más que la intensidad en la crianza.",
       "category": "parenting"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "id": "resilience-7",
-      "text": "Todos los padres luchan; no estás solo en este viaje.",
+      "text": "Todos los padres luchan; no estás solo en este camino.",
       "category": "resilience"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "id": "resilience-8",
-      "text": "Las temporadas difíciles dan paso a temporadas de alegría y conexión.",
+      "text": "Los momentos difíciles dan paso a momentos de alegría y conexión.",
       "category": "resilience"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "id": "self-care-10",
-      "text": "Celebra las pequeñas victorias y los momentos gentiles de hoy.",
+      "text": "Celebra las pequeñas victorias y los momentos tiernos de hoy.",
       "category": "self-care"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": "resilience-10",
-      "text": "Estás exactamente donde necesitas estar en tu viaje de crianza.",
+      "text": "Estás exactamente donde necesitas estar en tu camino de crianza.",
       "category": "resilience"
     }
   ]

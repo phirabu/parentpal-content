@@ -52,8 +52,8 @@
         "scenario": "Dein Kind kann nicht verstehen, warum sein Geschwister nicht ihr Spiel spielen möchte",
         "steps": [
           {
-            "title": "Ihre Perspektive anerkennen",
-            "content": "Ich kann sehen, dass du wirklich dieses Spiel mit deiner Schwester spielen möchtest. Du denkst, es macht wirklich Spaß, und es ist schwer zu verstehen, warum sie es nicht auch spielen möchte."
+            "title": "Die Perspektive anerkennen",
+            "content": "Ich sehe, dass du wirklich dieses Spiel mit deiner Schwester spielen möchtest. Du denkst, es macht wirklich Spaß, und es ist schwer zu verstehen, warum sie es nicht auch spielen möchte."
           },
           {
             "title": "Andere Perspektiven einführen",
@@ -75,12 +75,12 @@
         "scenario": "Dein Kind sagt 'Ich bin schrecklich im Zeichnen' nach einem Versuch, der nicht wie erwartet ausgefallen ist",
         "steps": [
           {
-            "title": "Ihr Gefühl validieren",
+            "title": "Das Gefühl anerkennen",
             "content": "Du scheinst wirklich enttäuscht zu sein, dass deine Zeichnung nicht so aussieht, wie du es wolltest."
           },
           {
             "title": "Das Absolute hinterfragen",
-            "content": "Ich hörte dich sagen, dass du schrecklich im Zeichnen bist. Ich frage mich, ob du bei allem beim Zeichnen schrecklich bist, oder ob vielleicht manche Teile schwer sind und manche Teile einfacher?"
+            "content": "Du hast gesagt, du bist schrecklich im Zeichnen. Stimmt das wirklich für alles? Oder sind vielleicht manche Sachen schwerer und manche Sachen leichter?"
           },
           {
             "title": "Stärken aufzeigen",
@@ -88,7 +88,7 @@
           },
           {
             "title": "Spezifische Herausforderung identifizieren",
-            "content": "Der Teil, der schwer ist, ist das Zeichnen der Pferdebeine. Das ist nur ein Teil des Zeichnens, nicht alles davon."
+            "content": "Was dir schwerfällt, ist das Zeichnen der Pferdebeine. Das ist nur ein Teil davon, nicht alles."
           }
         ]
       },
@@ -98,8 +98,8 @@
         "scenario": "Dein Kind beschließt, die Küchenschränke neu zu organisieren, während du telefonierst",
         "steps": [
           {
-            "title": "Ihre Initiative anerkennen",
-            "content": "Ich kann sehen, dass du eine großartige Idee hattest, die Küche zu organisieren. Du wolltest helfen, die Dinge ordentlich und aufgeräumt zu machen."
+            "title": "Die Initiative anerkennen",
+            "content": "Ich sehe, dass du eine großartige Idee hattest, die Küche zu organisieren. Du wolltest helfen, die Dinge ordentlich und aufgeräumt zu machen."
           },
           {
             "title": "Sicherheitsgrenzen setzen",
@@ -107,7 +107,7 @@
           },
           {
             "title": "Positiv umleiten",
-            "content": "Ich liebe es, dass du beim Organisieren helfen möchtest. Lass uns einen Ort finden, wo du diese großartige Organisationsenergie einsetzen kannst."
+            "content": "Ich finde es toll, dass du beim Aufräumen helfen möchtest. Lass uns schauen, wo du deinen Spaß am Ordnen richtig einbringen kannst."
           },
           {
             "title": "Alternative anbieten",
@@ -121,16 +121,16 @@
         "scenario": "Dein Kind hat einen Zusammenbruch, weil seine übliche Abendroutine unterbrochen wird",
         "steps": [
           {
-            "title": "Deinen Kummer anerkennen",
-            "content": "Du bist wirklich verärgert, weil wir heute Abend nicht die übliche Art von Abendroutine machen. Du hattest erwartet, erst Zähne putzen, dann Geschichte, dann Lieder, wie immer."
+            "title": "Den Kummer anerkennen",
+            "content": "Du bist wirklich traurig, weil wir heute Abend nicht unsere übliche Abendroutine machen. Du hast erwartet: erst Zähne putzen, dann eine Geschichte, dann Lieder – wie immer."
           },
           {
-            "title": "Ihr Gefühl normalisieren",
-            "content": "Es ist schwer, wenn sich Dinge von dem ändern, was wir erwarten."
+            "title": "Das Gefühl als normal einordnen",
+            "content": "Es ist nicht leicht, wenn Dinge nicht so laufen, wie wir es erwartet haben."
           },
           {
             "title": "Sicherheit geben",
-            "content": "Auch wenn wir heute Abend die Dinge etwas anders machen, bist du immer noch sicher, und ich bin immer noch hier bei dir."
+            "content": "Auch wenn es heute Abend etwas anders ist, bist du sicher – und ich bin bei dir."
           },
           {
             "title": "Beruhigung anbieten",
@@ -144,12 +144,12 @@
         "scenario": "Dein Kind erzählt dir eine ausführliche Geschichte, die Realität und Fantasie über seinen Tag in der Schule vermischt",
         "steps": [
           {
-            "title": "Ihre Kreativität schätzen",
-            "content": "Was für eine interessante Geschichte! Es hört sich an, als hättest du einige echte Sachen in der Schule erlebt und einige Sachen, die du dir vorgestellt hast."
+            "title": "Die Kreativität würdigen",
+            "content": "Was für eine interessante Geschichte! Es klingt so, als hättest du heute in der Schule echte Dinge erlebt – und andere Dinge dir ausgedacht."
           },
           {
             "title": "Beide Arten von Geschichten wertschätzen",
-            "content": "Sowohl echte Geschichten als auch fantasievolle Geschichten können Spaß machen zu erzählen."
+            "content": "Echte Geschichten und erfundene Geschichten machen gleichermaßen Spaß."
           },
           {
             "title": "Unterscheidung lehren",
@@ -157,7 +157,7 @@
           },
           {
             "title": "Weiteres Teilen ermutigen",
-            "content": "Ich liebe es, beide Arten von Geschichten von dir zu hören."
+            "content": "Ich höre immer gern beide Arten von Geschichten von dir."
           }
         ]
       }

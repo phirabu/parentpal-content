@@ -26,21 +26,21 @@
             "¿Quieres ir caminando a tu cuarto o prefieres que te lleve?",
             "Aquí estoy contigo mientras sientes todo esto."
           ],
-          "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
+          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
         },
         {
           "id": "playful_approach",
           "name": "Enfoque Lúdico",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La juguetonidad puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
+          "why_it_works": "El juego puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
           "script": [
             "¡Oh no! ¡Te atrapó el monstruo de dormir! ¡Hace que los niños se enojen mucho con la hora de dormir!",
             "A ver... ¿marchamos a la cama como soldados o saltamos como conejitos?",
             "Tus peluches te están esperando. ¿Vamos a darles las buenas noches?",
             "Aunque estés enojado, te quiero muchísimo. Ven, vamos a prepararte para dormir."
           ],
-          "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
+          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
         },
         {
           "id": "limited_choices",
@@ -54,7 +54,7 @@
             "¿Quieres la puerta un poquito abierta o cerrada?",
             "Es hora de dormir, y tú decides si lo hacemos por las buenas o por las malas."
           ],
-          "mantra": "Esto es temporal. Sus sentimientos grandes no significan que estoy haciendo algo mal. La consistencia es bondad."
+          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
         }
       ]
     },
@@ -135,10 +135,10 @@
           "name": "Reconocer + Acción",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Validar sus sentimientos mientras sigues adelante con el plan les muestra que puedes manejar sus emociones grandes y aún mantenerlos seguros con rutinas.",
+          "why_it_works": "Validar sus sentimientos mientras sigues adelante con el plan les muestra que puedes manejar sus emociones más intensas y aún mantenerlos seguros con rutinas.",
           "script": [
-            "Tu cuerpo me está diciendo que algo sobre la escuela se siente difícil hoy.",
-            "Y la escuela aún va a suceder. Vamos a preparar tu cuerpo para ir.",
+            "Noto que hoy algo de la escuela se te hace difícil.",
+            "Y a la escuela sí vamos. Vamos a prepararte para salir.",
             "Puedes vestirte solo, o puedo ayudarte a vestirte. Tú eliges.",
             "Nos vamos en 5 minutos. Creo que puedes hacerlo."
           ],
@@ -163,12 +163,12 @@
           "name": "Poder Lúdico",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La juguetonidad puede transformar la resistencia en cooperación haciendo que las tareas necesarias se sientan como juegos en lugar de demandas.",
+          "why_it_works": "El juego puede transformar la resistencia en cooperación haciendo que las tareas necesarias se sientan como un juego en lugar de una obligación.",
           "script": [
             "¡Oh no! ¡Parece que tu ropa está tratando de esconderse de ti!",
             "¿Deberíamos atrapar esa camisa traviesa? ¡Creo que se fue detrás de la puerta!",
             "Me pregunto si tu mochila está lista para una aventura hoy...",
-            "Tu cuerpo fuerte va a tener un día en la escuela, y estaré aquí cuando regreses."
+            "Hoy vas a la escuela, y cuando regreses, aquí estaré."
           ],
           "mantra": "Su resistencia no significa que debo ceder. La estructura se siente segura incluso cuando luchan contra ella."
         }
@@ -209,7 +209,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Nombrar emociones ayuda a los niños a entender lo que están sintiendo y les enseña que todos los sentimientos son aceptables, incluso cuando se expresan imperfectamente.",
           "script": [
-            "Wow, esos son algunos sentimientos realmente grandes y enojados saliendo de tu cuerpo.",
+            "Vaya, estás muy, muy enojado ahora mismo.",
             "Estás tan frustrado que quieres que lo sepa con tus palabras más grandes.",
             "Te escucho. Deseas que las cosas fueran diferentes ahora mismo.",
             "Te amo incluso cuando estás enojado. Incluso cuando usas esas palabras."
@@ -253,7 +253,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Proporcionar información reduce la ansiedad haciendo que lo desconocido sea conocido. Mantenerse físicamente cerca activa su sistema de apego y los ayuda a sentirse seguros.",
           "script": [
-            "Tu cuerpo se siente asustado de estar aquí. Las visitas al doctor pueden sentirse realmente grandes.",
+            "Tienes miedo de estar aquí. Ir al médico puede dar mucho susto.",
             "Me voy a quedar justo a tu lado todo el tiempo.",
             "Somos un equipo. No tienes que ser valiente solo.",
             "Después de esto, vamos a [plan específico]. Puedes esperar eso con ganas."
@@ -323,7 +323,7 @@
           "name": "Validación Emocional",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Validar la decepción ayuda a los niños a sentirse entendidos mientras aprenden que pueden tener sentimientos y aún cumplir con acciones necesarias.",
+          "why_it_works": "Validar la decepción ayuda a los niños a sentirse entendidos mientras aprenden que pueden sentir lo que sienten y aún así hacer lo que hay que hacer.",
           "script": [
             "Deseas poder jugar para siempre. Eso tiene total sentido para mí.",
             "Es decepcionante cuando las cosas divertidas tienen que terminar.",
@@ -342,7 +342,7 @@
             "Sé que es difícil irse. Hablemos sobre lo que vamos a hacer después.",
             "Después de que nos vayamos de aquí, vamos a [siguiente actividad].",
             "Y mañana/más tarde podemos [plan para regresar/actividad similar].",
-            "Ahora mismo tu cuerpo necesita venir conmigo, incluso si tus sentimientos no están listos."
+            "Ahora tienes que venir conmigo, aunque todavía no estés listo por dentro."
           ],
           "mantra": "Las transiciones son difíciles para los niños. Mantenerse consistente los ayuda a confiar en la estructura."
         }
@@ -355,7 +355,7 @@
       "icon": "✋",
       "ageRange": "2-8 años",
       "prevention_tips": [
-        "Enseñar salidas físicas para emociones grandes antes de que se necesiten",
+        "Enseñar formas de liberar emociones intensas antes de que se necesiten",
         "Identificar detonantes que llevan a comportamiento agresivo",
         "Asegurar que el niño tenga suficiente actividad física diaria",
         "Modelar resolución calmada de conflictos en tus propias interacciones",
@@ -367,11 +367,11 @@
           "name": "Seguridad Inmediata",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Detener el comportamiento inmediatamente mientras validas la emoción les enseña que todos los sentimientos están bien, pero no todas las acciones están bien. Ofrecer alternativas les da salidas apropiadas.",
+          "why_it_works": "Detener el comportamiento inmediatamente mientras validas la emoción les enseña que todos los sentimientos están bien, pero no todas las acciones están bien. Ofrecer alternativas les da formas apropiadas de expresarse.",
           "script": [
             "No te voy a dejar golpear. Los cuerpos necesitan estar seguros.",
             "Voy a mover tu cuerpo/alejarme para que todos estén seguros.",
-            "Tienes sentimientos grandes Y golpear no está bien.",
+            "Estás muy alterado Y golpear no está bien.",
             "Cuando tu cuerpo esté calmado, podemos hablar sobre lo que pasó."
           ],
           "mantra": "Este comportamiento es comunicación, no manipulación. Necesitan mi ayuda aprendiendo mejores formas de expresarse."
@@ -386,7 +386,7 @@
             "Estás tan enojado que tu cuerpo quiere golpear. Entiendo eso.",
             "Y no voy a dejarte lastimarme a mí o a cualquier otra persona.",
             "Tus sentimientos de enojo están bien. Golpear no está bien.",
-            "Encontremos una forma segura para que tu cuerpo muestre esos sentimientos grandes."
+            "Encontremos una forma segura de sacar toda esa energía que tienes por dentro."
           ],
           "mantra": "Este comportamiento es comunicación, no manipulación. Necesitan mi ayuda aprendiendo mejores formas de expresarse."
         },
@@ -395,9 +395,9 @@
           "name": "Redirigir Energía",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Proporcionar salidas físicas para emociones grandes ayuda a los niños a aprender formas apropiadas de liberar sentimientos intensos mientras mantienen a todos seguros.",
+          "why_it_works": "Ofrecer formas físicas de liberar emociones intensas ayuda a los niños a aprender maneras apropiadas de sacar esos sentimientos mientras todos se mantienen seguros.",
           "script": [
-            "Puedo ver que tu cuerpo tiene mucha energía grande que quiere salir.",
+            "Veo que tienes mucha energía dentro que necesita salir.",
             "Puedes golpear esta almohada, pisotear tus pies, o apretar tus manos muy fuerte.",
             "Tus sentimientos son importantes Y los cuerpos de las personas necesitan estar seguros.",
             "Te voy a ayudar a encontrar una forma de sacar esos sentimientos de manera segura."
@@ -439,14 +439,14 @@
           "name": "Quedarse y Apoyar",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Mantenerse presente muestra al niño que no está solo en sus emociones grandes. Modela que los sentimientos son manejables y temporales.",
+          "why_it_works": "Mantenerse presente muestra al niño que no está solo cuando se desborda. Modela que los sentimientos son manejables y temporales.",
           "script": [
-            "Estás teniendo sentimientos tan grandes ahora mismo. Estoy aquí contigo.",
+            "Estás muy desbordado ahora mismo. Estoy aquí contigo.",
             "Puedo ver que realmente querías [artículo]. Es decepcionante cuando no podemos tener lo que queremos.",
             "Me voy a quedar cerca mientras tienes estos sentimientos.",
             "Cuando estés listo, podemos terminar nuestras compras juntos."
           ],
-          "mantra": "Esto es temporal. Les estoy enseñando que están seguros de tener emociones grandes conmigo."
+          "mantra": "Esto es temporal. Les estoy enseñando que pueden desbordarse conmigo y seguir estando seguros."
         },
         {
           "id": "distraction_redirect",
@@ -455,7 +455,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Redirigir a una tarea útil puede cambiar el enfoque del malestar a sentirse útil e importante, mientras valida sus emociones.",
           "script": [
-            "Wow, ¡mira qué molesto está tu cuerpo! Esa es energía realmente grande.",
+            "¡Vaya! Tienes un montón de energía ahora mismo, ¿verdad?",
             "Me pregunto... ¿puedes ayudarme a encontrar las manzanas rojas? Necesito a alguien con buenos ojos.",
             "Aún estás molesto Y puedes ayudarme con este trabajo importante.",
             "Gracias por ayudarme incluso cuando tus sentimientos son grandes."
@@ -485,7 +485,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Límites claros sobre seguridad mientras reconoces sus sentimientos les muestra que algunas cosas no son negociables, pero aún te importan sus emociones.",
           "script": [
-            "Tu cuerpo está diciendo no al asiento del carro. Escucho eso.",
+            "Veo que no quieres meterte al asiento del carro. Te escucho.",
             "Y mi trabajo es mantenerte seguro. Los asientos del carro mantienen los cuerpos seguros en los carros.",
             "Te voy a ayudar a abrocharte. Puedes estar molesto mientras hago mi trabajo.",
             "Tan pronto como estés seguro, podemos hablar sobre qué hace esto difícil."
@@ -557,8 +557,8 @@
           "timeRequired": "10-15 minutos",
           "why_it_works": "Cuando los niños están en angustia emocional, su corteza prefrontal (cerebro de aprendizaje) se desconecta. La regulación emocional debe venir antes del trabajo académico.",
           "script": [
-            "Tu cuerpo me está diciendo que esto se siente realmente difícil ahora.",
-            "Cuidemos tus sentimientos grandes primero, luego abordaremos la tarea.",
+            "Noto que esto se te está haciendo muy difícil ahora mismo.",
+            "Primero ocupémonos de cómo te sientes, y después vemos la tarea.",
             "A veces nuestros cerebros necesitan un descanso antes de poder aprender cosas nuevas.",
             "Cuando te sientas más calmado, tu cerebro estará listo para trabajar."
           ],
@@ -569,7 +569,7 @@
           "name": "Enfoque de Colaboración",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Tomar control de la tarea les roba a los niños la oportunidad de desarrollar resistencia y habilidades de resolución de problemas. El apoyo sin rescate desarrolla confianza.",
+          "why_it_works": "Tomar control de la tarea les roba a los niños la oportunidad de desarrollar resiliencia y habilidades de resolución de problemas. El apoyo sin rescate desarrolla confianza.",
           "script": [
             "Esta tarea es tu trabajo, y estoy aquí para apoyarte.",
             "¿Qué parte se siente más difícil para ti? Empecemos con algo más fácil.",
@@ -620,7 +620,7 @@
             "Buena elección. Después de eso, puedes elegir qué sigue.",
             "Estás a cargo del orden, y las tres necesitan pasar antes de que nos vayamos."
           ],
-          "mantra": "Darles control sobre la secuencia los ayuda a sentirse empoderados mientras todo aún se hace."
+          "mantra": "Darles control sobre la secuencia los ayuda a sentirse capaces y con más confianza, mientras todo aún se hace."
         },
         {
           "id": "reset_and_reconnect",
@@ -657,7 +657,7 @@
           "name": "Advertencia Anticipada",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Las transiciones repentinas de actividades preferidas activan emociones grandes. El aviso permite al cerebro tiempo para prepararse mentalmente para el cambio.",
+          "why_it_works": "Las transiciones repentinas desde actividades preferidas desencadenan emociones intensas. El aviso previo le da al cerebro tiempo para prepararse mentalmente para el cambio.",
           "script": [
             "Tienes 5 minutos más de tiempo de pantalla, luego es hora de apagarla.",
             "Sé que es difícil parar cuando te estás divirtiendo. Pongamos un temporizador juntos.",
@@ -881,7 +881,7 @@
         "Tus sentimientos tienen todo el sentido.",
         "Aunque estés molesto, te quiero.",
         "Esos sí que son sentimientos poderosos.",
-        "Los sentimientos grandes están bien. Aquí estoy para ti."
+        "Sentirte así está bien. Aquí estoy para ti."
       ]
     },
     {
@@ -914,7 +914,7 @@
       "description": "Mantras para ayudar a los padres a mantenerse calmados",
       "phrases": [
         "Estamos seguros. Esto no es una emergencia.",
-        "Los sentimientos grandes no significan que hago algo mal.",
+        "Que se desborde no significa que hago algo mal.",
         "Ser consistente es ser amable, aunque sea difícil.",
         "Esto va a pasar. Estos sentimientos son temporales.",
         "Puedo mantener la calma aunque mi hijo no pueda."
@@ -954,7 +954,7 @@
     {
       "id": "safety_first",
       "title": "Seguridad Primero",
-      "description": "Cuando el comportamiento involucra seguridad física, actúa primero y procesa emociones después."
+      "description": "Cuando el comportamiento implica un riesgo físico, actúa primero y procesa las emociones después."
     },
     {
       "id": "when_to_take_breaks",
@@ -964,7 +964,7 @@
     {
       "id": "professional_help",
       "title": "Cuándo Buscar Ayuda",
-      "description": "Busca apoyo si las rabietas aumentan en frecuencia/intensidad, incluyen autolesión, o si te sientes abrumado consistentemente."
+      "description": "Busca apoyo si las rabietas aumentan en frecuencia o intensidad, incluyen autolesión, o si te sientes desbordado de forma constante."
     }
   ],
   "age_specific_notes": [
@@ -972,7 +972,7 @@
       "id": "toddlers",
       "age_range": "1-3 años",
       "title": "Niños Pequeños",
-      "description": "Los niños pequeños tienen emociones grandes pero habilidades de afrontamiento pequeñas. Paciencia extra y lenguaje simple funcionan mejor."
+      "description": "Los niños pequeños sienten emociones muy intensas pero tienen pocas herramientas para manejarlas. La paciencia extra y el lenguaje sencillo son lo que mejor funciona."
     },
     {
       "id": "preschool",

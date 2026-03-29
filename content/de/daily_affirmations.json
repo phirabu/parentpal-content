@@ -57,7 +57,7 @@
     },
     {
       "id": "resilience-2",
-      "text": "Du bist stärker als du weißt und mutiger als du fühlst.",
+      "text": "Du bist stärker als du weißt und mutiger als du dich fühlst.",
       "category": "resilience"
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "id": "mindfulness-6",
-      "text": "Verwurzle dich in diesem Moment und lass die Sorgen von gestern los.",
+      "text": "Verankere dich in diesem Moment und lass die Sorgen von gestern los.",
       "category": "mindfulness"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "id": "resilience-7",
-      "text": "Alle Eltern kämpfen; du bist nicht allein auf dieser Reise.",
+      "text": "Alle Eltern kämpfen; du bist nicht allein auf diesem Weg.",
       "category": "resilience"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": "resilience-10",
-      "text": "Du bist genau dort, wo du auf deiner Reise als Elternteil sein sollst.",
+      "text": "Du bist genau dort, wo du auf deinem Weg als Elternteil sein sollst.",
       "category": "resilience"
     }
   ]
