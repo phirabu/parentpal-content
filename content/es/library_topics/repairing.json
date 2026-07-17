@@ -99,7 +99,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/01-repairing.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/01-repairing.m4a",
         "mediaType": "audio",
-        "tags": ["errores", "conexión", "reparación", "normalización"]
+        "tags": [
+          "errores",
+          "conexión",
+          "reparación",
+          "normalización"
+        ]
       },
       {
         "id": "cuando_perdemos_control",
@@ -109,7 +114,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/02-repairing.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/02-repairing.m4a",
         "mediaType": "audio",
-        "tags": ["biología", "sistema nervioso", "límites", "validación"]
+        "tags": [
+          "biología",
+          "sistema nervioso",
+          "límites",
+          "validación"
+        ]
       },
       {
         "id": "como_reparar_con_hijo",
@@ -119,7 +129,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/03-repairing.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/03-repairing.m4a",
         "mediaType": "audio",
-        "tags": ["guiones", "estrategias", "pasos claros", "apropiado para la edad"]
+        "tags": [
+          "guiones",
+          "estrategias",
+          "pasos claros",
+          "apropiado para la edad"
+        ]
       },
       {
         "id": "previniendo_futuros_colapsos",
@@ -129,7 +144,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/04-repairing.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/04-repairing.m4a",
         "mediaType": "audio",
-        "tags": ["patrones", "señales de advertencia", "autoconciencia", "prevención"]
+        "tags": [
+          "patrones",
+          "señales de advertencia",
+          "autoconciencia",
+          "prevención"
+        ]
       },
       {
         "id": "outro_reparacion_reconexion",
@@ -139,7 +159,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/repairing_masterclass/05-repairing.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/repairing-mc-3-7/05-repairing.m4a",
         "mediaType": "audio",
-        "tags": ["amor constante", "resiliencia", "responsabilidad", "modelado"]
+        "tags": [
+          "amor constante",
+          "resiliencia",
+          "responsabilidad",
+          "modelado"
+        ]
       }
     ],
     "scripts": [

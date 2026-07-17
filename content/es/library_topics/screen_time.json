@@ -99,7 +99,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/01-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/01-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["bienvenida", "batallas", "estrategias prácticas", "reducir conflictos"]
+        "tags": [
+          "bienvenida",
+          "batallas",
+          "estrategias prácticas",
+          "reducir conflictos"
+        ]
       },
       {
         "id": "tiempo_pantalla_mundo_hijo",
@@ -109,7 +114,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/02-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/02-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["contexto", "desarrollo cerebral", "contenido", "equilibrio"]
+        "tags": [
+          "contexto",
+          "desarrollo cerebral",
+          "contenido",
+          "equilibrio"
+        ]
       },
       {
         "id": "perspectiva_equilibrio",
@@ -119,7 +129,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/03-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/03-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["equilibrio", "enfoque matizado", "decisiones reflexivas", "sin culpa"]
+        "tags": [
+          "equilibrio",
+          "enfoque matizado",
+          "decisiones reflexivas",
+          "sin culpa"
+        ]
       },
       {
         "id": "evaluando_realidad_familia",
@@ -129,7 +144,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/04-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/04-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["evaluación", "sin juicio", "patrones", "cambios sostenibles"]
+        "tags": [
+          "evaluación",
+          "sin juicio",
+          "patrones",
+          "cambios sostenibles"
+        ]
       },
       {
         "id": "estableciendo_limites_claros",
@@ -139,7 +159,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/05-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/05-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["límites claros", "específicos", "aplicables", "expectativas concretas"]
+        "tags": [
+          "límites claros",
+          "específicos",
+          "aplicables",
+          "expectativas concretas"
+        ]
       },
       {
         "id": "conversacion_preparacion",
@@ -149,7 +174,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/06-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/06-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["preparación", "comunicación", "guiones", "validar sentimientos"]
+        "tags": [
+          "preparación",
+          "comunicación",
+          "guiones",
+          "validar sentimientos"
+        ]
       },
       {
         "id": "cuando_hacen_resistencia",
@@ -159,7 +189,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/07-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/07-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["resistencia", "responder vs reaccionar", "consistencia", "manejo de emociones"]
+        "tags": [
+          "resistencia",
+          "responder vs reaccionar",
+          "consistencia",
+          "manejo de emociones"
+        ]
       },
       {
         "id": "transiciones_suaves",
@@ -169,7 +204,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/08-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/08-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["transiciones", "rituales", "advertencias", "predecible"]
+        "tags": [
+          "transiciones",
+          "rituales",
+          "advertencias",
+          "predecible"
+        ]
       },
       {
         "id": "apoyando_compromiso_sin_pantallas",
@@ -179,7 +219,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/09-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/09-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["aburrimiento", "juego independiente", "espacios de invitación", "creatividad"]
+        "tags": [
+          "aburrimiento",
+          "juego independiente",
+          "espacios de invitación",
+          "creatividad"
+        ]
       },
       {
         "id": "manejando_tu_propio_estres",
@@ -189,7 +234,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/10-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/10-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["autorregulación", "ansiedad parental", "decisiones centradas", "modelado"]
+        "tags": [
+          "autorregulación",
+          "ansiedad parental",
+          "decisiones centradas",
+          "modelado"
+        ]
       },
       {
         "id": "desafios_mundo_real",
@@ -199,7 +249,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/11-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/11-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["flexibilidad", "situaciones especiales", "consistencia", "adaptabilidad"]
+        "tags": [
+          "flexibilidad",
+          "situaciones especiales",
+          "consistencia",
+          "adaptabilidad"
+        ]
       },
       {
         "id": "construyendo_tu_confianza",
@@ -209,7 +264,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/screentime_masterclass/12-screentime.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/screetime-mc-3-7/12-screentime.m4a",
         "mediaType": "audio",
-        "tags": ["confianza", "proceso continuo", "progreso", "relaciones saludables"]
+        "tags": [
+          "confianza",
+          "proceso continuo",
+          "progreso",
+          "relaciones saludables"
+        ]
       }
     ],
     "scripts": [

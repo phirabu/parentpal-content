@@ -1,17 +1,6 @@
 {
   "categories": [
     {
-      "title": "Baby",
-      "id": "baby",
-      "type": "age",
-      "subtitle": "0-12 months",
-      "sortOrder": 1,
-      "resourceCount": 15,
-      "description": "Essential guidance for your baby's first year",
-      "color": "#FFE4E1",
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
-    },
-    {
       "title": "Child",
       "id": "child",
       "type": "age",

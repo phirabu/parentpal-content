@@ -99,7 +99,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/01-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/01-personality.m4a",
         "mediaType": "audio",
-        "tags": ["personalidad", "tipos", "regalos únicos", "crecimiento"]
+        "tags": [
+          "personalidad",
+          "tipos",
+          "regalos únicos",
+          "crecimiento"
+        ]
       },
       {
         "id": "tres_tipos_personalidad",
@@ -109,7 +114,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/02-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/02-personality.m4a",
         "mediaType": "audio",
-        "tags": ["determinado", "cauteloso", "armonizador", "patrones"]
+        "tags": [
+          "determinado",
+          "cauteloso",
+          "armonizador",
+          "patrones"
+        ]
       },
       {
         "id": "nino_determinado_lider",
@@ -119,7 +129,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/03-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/03-personality.m4a",
         "mediaType": "audio",
-        "tags": ["determinado", "liderazgo", "voluntad fuerte", "independencia"]
+        "tags": [
+          "determinado",
+          "liderazgo",
+          "voluntad fuerte",
+          "independencia"
+        ]
       },
       {
         "id": "criando_nino_determinado",
@@ -129,7 +144,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/04-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/04-personality.m4a",
         "mediaType": "audio",
-        "tags": ["estrategias", "opciones", "calma", "límites claros"]
+        "tags": [
+          "estrategias",
+          "opciones",
+          "calma",
+          "límites claros"
+        ]
       },
       {
         "id": "nino_cauteloso_observador",
@@ -139,7 +159,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/05-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/05-personality.m4a",
         "mediaType": "audio",
-        "tags": ["cauteloso", "observador", "sabiduría", "procesamiento"]
+        "tags": [
+          "cauteloso",
+          "observador",
+          "sabiduría",
+          "procesamiento"
+        ]
       },
       {
         "id": "ayudando_nino_cauteloso",
@@ -149,7 +174,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/06-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/06-personality.m4a",
         "mediaType": "audio",
-        "tags": ["preparación", "apoyo", "puentes", "participación gradual"]
+        "tags": [
+          "preparación",
+          "apoyo",
+          "puentes",
+          "participación gradual"
+        ]
       },
       {
         "id": "nino_armonizador_pacificador",
@@ -159,7 +189,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/07-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/07-personality.m4a",
         "mediaType": "audio",
-        "tags": ["armonizador", "empatía", "pacificador", "bondad"]
+        "tags": [
+          "armonizador",
+          "empatía",
+          "pacificador",
+          "bondad"
+        ]
       },
       {
         "id": "empoderando_nino_armonizador",
@@ -169,7 +204,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/08-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/08-personality.m4a",
         "mediaType": "audio",
-        "tags": ["empoderamiento", "balance", "auto-defensa", "voz auténtica"]
+        "tags": [
+          "empoderamiento",
+          "balance",
+          "auto-defensa",
+          "voz auténtica"
+        ]
       },
       {
         "id": "malentendidos_sociales",
@@ -179,7 +219,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/09-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/09-personality.m4a",
         "mediaType": "audio",
-        "tags": ["malentendidos", "desarrollo", "social", "interpretación"]
+        "tags": [
+          "malentendidos",
+          "desarrollo",
+          "social",
+          "interpretación"
+        ]
       },
       {
         "id": "cuando_nadie_me_quiere",
@@ -189,7 +234,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/10-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/10-personality.m4a",
         "mediaType": "audio",
-        "tags": ["rechazo", "validación", "confianza", "perspectiva"]
+        "tags": [
+          "rechazo",
+          "validación",
+          "confianza",
+          "perspectiva"
+        ]
       },
       {
         "id": "ensenando_toma_perspectiva",
@@ -199,7 +249,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/11-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/11-personality.m4a",
         "mediaType": "audio",
-        "tags": ["perspectiva", "empatía", "comprensión", "desarrollo social"]
+        "tags": [
+          "perspectiva",
+          "empatía",
+          "comprensión",
+          "desarrollo social"
+        ]
       },
       {
         "id": "conflictos_amistad",
@@ -209,7 +264,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/12-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/12-personality.m4a",
         "mediaType": "audio",
-        "tags": ["conflictos", "amistad", "resolución", "habilidades"]
+        "tags": [
+          "conflictos",
+          "amistad",
+          "resolución",
+          "habilidades"
+        ]
       },
       {
         "id": "construyendo_confianza_social",
@@ -219,7 +279,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/13-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/13-personality.m4a",
         "mediaType": "audio",
-        "tags": ["confianza social", "autenticidad", "herramientas", "energía natural"]
+        "tags": [
+          "confianza social",
+          "autenticidad",
+          "herramientas",
+          "energía natural"
+        ]
       },
       {
         "id": "dinamicas_sociales_hermanos",
@@ -229,7 +294,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/14-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/14-personality.m4a",
         "mediaType": "audio",
-        "tags": ["hermanos", "práctica social", "competencia", "cooperación"]
+        "tags": [
+          "hermanos",
+          "práctica social",
+          "competencia",
+          "cooperación"
+        ]
       },
       {
         "id": "celebrando_naturaleza_hijo",
@@ -239,7 +309,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/15-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/15-personality.m4a",
         "mediaType": "audio",
-        "tags": ["celebración", "naturaleza única", "observación", "ambiente"]
+        "tags": [
+          "celebración",
+          "naturaleza única",
+          "observación",
+          "ambiente"
+        ]
       },
       {
         "id": "abrazando_camino_unico",
@@ -249,7 +324,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/personality_masterclass/16-personality.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/personality-mc-3-7/16-personality.m4a",
         "mediaType": "audio",
-        "tags": ["camino único", "regalo", "nutrir", "aceptación"]
+        "tags": [
+          "camino único",
+          "regalo",
+          "nutrir",
+          "aceptación"
+        ]
       }
     ],
     "scripts": [

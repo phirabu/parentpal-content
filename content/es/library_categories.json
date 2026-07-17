@@ -1,17 +1,6 @@
 {
   "categories": [
     {
-      "title": "Bebé",
-      "id": "baby",
-      "type": "age",
-      "subtitle": "0-12 meses",
-      "sortOrder": 1,
-      "resourceCount": 15,
-      "description": "Orientación esencial para el primer año de tu bebé",
-      "color": "#FFE4E1",
-      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
-    },
-    {
       "title": "Niño",
       "id": "child",
       "type": "age",

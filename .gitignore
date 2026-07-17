@@ -3,4 +3,5 @@
 **/.DS_Store
 ._*
 **/._*
-/converter
+/converterfirebase-debug.log
+.playwright-mcp/

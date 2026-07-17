@@ -99,7 +99,11 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/01-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/01-lying.m4a",
         "mediaType": "audio",
-        "tags": ["desarrollo", "honestidad", "comprensión"]
+        "tags": [
+          "desarrollo",
+          "honestidad",
+          "comprensión"
+        ]
       },
       {
         "id": "que_es_mentir",
@@ -109,7 +113,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/02-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/02-lying.m4a",
         "mediaType": "audio",
-        "tags": ["fantasía", "realidad", "desarrollo", "imaginación"]
+        "tags": [
+          "fantasía",
+          "realidad",
+          "desarrollo",
+          "imaginación"
+        ]
       },
       {
         "id": "por_que_ninos_mienten",
@@ -119,7 +128,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/03-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/03-lying.m4a",
         "mediaType": "audio",
-        "tags": ["emociones", "conexión", "aprobación", "relaciones"]
+        "tags": [
+          "emociones",
+          "conexión",
+          "aprobación",
+          "relaciones"
+        ]
       },
       {
         "id": "cuando_comienzan_mentiras",
@@ -129,7 +143,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/04-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/04-lying.m4a",
         "mediaType": "audio",
-        "tags": ["desarrollo", "edades", "expectativas", "cognitivo"]
+        "tags": [
+          "desarrollo",
+          "edades",
+          "expectativas",
+          "cognitivo"
+        ]
       },
       {
         "id": "mentiras_evitar_tareas",
@@ -139,7 +158,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/05-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/05-lying.m4a",
         "mediaType": "audio",
-        "tags": ["tareas", "responsabilidades", "límites", "cooperación"]
+        "tags": [
+          "tareas",
+          "responsabilidades",
+          "límites",
+          "cooperación"
+        ]
       },
       {
         "id": "mentiras_salir_problemas",
@@ -149,7 +173,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/06-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/06-lying.m4a",
         "mediaType": "audio",
-        "tags": ["consecuencias", "seguridad", "honestidad", "reparación"]
+        "tags": [
+          "consecuencias",
+          "seguridad",
+          "honestidad",
+          "reparación"
+        ]
       },
       {
         "id": "mentiras_buscar_elogios",
@@ -159,7 +188,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/07-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/07-lying.m4a",
         "mediaType": "audio",
-        "tags": ["atención", "validación", "conexión", "autoestima"]
+        "tags": [
+          "atención",
+          "validación",
+          "conexión",
+          "autoestima"
+        ]
       },
       {
         "id": "respuesta_inicial_mentiras",
@@ -169,7 +203,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/08-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/08-lying.m4a",
         "mediaType": "audio",
-        "tags": ["respuesta", "calma", "estrategia", "honestidad"]
+        "tags": [
+          "respuesta",
+          "calma",
+          "estrategia",
+          "honestidad"
+        ]
       },
       {
         "id": "creando_seguridad_honestidad",
@@ -179,7 +218,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/09-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/09-lying.m4a",
         "mediaType": "audio",
-        "tags": ["seguridad", "confianza", "ambiente", "verdad"]
+        "tags": [
+          "seguridad",
+          "confianza",
+          "ambiente",
+          "verdad"
+        ]
       },
       {
         "id": "entendiendo_por_que_roban",
@@ -189,7 +233,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/10-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/10-lying.m4a",
         "mediaType": "audio",
-        "tags": ["robo", "propiedad", "impulsos", "desarrollo"]
+        "tags": [
+          "robo",
+          "propiedad",
+          "impulsos",
+          "desarrollo"
+        ]
       },
       {
         "id": "encuentras_algo_no_pertenece",
@@ -199,7 +248,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/11-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/11-lying.m4a",
         "mediaType": "audio",
-        "tags": ["descubrimiento", "reparación", "enseñanza", "empatía"]
+        "tags": [
+          "descubrimiento",
+          "reparación",
+          "enseñanza",
+          "empatía"
+        ]
       },
       {
         "id": "celos_impulsan_robo",
@@ -209,7 +263,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/12-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/12-lying.m4a",
         "mediaType": "audio",
-        "tags": ["celos", "emociones", "validación", "manejo"]
+        "tags": [
+          "celos",
+          "emociones",
+          "validación",
+          "manejo"
+        ]
       },
       {
         "id": "conversaciones_familiares_honestidad",
@@ -219,7 +278,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/13-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/13-lying.m4a",
         "mediaType": "audio",
-        "tags": ["conversaciones", "valores", "integridad", "modelado"]
+        "tags": [
+          "conversaciones",
+          "valores",
+          "integridad",
+          "modelado"
+        ]
       },
       {
         "id": "fantasia_vs_realidad",
@@ -229,7 +293,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/14-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/14-lying.m4a",
         "mediaType": "audio",
-        "tags": ["imaginación", "creatividad", "fantasía", "verdad"]
+        "tags": [
+          "imaginación",
+          "creatividad",
+          "fantasía",
+          "verdad"
+        ]
       },
       {
         "id": "cuando_buscar_apoyo",
@@ -239,7 +308,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/15-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/15-lying.m4a",
         "mediaType": "audio",
-        "tags": ["apoyo profesional", "desarrollo normal", "patrones", "intervención"]
+        "tags": [
+          "apoyo profesional",
+          "desarrollo normal",
+          "patrones",
+          "intervención"
+        ]
       },
       {
         "id": "avanzando_confianza_comprension",
@@ -249,7 +323,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/lying_masterclass/16-lying.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/lying-mc-3-7/16-lying.m4a",
         "mediaType": "audio",
-        "tags": ["confianza", "comprensión", "integridad", "futuro"]
+        "tags": [
+          "confianza",
+          "comprensión",
+          "integridad",
+          "futuro"
+        ]
       }
     ],
     "scripts": [

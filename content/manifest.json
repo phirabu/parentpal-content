@@ -1,87 +1,43 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2026-03-29T00:00:00Z",
+  "lastUpdated": "2026-07-17T00:00:00Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
       "path": "content/en/emergencycoachscripts.json",
-      "required": true
+      "required": true,
+      "sha256Checksum": "f2c2738fd06f503d1ee50ee23ccb685f2c9d606d750840e1e50b524496e69eef"
     },
     "libraryCategories_en": {
       "filename": "library_categories.json",
       "path": "content/en/library_categories.json",
-      "required": true
+      "required": true,
+      "sha256Checksum": "9691610240f17cb44b823bd87a90842edd956e75c0083f78163a43bc2c31ad37"
     },
     "meditationCategories_en": {
       "filename": "meditation_categories.json",
       "path": "content/en/meditation_categories.json",
-      "required": true
+      "required": true,
+      "sha256Checksum": "d9bf0c260fcfdc9c08a6ec098db4048289774e63646a18211fa5bd2a20abfc9e"
     },
     "meditationContent_en": {
       "filename": "meditation_content.json",
       "path": "content/en/meditation_content.json",
-      "required": true
+      "required": true,
+      "sha256Checksum": "03c81ad00289adeb2776f619bf9a25f3c0b13c8760b5ba328a5bf71432aa030a"
     },
     "dailyAffirmations_en": {
       "filename": "daily_affirmations.json",
       "path": "content/en/daily_affirmations.json",
-      "required": true
+      "required": true,
+      "sha256Checksum": "653bc6ab17feeffd05a88c8380dc25a49bcdb9c6632cdddb995076edacae7f71"
     },
     "featureRequests_en": {
       "filename": "feature_requests.json",
       "path": "content/en/feature_requests.json",
-      "required": false
-    },
-    "emergencyCoachScripts_es": {
-      "filename": "emergencycoachscripts.json",
-      "path": "content/es/emergencycoachscripts.json",
-      "required": true
-    },
-    "libraryCategories_es": {
-      "filename": "library_categories.json",
-      "path": "content/es/library_categories.json",
-      "required": true
-    },
-    "meditationCategories_es": {
-      "filename": "meditation_categories.json",
-      "path": "content/es/meditation_categories.json",
-      "required": true
-    },
-    "meditationContent_es": {
-      "filename": "meditation_content.json",
-      "path": "content/es/meditation_content.json",
-      "required": true
-    },
-    "dailyAffirmations_es": {
-      "filename": "daily_affirmations.json",
-      "path": "content/es/daily_affirmations.json",
-      "required": true
-    },
-    "emergencyCoachScripts_de": {
-      "filename": "emergencycoachscripts.json",
-      "path": "content/de/emergencycoachscripts.json",
-      "required": true
-    },
-    "libraryCategories_de": {
-      "filename": "library_categories.json",
-      "path": "content/de/library_categories.json",
-      "required": true
-    },
-    "meditationCategories_de": {
-      "filename": "meditation_categories.json",
-      "path": "content/de/meditation_categories.json",
-      "required": true
-    },
-    "meditationContent_de": {
-      "filename": "meditation_content.json",
-      "path": "content/de/meditation_content.json",
-      "required": true
-    },
-    "dailyAffirmations_de": {
-      "filename": "daily_affirmations.json",
-      "path": "content/de/daily_affirmations.json",
-      "required": true
+      "required": false,
+      "sha256Checksum": "d53acb454b382e52e40475761ce41170928fee3461e009e1f362d75e6fe0510f"
     },
     "libraryTopics_en": {
       "type": "multifile",
@@ -102,7 +58,53 @@
         "content/en/library_topics/potty_training.json"
       ],
       "required": true,
-      "description": "Library topic files for EN"
+      "description": "Library topic files for EN",
+      "fileChecksums": {
+        "content/en/library_topics/parenting_foundations.json": "6617cf9188c90d8cce50aa392589a0e02a497aad84547ccf6af176bf0ba59b53",
+        "content/en/library_topics/child.json": "8487bfeff4d8361571a5f482a2c7671eb98ed84056ae34399db4136d8dd2a02a",
+        "content/en/library_topics/tantrums.json": "1ed39e0db5e3dc828473455cfb3e53c23c88fa2f4fe63c7930d8b3831f9378fb",
+        "content/en/library_topics/lying.json": "ba169649e7b9c1f860b7aa14c99317651f608d97e60af37245bc472c62cd6505",
+        "content/en/library_topics/whining.json": "5c238131c11634ffeb8d8014df34cc1c9147863d69214f2c3e346f4126573060",
+        "content/en/library_topics/winning.json": "1bea04ee823d18afd55bd2e1872cbbf5ba0cea492d8a28209db8c70deadae50c",
+        "content/en/library_topics/fears.json": "f05e5f912af7da1740e2d2841f4bd701ee0c40c53e4183168c73afc3d86719eb",
+        "content/en/library_topics/repairing.json": "0573de19117f544df312a452d783e9fc303a6ff4657cfb4a4ad256914ca0c901",
+        "content/en/library_topics/personality.json": "f32c70cb728b087cb1f38ce6671d982854a73703ddfe6dd87aa9e63a2a80d03d",
+        "content/en/library_topics/sleep.json": "71b9a920df6f7ab684bbf22aac9d6606c5d66bb1702d928a598be4532790efbd",
+        "content/en/library_topics/screen_time.json": "5b62f35f8b392e48512e0d6fbc520fa100ae234a3091a22a93907e1f6de38fd0",
+        "content/en/library_topics/change.json": "3e961dc88de42d774cbed28131061dca3869aff523a77b4248212575a599b20c",
+        "content/en/library_topics/discipline.json": "5a77140d7092d43e93f6756354d69d7820f839bd846299b45f53859006ab1c9c",
+        "content/en/library_topics/potty_training.json": "aa3dc15f080196a316cb13cfb9c01394a4dff616e28a109fa1fc11d387e7c009"
+      }
+    },
+    "emergencyCoachScripts_es": {
+      "filename": "emergencycoachscripts.json",
+      "path": "content/es/emergencycoachscripts.json",
+      "required": true,
+      "sha256Checksum": "df3378f6c345a8b940c4b7769cba8eda54dfeaf9ad77df9eba878eb965f670a9"
+    },
+    "libraryCategories_es": {
+      "filename": "library_categories.json",
+      "path": "content/es/library_categories.json",
+      "required": true,
+      "sha256Checksum": "d2615e7b93bb84a7f6c03ae15fdd8246aa0cda06fc29e5b1d3bca1deb296419c"
+    },
+    "meditationCategories_es": {
+      "filename": "meditation_categories.json",
+      "path": "content/es/meditation_categories.json",
+      "required": true,
+      "sha256Checksum": "fe1563d4b0072ee218cee6e05ef911693569af7fc21d78be1a563971080ad9c4"
+    },
+    "meditationContent_es": {
+      "filename": "meditation_content.json",
+      "path": "content/es/meditation_content.json",
+      "required": true,
+      "sha256Checksum": "d333df525d1896eae440c611e1c361507f3e715376ca54cacaa8b38042106465"
+    },
+    "dailyAffirmations_es": {
+      "filename": "daily_affirmations.json",
+      "path": "content/es/daily_affirmations.json",
+      "required": true,
+      "sha256Checksum": "ca0c1cd8e7a6a1d9d8c0b07375890885c3bdb80844fd44b6440d51c7b9250d7d"
     },
     "libraryTopics_es": {
       "type": "multifile",
@@ -123,7 +125,53 @@
         "content/es/library_topics/potty_training.json"
       ],
       "required": true,
-      "description": "Library topic files for ES"
+      "description": "Library topic files for ES",
+      "fileChecksums": {
+        "content/es/library_topics/parenting_foundations.json": "ad6b1fec2ef3a57d6d1c2ba1dfa987c7319e29689d817e24f678c06a306b055c",
+        "content/es/library_topics/child.json": "7fd47de03c9c459b7916ae77f028dcfa0b1c186bc45bc97c083f9906484d642b",
+        "content/es/library_topics/tantrums.json": "944e7200df887c55d48177745b122fc43c0b08accb38552091a8c502efe8ded6",
+        "content/es/library_topics/lying.json": "3f9aae773ed024c6d98c11b40b9b0ff078e1e21801b7b92eae8bb65cdcb2d420",
+        "content/es/library_topics/whining.json": "e878d0576265b5c11b10fb23cd3167e51496c3df58dd1d6e4321caa99ef0d3ae",
+        "content/es/library_topics/winning.json": "9b5b29d3e6a779054da5540ce4ede758a24eef862494c7142029b1ffd0f92dac",
+        "content/es/library_topics/fears.json": "0800ca21569b47115993d7437a32a6c62a38338585c5fad12b46bc311603d31a",
+        "content/es/library_topics/repairing.json": "f363772f053730ca46bdbd768264b17a12b31387fa88ee0330de8561f1419703",
+        "content/es/library_topics/personality.json": "82bfcd6e17343bc450526a1f7d1f833af155e2389e20bed6b8cac177a9e929c6",
+        "content/es/library_topics/sleep.json": "d9ccd8bd9e6d6c6de5053fba23e2a946b5a1637a0b23bbecaec4811e19545af2",
+        "content/es/library_topics/screen_time.json": "7217cc308f4901004cfe343b5892a21ed335a62e916061dfb5990ea95615c39c",
+        "content/es/library_topics/change.json": "060818fd836a88576eca8b3dcda0559cf585255bfb3e472e0e50cbfd83278a3c",
+        "content/es/library_topics/discipline.json": "e8327d801677cf5ce5e3fdd47dcb1f7fd7bc5410d0269c6e6761dfdf63540706",
+        "content/es/library_topics/potty_training.json": "9d089ef888f17273ccb8c500b74eb3df0b884e90f92f100575c64ffd16631ccd"
+      }
+    },
+    "emergencyCoachScripts_de": {
+      "filename": "emergencycoachscripts.json",
+      "path": "content/de/emergencycoachscripts.json",
+      "required": true,
+      "sha256Checksum": "0b23db5f2fe215bdeb88b76a97b916fd147f9438d969e36106d2c52769cb3ba9"
+    },
+    "libraryCategories_de": {
+      "filename": "library_categories.json",
+      "path": "content/de/library_categories.json",
+      "required": true,
+      "sha256Checksum": "0902e5848f446f49254df4cd9f6e6c9f4d2126275285f739e0bf9717dccd804b"
+    },
+    "meditationCategories_de": {
+      "filename": "meditation_categories.json",
+      "path": "content/de/meditation_categories.json",
+      "required": true,
+      "sha256Checksum": "745d78941c4b9fbc8b7e4c13224cd26b0a20b4f93a6dad090d8e7e00a325b5a9"
+    },
+    "meditationContent_de": {
+      "filename": "meditation_content.json",
+      "path": "content/de/meditation_content.json",
+      "required": true,
+      "sha256Checksum": "445c967dd4449e65a28d00cf4b3df783e173ba7eff35f507bcdd1a8b498554cb"
+    },
+    "dailyAffirmations_de": {
+      "filename": "daily_affirmations.json",
+      "path": "content/de/daily_affirmations.json",
+      "required": true,
+      "sha256Checksum": "d0e2aa26fb39c9d3b1bdd13c3145494873c35ff4cbd9f24b17673d5f9b717ab9"
     },
     "libraryTopics_de": {
       "type": "multifile",
@@ -144,7 +192,23 @@
         "content/de/library_topics/potty_training.json"
       ],
       "required": true,
-      "description": "Library topic files for DE"
+      "description": "Library topic files for DE",
+      "fileChecksums": {
+        "content/de/library_topics/parenting_foundations.json": "1154e758f62576782fe51074e53fbd282470b21c399c8e7a870b6789cf0d98fe",
+        "content/de/library_topics/child.json": "b33bd499112074c27fe9f559b79a377049f8bc6f223f97e5a795012c62bcd170",
+        "content/de/library_topics/tantrums.json": "1a3c98af278b82b07aeff65210fd5c270e8edd6cc8f4bcf930bbd287a1433b5e",
+        "content/de/library_topics/lying.json": "a1e003b399941ebf826e6bac1bf9a53b6ec31ea707afedcd460ed23a85eda09a",
+        "content/de/library_topics/whining.json": "2df622ebdcb3ea2700d33a7f3cd66b739f14afc50c0c622a930beb03fd8112e9",
+        "content/de/library_topics/winning.json": "8a78bb3e608513a22d8500821bda4565fa3c9de3b16f66c810cdaac5a588a55c",
+        "content/de/library_topics/fears.json": "53ea321b98d5974f8c350e5c4a2562f8d4f83b4f93a4b3d1f5d110c5d7f91766",
+        "content/de/library_topics/repairing.json": "1d0c21462d12e10229c2675ec4a037265e245b74eef1cf6b3b12c1451a879dc1",
+        "content/de/library_topics/personality.json": "2acdf232578973d68427230aee0532aa7b3c84b405eb43fd0a3ed76e503604f9",
+        "content/de/library_topics/sleep.json": "cf93c0c972b88467834dd7718776e7dc7dbb9f7e893337e69b41f0f4229f8727",
+        "content/de/library_topics/screen_time.json": "a04c67fb8b79623978ae420e15186beed8fe3a21d6dfddfa4586e8f8bfb1c9c5",
+        "content/de/library_topics/change.json": "4ac45ae0993c6c9431fd6603628db73db13bbc15faac43cc0939b682cbfc655d",
+        "content/de/library_topics/discipline.json": "16c6ed1b18c6c68ee0ee15100241d64be5f2e3d6819f07b80fb777288ce881b5",
+        "content/de/library_topics/potty_training.json": "41446bf947658537f2f2db1db05d4cea14699fe17c41fd73f71fc1fa9ba55658"
+      }
     }
   },
   "features": {

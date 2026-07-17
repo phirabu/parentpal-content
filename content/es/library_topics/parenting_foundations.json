@@ -99,7 +99,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/01-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/01-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["fundamentos", "principios", "confianza", "conexión"]
+        "tags": [
+          "fundamentos",
+          "principios",
+          "confianza",
+          "conexión"
+        ]
       },
       {
         "id": "brujula_emocional",
@@ -109,7 +114,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/02-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/02-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["emociones", "comportamiento", "comprensión", "conexión"]
+        "tags": [
+          "emociones",
+          "comportamiento",
+          "comprensión",
+          "conexión"
+        ]
       },
       {
         "id": "liderazgo_tranquilo",
@@ -119,7 +129,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/03-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/03-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["regulación", "liderazgo", "calma", "co-regulación"]
+        "tags": [
+          "regulación",
+          "liderazgo",
+          "calma",
+          "co-regulación"
+        ]
       },
       {
         "id": "limites_conectados",
@@ -129,7 +144,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/04-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/04-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["límites", "conexión", "amor", "estructura"]
+        "tags": [
+          "límites",
+          "conexión",
+          "amor",
+          "estructura"
+        ]
       },
       {
         "id": "lente_desarrollo",
@@ -139,7 +159,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/05-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/05-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["desarrollo", "cerebro", "expectativas", "normalidad"]
+        "tags": [
+          "desarrollo",
+          "cerebro",
+          "expectativas",
+          "normalidad"
+        ]
       },
       {
         "id": "mentalidad_crecimiento",
@@ -149,7 +174,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/06-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/06-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["crecimiento", "progreso", "aprendizaje", "resiliencia"]
+        "tags": [
+          "crecimiento",
+          "progreso",
+          "aprendizaje",
+          "resiliencia"
+        ]
       },
       {
         "id": "comunicacion_autentica",
@@ -159,7 +189,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/07-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/07-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["comunicación", "claridad", "directa", "confianza"]
+        "tags": [
+          "comunicación",
+          "claridad",
+          "directa",
+          "confianza"
+        ]
       },
       {
         "id": "reconocimiento_emocional",
@@ -169,7 +204,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/08-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/08-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["reconocimiento", "validación", "emociones", "presencia"]
+        "tags": [
+          "reconocimiento",
+          "validación",
+          "emociones",
+          "presencia"
+        ]
       },
       {
         "id": "presencia_consistente",
@@ -179,7 +219,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/09-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/09-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["presencia", "consistencia", "ancla", "disponibilidad"]
+        "tags": [
+          "presencia",
+          "consistencia",
+          "ancla",
+          "disponibilidad"
+        ]
       },
       {
         "id": "construyendo_conexion",
@@ -189,7 +234,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/10-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/10-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["conexión", "relación", "cooperación", "seguridad"]
+        "tags": [
+          "conexión",
+          "relación",
+          "cooperación",
+          "seguridad"
+        ]
       },
       {
         "id": "integrando_todo",
@@ -199,7 +249,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/11-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/11-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["integración", "aplicación", "práctica", "escenarios"]
+        "tags": [
+          "integración",
+          "aplicación",
+          "práctica",
+          "escenarios"
+        ]
       },
       {
         "id": "base_establecida",
@@ -209,7 +264,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/parenting_masterclass/12-foundations.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/foundations-mc-3-7/12-foundations.m4a",
         "mediaType": "audio",
-        "tags": ["confianza", "práctica", "paciencia", "progreso"]
+        "tags": [
+          "confianza",
+          "práctica",
+          "paciencia",
+          "progreso"
+        ]
       }
     ],
     "scripts": [

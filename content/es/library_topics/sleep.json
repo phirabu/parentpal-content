@@ -99,7 +99,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/01-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/01-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["bienvenida", "rutinas pacíficas", "colaborativo", "conexión"]
+        "tags": [
+          "bienvenida",
+          "rutinas pacíficas",
+          "colaborativo",
+          "conexión"
+        ]
       },
       {
         "id": "entendiendo_desafios_sueno",
@@ -109,7 +114,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/02-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/02-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["separación", "necesidades no satisfechas", "miedos", "resistencia"]
+        "tags": [
+          "separación",
+          "necesidades no satisfechas",
+          "miedos",
+          "resistencia"
+        ]
       },
       {
         "id": "enfoque_tres_pasos",
@@ -119,7 +129,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/03-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/03-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["crear historia", "compartir historia", "seguir adelante", "cooperación"]
+        "tags": [
+          "crear historia",
+          "compartir historia",
+          "seguir adelante",
+          "cooperación"
+        ]
       },
       {
         "id": "creando_tu_historia_sueno",
@@ -129,7 +144,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/04-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/04-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["colaboración", "ayudas visuales", "trabajo en equipo", "co-autores"]
+        "tags": [
+          "colaboración",
+          "ayudas visuales",
+          "trabajo en equipo",
+          "co-autores"
+        ]
       },
       {
         "id": "compartiendo_tu_historia",
@@ -139,7 +159,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/05-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/05-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["nuestro plan", "lenguaje positivo", "colaborativo", "preparación"]
+        "tags": [
+          "nuestro plan",
+          "lenguaje positivo",
+          "colaborativo",
+          "preparación"
+        ]
       },
       {
         "id": "siguiendo_adelante_consistentemente",
@@ -149,7 +174,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/06-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/06-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["consistencia", "confianza", "seguridad", "respuestas breves"]
+        "tags": [
+          "consistencia",
+          "confianza",
+          "seguridad",
+          "respuestas breves"
+        ]
       },
       {
         "id": "tacticas_dilacion_hora_dormir",
@@ -159,7 +189,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/07-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/07-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["dilación", "última oportunidad", "disco rayado", "validar límites"]
+        "tags": [
+          "dilación",
+          "última oportunidad",
+          "disco rayado",
+          "validar límites"
+        ]
       },
       {
         "id": "buenas_noches_no_es_adios",
@@ -169,7 +204,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/08-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/08-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["ansiedad separación", "anclas conexión", "rituales reunión", "permanencia"]
+        "tags": [
+          "ansiedad separación",
+          "anclas conexión",
+          "rituales reunión",
+          "permanencia"
+        ]
       },
       {
         "id": "convirtiendo_miedo_en_poder",
@@ -179,7 +219,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/09-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/09-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["miedos reales", "imaginación", "niño héroe", "herramientas concretas"]
+        "tags": [
+          "miedos reales",
+          "imaginación",
+          "niño héroe",
+          "herramientas concretas"
+        ]
       },
       {
         "id": "despertares_medianoche",
@@ -189,7 +234,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/10-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/10-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["interacciones breves", "caminar de vuelta", "consistencia nocturna", "presencia tranquila"]
+        "tags": [
+          "interacciones breves",
+          "caminar de vuelta",
+          "consistencia nocturna",
+          "presencia tranquila"
+        ]
       },
       {
         "id": "transicionando_desde_co_dormir",
@@ -199,7 +249,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/11-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/11-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["etapas graduales", "sin vergüenza", "ritmo del niño", "independencia"]
+        "tags": [
+          "etapas graduales",
+          "sin vergüenza",
+          "ritmo del niño",
+          "independencia"
+        ]
       },
       {
         "id": "cuando_hijo_necesita_presencia",
@@ -209,7 +264,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/12-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/12-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["más apoyo", "presencia sin compromiso", "desvanecimiento gradual", "micro-progreso"]
+        "tags": [
+          "más apoyo",
+          "presencia sin compromiso",
+          "desvanecimiento gradual",
+          "micro-progreso"
+        ]
       },
       {
         "id": "luchas_poder_alrededor_sueno",
@@ -219,7 +279,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/13-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/13-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["dos participantes", "opciones dentro límites", "consecuencias naturales", "neutral"]
+        "tags": [
+          "dos participantes",
+          "opciones dentro límites",
+          "consecuencias naturales",
+          "neutral"
+        ]
       },
       {
         "id": "reflexion_diaria_progreso",
@@ -229,7 +294,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/14-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/14-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["progreso no lineal", "patrones semanales", "celebrar esfuerzo", "regresión normal"]
+        "tags": [
+          "progreso no lineal",
+          "patrones semanales",
+          "celebrar esfuerzo",
+          "regresión normal"
+        ]
       },
       {
         "id": "construyendo_rutinas_saludables",
@@ -239,7 +309,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/15-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/15-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["rutina 45-60 minutos", "mismo orden", "actividades tranquilizantes", "horarios visuales"]
+        "tags": [
+          "rutina 45-60 minutos",
+          "mismo orden",
+          "actividades tranquilizantes",
+          "horarios visuales"
+        ]
       },
       {
         "id": "outro_sueno_hora_dormir",
@@ -249,7 +324,12 @@
         "thumbnailUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/library/sleep_masterclass/16-sleep.jpg",
         "mediaUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library-content/es/sleep-mc-3-7/16-sleep.m4a",
         "mediaType": "audio",
-        "tags": ["kit herramientas", "cambio toma tiempo", "viaje único", "pasos pequeños"]
+        "tags": [
+          "kit herramientas",
+          "cambio toma tiempo",
+          "viaje único",
+          "pasos pequeños"
+        ]
       }
     ],
     "scripts": [

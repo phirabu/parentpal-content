@@ -1,12 +1,8 @@
-# readme.md
+# RootWise / ParentPal Content — Delivery Mirror
 
-## Prompt to update media content with claude:
+⚠️ **This repository is a GENERATED delivery mirror — do not edit it directly.**
 
-I have created new media files. Can you please update the media section of the following files: 
-
-
-Please use the following files as reference: 
-
-The audio descriptions including the image and audio links are stored in the following files: 
-
-Please show an example how you update the file.
+`content/` is built and published automatically by CI from the private source
+repository (`parentpal`, `content-src/`). Manual changes here will be
+overwritten by the next publish. `images/` and `audio/` are delivered binary
+assets referenced by the content.
