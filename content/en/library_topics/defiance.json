@@ -108,6 +108,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "defiance_script_01",
+        "title": "The Getting-Dressed Wall on a Cold Morning",
+        "scenario": "You're minutes from leaving, it's freezing out, and your child has planted themselves — no coat, no shoes, arms crossed, a flat \"no\" to every ask. The more you hurry them, the harder they set.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "\"You don't have to want your coat. It's coming with us either way — you can put it on here where it's warm, or carry it and decide in the car. I'll be by the door.\"\n\nIf it stalls, go light: \"Wild plan: we move to a warm country so you never wear a coat again?\"\n\nTo yourself: \"I don't force the coat on. I make it leave with us. That part's mine.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Set the real boundary as your own action: the coat leaves with you; whether it goes on now or in the car is genuinely their call\n- Offer the choice over timing, then step back a beat instead of hovering over the decision\n- Move your own body calmly toward the door rather than narrating their refusal\n- Keep your tone unbothered — your urgency is the fuel the standoff runs on"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Prep the exit the night before — clothes laid out, a ten-minute buffer built in — so the clock isn't a third person in the fight. Most morning standoffs shrink when time pressure does."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_02",
+        "title": "The Nightly Hair-Detangling Battle",
+        "scenario": "Every single night, the comb comes out and the fight begins — twisting away, \"NO, it hurts,\" a standoff over tangled hair that turns a two-minute job into twenty.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Validate the exact complaint first: \"Something about the comb on your head really doesn't feel good. I believe you — it pulls, and you're done with it.\"\n\nThen go playful: \"Should we just let it grow into a giant nest? Move a couple of sparrows in? Name them?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name the specific resistance (it pulls, it's boring) before the comb touches anything — feeling understood lowers the fight\n- Set it up early and the same way each night — detangler ready, calm timing — so it's not a nightly ambush\n- Hand over a small real control: they hold the spray, or pick top-down or bottom-up\n- When it jams, get silly; a shared laugh unlocks more cooperation than any push"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If it's genuinely painful, make the whole thing lower-stakes — a shorter style, a leave-in spray, a wide-tooth comb. Recurring standoffs ease fastest when the sensory part gets easier, not when you win the nightly argument."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_03",
+        "title": "\"You Can't Make Me Turn It Off\"",
+        "scenario": "The agreed episode is ending and your child digs in — \"you can't make me turn it off\" — and every reach toward the screen ramps them up another notch.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Make the boundary your own action: \"When this episode ends, I'm turning the screen off. You don't have to be happy about it.\"\n\nPair the no with a yes: \"I won't let the show keep going — and you get to pick what's next: fort or trampoline?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Keep the limit on your side: you end it at the agreed stopping point — don't require them to press the button or hand anything over\n- Give one heads-up (\"this is the last one, then it's off\"), then follow through calmly, straight through the protest\n- Attach an appealing next thing to the \"off\" so the energy has somewhere to go\n- Expect the complaint and don't read it as failure — the limit held IS the success"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Decide the screen rule in daylight, not mid-show: a fixed stopping point you enforce (\"shows end when the timer sings\"), so it isn't re-negotiated from scratch every time."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_04",
+        "title": "The Cleanup They Agreed To — Then Refused",
+        "scenario": "Blocks everywhere, dinner's ready, and the tidy-up you both agreed on an hour ago is suddenly \"not fair, you can't make me.\" A small job has become a line in the sand.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Offer a genuine choice, then hand it over: \"You can start with the blocks or the cars — either one, totally up to you.\" Then look away and let them own it.\n\nIf they're jammed: \"You're the fastest red-block sorter in this house. Go.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Offer a real two-option choice you fully accept, then stop watching — oversight turns a choice back into a test\n- If they're stuck, steer toward the part of the job they feel like a champion at, and let the rest follow — without announcing the move\n- Skip the fairness debate entirely; you won't win it, and it isn't the real issue\n- Keep the task small and clearly doable, not a marathon"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Bake the job into a predictable rhythm — cleanup before dinner, every night — so it becomes a routine instead of a fresh negotiation each evening."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_05",
+        "title": "\"I Didn't Do It\" When You Both Know They Did",
+        "scenario": "Your younger one's block tower is in ruins, the older one was right there, and now it's a flat, stony \"I didn't do it\" — even as you both know exactly what happened.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Skip the interrogation: \"The tower got knocked down and your sister's really sad. I'm not playing detective — let's just help fix it.\"\n\nLater, a story of your own: \"When I was little, I knocked my brother's whole marble run over on purpose. I was so embarrassed I swore up and down it wasn't me...\" — then stop, no lesson attached."
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't demand a confession; it corners a shame-filled kid into a bigger denial\n- Reconnect first, then invite repair through action (help rebuild) rather than a forced sorry\n- Tell a short, true story of your own childhood slip — including that you hid it too — and let it sit unfinished\n- Give honesty room to arrive later, on their clock"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The truth may surface hours or days later, once the shame drops. When it does, meet it warmly — resist \"I knew it all along,\" which just re-teaches that honesty gets punished."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_06",
+        "title": "\"I'm Never Listening to You Again!\"",
+        "scenario": "Mid-task, your child erupts with the big one: \"I'm NEVER doing anything you say again!\" It's designed to land, and the pull to argue it back is strong.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Don't debate the threat. Name the tug-of-war: \"Part of you is so done taking directions right now. And part of you might still want to finish. Both of those make sense.\" Then wait.\n\nTo yourself: \"That's a big feeling talking, not a life plan.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Let the dramatic line pass without arguing it — arguing forces them to defend it\n- Name the internal conflict out loud without solving it, then give them quiet space to land\n- Keep reverse psychology as a rare back-pocket move for a depleted moment — never the default, and never announced\n- Stay warm; the threat is a flare, not a verdict on you or your relationship"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, when it's calm, name the strength inside the storm — \"you really stand your ground\" — so that fierce will gets cast as an asset, not only a problem."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_07",
+        "title": "The Parking-Lot Hand-Pull",
+        "scenario": "Every trip across the parking lot is the same test — the hand yanks free, the little body veers off, and you're managing safety and a power struggle at the same time.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Set it as your own action, in advance: \"In parking lots I keep you with me — hand in mine, or riding in the cart. That's my job, not a punishment.\"\n\nOffer choice inside the rule: \"Hand or cart — you pick. But one of them, every time.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Decide and state the rule before you open the car door, not after they dart — so it isn't a live negotiation in a dangerous spot\n- Make the boundary your action: you hold the hand or seat them in the cart; you don't rely on them choosing to stay close\n- Offer a real choice inside the non-negotiable (hand or cart) to feed the control need without loosening safety\n- If they pull, calmly re-anchor and keep moving — minimal words, no lecture"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Rehearse the rule in low-stakes places — the driveway, a quiet path — so it's already wired before it's tested near moving cars."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. In traffic areas keep hold and block or steer to safety rather than chasing; for a child bolting toward genuine danger, physical safety comes first. See the red-flags card and the tantrums chapter on holding safety in big meltdowns."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_08",
+        "title": "When You Start Tiptoeing Around Your Own Kid",
+        "scenario": "You catch yourself doing it — skipping the limit, dropping the request, steering around anything that might set off the meltdown. Life is quieter, but you've started parenting scared.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, first: \"Her reaction isn't an emergency I have to prevent. I can hold a small limit and stay steady while she's upset.\"\n\nTo your child, an ordinary limit you'd been dodging, plainly: \"We're doing this now.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Notice the pattern without beating yourself up — quietly pre-caving is common and very human\n- Pick ONE small limit you've been avoiding and put it back, then let the reaction come\n- Stay steady through the storm; you're teaching that big feelings are survivable and welcome, not too much for anyone to hold\n- Expect gradual change, not an overnight turnaround — this is a slow lever, and it genuinely works"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Each limit you hold and weather makes the next one easier for both of you. If dread is running your parenting day to day, get some support for yourself too — see the red-flags card."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_09",
+        "title": "\"She Got To, So I'm Not!\"",
+        "scenario": "Your older child plants at bedtime because the younger one got to do something they didn't — and now their own routine is off, purely on principle. \"Not fair, so no.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Don't open the fairness court: \"You two are on different plans — that's just how it works here.\" Said once, then move.\n\nMove to your own action, plus a redirect: \"I'm getting your bath going. And I need the fastest-pajama-change in recorded history — think you've got it?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Skip the fairness case entirely; \"different kids, different plans\" is the whole answer, delivered once and calmly\n- Shift to your own action rather than issuing commands at them\n- Redirect toward something they shine at — a race, a job they own — to break the standoff without naming the move\n- Guard their separate one-on-one time so \"she got more\" carries less charge in the first place"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Meeting each child's actual needs — rather than handing out identical everything — lowers fairness fights over time. See the chapter on heading off power struggles."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_10",
+        "title": "When a Threat to Hurt Flies Out Mid-Meltdown",
+        "scenario": "At the peak of a refusal, your child screams that they're going to hurt you — or their sibling. It lands like a slap. Underneath it is a kid frightened by how big and out-of-control they feel.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Assert the limit as reassurance, not a dare: \"I won't let you hurt me, and I won't let you hurt your brother. I'll keep everyone safe. You're not in trouble — you're overwhelmed.\"\n\nOffer the power an outlet: \"That big, strong feeling needs somewhere to go — push on this wall with me, hard as you can.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Answer the fear under the threat, calm and firm: you won't allow harm and you'll keep everyone safe — said as comfort, because a child testing their own limits needs to know a trusted adult won't let it go too far\n- Once it lands, offer a safe outlet for the wish to feel powerful (pushing a wall, squeezing a cushion)\n- Keep everyone safe by calmly blocking or shielding only — never wrestling or restraining\n- Talk less; be the steady presence, not the lecturer"
+          },
+          {
+            "title": "Follow-up",
+            "content": "This is defiance tipping toward a safety moment. For the general response to serious threats, see the whenchildsays chapter on serious threats and safety concerns; if it turns physically dangerous, follow the tantrums chapter on holding safety in big meltdowns. Repair warmly once everyone is calm."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm; block or shield rather than hold. Follow local guidance; seek professional support if unsure. For real, specific threats of harm, consult a mental-health professional — see the red-flags card."
+          }
+        ]
+      }
+    ]
   }
 }

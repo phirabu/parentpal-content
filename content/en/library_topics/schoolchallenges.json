@@ -108,6 +108,221 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "schoolchallenges_script_01",
+        "title": "Weeks of 'I'm Not Going,' Not Just a Rough Monday",
+        "scenario": "For a month now, most mornings start the same — stomachache, tears, \"please don't make me go.\" Weekends he's fine. You're out of patience and out of ideas, and part of you wonders if you're being played.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, before you knock on his door: \"He's not fighting me. He's fighting something I can't see yet. My steady is the plan.\"\n\nTo him, calm and warm: \"Your body really doesn't want to go in right now. I get that — AND we're still getting you there, together. You don't have to want it. You just have to let me help.\"\n\nWhen he asks why he has to: \"Because going is how we figure out what's making it feel so big — and I'll be right beside you while we do.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Look for the pattern before the fix: same class, same kid, same time of day, or panic about the work itself? The shape points to the cause\n- Hold warmth and the boundary together — validate hard, keep the answer \"we go\"\n- Feel your own anger or dread before the doorway, not in it\n- Get the school onto one plan with you: shared words, a familiar adult at the hardest moment"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Progress here is small and uneven, not a clean return — count tiny wins. If weeks of steady effort move nothing, or you see hopelessness, changes in eating or sleeping, or panic that floods his body, bring in your pediatrician and the school counselor together. That's a next step, not a failure."
+          },
+          {
+            "title": "Safety note",
+            "content": "Sustained school refusal with hopelessness, panic, or changes in eating or sleeping warrants professional support — start with your pediatrician and school counselor. Keep mornings warm and firm; avoid physical force."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_02",
+        "title": "The Fractions Worksheet Ends in Tears and a Torn Page",
+        "scenario": "Twenty minutes into the math, the pencil snaps down, the worksheet gets crushed, and it's full tears: \"I CAN'T do it, I'm so stupid.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Nothing clever first. Just narrate: \"Pencil's down, page is crumpled, and those fractions still won't line up. This is the worst part.\"\n\nTo the \"I can't\": \"There's that loud 'I can't' voice again — it always shows up right at the hard bit. It doesn't get to decide what's true.\"\n\nSpeak to the want: \"You wanted this whole page done and off your desk — AND it's taking way longer. No wonder you're furious.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Sportscast what's happening; don't fix or hint while he's flooded — nothing lands yet\n- Name \"I can't\" as one loud voice, not a fact; don't argue it with \"yes you can\"\n- Once he's calmer, offer a single next step, not the whole page\n- If he tips past reach, drop teaching entirely — calm and safety first, math later"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Reflecting the feeling can make him louder before calmer — that's normal, and it works over many reps, not one. For the general skill of standing inside frustration, see the frustration-tolerance guide."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_03",
+        "title": "'Just Do It For Me' — The Warm No",
+        "scenario": "Stuck on the last two problems, she slides the paper over: \"You do it. You're good at this, just write the answers.\" It would take you ten seconds and end the whining.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "\"I can tell you want to be done — and I'm not writing them for you. Not because I won't help, but because I'd be stealing the click — that little snap of 'I got it' that only counts when it's yours.\"\n\n\"I'll sit right here. Read me the first one out loud?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Refuse warmly and stay physically close — the boundary is about the task, not your attention\n- Say the caring reason out loud; don't just decline\n- Offer scaffolding (read it together, do the first step alongside) — help with the process, not the answer"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Doing it for her repeatedly teaches that frustration ends by rescue. The full warm-boundary logic is in the frustration-tolerance guide; here it's aimed at the homework table."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_04",
+        "title": "One Crossed-Out Word and the Whole Page Gets Ripped Up",
+        "scenario": "He's writing a book report, makes one spelling slip, crosses it out — and loses it. \"It's RUINED, I have to start over,\" and he's tearing the sheet in half.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Don't reassure the standard (\"it looks great!\") — that just proves you don't feel how wrong it feels to him. Instead: \"That one crossed-out word feels like it wrecks the whole thing. Finishing the wrecked-looking one anyway is the hard, brave part — let's do it together.\"\n\nGet curious, not corrective: \"Walk me through it — what would make this page okay? … And the crossed-out one really isn't? How come?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Protect finishing the imperfect version over fixing the error; save any correction for a calm, low-stakes moment\n- Ask him to explain his own standard out loud — the inconsistency surfaces on its own\n- Notice the effort and the sticking-with-it, not the neatness"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Naming the perfectionistic inner voice is covered in depth in the confidence guides — pair that move with the standard-loosening ones here."
+          },
+          {
+            "title": "Safety note",
+            "content": "Relentless self-criticism that won't lift with steady support, or avoiding things rather than risk imperfection for weeks, warrants a chat with your pediatrician or a child therapist."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_05",
+        "title": "'I Don't Care About Any of It Anymore'",
+        "scenario": "The kid who used to bring home every graded quiz now shrugs: \"Grades are stupid, I don't care.\" It sounds less like the truth and more like a wall going up.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "In the moment, almost nothing: \"Okay. You don't care right now. I heard you.\" (Then let it drop — don't argue him back into caring.)\n\nLater, calm and sideways: \"Could be I'm wrong — but my hunch is some corner of you isn't as done with this as the rest of you sounds. That's all.\"\n\nNaming the shame gently: \"I think it feels safer to say it doesn't matter than to want it and get let down. You don't owe me an answer.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Treat \"I don't care\" as armor over the risk of caring and still failing — not a real change of heart\n- Refuse to fight the wall; leave a quiet door instead\n- Keep saying you believe in what he can do, unhooked from any grade"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A short, unfinished story of a time you quit something you'd secretly wanted can normalize it — no moral attached. If the flatness spreads to everything he used to love, see the red-flags card."
+          },
+          {
+            "title": "Safety note",
+            "content": "Lasting flatness spreading beyond school — lost interest in everything, withdrawal from friends, any talk of hopelessness — warrants your pediatrician or a counselor."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_06",
+        "title": "Walking Out of Every Conference Feeling Only the Bad",
+        "scenario": "You have a conference Thursday and already know the feeling: a list of what's wrong, a knot in your stomach, and the sense your kid is falling behind — even when she's mostly fine.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself at the door: \"This is my whole child, start to finish. The next twenty minutes are one snapshot, not the album.\"\n\nBefore it wraps: \"Before we finish — can you tell me one concrete thing she's really doing well? I want to carry that home too.\"\n\nTo your child beforehand: \"Tomorrow your teacher and I are just comparing notes, like grown-ups do about every kid. It's not a good-or-bad verdict on you.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Anchor on who she is before a word of feedback — you're there to hear clearly, not to defend\n- Bring two or three written questions; the room's pull makes you forget them otherwise\n- Ask, out loud, for one thing going well — the format hands you only gaps by default"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A meeting weighted toward growth areas is the format working as designed, not a verdict. For the same-side stance with a teacher year-round, see the kindergarten-prep teacher guide."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_07",
+        "title": "The School Called — He Hit Another Kid",
+        "scenario": "Pickup comes with news: your son shoved a classmate and wouldn't apologize. He's in the back seat, jaw set, ready to deny everything the second you ask.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Open with the identity/behavior split (see the kindergarten-prep teacher guide), then: \"Something happened at school today. We'll sort it out together — and you're not in trouble for telling me the truth.\"\n\nIf he denies it: \"You don't have to tell me it was you. I'm just wondering what might make a kid want to shove someone right in that moment.\"\n\nTell on your past self: \"When I was about your age, a kid took the swing I'd been waiting for and I shoved him hard. I felt awful after. Took me a long while to learn what to do with that hot, unfair feeling instead of my hands.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Skip the confession hunt — pushing for \"admit it\" stacks shame and rarely gets the truth\n- Go sideways: talk about why it might have happened, not whether it did\n- Put the coping move inside your story, not as advice tacked on after"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A day or two later, offer to act out a do-over — you play the tough part, he plays the calmer one, switch only if he wants. Practice needs a calmer kid than the first raw conversation."
+          },
+          {
+            "title": "Safety note",
+            "content": "Escalating or dangerous aggression, or distress spilling well past the incident, needs the school's support staff and your pediatrician — not just a home talk. Prioritize safety; avoid physical restraint unless needed to prevent imminent harm."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_08",
+        "title": "'My Teacher Hates Me' — When It Isn't Actually Unsafe",
+        "scenario": "Your daughter is convinced her teacher is too strict and singles her out. Nothing you've heard sounds unsafe — no shaming, no fear — but she feels picked on and it's souring school.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Affirm the feeling without putting the teacher on trial: \"It really feels like she's harder on you than the others. That's a rotten way to feel walking in every day.\"\n\nProtect her security: \"Here's what I know — your teacher does see the good in you, even on the days it's hard to feel. And my faith in you doesn't ride on how that one classroom is going.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Validate her experience without adjudicating whether the teacher is truly unfair\n- Keep any real doubts you have about the teacher on a grown-up track, away from her ears\n- Coach a small in-class move (how to ask for help, what to do when corrected) rather than promising to \"fix\" the teacher"
+          },
+          {
+            "title": "Follow-up",
+            "content": "This is everyday friction, not the red-flag version. If she becomes genuinely frightened, or you hear about shaming or anything unsafe, that crosses into school-support-staff territory — see the red-flags card."
+          },
+          {
+            "title": "Safety note",
+            "content": "If a child is genuinely frightened of a teacher, or there is shaming or anything unsafe, loop in school support staff and your pediatrician."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_09",
+        "title": "'I'm NEVER Doing the Recital — Maybe When I'm Grown Up'",
+        "scenario": "She loves the recorder at home but has dug in hard against the class recital: \"I'm never doing it. Maybe when I'm an adult.\" Every push makes her grip tighter.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Skip the direct argument. Get curious about the standard: \"Help me understand — what would have to be true for the recital to feel okay? … And playing at home is fine, but a stage isn't? What's the difference for you?\"\n\nTake the clock off: \"There's no deadline on this one. It'll happen when it happens — not on a schedule, and not to prove anything to anyone.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't lead with the loaded thing — build flexibility in low-stakes spots first and let it travel\n- Widen her control elsewhere in the day; a kid who feels powerless grips hardest where she still has a say\n- Let her articulate her own rule out loud — the inconsistency tends to surface on its own"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Removing the pressure often loosens the avoidance the pressure was feeding. If the rigidity is spreading across many areas of life, see the perfectionism guide and the red-flags card."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_10",
+        "title": "Back to School After a Long Absence Feels Too Big",
+        "scenario": "After a few weeks out — illness, then a rough patch — a full day back feels impossible to your child, and to you. The all-or-nothing of \"just go back Monday\" clearly won't work.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To your child: \"We're not doing the whole day cold. We'll start small and add on — first just seeing your teacher, then a class, then more. You'll always know the plan before we go.\"\n\nPairing hope with the hard: \"This part is genuinely hard right now — AND right now isn't forever. We climb it one step at a time.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Break it into achievable steps: a short visit, meeting a familiar adult somewhere low-stakes, then a partial day\n- Treat seeing peers as a foundation, not a reward for improving first\n- Build the ladder WITH the school — one shared plan, an extra familiar adult at the hardest moment"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect nonlinear progress; a step back after a hard day is part of the climb, not its collapse. If there's no movement over weeks of steady effort, bring in your pediatrician and school counselor together."
+          },
+          {
+            "title": "Safety note",
+            "content": "A stalled return despite steady effort, or signs of a broader struggle, warrants your pediatrician and the school counselor together."
+          }
+        ]
+      }
+    ]
   }
 }

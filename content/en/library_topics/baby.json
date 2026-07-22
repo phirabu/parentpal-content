@@ -94,6 +94,179 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "baby_script_01",
+        "title": "The Feeling That Scares You: Not Sure You Wanted This",
+        "scenario": "A few weeks in, you catch yourself flat, resentful, maybe wondering whether you even wanted this — and then a second fear lands on top: that feeling this way means something is wrong with you.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, plainly: \"I'm not failing a test here. This is one of the most demanding things there is, and it's meant to stretch me.\"\n\nThe whole sentence, not just the acceptable half: \"I'm keeping this baby fed, warm, and loved — and I also miss my old life so much it aches.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name that overwhelm here is a fair match to the situation, not a sign that you're the problem\n- Let the feelings be mixed and contradictory — love, grief, boredom, and resentment can share one hour without any of them being the 'true' one\n- Protect one small thing that keeps you feeling like yourself, and say the specific losses out loud instead of pretending there were none\n- Refuel before you're empty; hand the baby off for twenty minutes without earning it first\n- Tell one real person the unedited version — the relief is in being met, not in being fixed"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Ordinary overwhelm comes in waves and eases between them. A low mood that won't lift, an inability to function, frightening thoughts, or rage toward the baby is something else, and it deserves real help — talk to your doctor or midwife."
+          },
+          {
+            "title": "Safety note",
+            "content": "Ordinary overwhelm differs from postpartum depression or anxiety. Persistent hopelessness, intrusive thoughts, or urges to harm the baby warrant prompt contact with a doctor, midwife, or a crisis line. This is common and treatable, not shameful."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_02",
+        "title": "Will I Spoil Him If I Don't Jump Every Time?",
+        "scenario": "Your baby fusses and part of you leaps — but you've also heard you'll 'spoil' him, and now you're unsure whether answering with words instead of an instant fix, or taking a beat, is quietly harming him.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name the want as you go: \"You want to be up in my arms. I hear you — I'm coming.\"\n\nWhen you need a moment: \"You're cross about waiting, and I get it. Nearly done, then my hands are yours.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Trust that responsive love doesn't spoil a baby — it builds the security they'll later explore from\n- Treat naming the want as a real answer, not a stall: the message a baby reads is 'someone sees me and is on my side'\n- Use either move as it fits — resolve it now, or acknowledge it and meet it in a moment; the second is not the lesser one\n- Never skip the out-loud acknowledgment, even when you're about to fix it anyway — that's the part that reassures\n- Take a bounded minute for a genuine need when your baby is safe, as long as you name the wait rather than go silent"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The early responsiveness you're worried about is the very thing that grows a secure, independent child later. You're not building a bad habit; you're laying a foundation."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_03",
+        "title": "Safe but Furious: When to Let a Struggle Be",
+        "scenario": "Your baby is straining for a toy just past their fingers — or working hard at rolling — and getting louder and redder by the second. Nothing is wrong, but every cell in you wants to swoop in and hand it over.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name it and stay: \"You want that so badly, and it's just out of reach. So frustrating. I'm right here with you.\"\n\nTo yourself, first: \"Nothing is wrong here. This is hard work, not an emergency. I can breathe and stay.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Sort it before you act: frustration gets your calm company; fear or danger gets an immediate rescue. When unsure, comfort\n- Take one steadying breath before responding — that pause alone changes what you pass to your baby\n- Stay close and narrate calmly instead of erasing the struggle; your steadiness is the help\n- Notice your own itch to fix, and let it pass — the urge is often about your comfort as much as theirs\n- Reach for distraction only now and then; leaned on every time, it teaches escape from a feeling rather than room to sit in it"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Your calm presence during the struggle matters far more than how fast the skill arrives or how your baby compares to others. If you're genuinely worried about development, that's a conversation for your pediatrician — not a home comparison."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_04",
+        "title": "3 A.M. and It's You Who's Falling Apart",
+        "scenario": "The house is dark, the baby is stirring again, and the person actually drowning right now is you — lonely, wrung out, dreading the next stretch.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, slow: \"So many of us are awake in this exact minute. I can be this tired and still be steady.\"\n\nAnd: \"This hour is hard, and this hour will pass.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Steady yourself first with one long breath before you do anything for the baby\n- Give your own middle-of-the-night feeling the same gentleness you'd give your baby's — it's real and it counts\n- Remember you're genuinely not alone in it; countless caregivers are awake right now too\n- Keep your expectations of yourself small at night — staying kind and safe is the whole of it, not optimizing anything\n- Line up your refueling and your asks for help in daylight, when you can actually think"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Exhaustion and dread at night are a human limit, not a character flaw. If they harden into a hopelessness that won't lift, tell your doctor or midwife — you matter here too."
+          },
+          {
+            "title": "Safety note",
+            "content": "If night exhaustion tips into persistent low mood, hopelessness, or intrusive thoughts, contact your doctor or midwife promptly."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_05",
+        "title": "Go In or Wait? The Question With No Magic Number",
+        "scenario": "You're frozen in the hallway at a night waking, running the same loop — do I go in now, how long is too long, am I letting him cry too much?",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself: \"Physical needs first. Then I read the cry. Checking is never the wrong call.\"\n\nReading it: \"Fed, dry, warm, safe — this sounds like the cross kind of crying, not the scared kind.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Rule out the physical before anything else — hunger, a wet nappy, too hot or cold, anything unsafe. This step is non-negotiable and comes first\n- Once that's clear, make the one judgment that's yours: does this sound like frustration, or like fear? Comfort fear right away; you can give frustration a slower, calmer beat\n- Factor in your own reflex — first-sound responder, or higher tolerance for fussing — so you answer your baby, not your habit\n- When you truly can't read it, go in; there is no prize for waiting"
+          },
+          {
+            "title": "Follow-up",
+            "content": "There is no universal right number of minutes — anyone who hands you one is guessing. Any question about a specific sleep-training method, or how long to let a baby cry, is one for your pediatrician or a qualified sleep consultant. A cry that seems like pain, or comes with fever or a baby who's hard to rouse, is a medical matter first."
+          },
+          {
+            "title": "Safety note",
+            "content": "Behavioral reading applies only after physical and medical causes are ruled out. Specific sleep-training methods and cry durations should be decided with a pediatrician or qualified sleep consultant, never from general advice."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_06",
+        "title": "A Real Plan for Dropping the Pacifier",
+        "scenario": "You're ready to move on from the pacifier (or the thumb), and you want an actual plan — not one more reminder that it's normal.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Reframe it warmly: \"You love your paci — it helps your body feel calm. We're going to find another way to get that calm feeling.\"\n\nHolding the limit: \"I know. You really want it. It lives in its box now, and I'm going to stay right here while you're sad about it.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name your own reason for changing now before you start; if you can't find one, the timing may not be right yet\n- Pick a calm stretch with no other big changes stacked on it — no house move, new sibling, or new caregiver in the same window\n- Hold the limit warmly and firmly at once, and let the feelings be big — you can be completely kind and completely firm together\n- Offer a replacement for the soothing you're removing: another comfort object, a light calming touch, a slow breath you take together\n- Prepare and rehearse in daylight first — talk through what changes and what stays, maybe letting a favorite toy 'go first'"
+          },
+          {
+            "title": "Follow-up",
+            "content": "One hard night is not a preview of forever — steady, kind repetition settles it. Any question about teeth, the roof of the mouth, or speech goes to your pediatric dentist or pediatrician, not to a home judgment."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_07",
+        "title": "Crib to Bed Without the Dread",
+        "scenario": "The move from crib to a real bed is coming, and you're bracing for it — the getting up, the wandering out, the resisting a setup that used to hold itself together with four walls.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Prepare in daylight: \"Your big bed is yours now, and it comes with one rule — after lights-out, we stay tucked in. I'll help your body learn it, and we'll practice first.\"\n\nAt the door, warm and low: \"It's sleep time. Back into bed. I love you. I'm close.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Get clear on your reason and pick a calm window with nothing else big changing at once\n- Prepare and rehearse: walk through the new routine in daytime play so the real night feels familiar\n- Offer a replacement anchor for what the crib's walls used to provide — a special blanket, a soft toy, a low light your child helps choose\n- Keep any returns to bed calm, warm, and unexciting; a big reaction in either direction becomes the reason to do it again\n- Hold the limit while allowing the protest — their upset is a feeling, not proof the change is wrong"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect it to settle within a couple of weeks of steady, unexciting consistency — one rocky night is not the new forever. A child who can now leave the bed needs a fully childproofed room and secured furniture."
+          },
+          {
+            "title": "Safety note",
+            "content": "Childproof the room and anchor furniture — a young child who can now get out of bed at night needs a safe room. Avoid physical restraint; keep returns to bed calm and gentle."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_08",
+        "title": "When the Meltdown Makes You Doubt Your Decision",
+        "scenario": "You've decided to stop nursing. Three days in, the bedtime protest is still enormous — long, tearful, reaching for the old routine — and the size of it has you wavering about the whole decision.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, first: \"Wanting to stop is reason enough. A big protest is a feeling, not a veto.\"\n\nHolding it warmly: \"Nursing is all done now. You're allowed to be really upset, and I'm going to stay right here with you.\"\n\nNaming what stays: \"We still snuggle, still read, still have our quiet time. That part isn't going anywhere.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Let your own want be the starting point, separate from whether your child seems 'ready' by any outside measure\n- Prepare outside the heated moment — name in advance, calmly, what's changing and why\n- Hold the limit gently and physically when needed, calmly preventing it while validating the feeling; a boundary describes what you'll do, not something you make your child accept\n- Let the guilt ride along without steering — you can feel it and still keep your decision\n- Pour the closeness that came with nursing into other channels — cuddles, stories, a special few minutes"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A hard protest is not evidence your child 'isn't ready' — it's evidence they have feelings about a change, which is expected. Anything about the timing or the how of weaning, or any physical concern for you or your child, is a question for your midwife, pediatrician, or a lactation consultant."
+          },
+          {
+            "title": "Safety note",
+            "content": "Hold boundaries gently; avoid physical restraint beyond calmly blocking the behavior. Timing, method, and any physical or health concerns about weaning belong with a midwife, pediatrician, or lactation consultant."
+          }
+        ]
+      }
+    ]
   }
 }

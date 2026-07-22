@@ -80,6 +80,237 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "emotional_intensity_script_01_es",
+        "title": "Cuando las palabras se convierten en \"te odio\"",
+        "scenario": "En plena rabieta, tu hijo de 5 años te lanza lo peor que tiene — \"te odio\", \"ni siquiera me quieres\", \"ojalá viviera en otra casa\". Va directo a ti, y duele.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Bajo y firme, sin igualar su calor: \"Puedes estar así de enojado conmigo. No me voy a ninguna parte.\"\n\n\"Esas palabras tan grandes me dicen qué tan grande es este sentimiento. Estoy escuchando la parte grande.\"\n\nAl miedo debajo de las palabras, no a las palabras: \"No eres demasiado para mí. Puedo sostener esto contigo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Escucha la frase como una forma torpe de preguntar \"¿esto es real para ti?\" — no como una crueldad que busca herir\n- No discutas las palabras ni corrijas los hechos (\"no lo dices en serio\"): eso añade calor y se pierde lo que importa\n- Contesta al miedo que cargan las palabras: a no importar, a no ser querido, a ser demasiado\n- Quédate cerca; mantén tu voz por debajo de la suya; deja que la ola pase sin ningún sermón"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, de lado y con ligereza — no cara a cara: \"Los sentimientos grandes a veces dicen cosas disparatadas. Eso no cambia nada entre nosotros.\" No hace falta repasar de nuevo lo que se dijo."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si las palabras de tu hijo o hija apuntan a hacerse daño o a un 'ojalá no estuviera aquí', tómalo en serio — responde al miedo, mantenlo a salvo, y contacta cuanto antes a tu pediatra o a un terapeuta infantil. Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_02_es",
+        "title": "\"¡Déjame en paz!\" (cuando no quieren que te vayas de verdad)",
+        "scenario": "Tu hijo de 6 años está en pleno colapso y grita \"¡vete, déjame en paz!\" — pero sientes que no es seguro dejarlo solo, y lo más probable es que te llame de vuelta apenas salgas.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "\"Está bien. Te doy tu espacio — me voy a sentar aquí mismo, junto a la puerta, no lejos.\"\n\n\"No me voy. Me quedo callada. No tienes que mirarme.\"\n\nCuando vuelva a acercarse: \"Aquí estoy. Nunca me fui lejos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Escucha el \"vete\" como \"esto es demasiado para que alguien me vea ahora mismo\", no como un deseo real de que te vayas\n- Honra el pedido de distancia sin honrar el abandono — retrocede un par de pasos, pero quédate en el cuarto\n- Baja la voz y suelta el contacto visual; una presencia suave, de costado, amenaza menos que una solución cara a cara\n- Si hay algún peligro real, la cercanía pesa más que el pedido — acércate con calma para mantener a todos a salvo"
+          },
+          {
+            "title": "Después",
+            "content": "En calma, más tarde: \"Cuando los sentimientos se hacen enormes, siempre me voy a quedar cerca — aunque me necesites en silencio. Eso es una promesa.\" Adelantar el plan suaviza la próxima vez."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Honra el pedido de distancia solo mientras sea seguro hacerlo; acércate si hay riesgo de daño. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_03_es",
+        "title": "Hablar de eso sin hablar de eso",
+        "scenario": "Un momento difícil ya pasó, pero cada vez que intentas retomarlo tu hijo de 5 años se cierra — \"no hables de eso\", \"no me mires\". El momento todavía necesita revisitarse; la versión de frente sigue sin funcionar.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Uno al lado del otro, con las manos ocupadas — dibujando, en el coche, lavando platos: \"Las mañanas difíciles son solo difíciles, ¿eh?\"\n\nDiseñando hacia adelante en lugar de mirar hacia atrás: \"¿Quieres inventar una señal secreta para cuando los sentimientos se hagan enormes? La eliges tú — yo la sigo.\"\n\nO todo el repaso en una sola frase, con un abrazo: \"Esa fue difícil. Estamos bien.\" Y nada más."
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Habla uno al lado del otro, no de frente en la mesa — las manos ocupadas y sin contacto visual bajan la exposición\n- Mueve la conversación hacia adelante en el tiempo: diseñar juntos qué ayudará la próxima vez se siente como poder, no como exposición\n- Deja que una sola frase alcance algunos días — reconocido y cerrado gana a interrogado y acorralado\n- Escucha el \"no hables de eso\" como \"así no\" — un pedido de un canal más suave, no un no"
+          },
+          {
+            "title": "Después",
+            "content": "Algunos días lo dejas pasar por completo — está permitido, sobre todo cuando tú misma estás sin fuerzas. Revisitar construye un recuerdo más tranquilo; no tiene que pasar hoy mismo."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Estas son herramientas de reparación para el día a día, no un sustituto de ayuda profesional cuando un patrón es severo o persistente. Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_04_es",
+        "title": "Cuando un solo error se convierte en \"soy terrible en todo\"",
+        "scenario": "Tu hijo de 6 años dibuja una línea torcida y se derrumba — \"no puedo hacer NADA, soy el peor\". Un tropiezo diminuto acaba de convertirse en un veredicto sobre sí mismo, de cabo a rabo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Lento y bajo, nada de discurso motivador: \"Uy. Esa estuvo complicada. Respiremos un segundo.\"\n\n\"Estás teniendo un sentimiento grande por un tropiezo pequeño. Aquí estoy.\"\n\nNómbralo sin adornos, no lo discutas: \"Esta es la parte que se siente horrible. Se pasa. Yo espero contigo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Baja el ritmo en lugar de contraatacar — el autoataque es un sentimiento veloz, no un hecho que haya que refutar\n- Sáltate las pruebas (\"¡pero dibujas súper bien!\") — la evidencia solo le añade urgencia a la espiral\n- Baja la voz y el ritmo; deja que la intensidad suba a su pico y baje antes de hacer cualquier otra cosa\n- Una vez en calma, propón el siguiente pasito para darlo juntos, no un discurso sobre los errores"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, muestra el tuyo propio: \"Hoy me topé con mi propio sentimiento de soy-la-peor cuando se me quemó la cena. Es ruidoso, ¿eh? — y siempre se pasa.\" Compartir el tuyo hace que el suyo se sienta menos solitario."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si la autocrítica se asienta en un 'soy malo' fijo, o si tu hijo o hija deja de intentar cualquier cosa que cueste esfuerzo durante semanas, consulta a tu pediatra o a un terapeuta infantil. Prioriza la seguridad; busca apoyo si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_05_es",
+        "title": "Ponerle nombre a la \"voz del Hazlo-Bien\"",
+        "scenario": "Tu hijo de 5 años está empezando a paralizarse con cosas que antes le encantaban — abandona un dibujo a la mitad, se niega a subir a las barras — cualquier cosa donde exista el riesgo de no salirle bien a la primera.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Muestra primero la TUYA, antes de siquiera sugerir que tu hijo o hija tiene una: \"Uf, hoy mi voz del Hazlo-Bien está muy fuerte — quiere mis letras perfectamente derechas, y le molesta que me hayan salido tambaleantes.\"\n\nMás tarde, ofrece la suya con ligereza: \"Me pregunto si tú también tienes una voz así — una que se enoja cuando el dibujo sale distinto a como lo planeaste.\"\n\nAntes de algo que ya saben que es difícil: \"Ahí viene tu voz del Hazlo-Bien. Saludémosla con la mano y hagámoslo de todos modos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Presenta la idea nombrando tu propia versión en voz alta, varias veces, antes de ofrecérsela a tu hijo o hija\n- Dale a ese impulso un nombre simpático para que se convierta en algo que se nota, no en algo que se obedece\n- \"Saluden\" juntos a la voz antes de una tarea difícil — reconocida y compartida gana a privada y avergonzante\n- Mantenlo ligero y de juego; esto es hacerte amigo del impulso, no regañarlo"
+          },
+          {
+            "title": "Después",
+            "content": "El día que la nombre por su cuenta — \"mi voz del Hazlo-Bien está MUY mandona\" — ese es el logro. Acabas de convertir una presión privada y avergonzante en algo que los dos pueden ver y molestar con cariño."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_06_es",
+        "title": "El colapso por una imperfección diminuta",
+        "scenario": "La pegatina quedó un poco torcida, o la torre de bloques no está perfectamente pareja, y tu hijo de 4 años se desarma por completo. La imperfección es diminuta y no tiene ninguna consecuencia real — pero la angustia es enorme.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Responde primero al tamaño: \"Eso NO es para nada como lo querías. Enséñame qué tan frustrante — ¿más grande que la mesa? ¿Más grande que la casa?\"\n\nDespués dale la vuelta, en broma: \"Uy — ¿quieres jugar a Hazlo Torcido? El primero que se equivoque a propósito gana.\"\n\n\"Equivocarse es la meta de este juego. Estamos a la caza de errores.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Valida la magnitud antes de arreglar nada — el sentimiento es real aunque la causa se vea pequeña\n- Haz que el error deje de ser un fracaso a evitar y se vuelva la meta misma del juego\n- Comete un error a propósito tú misma, con alegría, para que vean que se sobrevive\n- Mantén todo con pocas consecuencias y un poco tonto; un error que se busca a propósito ya no puede ser también un desastre"
+          },
+          {
+            "title": "Después",
+            "content": "Nombra el patrón con suavidad otro día: \"A veces un poquito torcido se siente como algo enorme. Nos estamos volviendo expertos en el juego de equivocarnos a propósito.\" La práctica va encogiendo la carga."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_07_es",
+        "title": "Cuando un mal momento se convierte en \"siempre\" y \"nunca\"",
+        "scenario": "Un tiro fallado en el entrenamiento de fútbol, y ahora tu hijo de 6 años está seguro de que \"soy el peor de todo el equipo, NUNCA voy a meter un gol\". Un momento único y acotado se convirtió en una condena de por vida.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "El sentimiento antes que el dato: \"Eso suena como un sentimiento pesado y feo.\"\n\nNo corrijas la historia — ponte curioso por ese momento exacto: \"¿Qué pasó justo antes de que empezara a sentirse así?\"\n\n\"Hoy pasó algo que te dolió. Quiero escuchar ese momento exacto.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Evita corregir la afirmación (\"eso no es cierto, ¡tienes amigos!\") — se convierte en una discusión que va a defender\n- Valida primero el tamaño del sentimiento; la intensidad es el mensaje real, no la exactitud literal\n- Después, ve acotando con suavidad hacia el momento exacto que lo disparó — la exageración se suaviza en cuanto sale a la luz el momento real\n- Mantente curioso, no correctivo; estás ayudando a encontrar el hecho real que hay debajo de la afirmación general"
+          },
+          {
+            "title": "Después",
+            "content": "Una vez que sale el momento real, casi siempre se encoge solo. Más tarde: \"Un minuto difícil en el entrenamiento — no la temporada entera. Aunque sí dolió de verdad, y estoy de tu lado.\""
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Para acoso sostenido, exclusión, o un niño que se retrae socialmente durante semanas, consulta a un pediatra o a un consejero. Prioriza la seguridad; busca apoyo si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_08_es",
+        "title": "Contarles un cambio que van a resistir",
+        "scenario": "Se acerca un cambio — un salón nuevo, una hora de dormir más tarde, una rutina distinta — y sabes que tu hijo de 5 años va a protestar con fuerza, no porque el cambio sea malo, sino porque es desconocido.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombra la causa real — lo nuevo, no lo malo: \"Algo va a ser diferente pronto. Lo nuevo puede dar miedo incluso cuando todo está bien. Eso es normal.\"\n\nAsegúrale que no es un castigo: \"Esto no es porque hayas hecho algo. Es solo un cambio, y te voy a ayudar a prepararte.\"\n\nAchica lo desconocido: \"Juguemos a Adivina el Salón Nuevo — apuesto a que hay una pecera. ¿Tú qué apuestas?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Empieza por explicar por qué es difícil para ESTE niño en particular — la pila de detalles desconocidos —, no por la logística del cambio\n- Di con claridad que no es una consecuencia; lo desconocido ya se siente como suficiente amenaza por sí solo\n- Convierte de antemano unas cuantas incógnitas en cosas conocidas: un nombre, una foto, una visita, un juego de adivinanzas\n- Si la protesta llega de todos modos, mantén la rutina en marcha con suavidad en lugar de discutirla punto por punto"
+          },
+          {
+            "title": "Después",
+            "content": "La cuenta regresiva general y los pasos de la rutina matutina están en las guías de preparación para el colegio — esto es la capa extra: menos sorpresas, no una venta más emocionante. Espera tener que repetirlo con calma más de una vez."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_09_es",
+        "title": "Explicarle a una maestra nueva cómo es tu hijo o hija",
+        "scenario": "Empieza un año escolar o una actividad nueva, y quieres explicarle a la maestra o al entrenador cómo es tu hijo o hija que siente todo con intensidad antes de que pasen los momentos difíciles — con pedidos concretos, no solo un aviso general.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "El rasgo en palabras simples, sin tecnicismos: \"Sus sentimientos van rápido y a lo grande. Así está hecha ella — no es desafío ni teatro, y no puede simplemente apagarlo.\"\n\nDesde el mismo equipo: \"Me encantaría que pensáramos juntas qué la ayuda a tener un buen año.\"\n\nLos tres pedidos: \"Cuando la cosa se pone grande, quedarse cerca de ella ayuda mucho más que una consecuencia. Cualquier redirección funciona mejor en privado que delante de la clase. Y ayuda muchísimo si puede compartir pequeñas historias de 'a mí también me cuesta esto' antes de algo nuevo y difícil.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Explica el rasgo con palabras de todos los días, antes de que empiecen los problemas — nada de etiquetas clínicas\n- Enmárcalo como una meta compartida, no como una crítica a cómo maneja su salón\n- Haz los tres pedidos de forma concreta: cercanía por encima de castigo, privacidad por encima de corrección pública, permiso para pequeñas historias que quiten vergüenza\n- Ofrece compartir lo que ya funciona en casa; mantén un tono de colaboración"
+          },
+          {
+            "title": "Después",
+            "content": "La relación más amplia con la maestra — reuniones, actualizaciones continuas — está cubierta en la guía de preparación para el colegio sobre la maestra. Esta es la conversación específica de \"así está hecho mi hijo o hija\" que conviene tener desde el principio."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_10_es",
+        "title": "Cuando ser celebrado se siente como demasiado",
+        "scenario": "Empieza la canción de cumpleaños, o todo el salón se da la vuelta para aplaudir a tu hijo de 5 años por un premio, y en lugar de alegría se derrumba, sale corriendo o colapsa. Hasta la atención cálida y positiva puede desbordar a este niño.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Hónralo, no lo avergüences: \"Todas esas miradas de golpe fueron demasiado, ¿eh? No estás siendo grosero — solo se sintió como mucho.\"\n\nOfrece control de antemano: \"En la fiesta, puede que canten la canción. ¿Quieres apagar las velas conmigo justo al lado, o mirar desde mi regazo?\"\n\n\"No tiene que encantarte ser el centro de atención. Siempre podemos hacerlo en pequeño.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Lee el respingo ante una atención sorpresa como algo propio del rasgo — el mismo cableado, no mala educación ni ingratitud\n- Da aviso previo y una opción sobre cualquier momento bajo los reflectores, en lugar de sorprenderlo\n- Ofrece una salida o un amortiguador — a tu lado, en tu regazo, una versión más pequeña\n- Nunca fuerces la actuación ni el agradecimiento en el momento; conversen con calidez más tarde, si acaso"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, sin ninguna presión: \"Viste la canción desde mi regazo y eso estuvo perfecto así. Siempre podemos hacer los momentos grandes a tu medida.\""
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -80,6 +80,171 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "entitlement_script_01",
+        "title": "The Wrong Present, With the Whole Family Watching",
+        "scenario": "Family lunch, everyone watching. Your child tears the paper off Aunt Mara's present, finds a puzzle book instead of the dragon figure they'd circled in the catalog for weeks, and says it right out loud: \"Oh. I wanted the dragon.\" The table goes quiet. Your face goes hot.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To your child, low and close, feeling first: \"Not the one you were picturing. I saw that land.\"\n\nTo yourself, right now: \"The hot face is mine. Handle her feeling; my embarrassment can wait.\"\n\nLater, privately — not a squeezed-out thank-you: \"In the moment you were let down, and that's allowed. Aunt Mara also picked that out thinking of you. Let's find a way to let her know we saw that.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Go to the feeling before the manners — name the letdown, skip the forced \"say thank you\" while the room is still warm\n- Buy a graceful beat if you need one: \"Let's get some water,\" a few steps away, then back\n- Carry your own embarrassment separately — it's real, but it isn't your child's to fix\n- Do the repair with the relative later and privately, never as a mid-table performance"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If big gift moments reliably go this way, get ahead of the next one in a calm moment — see the reframe in ch01 and the gratitude practice in ch03. For steadying a full meltdown as it happens, tantrums/ch11."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_02",
+        "title": "\"I'm NOT Eating That\" — Reading the Tone at the Table",
+        "scenario": "Dinner hits the table and your child recoils like you served gravel: \"Ugh, I'm NOT eating that.\" Same tone they had at the wrong gift last week, and at the lost card game before that. You feel the word \"ungrateful\" starting to rise.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Feeling first, no debate about the food yet: \"You were hoping for something else tonight. I hear that.\"\n\nNaming the real skill, calm and light: \"Getting something you didn't want is a rotten little moment. You don't have to love dinner — you do have to let me eat mine.\"\n\nTo yourself, for later: \"Is this about the food, or about disappointment in general? Where else does she hit this same wall?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Meet the tone as disappointment, not defiance — name it, don't prosecute it\n- Skip the gratitude lecture at the table; it lands as nagging and teaches nothing while it's hot\n- Privately, run the pattern check: if the same flare shows up at puzzles, waiting, and losing too, the real work is disappointment tolerance across the board (ch01; tantrums/ch11), not this one meal\n- Hold your own limit without heat: the meal stays; the feelings about it are allowed"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A single grumpy dinner is nothing. A wall at every small letdown is the thing worth working — in calm moments, not at the table. See ch01 for the reframe and ch03 for building the other side."
+          },
+          {
+            "title": "Safety note",
+            "content": "Keep the focus on the tone, not on forcing food; pressure around eating is counterproductive and can create its own struggles."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_03",
+        "title": "Starting Chores Without Starting a Fight",
+        "scenario": "You want your kid pitching in, but every time you picture starting, you picture a standoff — so you keep not starting. Where do you even begin without it turning into a nightly battle?",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Seed the identity first, days before any chore: \"You grabbed the napkins without me asking — that's a real helper move.\"\n\nOffer a real choice, same-side tone: \"We're each going to own one job to keep our home running. Want to pick yours — sorting the recycling, or filling the water glasses at dinner?\"\n\nPoint at the chart, not the child: \"Let's put it up here so the LIST does the reminding, not me.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Seed identity before assignment — catch and name small helpful moments so \"I'm a helper\" is already forming before any task lands\n- Set your own posture first: walk in sure they're capable and this is shared home-keeping, not a battle to win\n- Let them choose from a couple of real options — buy-in comes along with the choosing\n- Put up a visible chart so a forgotten job is a glance at the list, not a character trial or a nag-fest\n- First few weeks: praise that they showed up, nothing yet about how well (see script 04)"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect wobble — it's a practice, not a switch. If pushback sets in later, get curious about what's blocking it rather than pulling a privilege (ch04). Keep allowance OUT of this (ch05), so helping stays about family, not pay."
+          },
+          {
+            "title": "Safety note",
+            "content": "Choose age-appropriate tasks and keep cleaning products, sharp tools, and choking hazards out of reach."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_04",
+        "title": "When the First Attempts Are Messy",
+        "scenario": "Two weeks into your kid's new job and the results are… rough. The bed's a lumpy heap, half the toys missed the bin. Your hand itches to fix it in front of them, or to point out everything they missed.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Effort only, and mean it: \"You did the whole thing on your own. THAT'S what I'm watching for right now.\"\n\nIf you must redirect, keep it warm and next-time: \"You're getting the hang of it. We'll sharpen the corners another day.\"\n\nTo yourself, hand down: \"Correct it now and I teach quitting. The neat version shows up later, from reps.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Judge the showing-up, not the polish, for the first stretch — that's the whole assignment right now\n- Bite back the fix-it-in-front-of-them urge; redoing their work out loud says \"I didn't think you could\"\n- Save quality coaching for weeks from now, once the habit is steady — competence ripens out of uncriticized practice\n- Let \"good enough for a beginner\" actually be good enough"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If it stays genuinely undoable much later, coach ONE small piece at a time, warmly — never a pile of corrections at once. That early no-critique window is what keeps them willing to keep trying. See ch04."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_05",
+        "title": "How Much Allowance — and Should Chores Pay?",
+        "scenario": "You're ready to start an allowance and stuck on two questions: how much, and should it be the payoff for chores? Everyone seems to have a different rule.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, on the amount: \"Not a chart number — a lesson number. What do I want them practicing: patience, saving, sharing a little?\"\n\nTo your child, drawing the line: \"This isn't pay for chores. Helping at home is a family thing. This is separate — it's yours, to practice choosing with.\"\n\nHanding over the real coins: \"Real money, your hand, your call. Save it for the big want or spend it on the small one.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Pick the amount for the lesson you're after, not off anyone's formula — whatever fits your family is the right number\n- Use real, physical money they can hold; a number on a screen stays abstract at this age\n- Keep it UNhooked from chores on purpose: pay-for-helping turns \"we pitch in because we're family\" (ch04) into \"what's it worth to me?\" — a hard shift to reverse\n- Set a few off-limits categories, then let their choices really decide the rest — including one you'd never make\n- Write it down together: what it's for, how much, how often, what's being saved toward"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect an early regretted purchase — that small, safe regret is the point, so don't reverse it. If you want giving in the mix, try splitting the money toward spending, saving, and sharing. See ch05."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_06",
+        "title": "The Checkout Meltdown Over Something They Just Spotted",
+        "scenario": "Mid-errand, your child locks onto something by the checkout and the \"pleeease\" ramps into a full public meltdown when you say no. Strangers are looking. You can feel your own face burning.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Feeling first, decision unchanged: \"You want it SO much, and it's still not today. That's a rotten mix — I know.\"\n\nNaming your own heat, silently: \"The stares are landing on ME. That's mine. Her feeling is hers. Don't swap them.\"\n\nNo bargaining, warm and short: \"You can be upset the whole way to the car. The answer's still no.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Meet the want as real disappointment, not a plot — name it, hold the no\n- Don't renegotiate under the audience; a yes now teaches that a big enough scene reopens a closed no\n- Handle your own embarrassment separately — the watched feeling is yours to carry, not hers to cure\n- If it keeps climbing, calmly move the whole thing outside — exit first, talk later (tantrums/ch11)"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Constant in-the-moment wanting is best worked away from the checkout: build the \"enough\" and where-things-come-from muscles in calm moments (ch03), and let an allowance make waiting structural (ch05)."
+          },
+          {
+            "title": "Safety note",
+            "content": "In public spaces keep your child within reach so a meltdown can't become a bolt toward traffic or exits. Prioritize safety; move to a calm spot if needed."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_07",
+        "title": "When It's Never Enough",
+        "scenario": "It's never enough. New thing, brief thrill, \"what's next?\" by the weekend. Saying no more often just turns up the volume — you want to grow the part that feels full, not just police the wanting.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "The \"enough\" wondering, in a calm moment: \"Weird question — what's ENOUGH stuffies? Is there a number? How would your body know it got there?\"\n\nTracing the journey: \"Somebody's hands made this. Grew it, packed it, drove it here. Long trip to your shelf, huh?\"\n\nQuestioning the reflex, out loud about yourself: \"I could buy this. Money's right here in my pocket. And… I'm leaving it. Don't need it enough.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Work this OUTSIDE the wanting moments — calm, curious questions, never a lecture after a \"gimme\"\n- Grow the word \"enough\": what it means, whether it moves, how not-enough and just-enough feel different — wanting has no brakes without it\n- Trace where ordinary things come from, so the invisible effort behind them becomes visible\n- Let them watch YOU walk away from something you could easily buy — seen restraint beats told restraint"
+          },
+          {
+            "title": "Follow-up",
+            "content": "This is a slow muscle, not a switch — expect it to build over months (ch03). Pair it with an allowance so waiting and trade-offs get real practice, not just talk (ch05)."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_08",
+        "title": "Three Days of Dodging the Chore They Chose",
+        "scenario": "The chore your kid picked and agreed to? Third day running, they've dodged it. You catch yourself thinking words like lazy, ungrateful — and reaching for \"fine, no screen time until it's done.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Curiosity instead of the threat: \"Third day this one hasn't happened. Something about it isn't working — tell me what?\"\n\nCatching your own story, silently: \"If I brand her lazy, even in my head, that's the kid I'll start growing. Not doing that.\"\n\nRe-inviting, same side: \"Want to trade it for a different job, or figure out what's in the way together?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Read a run of resistance as information, not defiance — get curious about the block before anything else\n- Skip the unrelated-privilege threat; it breeds the exact \"my kid appreciates nothing\" story you're trying to avoid\n- Watch your private narration — the label you rehearse about them becomes the self they grow into (ch04)\n- Offer a re-choose or a joint problem-solve; a job they re-own is one they'll actually do"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If the resistance is really about the task feeling like pointless busywork, let them help reshape it into a real contribution — collaborative choice is the preventive here (ch04). Keep pay out of it (ch05)."
+          }
+        ]
+      }
+    ]
   }
 }

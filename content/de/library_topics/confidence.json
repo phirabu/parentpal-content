@@ -94,6 +94,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "confidence_script_01",
+        "title": "Eine Tante lobt Aussehen oder Klugheit deines Kindes, direkt ins Gesicht",
+        "scenario": "Beim Familienessen sagt eine Tante deinem Kind immer wieder, direkt ins Gesicht, wie hübsch und klug es ist. Gut gemeint, aber du spürst, wie es als Druck ankommt. Du willst deine Tante nicht korrigieren, und das Etikett soll auch nicht kleben bleiben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Im Moment, locker, ohne die erwachsene Person zu korrigieren: „Sie hat aber viele Meinungen über dich, Glück gehabt!\" Und weiter geht's.\n\nSpäter, unter vier Augen: „Tante hat heute oft gesagt, du bist klug und hübsch. Wie war das zu hören? … Es gibt keine falsche Antwort, ich bin einfach neugierig.\"\n\nHat es deinem Kind gefallen: „Klar, das fühlt sich schön an, UND du bist so viel mehr als nur das.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Widersprich der anderen erwachsenen Person nicht vor deinem Kind: Das gibt eine Szene und bringt niemandem etwas bei\n- Gib das Etikett später an dein Kind zurück, damit es selbst abwägt, ohne dass du das Urteil lieferst\n- Richte dein eigenes Lob danach auf das, was dein Kind selbst in der Hand hat: wie freundlich, wie neugierig, wie sehr es sich anstrengt"
+          },
+          {
+            "title": "Danach",
+            "content": "Das ist ein Handgriff zum Wiederholen, keine einmalige Sache. Mit der Zeit lernt dein Kind, jedes Etikett, schmeichelhaft oder nicht, als eine Meinung von außen wahrzunehmen, die man bemerkt, nicht als Tatsache, die man schluckt."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_02",
+        "title": "„Ich kann gar nichts richtig\" mitten in einer schwierigen Aufgabe",
+        "scenario": "Dein Kind baut gerade an einer Murmelbahn, die immer wieder einstürzt, und dann platzt es heraus: „Ich kann gar nichts richtig. Ich bin der Schlimmste.\" Es ist nicht faul und will auch nicht wirklich aufgeben, es steckt fest und ist überflutet.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst die freundliche Deutung, laut: „Du bist nicht schlecht darin. Du bist an einen schweren Teil gekommen, und der setzt dir gerade zu.\"\n\nBenenn die Stimme: „Klingt, als wäre die Nie-gut-genug-Stimme gerade laut. Was sagt sie?\"\n\nDann die mutigere: „Okay, was könnte deine andere Stimme darauf antworten? … ‚Dieser Teil ist hart, UND Hartes hab ich schon geschafft.' Willst du dir die ausleihen?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lies den Zusammenbruch als unbenanntes schweres Gefühl, nicht als Faulheit: Reagier mit Neugier, nicht mit einer Motivationsrede oder einer Konsequenz\n- Trenn den Gedanken vom Kind: Es ist eine Stimme, die es hört, keine Wahrheit über sich selbst\n- Bleib in der Nähe und lass dein Kind das nächste kleine Stück mit dir zusammen versuchen, ohne dass du übernimmst"
+          },
+          {
+            "title": "Danach",
+            "content": "Pflanz später, in Ruhe, die Vorwarnung ein: „Nächstes Mal, wenn wir bauen, raten wir, wann die Nie-genug-Stimme auftaucht, dann kann sie dich nicht überrumpeln.\" Für das Coaching der Aufgabe selbst im Moment schau dir den Leitfaden zur Frustrationstoleranz an."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_03",
+        "title": "Wenn ein halbfertiges Projekt vor Frust zerstört wird",
+        "scenario": "Dein Kind formt einen Hund aus Knete. Die Beine knicken immer wieder um, und plötzlich drückt es die ganze Figur platt: „Das ist blöd. Ich hör auf.\" Die Tränen sind gleich dahinter.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Begegne dem Gefühl, nicht der Knete: „Ohh. Es ist nicht so geworden, wie du es dir vorgestellt hast, und das ist so frustrierend.\"\n\nGib dem Impuls eine Gestalt: „Dieses Alles-plattdrücken-Gefühl, das ist die ‚wenn's nicht perfekt ist, ist es hinüber'-Stimme. Die kenn ich auch.\"\n\nBiete die Tür zurück an: „Der Hund kann erstmal liegen bleiben. Wenn du bereit bist, reparieren wir ein Bein, nur eins, zusammen. Oder du fängst neu an. Du entscheidest.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Rette nicht die Knetfigur und schimpf nicht wegen des Plattdrückens: Geh zur Enttäuschung darunter\n- Benenn den perfektionistischen Impuls als einen Teil, damit er nicht das ganze Kind ist\n- Lass die Entscheidung, wieder einzusteigen, bei deinem Kind: Erzwungenes Weitermachen füttert nur die Stimme"
+          },
+          {
+            "title": "Danach",
+            "content": "Zeig an einem ruhigen Tag deine eigene Version: Vertu dich absichtlich bei etwas Kleinem, sag „nicht perfekt, aber gut genug\", und lass dein Kind zusehen, wie du weitermachst."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_04",
+        "title": "„Sehe ich gut aus?\" – Die Alltags-Spiegelfrage",
+        "scenario": "Beim Anziehen dreht sich dein Kind einmal um sich selbst: „Sehe ich hübsch aus? Steht mir das?\" Keine Krise, nur eine beiläufige Frage, die Augen auf dich gerichtet, wartend auf das Urteil.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Gib die Frage zurück: „Ooh, und wie fühlt es sich für DICH an? Bequem? Macht's Spaß, dich darin zu bewegen? Das ist der Teil, der zählt.\"\n\nBeantworte die größere Frage darunter: „Und falls du fragst, ob du genau so großartig bist, wie du bist: Bist du. Egal, was du anhast.\"\n\nVerzichte auf die Bewertung: nicht „ja, wunderschön!\", sondern „du siehst aus wie du, und genau das liebe ich.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Behandle die Aussehen-Frage als Stellvertreter für „bin ich in Ordnung?\" und beantworte genau die, herzlich\n- Lenk um zu dem, wie sich das Outfit anfühlt und was deinem Kind gefällt, nicht zu deiner Bewertung von außen\n- Richte deine eigenen Kommentare auf Funktion und Gefühl statt aufs Aussehen"
+          },
+          {
+            "title": "Danach",
+            "content": "Wird das Spiegel-Checken häufig oder ängstlich, schau, was sonst diese Woche los ist: Die Frage taucht oft dann verstärkt auf, wenn etwas ganz anderes dein Kind wackelig fühlen lässt."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_05",
+        "title": "„Du bist so klug!\" auffangen, bevor es raus ist",
+        "scenario": "Dein Kind löst ein Puzzle schnell und schaut strahlend hoch. „Du bist so klug!\" ist schon halb raus, da erinnerst du dich, dass du anders loben wolltest, ohne bei einem echten Erfolg kühl zu bleiben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Tausch das Etikett gegen den Weg dahin, die Wärme bleibt: „Wow, wie hast du das so schnell rausgefunden? Zeig mir, wie du gedacht hast!\"\n\nBenenn das Tun, nicht die Eigenschaft: „Du hast es auf drei Arten probiert und drangeblieben, bis es klick gemacht hat. GENAU DAS ist die gute Sache.\"\n\nDu darfst den Erfolg trotzdem feiern, nur zielgerichtet: „Das war schwer, UND du hast es geschafft, weil du drangeblieben bist.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Behalte die Wärme, verschieb nur das Gewicht von „wer du bist\" zu „was du getan hast\"\n- Lob Verben, die dein Kind morgen wiederholen kann: probiert, drangeblieben, bemerkt, hingekriegt\n- Erfinde kein Anstrengungslob für etwas Leichtes, finde das echte Tun zum Benennen"
+          },
+          {
+            "title": "Danach",
+            "content": "„Klug\" muss nicht verboten werden. Lass einfach die Anstrengung an den meisten Tagen im Rampenlicht stehen, und beobachte, wie dein Kind anfängt, dir seine eigene Anstrengung zu erzählen."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_06",
+        "title": "Dein Kind hört, wie du deinen eigenen Körper kritisierst",
+        "scenario": "Du zerrst vorm Spiegel an deinem Shirt und murmelst: „Uff, ich seh darin furchtbar aus.\" Eine kleine Stimme hinter dir: „Mama, magst du deinen Körper nicht?\" Du wusstest nicht, dass dein Kind da war.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Wisch es nicht weg, sondern sprich es offen an: „Du hast gehört, wie ich unfreundlich über meinen eigenen Körper war. Das war nicht fair, weder zu mir noch zu deinen Ohren.\"\n\nZeig den Neustart: „Mein Körper hat heute Einkäufe getragen und gute Umarmungen gegeben. Das ist ein guter Körper. Ich werde netter mit ihm reden.\"\n\nWende dich wieder deinem Kind zu, ohne Aussehens-Urteil: „Und dein Körper gehört dir und ist gut, Punkt.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenn es und korrigier den Kurs, statt so zu tun, als hätte dein Kind nichts gehört\n- Zeig die Wiedergutmachung laut: Kinder lernen aus der Korrektur genauso viel wie aus dem Ausrutscher selbst\n- Verlager deine harten Körper-Kommentare ab jetzt außer Hörweite: Verarbeite sie mit einer anderen erwachsenen Person"
+          },
+          {
+            "title": "Danach",
+            "content": "Lass dein Kind regelmäßig sehen, wie du deinen Körper einfach genießt: in Bewegung, beim Ausruhen, beim Tun, nicht beim Bewerten. Das ist die leise Lektion, die jeden einzelnen Ausrutscher überdauert."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_07",
+        "title": "Eine Ärztin oder ein Trainer kommentiert die Figur deines Kindes, direkt vor ihm",
+        "scenario": "Beim Vorsorgetermin sagt die Ärztin, direkt vor deinem siebenjährigen Kind, es solle „aufs Gewicht achten\". Du siehst, wie sich das Gesicht deines Kindes verschließt. Du hast etwa zwei Sekunden.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Ruhig, noch im Raum, lehnst du den Rahmen ab: „Gespräche über die Figur führen wir nicht vor ihr, ihr Körper macht genau das, was er soll. Wenn es etwas Medizinisches gibt, sprechen wir beide das separat.\"\n\nZu deinem Kind, warmherzig: „Dein Körper ist gut und stark. Das ist Erwachsenenkram, den ich kläre, nicht etwas, das du tragen musst.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Deine ruhige Gegenaussage im Raum zählt für dein Kind mehr als der ursprüngliche Kommentar\n- Kläre danach einmal und unmissverständlich den Kanal, mit der Praxis, dem Trainer, der Verwandten: Alles zu ihrem Körper oder Gewicht kommt direkt zu uns Erwachsenen, nicht zu ihr\n- Trag jede echte medizinische Sorge zu Essen, Wachstum oder Gewicht privat zur Kinderärztin oder zum Kinderarzt, mach daraus nie das Problem deines Kindes oder eine Diät"
+          },
+          {
+            "title": "Danach",
+            "content": "Sprich es bei einem älteren Kind später sanft nach: „Das hat sich eklig angefühlt, als die Ärztin das gesagt hat, oder? Mir hat's auch nicht gefallen. Du darfst deinen Körper einfach mögen, die Zahlen klären die Ärztin und ich unter uns.\" Ist Essen oder Wachstum eine echte Sorge, gehört das in ein privates Gespräch mit Fachpersonal."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Leite jede Sorge zu Essen, Wachstum oder Gewicht privat an eure Kinderärztin oder euren Kinderarzt weiter. Schränke das Essen deines Kindes nie ohne ärztliche Begleitung ein."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_08",
+        "title": "Dein Kind weist in der Öffentlichkeit laut auf den Körper einer fremden Person hin",
+        "scenario": "Im Stadtbus fragt dein Kind in voller Lautstärke und zeigt dabei: „Warum sitzt die Frau im Rollstuhl?\" Drei Reihen hören es. Dir wird heiß im Gesicht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Schlicht und ohne Hektik, kein Schschsch, kein Vortrag: „Sie benutzt einen Rollstuhl, um sich fortzubewegen. Das machen viele Menschen so.\"\n\nMach die Person dann wieder zu einer Person: „Willst du Hallo sagen, wenn wir vorbeigehen?\"\n\nBohrt dein Kind weiter nach, parke es warmherzig: „Gute Frage. Lass uns das zu Hause richtig besprechen, ich erzähl dir alles, was ich weiß.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beantworte die eigentliche Frage in einem ruhigen Satz: Ein hitziges „Pscht!\" bringt bei, dass man über Körper nur beschämt reden darf\n- Wechsle vom Beobachten zum Grüßen, wo es passt: Ein Winken behandelt die Person als jemanden, den man kennenlernt, nicht als etwas, das man erklären muss\n- Heb dir das ausführliche Neugier-Gespräch für zu Hause auf, und führ es dann auch wirklich"
+          },
+          {
+            "title": "Danach",
+            "content": "Mach es zu Hause wieder auf: „Du hast nach der Frau im Bus gefragt. Was wolltest du wissen?\" Antworte klar und einfach. Dann die Familienregel, in beide Richtungen: „Körper sind nichts für öffentliche Kommentare, weder die von anderen noch deiner. Fragen kommen immer zu mir, jederzeit.\""
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_09",
+        "title": "Der gleiche harte Satz, Aufgabe für Aufgabe",
+        "scenario": "Das ist nicht mehr nur ein schlechter Moment. „Ich bin so dumm\", „Ich vermassel immer alles\", „Ich ruiniere alles\": Du hörst es bei den Hausaufgaben, beim Malen, beim Anziehen. An den meisten Tagen in diesem Monat.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Benenn das Muster freundlich: „Ich hör diese Stimme immer wieder dumm zu dir sagen. Sie ist in letzter Zeit ziemlich oft da, was?\"\n\nTrenn Stimme und Kind: „Das ist eine Stimme, die du hörst. Sie ist nicht die Wahrheit über dich, auch wenn sie laut ist.\"\n\nBau die Gegenstimme absichtlich auf, täglich: „Lass uns einen Satz finden, den deine mutige Stimme sagen kann, und ihn üben, wenn alles ruhig ist, nicht nur, wenn's schwer wird.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Wende die Benennungs-Technik konsequent an: Eine so häufige harte Stimme braucht Wiederholung, kein einmaliges Gespräch\n- Halt Ausschau nach Mustern: ein bestimmtes Fach, eine Tageszeit, ein Druck, der die Stimme zuverlässig auslöst\n- Biete die freundlichere Deutung weiter an, auch wenn sie noch nicht anzukommen scheint"
+          },
+          {
+            "title": "Danach",
+            "content": "Etwas Selbstkritik ist normal, so viel, so oft, ist einen Blick wert. Bleibt die Härte über Wochen bestehen, trotz verlässlicher Unterstützung, oder kommen Traurigkeit, Rückzug oder „ich wünschte, ich wäre nicht hier\" dazu: Warte das nicht allein ab, sprich mit eurer Kinderärztin, eurem Kinderarzt oder einer Kindertherapeutin oder einem Kindertherapeuten."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Enthalten selbstkritische Äußerungen Hoffnungslosigkeit oder den Wunsch, nicht mehr zu existieren, sucht umgehend professionelle Unterstützung."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_10",
+        "title": "Nachdem dir die Hand ausgerutscht ist: über die eigene Schuld hinwegkommen",
+        "scenario": "Dir ist die Hand ausgerutscht, schärfer als du wolltest, wegen einer Kleinigkeit. Dein Kind spielt inzwischen längst wieder, aber du spielst die Szene immer wieder ab und rutschst Richtung „ich bin ein furchtbarer Elternteil\".",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, die freundlichere, aber ehrliche Deutung: „Mir ist die Hand ausgerutscht. Das ist etwas, das ich getan habe, nicht wer ich als Elternteil bin. Ich kann dazu stehen und es wiedergutmachen.\"\n\nLaut zu deinem Kind, die Wiedergutmachung: „Ich hatte vorhin eine laute, scharfe Stimme, und das hatte nichts mit dir zu tun. Es tut mir leid. Ich arbeite daran.\"\n\nNicht die Abwärtsspirale, nicht die Ausrede, einfach nur: „Den hab ich vermasselt. Wiedergutmachen, neu ansetzen, weitermachen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Gib dir selbst die gleiche wohlwollende Deutung, die du deinem Kind geben würdest: Hartes Selbsturteil lebt die harte Stimme vor\n- Trenn die Handlung („mir ist die Hand ausgerutscht\") von deiner Identität („ich bin schlecht darin\"): Die eine kannst du reparieren, die andere zieht dich nur runter\n- Repariere einfach und konkret, entschuldige dich nicht übermäßig und lass dich nicht von deinem Kind trösten"
+          },
+          {
+            "title": "Danach",
+            "content": "Selbstfreundlichkeit heißt hier nicht, dich aus der Verantwortung zu nehmen, sie setzt die Energie frei, das Muster tatsächlich zu ändern. Ein Elternteil, das sich wieder fängt, lebt genau die Resilienz vor, die du dir für dein Kind wünschst."
+          }
+        ]
+      }
+    ]
   }
 }

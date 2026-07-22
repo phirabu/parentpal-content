@@ -150,6 +150,313 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "lifeevents_script_01",
+        "title": "Telling the Kids: The Together Sit-Down",
+        "scenario": "You and your co-parent have decided to separate, and now comes the conversation you have been dreading — sitting your child down and saying the word out loud. You want it calm, honest, and blame-free.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Lead-in, both of you present if it is safe and workable: \"We have something big and important to tell you, as a family. It might bring some big feelings, and that is okay.\"\n\nThe fact, plainly: \"We have decided to get divorced. That means we will not be married anymore, and we will live in two homes.\"\n\nWhat holds: \"Here is what is not changing: we are both always your parents, we both love you all the way and forever, and this was a grown-up decision that nothing you did caused.\"\n\nThe open door: \"You can ask us anything — now, tonight, or next week. We will always tell you the truth.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- If it is safe and possible, tell them together, from one agreed plan: who says which part, and how you will each stay calm through tears or anger\n- Keep any blame or grievance about each other completely out of the room\n- Say the plain word, then pause and let them react before adding any logistics\n- Repeat the not-your-fault line more than once; kids reach for self-blame automatically"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect the real questions later, in pieces, at bedtime or in the car. Keep answering simply and honestly, and save schedule detail for after the feelings have landed."
+          },
+          {
+            "title": "Safety note",
+            "content": "Tell children together only if it is safe to do so. Prioritize safety; seek professional support if unsure. Custody and legal questions belong with a family-law professional, not this guide."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_02",
+        "title": "The Pre-Talk Between Grown-Ups",
+        "scenario": "Before you tell the kids, you and your co-parent need to get on the same page — even though you disagree about almost everything right now. This conversation is adult-to-adult, with no child in the room.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Naming the shared aim: \"We do not agree on much right now. But I think we both want the kids to come through this feeling safe and loved. Can we plan the telling around just that?\"\n\nDividing it up: \"Let's agree on who says the word, who covers what stays the same, and how we each stay calm if there are tears — so they see us steady, together, for ten minutes.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Anchor the plan on the one thing you still share — the child's experience of this moment — not on agreement about the split\n- Decide the actual words for the plain fact and the not-your-fault message in advance\n- Agree a simple signal to pause or tap out if either of you gets flooded during the telling\n- Keep this conversation strictly between adults; settle your own friction before the kids are in the room"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If a calm joint conversation genuinely is not possible, a consistent message told separately — same plain word, same reassurances — still protects the child. A family therapist or mediator can help you build that shared script."
+          },
+          {
+            "title": "Safety note",
+            "content": "For high-conflict or unsafe situations, seek support from a family therapist or mediator. Prioritize safety; this guide is not legal advice."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_03",
+        "title": "\"But Papa Lets Me!\" Across Two Houses",
+        "scenario": "Your child comes back from their other home and lands the classic line — over there they get dessert every night, or a later bedtime, or more screen time. Your instinct is to react to your co-parent. Your child needs you to react to them.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Center their experience, not your opinion of the other house: \"Sounds like the rules are different at your other home, and switching back and forth is a lot to keep track of. Tell me how it feels going between them.\"\n\nHold your line without a verdict on the co-parent: \"Here, the rule is screens off after dinner. Different houses really do run differently — and you are so good at knowing which is which.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Put your attention on the child's job of adapting between two systems, not on judging the other parent's choice\n- Validate the unfairness they feel without defending why your rule is the right one\n- Keep your opinion of the co-parent out of what you say to the child, even when you have one\n- Hold your own home's boundary calmly; consistency at your house matters more than matching theirs"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Take a rule difference up with your co-parent directly only if it crosses into safety — not for ordinary mismatch. Day to day, kids handle two rule-sets fine as long as neither parent makes them the messenger."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_04",
+        "title": "The First Meeting With Someone New",
+        "scenario": "You are in a relationship that has become serious, and it is time for your child to meet your partner. You want to lower the stakes so it is a gentle first hello, not a loaded event.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Verbal introduction first, days ahead: \"I have a good friend named Sam I'd like you to meet this weekend. We are going to go feed the ducks together for a little while.\"\n\nPermission for any reaction: \"You might feel happy, or shy, or not-sure — all of that is fine. You do not have to feel any special way about it.\"\n\nAt the meeting, keep it light and shared: \"Let's all try to get that greedy goose to take some bread.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Wait until the relationship is serious and likely to last before any introduction\n- Give a verbal heads-up with lead time before the in-person meeting\n- Make the first meeting short and shoulder-to-shoulder — a shared activity, not a long face-to-face\n- Let the child's ambivalence exist without arguing them out of it; keep your own happiness without handing them the job of managing it"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Each new step — first dinner at home, first overnight — deserves its own gentle heads-up. Don't assume one good first meeting covers everything that comes after."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_05",
+        "title": "When You Have to Say Someone Died",
+        "scenario": "Someone your child loves has died, and you have to tell them. Every part of you wants to soften it. The kindest thing is the true, plain word — delivered slowly, with your arms around them.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Lead-in: \"I have very sad news, and it is the kind that brings big feelings. Come sit with me.\"\n\nThe plain fact, with the real name and the word died: \"Uncle Theo died today. His body stopped working, and it will not start again. He cannot come back, and that is the saddest thing.\"\n\nPause. Let it land. A hand to hold. Then: \"This is not your fault, not even a little. And I am not going anywhere — I am right here.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Use \"died,\" not \"lost,\" \"asleep,\" or \"gone away\" — soft words confuse now and frighten later\n- Give the plain fact, then stop; let silence and tears happen before any more detail\n- Say explicitly that it was not their fault, and that you are healthy and staying\n- Follow their lead — if they want to play or ask for a snack right after, that is normal processing, not coldness"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Grief in kids comes in waves — a hard question weeks later, a sudden sob, then playing again. Keep answering plainly. A goodbye ritual they help shape can help. If grief stays stuck for weeks, a grief counselor or child therapist can support you both."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize the child's emotional safety. Seek a grief counselor, child therapist, or your pediatrician if grief remains intense or prolonged."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_06",
+        "title": "\"Are You Going to Die Too?\"",
+        "scenario": "After a death, or out of nowhere at bedtime, your child asks the question that stops your heart: will you die? Am I going to die? The instinct is to promise \"never.\" The steadier answer is honest and warm.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Honest, not falsely absolute: \"Here is the true answer: everybody dies someday, way far in the future. And I am healthy, I take good care of myself, and I plan to be here for a very, very long time — long enough to be old and gray with you.\"\n\nThen a pause and a squeeze: \"You are safe. I am right here tonight, and I will be here in the morning.\"\n\nIf they ask about themselves: \"You have a long, long life ahead of you — years and years and years. Your only job right now is being a kid.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Answer honestly rather than promising \"never\" — a promise they later catch as untrue costs your trustworthiness\n- Pair the honest answer with immediate physical comfort and a present-tense safety reminder\n- Keep it brief; you are settling a fear, not giving a biology lesson\n- Expect the question to return more than once, and answer it the same steady way each time"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Repeated, anxious asking is a child working to feel safe, not being morbid. Keep answers short, warm, and consistent. If the fear grows large and physical for weeks, check in with your pediatrician or a child therapist."
+          },
+          {
+            "title": "Safety note",
+            "content": "Seek professional support if death-related fear becomes intense or persistent. Prioritize safety; seek help if unsure."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_07",
+        "title": "Telling a Child Someone Is Seriously Sick",
+        "scenario": "A family member has a serious illness, and your child can sense the worry in the house. Naming it plainly — with the real name and clear words about catching it — beats a vague \"someone is not feeling well.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Real name, distinguished from everyday sick: \"Grandpa has a serious illness with a real name. It is very different from the coughs and colds you get — this is a big, grown-up kind of sick that doctors are helping with.\"\n\nClear up catching it, where true: \"You cannot catch it. Not from a hug, not from sitting close, not from sharing his cup. It just does not work that way.\"\n\nKnown, unknown, and what stays: \"The doctors know a lot and they are working hard. Some things we do not know yet. What I do know for sure: I will always tell you the truth, and I am right here with you.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Use the illness's real name so it does not blur with ordinary childhood sickness\n- Address catching it directly — kids often silently fear contagion, or the opposite, and miss how serious it is\n- Be honest about what is unknown rather than papering over it with false cheer\n- Invite ongoing questions; this is the first of many talks, not a one-time briefing"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Keep updates simple and honest as things change, and watch for silent worries (\"can I catch it,\" \"did I cause it\"). Anything about the illness's course is a question for the medical team; a child therapist can help if your child struggles."
+          },
+          {
+            "title": "Safety note",
+            "content": "This guide is not medical advice; direct medical questions to the care team. Seek a child therapist if the child struggles to cope."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_08",
+        "title": "Before the Hospital Visit: Describe the Room First",
+        "scenario": "Your child is going to visit a seriously ill relative in the hospital. What frightens kids most is not the visit — it is walking into a scene nobody described. So you paint it, plainly, in advance.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Preview the sensory scene: \"Before we go, let me tell you exactly what it will look like. Auntie will be in a tall bed with rails. There is a tube in her arm that gives her medicine, and machines that beep and blink. She looks thinner and more tired than last time.\"\n\nWhat they can do: \"You can hold her hand, tell her about your day, or just sit close. You do not have to do anything you do not want to.\"\n\nExit permission: \"If it starts to feel like too much, tell me and we will step out for a break. I will be right beside you the whole time.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Describe the equipment, the sounds, and the person's changed appearance literally, before you arrive\n- Give the child concrete things they are allowed to do — and permission to just be there\n- Offer a clear exit plan so the visit never feels like a trap\n- Follow the child's pace; a short visit is a fine visit"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Afterward, leave room for questions and feelings — some kids process through play. If your child does not want to visit, that is allowed; a card or drawing they make can carry their love instead."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_09",
+        "title": "Announcing the Move, and the Countdown That Follows",
+        "scenario": "You are moving to a new home, and it is time to tell your child. You want the announcement to land steady and to hand them tools that shrink the unknown — not just \"we're moving, it'll be great.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "The shape — heads-up, plain fact, what stays: \"We have some news, and people can feel all sorts of ways about it. In the summer, we are moving to a new house on the other side of town. The house is new. Our family is exactly the same.\"\n\nHand them a tool: \"Look — here are pictures of your new room, and the park two streets away. And this jar? Every morning you drop in one stone. When it is full, that is moving day.\"\n\nRoom for mixed feelings, concretely: \"You might cry about leaving this kitchen and cheer about the big backyard, sometimes in the very same hour. That is allowed.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Announce with a shape: feelings-will-vary heads-up, the plain destination, and what stays the same before you ask how they feel\n- Make the unfamiliar familiar early: photos, a visit if you can, letting them pick something for the new room\n- Give them a hands-on countdown they update themselves, so \"soon\" becomes something they can see\n- Let them pack a labeled box of favorites they carry to the new house themselves"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Take photos of the old home together — the good corners, the hiding spots — so it stays part of their story. Don't sell the move so hard that you argue them out of a real goodbye."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_10",
+        "title": "When the Movers Come and Your Child Is Away",
+        "scenario": "On moving day your child will be at a relative's or a friend's while the house gets packed and hauled. They will not witness it — which can make it feel like their whole world vanished behind their back.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Narrate the invisible sequence: \"While you are having fun at Nana's, here is exactly what happens: big helpers put our couch and beds and your toy shelf into a truck, drive them to the new house, and set them up. Then we come get you and take you home to the new place.\"\n\nTurn it into a game: \"Want to guess what gets loaded into the truck first — your bed or the kitchen table? Let's each make a bet.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Tell the mechanical story of what will happen while they are away, start to finish, so there is no blank to fill with worry\n- Reassure that their things go with them — nothing gets left behind or thrown out without asking\n- Turn the sequence into a light guessing game to give it a followable, low-stress shape\n- Send one familiar comfort item along for the day rather than packing it in the truck"
+          },
+          {
+            "title": "Follow-up",
+            "content": "When you collect them, walk them through the new home room by room, showing where their things landed. Their own labeled box, carried by them, is a good first thing to unpack together."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_11",
+        "title": "A Disaster Near Home: Keeping a Young Child Steady",
+        "scenario": "A wildfire — or a flood, or a big storm — is near your area. Maybe you have evacuated, maybe you are just close enough to smell smoke and feel the fear in the house. Your young child needs less information and more of your steady body.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Body-first during active fear: \"I've got you. Feel me breathing? Nice and slow. We are safe right now, in this spot, together.\"\n\nSimple true words, then stop: \"There is a big fire far from where we are sleeping tonight. Firefighters whose whole job is this are working on it. Our family is safe.\"\n\nName the surprise: \"Nobody knew this would happen — that is part of what makes it feel so strange. It surprised the grown-ups too.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Keep the news and its repeating footage off around them — replays tell a young child it is happening again\n- In active fear, co-regulate first: hold them, slow your own breathing, repeat one short safety line; explain later\n- Reassure with concrete specifics — who is protecting them, where they will sleep tonight, that you are staying close\n- Expect and allow regressions (clinginess, rough sleep, pickier eating) as a temporary grab for control"
+          },
+          {
+            "title": "Follow-up",
+            "content": "For a toddler, acting the event out small with toy figures can help them process it in their hands. Most kids settle within weeks with calm and routine; if fear, nightmares, or re-enacting persist, see a child therapist or your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Follow all official safety and evacuation guidance first. Seek professional support if trauma responses persist."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_12",
+        "title": "\"How Are Babies Made?\" The Picture-Book Answer",
+        "scenario": "Out of nowhere — in the car, at the dinner table — your young child asks how babies are made. You freeze. The move is a calm, true, one-layer answer, with room for the next question whenever it comes.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Picture-book depth: \"Good question. A baby starts when a tiny cell from one grown-up joins with a tiny cell from another grown-up. That joined cell grows, really slowly, inside a body until it is big enough to be born as a baby.\"\n\nInclusive of many families: \"Sometimes a family needs a doctor's help, or a kind helper, to bring those cells together — and every one of those ways is made of love.\"\n\nLeave the door open: \"That is the whole answer for now. If you think of more questions, I am always happy to tell you the next part.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Answer at picture-book depth — two cells join and grow — without the mechanics of sex in the same pass\n- Treat a follow-up question as a normal cue to add one small layer, not a sign you answered wrong\n- Use a plain, matter-of-fact voice, the same one you would use for how rain works\n- Keep the family-building frame inclusive and simple, without itemizing every method"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Kids ask in installments over months. Each time, answer the actual question asked, then stop. Calm, honest answers now make the bigger conversations years from now far easier."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_13",
+        "title": "Touching Private Parts: The Kind, Clear Boundary",
+        "scenario": "You have noticed your child touching their private parts — maybe on the sofa, maybe in front of others. You want to set a boundary about where, without planting any shame about their body.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Affirm, then set the context boundary: \"That is a part of your body that is yours and private. It is okay that it feels a certain way to touch. The rule is not about stopping — it is about where. That is something to do on your own, in a private place like your bedroom, not where other people are.\"\n\nMake private concrete: \"Private means just for you — like your own room with the door closed, not the living room or the playground.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Affirm first, without any shame, that this is normal and their body is their own\n- Set the boundary about context — alone and private — not about the curiosity or the sensation being wrong\n- Name concretely where \"private\" is, since young kids need the specific place, not the idea\n- Keep your tone as calm and matter-of-fact as any other everyday rule"
+          },
+          {
+            "title": "Follow-up",
+            "content": "You may need to repeat the where-rule calmly several times; that is ordinary learning, not defiance. Pair it with the wider body rule: nobody touches anyone else's body without a yes."
+          },
+          {
+            "title": "Safety note",
+            "content": "Ordinary self-touch is developmentally normal. Consult your pediatrician if behavior seems beyond the child's age or signals possible inappropriate exposure."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_14",
+        "title": "Stranger Safety Without the Nightmares",
+        "scenario": "You want your child to be safe around unfamiliar adults without teaching them the whole world is dangerous. The honest version is more accurate — and less scary — than \"all strangers are bad.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "The accurate frame: \"Most grown-ups you do not know are perfectly kind. Here is the tricky part: you cannot tell just by looking which few are not. So the rule is simple — you do not go anywhere with a grown-up you do not know, or take things from them, unless your trusted grown-up says it is okay.\"\n\nGive a concrete action: \"If a grown-up you do not know tries to take you, you get loud. You yell it as big as you can — 'You are not my grown-up!' — and you run to me or another safe grown-up.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Frame it accurately: most strangers are fine, and the issue is that you cannot tell which are not — so the rule protects them\n- Avoid teaching a blanket fear of all unfamiliar people, which is both untrue and anxiety-making\n- Give a concrete, rehearsable action and a short, loud phrase to shout\n- Point them toward safe helpers (a parent with kids, a shop worker) rather than \"any adult is a threat\""
+          },
+          {
+            "title": "Follow-up",
+            "content": "Practice it lightly as a what-would-you-do game, not a scary drill. Keep it matter-of-fact; the goal is a capable, alert kid, not a fearful one."
+          },
+          {
+            "title": "Safety note",
+            "content": "Reinforce that a trusted caregiver's permission is the deciding factor. Adapt to your family's context."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -94,6 +94,179 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "baby_script_01",
+        "title": "Das Gefühl, das dir Angst macht: Unsicher, ob du das wirklich wolltest",
+        "scenario": "Seit der Geburt sind ein paar Wochen vergangen, und du ertappst dich dabei, wie du dich leer und gereizt fühlst, dich vielleicht sogar fragst, ob du das hier überhaupt wolltest, und obendrauf kommt eine zweite Angst: dass dieses Gefühl bedeutet, mit dir stimmt etwas nicht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, schlicht: „Ich falle hier durch keine Prüfung. Das ist eine der anspruchsvollsten Aufgaben überhaupt, und sie darf mich fordern.\"\n\nDer ganze Satz, nicht nur die annehmbare Hälfte: „Ich sorge dafür, dass dieses Baby satt, warm und geliebt ist, und ich vermisse gleichzeitig mein altes Leben so sehr, dass es wehtut.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenne, dass diese Überforderung zur Situation passt, kein Zeichen, dass du das Problem bist\n- Lass die Gefühle gemischt und widersprüchlich sein: Liebe, Trauer, Langeweile und Groll können sich eine Stunde teilen, ohne dass eins davon das „wahre\" ist\n- Schütz eine kleine Sache, die dich noch wie dich selbst fühlen lässt, und sprich die konkreten Verluste laut aus, statt so zu tun, als gäbe es keine\n- Tank auf, bevor du leer bist. Gib das Baby für zwanzig Minuten ab, ohne es dir erst verdienen zu müssen\n- Erzähl einer echten Person die ungeschönte Version. Die Erleichterung liegt darin, gesehen zu werden, nicht darin, repariert zu werden"
+          },
+          {
+            "title": "Danach",
+            "content": "Normale Überforderung kommt in Wellen und lässt zwischendurch nach. Eine gedrückte Stimmung, die nicht weicht, ein Alltag, der nicht mehr zu bewältigen ist, beängstigende Gedanken oder Wut auf das Baby sind etwas anderes und verdienen echte Hilfe: Sprich mit deiner Ärztin, deinem Arzt oder deiner Hebamme."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Normale Überforderung unterscheidet sich von einer postpartalen Depression oder Angststörung. Anhaltende Hoffnungslosigkeit, aufdringliche Gedanken oder der Drang, dem Baby zu schaden, verlangen zeitnahen Kontakt zu einer Ärztin, einem Arzt, einer Hebamme oder einer Krisen-Hotline. Das ist häufig und behandelbar, kein Grund zur Scham."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_02",
+        "title": "Verwöhne ich ihn, wenn ich nicht jedes Mal sofort komme?",
+        "scenario": "Dein Baby quengelt, und ein Teil von dir will sofort losstürmen, aber du hast auch schon gehört, dass du ihn damit „verwöhnst\", und jetzt bist du unsicher: Schadest du ihm, wenn du mit Worten reagierst statt sofort zu lösen, oder wenn du ihn kurz warten lässt?",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Den Wunsch benennen, während du unterwegs bist: „Du willst auf meinen Arm. Ich hör dich, ich komme.\"\n\nWenn du einen Moment brauchst: „Du bist sauer, weil du warten musst, das verstehe ich. Gleich fertig, dann gehören dir meine Hände.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Vertrau darauf, dass liebevolle Reaktionsbereitschaft ein Baby nicht verwöhnt, sondern die Sicherheit aufbaut, von der aus es später die Welt erkundet\n- Behandle das Benennen des Wunsches als echte Antwort, nicht als Hinhaltetaktik: Die Botschaft, die bei deinem Baby ankommt, lautet „da ist jemand, der mich sieht und zu mir hält\"\n- Nutze beide Wege, je nachdem, was passt: sofort lösen, oder anerkennen und gleich darauf eingehen. Der zweite Weg ist nicht der schlechtere\n- Lass das laute Anerkennen nie aus, auch wenn du eh gleich hilfst. Genau das ist der Teil, der beruhigt\n- Nimm dir eine begrenzte Minute für ein echtes Bedürfnis, wenn dein Baby sicher ist, solange du das Warten benennst, statt einfach still zu werden"
+          },
+          {
+            "title": "Danach",
+            "content": "Genau die frühe Reaktionsbereitschaft, um die du dir Sorgen machst, lässt später ein sicheres, selbstständiges Kind wachsen. Du baust keine schlechte Angewohnheit auf, du legst ein Fundament."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_03",
+        "title": "Sicher, aber wütend: Wann ein Kampf einfach da sein darf",
+        "scenario": "Dein Baby streckt sich nach einem Spielzeug, das knapp außer Reichweite liegt, oder müht sich ab, sich zu drehen, und wird von Sekunde zu Sekunde lauter und roter im Gesicht. Nichts ist falsch, aber jede Zelle in dir will dazwischengehen und es ihm einfach geben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Benennen und bleiben: „Du willst das so sehr, und es ist knapp außer Reichweite. Total frustrierend. Ich bin genau hier bei dir.\"\n\nZuerst zu dir selbst: „Hier ist nichts falsch. Das ist harte Arbeit, kein Notfall. Ich kann durchatmen und bleiben.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Sortiere, bevor du handelst: Frustration bekommt deine ruhige Gesellschaft, Angst oder Gefahr bekommt sofortige Rettung. Bist du unsicher, tröste\n- Atme einmal bewusst durch, bevor du reagierst. Allein diese Pause verändert, was du an dein Baby weitergibst\n- Bleib in der Nähe und kommentiere ruhig, statt den Kampf verschwinden zu lassen. Deine Ruhe ist die Hilfe\n- Bemerke deinen eigenen Drang zu helfen, und lass ihn vorbeiziehen. Der Impuls hat oft genauso viel mit deiner eigenen Anspannung zu tun wie mit der deines Babys\n- Greif nur hin und wieder zur Ablenkung. Jedes Mal genutzt, lehrt sie Flucht vor einem Gefühl statt Raum, darin zu sitzen"
+          },
+          {
+            "title": "Danach",
+            "content": "Deine ruhige Präsenz während des Kampfes zählt weit mehr als das Tempo, in dem die Fähigkeit kommt, oder wie dein Baby im Vergleich zu anderen dasteht. Machst du dir wirklich Sorgen um die Entwicklung, gehört das in ein Gespräch mit deiner Kinderärztin oder deinem Kinderarzt, nicht in einen Vergleich zu Hause."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_04",
+        "title": "Drei Uhr nachts, und du bist am Ende deiner Kräfte",
+        "scenario": "Das Haus ist dunkel, das Baby regt sich wieder, und die Person, die hier gerade wirklich untergeht, bist du: einsam, ausgelaugt, mit Angst vor der nächsten Stunde.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, langsam: „So viele von uns sind genau in dieser Minute wach. Ich kann so müde sein und trotzdem stabil bleiben.\"\n\nUnd: „Diese Stunde ist hart, und diese Stunde geht vorbei.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Stabilisiere zuerst dich selbst mit einem langen Atemzug, bevor du irgendetwas für das Baby tust\n- Gib dem, was du selbst mitten in der Nacht fühlst, dieselbe Sanftheit, die du deinem Baby geben würdest. Es ist echt, und es zählt\n- Erinnere dich, dass du damit wirklich nicht allein bist. Unzählige andere Eltern sind gerade jetzt auch wach\n- Setz deine eigenen Ansprüche nachts niedrig an: Freundlich und sicher zu bleiben ist schon alles, nicht irgendetwas zu optimieren\n- Plane dein Auftanken und deine Bitten um Hilfe für den Tag, wenn du wirklich klar denken kannst"
+          },
+          {
+            "title": "Danach",
+            "content": "Erschöpfung und Angst in der Nacht sind eine menschliche Grenze, kein Charakterfehler. Verhärten sie sich zu einer Hoffnungslosigkeit, die nicht weicht, sag es deiner Ärztin, deinem Arzt oder deiner Hebamme: Du zählst hier auch."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Kippt die nächtliche Erschöpfung in eine anhaltend gedrückte Stimmung, Hoffnungslosigkeit oder aufdringliche Gedanken, wende dich zeitnah an deine Ärztin, deinen Arzt oder deine Hebamme."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_05",
+        "title": "Reingehen oder warten? Die Frage ohne magische Zahl",
+        "scenario": "Du stehst wie festgefroren im Flur bei einem nächtlichen Aufwachen und drehst dich im Kreis: Gehe ich jetzt rein, wie lange ist zu lange, lasse ich ihn zu viel weinen?",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst: „Körperliche Bedürfnisse zuerst. Dann lese ich das Weinen. Nachschauen ist nie die falsche Entscheidung.\"\n\nBeim Einschätzen: „Satt, trocken, warm, sicher, das klingt nach dem grantigen Weinen, nicht nach dem ängstlichen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Schließe das Körperliche zuerst aus: Hunger, eine nasse Windel, zu warm oder zu kalt, alles Unsichere. Dieser Schritt ist nicht verhandelbar und kommt zuerst\n- Ist das geklärt, triff die eine Einschätzung, die wirklich dir gehört: Klingt das nach Frust oder nach Angst? Tröste Angst sofort, Frust darfst du einen langsameren, ruhigeren Takt geben\n- Berücksichtige deinen eigenen Reflex, reagierst du beim ersten Ton, oder hältst du Quengeln länger aus, damit du deinem Baby antwortest, nicht deiner Gewohnheit\n- Kannst du es wirklich nicht einschätzen, geh rein. Für Warten gibt es keinen Preis"
+          },
+          {
+            "title": "Danach",
+            "content": "Es gibt keine universell richtige Anzahl an Minuten, wer dir eine nennt, rät nur. Jede Frage zu einer bestimmten Schlaftraining-Methode, oder wie lange ein Baby weinen darf, gehört in die Hände deiner Kinderärztin, deines Kinderarztes oder einer qualifizierten Schlafberaterin beziehungsweise eines qualifizierten Schlafberaters. Ein Weinen, das nach Schmerzen klingt, oder das mit Fieber einhergeht, oder ein Baby, das sich kaum wecken lässt, ist zuerst eine medizinische Angelegenheit."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Verhaltenslesen gilt erst, wenn körperliche und medizinische Ursachen ausgeschlossen sind. Bestimmte Schlaftraining-Methoden und wie lange ein Baby weinen darf, sollten gemeinsam mit einer Kinderärztin, einem Kinderarzt oder einer qualifizierten Schlafberatung entschieden werden, nie anhand allgemeiner Ratschläge."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_06",
+        "title": "Ein echter Plan, um den Schnuller abzugewöhnen",
+        "scenario": "Du bist bereit, den Schnuller (oder den Daumen) hinter dir zu lassen, und willst einen echten Plan, nicht noch eine Erinnerung, dass das alles ganz normal ist.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Warmherzig umdeuten: „Du liebst deinen Schnulli, er hilft deinem Körper, ruhig zu werden. Wir finden einen anderen Weg, damit du dich genauso ruhig fühlst.\"\n\nDie Grenze halten: „Ich weiß. Du willst ihn wirklich. Er wohnt jetzt in seiner Box, und ich bleibe genau hier, während du deswegen traurig bist.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenne deinen eigenen Grund fürs Ändern, bevor du startest. Fällt dir keiner ein, ist der Zeitpunkt vielleicht noch nicht der richtige\n- Wähl einen ruhigen Zeitraum ohne andere große Veränderungen obendrauf: kein Umzug, kein neues Geschwisterkind, keine neue Betreuungsperson in derselben Phase\n- Halt die Grenze gleichzeitig warm und fest, und lass die Gefühle groß sein dürfen. Du kannst im selben Moment völlig liebevoll und völlig konsequent sein\n- Biete einen Ersatz für die Beruhigung, die du wegnimmst: ein anderes Trostobjekt, eine leichte beruhigende Berührung, einen langsamen gemeinsamen Atemzug\n- Bereite vor und probe zuerst tagsüber: Sprich durch, was sich ändert und was bleibt, vielleicht darf ein Lieblingsspielzeug „als Erstes\" mitmachen"
+          },
+          {
+            "title": "Danach",
+            "content": "Eine schwere Nacht ist keine Vorschau auf für immer, ruhige, liebevolle Wiederholung setzt sich durch. Jede Frage zu Zähnen, Gaumen oder Sprache gehört zu deiner Kinderzahnärztin, deinem Kinderzahnarzt oder deiner Kinderärztin beziehungsweise deinem Kinderarzt, nicht in eine Einschätzung zu Hause."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_07",
+        "title": "Vom Gitterbett ins eigene Bett, ohne Angst davor",
+        "scenario": "Der Umzug vom Gitterbett ins richtige Bett steht bevor, und du wappnest dich schon: das Aufstehen, das Herumwandern, der Widerstand gegen Grenzen, die früher vier Gitterwände ganz allein gezogen haben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Tagsüber vorbereiten: „Dein großes Bett gehört jetzt dir, und dazu gehört eine Regel: Nach dem Licht-aus bleiben wir eingekuschelt liegen. Ich helfe deinem Körper, das zu lernen, und wir üben erst mal.\"\n\nAn der Tür, warm und leise: „Es ist Schlafenszeit. Zurück ins Bett. Ich hab dich lieb. Ich bin ganz nah.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Werd dir über deinen Grund klar und wähl ein ruhiges Zeitfenster ohne andere große Veränderungen gleichzeitig\n- Bereite vor und probe: Geh die neue Routine tagsüber im Spiel durch, damit sich die echte Nacht vertraut anfühlt\n- Biete einen neuen Anker für das, was früher die Gitterwände geleistet haben: eine besondere Decke, ein Kuscheltier, ein schwaches Licht, das dein Kind mit aussuchen darf\n- Halt jede Rückkehr ins Bett ruhig, warm und unaufgeregt. Eine große Reaktion, in die eine oder andere Richtung, wird sonst selbst zum Grund, es noch einmal zu tun\n- Halt die Grenze und lass gleichzeitig den Protest zu. Sein Kummer ist ein Gefühl, kein Beweis, dass die Veränderung falsch ist"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne damit, dass sich das innerhalb weniger Wochen mit ruhiger, unaufgeregter Konsequenz einspielt. Eine holprige Nacht ist nicht das neue Immer. Ein Kind, das jetzt aus dem Bett steigen kann, braucht ein vollständig kindersicheres Zimmer mit gesicherten Möbeln."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sichere das Zimmer kindgerecht und verankere Möbel: Ein kleines Kind, das nachts jetzt aus dem Bett kann, braucht ein sicheres Zimmer. Vermeide körperliches Festhalten. Halt jede Rückkehr ins Bett ruhig und sanft."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_08",
+        "title": "Wenn der Ausbruch dich an deiner Entscheidung zweifeln lässt",
+        "scenario": "Du hast entschieden, das Stillen zu beenden. Drei Tage sind vergangen, und der Protest beim Zubettgehen ist immer noch riesig, lang, tränenreich, mit dem Greifen nach der alten Routine, und dieses Ausmaß bringt dich bei der ganzen Entscheidung ins Wanken.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst: „Aufhören zu wollen ist Grund genug. Ein großer Protest ist ein Gefühl, kein Veto.\"\n\nWarmherzig halten: „Stillen ist jetzt vorbei. Du darfst wirklich aufgebracht sein, und ich bleibe genau hier bei dir.\"\n\nDas Bleibende benennen: „Wir kuscheln immer noch, lesen immer noch, haben immer noch unsere ruhige Zeit. Das bleibt genau da, wo es ist.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass deinen eigenen Wunsch den Ausgangspunkt sein, unabhängig davon, ob dein Kind nach irgendeinem äußeren Maßstab „bereit\" wirkt\n- Bereite außerhalb des aufgeheizten Moments vor: Benenne im Voraus, ruhig, was sich ändert und warum\n- Halt die Grenze sanft und, wenn nötig, auch körperlich: Verhindere das Verhalten ruhig, während du das Gefühl anerkennst. Eine Grenze beschreibt, was du tust, nicht etwas, dem dein Kind zustimmen muss\n- Lass die Schuld mitfahren, ohne ihr das Steuer zu überlassen. Du kannst sie fühlen und trotzdem an deiner Entscheidung festhalten\n- Lenk die Nähe, die zum Stillen gehörte, in andere Bahnen: Kuscheln, Geschichten, ein paar besondere Minuten"
+          },
+          {
+            "title": "Danach",
+            "content": "Ein schwerer Protest beweist nicht, dass dein Kind „nicht bereit ist\". Er beweist, dass es Gefühle zu einer Veränderung hat, und das ist zu erwarten. Alles rund um den Zeitpunkt oder das Wie des Abstillens, oder jede körperliche Sorge um dich oder dein Kind, gehört in die Hände deiner Hebamme, deiner Kinderärztin, deines Kinderarztes oder einer Stillberaterin."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Halt Grenzen sanft. Vermeide körperliches Festhalten über das ruhige Blockieren des Verhaltens hinaus. Zeitpunkt, Methode und jede körperliche oder gesundheitliche Sorge rund ums Abstillen gehören in die Hände einer Hebamme, einer Kinderärztin, eines Kinderarztes oder einer Stillberaterin."
+          }
+        ]
+      }
+    ]
   }
 }

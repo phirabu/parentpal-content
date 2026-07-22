@@ -80,6 +80,171 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "entitlement_script_01",
+        "title": "Das falsche Geschenk, und die ganze Familie schaut zu",
+        "scenario": "Familienessen, alle schauen zu. Dein Kind reißt das Papier von Tante Maras Geschenk, findet ein Rätselheft statt der Drachenfigur, die es wochenlang im Katalog eingekreist hatte, und sagt es geradeheraus: „Oh. Ich wollte den Drachen.\" Am Tisch wird es still. Dein Gesicht wird heiß.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu deinem Kind, leise und nah dran, zuerst zum Gefühl: „Nicht das, was du dir vorgestellt hattest. Ich hab gesehen, wie das gelandet ist.\"\n\nZu dir selbst, genau jetzt: „Das heiße Gesicht gehört mir. Kümmere dich um ihr Gefühl, meine Verlegenheit kann warten.\"\n\nSpäter, unter vier Augen, kein herausgepresstes Dankeschön: „In dem Moment warst du enttäuscht, und das ist erlaubt. Tante Mara hat das aber auch ausgesucht und dabei an dich gedacht. Lass uns einen Weg finden, ihr zu zeigen, dass wir das gesehen haben.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Geh zuerst zum Gefühl, dann zu den Manieren: Benenn die Enttäuschung, lass das erzwungene „sag danke\" weg, solange der Raum noch warm ist\n- Kauf dir eine elegante Pause, falls nötig: „Lass uns Wasser holen\", ein paar Schritte weg, dann zurück\n- Trag deine eigene Verlegenheit getrennt: Sie ist echt, aber sie ist nicht die Aufgabe deines Kindes, sie zu reparieren\n- Mach die Wiedergutmachung bei der Verwandten später und unter vier Augen, nie als Vorführung mitten am Tisch"
+          },
+          {
+            "title": "Danach",
+            "content": "Laufen große Geschenkmomente zuverlässig so ab, komm der nächsten Situation in einem ruhigen Moment zuvor, sieh dir die Neudeutung in ch01 an und die Dankbarkeitsübung in ch03. Um einen echten Zusammenbruch aufzufangen, während er gerade passiert, tantrums/ch11."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_02",
+        "title": "„Das ess ich nicht\": den Ton bei Tisch lesen",
+        "scenario": "Das Abendessen kommt auf den Tisch, und dein Kind zuckt zurück, als hättest du Kies serviert: „Ich esse das nicht.\" Genau derselbe Ton wie letzte Woche beim falschen Geschenk, und davor beim verlorenen Kartenspiel. Du spürst, wie das Wort „undankbar\" in dir hochsteigt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zum Gefühl, noch keine Debatte übers Essen: „Du hast dir heute Abend etwas anderes gewünscht. Das hör ich.\"\n\nDie eigentliche Fähigkeit benennen, ruhig und locker: „Etwas zu bekommen, das du nicht wolltest, ist ein mieser kleiner Moment. Du musst das Essen nicht lieben, du musst mich aber meins essen lassen.\"\n\nZu dir selbst, für später: „Geht es hier ums Essen, oder um Enttäuschung ganz allgemein? Wo stößt sie sonst noch an genau diese Wand?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Begegne dem Ton als Enttäuschung, nicht als Trotz: Benenn ihn, mach keinen Prozess daraus\n- Lass den Dankbarkeits-Vortrag bei Tisch weg, er kommt als Nörgeln an und lehrt nichts, solange die Lage noch heiß ist\n- Mach unter vier Augen den Muster-Check: Zeigt sich derselbe Ausbruch auch bei Puzzles, beim Warten und beim Verlieren, liegt die eigentliche Arbeit bei der Enttäuschungstoleranz insgesamt (ch01; tantrums/ch11), nicht bei dieser einen Mahlzeit\n- Halt deine eigene Grenze ohne Hitze: Das Essen bleibt, wie es ist, die Gefühle darüber sind erlaubt"
+          },
+          {
+            "title": "Danach",
+            "content": "Ein einzelnes mürrisches Abendessen ist nichts. Eine Wand bei jeder kleinen Enttäuschung ist das, woran es sich zu arbeiten lohnt, in ruhigen Momenten, nicht am Tisch. Sieh dir ch01 für die Neudeutung an und ch03 fürs Aufbauen der anderen Seite."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Halt den Fokus auf dem Ton, erzwing das Essen nicht. Druck beim Essen wirkt kontraproduktiv und kann eigene Konflikte schaffen."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_03",
+        "title": "Mit Hausarbeit beginnen, ohne einen Streit anzufangen",
+        "scenario": "Du willst, dass dein Kind mit anpackt, aber jedes Mal, wenn du dir den Anfang vorstellst, siehst du eine Machtprobe vor dir, also schiebst du den Anfang immer weiter auf. Wo fängst du überhaupt an, ohne dass daraus jedes Mal ein Kampf wird?",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Säe die Identität zuerst, Tage vor jeder Aufgabe: „Du hast die Servietten geholt, ohne dass ich gefragt habe, das ist eine echte Helfer-Nummer.\"\n\nBiete eine echte Wahl an, im Ton derselben Seite: „Wir übernehmen jeder eine Aufgabe, damit unser Zuhause läuft. Willst du deine aussuchen, den Müll trennen oder abends die Wassergläser auffüllen?\"\n\nZeig auf die Tafel, nicht auf dein Kind: „Die hängen wir hier auf, dann erinnert die Liste, nicht ich.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Säe die Identität vor der Zuteilung: Bemerke und benenne kleine hilfreiche Momente, damit „ich bin ein Helfer\" schon Form annimmt, bevor irgendeine Aufgabe kommt\n- Sortier zuerst deine eigene Haltung: Geh rein, fest überzeugt, dass dein Kind das kann, und dass das gemeinsame Haushaltsführung ist, kein Kampf, den es zu gewinnen gilt\n- Lass dein Kind aus ein paar echten Optionen wählen, die Bereitschaft kommt mit dem Wählen gleich mit\n- Häng eine sichtbare Tafel auf, damit eine vergessene Aufgabe ein Blick auf die Liste wird, kein Charaktertribunal und kein Nörgel-Marathon\n- Erste Wochen: Lob dafür, dass es überhaupt passiert ist, noch nichts dazu, wie gut (siehe Skript 04)"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne mit Wackeln, es ist eine Übung, kein Schalter. Setzt später Gegenwehr ein, werd neugierig auf das, was blockiert, statt ein Privileg wegzuziehen (ch04). Halt Taschengeld da raus (ch05), damit Mithelfen eine Sache der Familie bleibt, keine Bezahlung."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Wähl altersgerechte Aufgaben, und halt Putzmittel, scharfe Werkzeuge und Erstickungsgefahren außer Reichweite."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_04",
+        "title": "Wenn die ersten Versuche noch chaotisch sind",
+        "scenario": "Seit zwei Wochen hat dein Kind seine neue Aufgabe, und die Ergebnisse sind, nun ja, holprig. Das Bett ist ein wulstiger Haufen, die Hälfte der Spielsachen hat den Korb verfehlt. Deine Hand juckt danach, es vor den Augen deines Kindes zu richten, oder auf alles Verpasste hinzuweisen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Nur die Anstrengung, und mein es auch so: „Du hast das ganz allein gemacht, von Anfang bis Ende. Genau das ist es, worauf ich gerade achte.\"\n\nMusst du doch umlenken, halt es warm und aufs nächste Mal gerichtet: „Du kriegst langsam den Dreh raus. Die Ecken machen wir ein andermal schärfer.\"\n\nZu dir selbst, Hand wieder runter: „Korrigier ich das jetzt, bring ich ihm das Aufgeben bei. Die ordentliche Version kommt später, aus Übung.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beurteil in dieser ersten Zeit das Drangebliebensein, nicht den Feinschliff, das ist gerade die ganze Aufgabe\n- Unterdrück den Drang, es vor den Augen deines Kindes zu verbessern: Etwas laut neu zu machen sagt „ich hab dir das nicht zugetraut\"\n- Heb dir das Qualitäts-Coaching für ein paar Wochen später auf, wenn die Gewohnheit sitzt, Können reift aus Übung ohne Kritik\n- Lass „gut genug für den Anfang\" wirklich gut genug sein"
+          },
+          {
+            "title": "Danach",
+            "content": "Bleibt es auch viel später wirklich nicht machbar, nimm dir ein kleines Stück nach dem anderen vor, warmherzig, nie einen ganzen Berg Korrekturen auf einmal. Genau dieses frühe Fenster ohne Kritik hält die Bereitschaft am Leben, weiter zu probieren. Siehe ch04."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_05",
+        "title": "Wie viel Taschengeld, und sollte es an Hausarbeit hängen?",
+        "scenario": "Du willst ein Taschengeld einführen und hängst an zwei Fragen fest: wie viel, und sollte es die Belohnung für Hausarbeit sein? Jeder scheint eine andere Regel zu haben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, zum Betrag: „Keine Zahl aus der Tabelle, eine Zahl für die Lektion. Was will ich üben lassen: Geduld, Sparen, ein bisschen Abgeben?\"\n\nZu deinem Kind, die Grenze ziehen: „Das ist keine Bezahlung für Hausarbeit. Mithelfen zu Hause ist eine Familiensache. Das hier ist getrennt, es gehört dir, zum Üben von Entscheidungen.\"\n\nBeim Übergeben der echten Münzen: „Echtes Geld, deine Hand, deine Entscheidung. Spar es für den großen Wunsch, oder gib es für den kleinen aus.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Wähl den Betrag für die Lektion, die du im Sinn hast, nicht nach irgendjemandes Formel, die richtige Zahl ist die, die zu eurer Familie passt\n- Nutz echtes, physisches Geld, das dein Kind anfassen kann, eine Zahl auf einem Bildschirm bleibt in diesem Alter abstrakt\n- Halt es bewusst getrennt von Hausarbeit: Bezahlung fürs Helfen macht aus „wir packen alle mit an, weil wir Familie sind\" (ch04) ein „was ist mir das wert?\", eine Verschiebung, die sich kaum zurückdrehen lässt\n- Leg ein paar Tabu-Kategorien fest, und lass dann die eigenen Entscheidungen deines Kindes wirklich über den Rest bestimmen, auch über eine, die du selbst nie treffen würdest\n- Haltet es gemeinsam schriftlich fest: wofür es ist, wie viel, wie oft, worauf gespart wird"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne mit einem frühen bereuten Kauf, das kleine, sichere Bedauern ist genau der Punkt, also mach es nicht rückgängig. Willst du Geben mit reinbringen, versuch das Geld in Ausgeben, Sparen und Teilen aufzuteilen. Siehe ch05."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_06",
+        "title": "Der Kassen-Zusammenbruch wegen etwas, das dein Kind gerade entdeckt hat",
+        "scenario": "Mitten in der Besorgung fixiert sich dein Kind auf etwas an der Kasse, und das „biiitte\" steigert sich zu einem öffentlichen Zusammenbruch, als du Nein sagst. Fremde schauen her. Du spürst, wie dein eigenes Gesicht brennt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst das Gefühl, die Entscheidung bleibt: „Du willst das so sehr, UND es ist immer noch nicht heute. Miese Mischung, ich weiß.\"\n\nDeine eigene Hitze für dich benennen, still: „Die Blicke landen auf mir. Das ist meins. Ihr Gefühl ist ihrs. Nicht vertauschen.\"\n\nKein Verhandeln, warm und kurz: „Du darfst den ganzen Weg zum Auto sauer sein, UND die Antwort bleibt Nein.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Begegne dem Wunsch als echter Enttäuschung, nicht als Inszenierung: Benenn ihn, halt am Nein fest\n- Verhandel nicht neu, weil Leute zuschauen, ein Ja jetzt lehrt, dass eine ausreichend große Szene ein geschlossenes Nein wieder aufmacht\n- Kümmere dich getrennt um deine eigene Verlegenheit: Das beobachtet-werden-Gefühl ist deins zu tragen, nicht ihrs zu heilen\n- Steigt es weiter, verlager alles ruhig nach draußen, erst raus, dann reden (tantrums/ch11)"
+          },
+          {
+            "title": "Danach",
+            "content": "Ständiges Wollen im Moment bearbeitest du am besten fern von der Kasse: Bau die „Genug\"- und Woher-kommt-das-Muskeln in ruhigen Momenten auf (ch03), und lass ein Taschengeld das Warten in die Struktur einbauen (ch05)."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Halt dein Kind in öffentlichen Räumen in Reichweite, damit ein Zusammenbruch nicht zu einem Sprint Richtung Straße oder Ausgang wird. Sicherheit geht vor, geh bei Bedarf an einen ruhigeren Ort."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_07",
+        "title": "Wenn es nie genug ist",
+        "scenario": "Es ist nie genug. Neue Sache, kurzer Kick, „was kommt als Nächstes?\" schon am Wochenende. Häufiger Nein sagen dreht nur die Lautstärke hoch, du willst lieber den Teil wachsen lassen, der sich satt fühlt, statt nur das Wollen zu kontrollieren.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Das „Genug\"-Wundern, in einem ruhigen Moment: „Komische Frage: Was ist genug Kuscheltiere? Gibt's da eine Zahl? Woran würde dein Körper merken, dass er da angekommen ist?\"\n\nDie Reise nachzeichnen: „Jemandes Hände haben das gemacht. Angebaut, verpackt, hierher gefahren. Ganz schön weite Reise bis zu deinem Regal, oder?\"\n\nDen Reflex hinterfragen, laut über dich selbst: „Ich könnte das kaufen. Das Geld ist direkt hier in meiner Tasche. Und… ich lass es liegen. Brauch es nicht genug.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Arbeite das außerhalb der Wunsch-Momente, ruhige, neugierige Fragen, nie ein Vortrag direkt nach einem „ich will aber\"\n- Lass das Wort „genug\" wachsen: was es bedeutet, ob es sich verschiebt, wie sich zu wenig und genau richtig unterschiedlich anfühlen, ohne dieses Wort hat Wollen keine Bremse\n- Verfolge, woher gewöhnliche Dinge kommen, damit die unsichtbare Arbeit dahinter sichtbar wird\n- Lass dein Kind zusehen, wie du von etwas weggehst, das du dir locker kaufen könntest, gesehene Zurückhaltung wirkt mehr als erzählte"
+          },
+          {
+            "title": "Danach",
+            "content": "Das ist ein langsamer Muskel, kein Schalter, rechne damit, dass er sich über Monate aufbaut (ch03). Kombinier es mit einem Taschengeld, damit Warten und Abwägen echte Übung bekommen, nicht nur Worte (ch05)."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_08",
+        "title": "Drei Tage, an denen die selbst gewählte Aufgabe liegen bleibt",
+        "scenario": "Die Aufgabe, die dein Kind sich ausgesucht und zugesagt hat? Dritter Tag in Folge, und sie ist wieder liegen geblieben. Du ertappst dich bei Wörtern wie faul, undankbar, und wie du nach einem „gut, dann eben kein Bildschirm, bis es fertig ist\" greifst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Neugier statt Drohung: „Dritter Tag, an dem das hier nicht passiert ist. Irgendwas daran funktioniert nicht, sag mir, was?\"\n\nDeine eigene Geschichte ertappen, still für dich: „Wenn ich sie in Gedanken als faul abstemple, wird genau das zu dem Kind, das ich großziehe. Mach ich nicht.\"\n\nNeu einladen, dieselbe Seite: „Willst du sie gegen eine andere Aufgabe tauschen, oder finden wir zusammen raus, was im Weg steht?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lies eine Serie von Widerstand als Information, nicht als Trotz, werd neugierig auf die Blockade, bevor irgendwas anderes passiert\n- Lass die Drohung mit einem unabhängigen Privileg weg, sie züchtet genau die „mein Kind schätzt gar nichts\"-Geschichte, die du vermeiden willst\n- Achte auf deine eigene stille Erzählung: Das Etikett, das du dir über dein Kind einredest, wird zu dem Menschen, zu dem es heranwächst (ch04)\n- Biete ein Neu-Aussuchen oder ein gemeinsames Problemlösen an, eine Aufgabe, die dein Kind sich neu zu eigen macht, ist eine, die es auch wirklich erledigt"
+          },
+          {
+            "title": "Danach",
+            "content": "Geht es beim Widerstand eigentlich darum, dass sich die Aufgabe wie sinnlose Beschäftigung anfühlt, lass dein Kind mithelfen, sie zur echten Mitwirkung umzuformen, gemeinsam auszuwählen ist hier die beste Vorbeugung (ch04). Halt Bezahlung da raus (ch05)."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -108,6 +108,221 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "schoolchallenges_script_01_es",
+        "title": "Semanas de 'no voy', no solo un lunes difícil",
+        "scenario": "Desde hace un mes, casi todas las mañanas empiezan igual: dolor de panza, lágrimas, \"por favor no me hagas ir\". Los fines de semana está perfecto. Ya se te acabó la paciencia y las ideas, y una parte de ti se pregunta si te está manipulando.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti misma, antes de tocar la puerta de su cuarto: \"No está peleando conmigo. Está peleando con algo que todavía no puedo ver. Mi plan es sostenerme firme.\"\n\nA él, con calma y cariño: \"Tu cuerpo de verdad no quiere entrar ahora mismo. Lo entiendo — y de todos modos te vamos a llevar, juntos. No tienes que quererlo. Solo tienes que dejarme ayudarte.\"\n\nCuando pregunte por qué tiene que ir: \"Porque ir es como averiguamos qué está haciendo que se sienta tan grande. Y yo voy a estar justo a tu lado mientras lo hacemos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Busca el patrón antes de buscar la solución: ¿la misma clase, el mismo niño, la misma hora del día, o pánico por la tarea en sí? La forma señala la causa\n- Sostén el cariño y el límite juntos: valida a fondo, mantén la respuesta \"vamos\"\n- Siente tu propio enojo o pavor antes de llegar a la puerta, no en la puerta\n- Pon al colegio en un solo plan contigo: las mismas palabras, un adulto conocido en el momento más difícil"
+          },
+          {
+            "title": "Después",
+            "content": "El progreso aquí es pequeño y desparejo, no un regreso limpio: cuenta las victorias diminutas. Si semanas de esfuerzo constante no mueven nada, o ves desesperanza, cambios en cómo come o duerme, o pánico que le desborda el cuerpo, involucra a tu pediatra y al orientador o la orientadora del colegio, juntos. Eso es un siguiente paso, no un fracaso."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "El rechazo sostenido al colegio junto con desesperanza, pánico o cambios al comer o dormir amerita apoyo profesional: empieza por tu pediatra y el orientador o la orientadora del colegio. Mantén las mañanas cálidas y firmes; evita la fuerza física."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_02_es",
+        "title": "La ficha de fracciones termina en llanto y una hoja rota",
+        "scenario": "A los veinte minutos de matemáticas, el lápiz cae de golpe, la ficha queda hecha bola, y llegan las lágrimas: \"NO PUEDO, soy tan tonto.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nada ingenioso primero. Solo narra: \"El lápiz en el suelo, la hoja hecha bola, y esas fracciones que todavía no cuadran. Esta es la peor parte.\"\n\nAl \"no puedo\": \"Ahí está otra vez esa voz fuerte del 'no puedo'. Siempre aparece justo en la parte difícil. No le toca decidir qué es verdad.\"\n\nHabla del deseo: \"Querías tener esta página entera lista y fuera de tu escritorio — y está tardando mucho más. Con razón estás furioso.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Narra como locutor deportivo lo que está pasando; no arregles ni des pistas mientras está desbordado, nada cala todavía\n- Nombra el \"no puedo\" como una voz ruidosa, no como un hecho; no lo discutas con un \"claro que puedes\"\n- Cuando esté más tranquilo, ofrece un solo paso siguiente, no la página entera\n- Si se va más allá de lo que puedes alcanzar, deja de enseñar por completo: primero calma y seguridad, la matemática después"
+          },
+          {
+            "title": "Después",
+            "content": "Reflejar el sentimiento puede ponerlo más ruidoso antes de calmarlo; eso es normal, y funciona con muchas repeticiones, no con una sola. Para la habilidad general de sostenerse dentro de la frustración, consulta la guía de tolerancia a la frustración."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_03_es",
+        "title": "'Hazlo tú' — el no cariñoso",
+        "scenario": "Atascada en los dos últimos problemas, te desliza la hoja: \"Hazlo tú. A ti se te da bien esto, solo escribe las respuestas.\" Te tomaría diez segundos y se acabarían los quejidos.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "\"Se nota que quieres terminar — y no te las voy a escribir yo. No porque no quiera ayudarte, sino porque te estaría robando el clic, ese pequeño '¡lo logré!' que solo cuenta cuando es tuyo.\"\n\n\"Me quedo aquí sentada. ¿Me lees el primero en voz alta?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Niégate con cariño y quédate cerca físicamente: el límite es sobre la tarea, no sobre tu atención\n- Di en voz alta la razón cariñosa; no te limites a decir que no\n- Ofrece apoyo (leerlo juntas, hacer el primer paso al lado): ayuda con el proceso, no con la respuesta"
+          },
+          {
+            "title": "Después",
+            "content": "Hacerlo por ella una y otra vez le enseña que la frustración se resuelve con un rescate. La lógica completa del límite cariñoso está en la guía de tolerancia a la frustración; aquí está aplicada a la mesa de la tarea."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_04_es",
+        "title": "Una palabra tachada y toda la página termina rota",
+        "scenario": "Está escribiendo un resumen de lectura, se equivoca en una palabra, la tacha, y ahí pierde el control. \"¡Quedó ARRUINADO, tengo que empezar de nuevo!\", y ya está rompiendo la hoja por la mitad.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "No tranquilices el estándar (\"¡se ve genial!\"): eso solo demuestra que no sientes lo mal que se ve para él. En cambio: \"Esa palabra tachada se siente como si arruinara todo. Terminar igual la que se ve 'arruinada' es la parte difícil y valiente. Hagámoslo juntos.\"\n\nPonte curiosa, no correctiva: \"Explícame... ¿qué haría que esta página estuviera bien? ¿Y la tachada de verdad no lo está? ¿Por qué?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Protege terminar la versión imperfecta por encima de arreglar el error; guarda cualquier corrección para un momento tranquilo y de bajo riesgo\n- Pídele que explique en voz alta su propio estándar: la inconsistencia aparece sola\n- Nota el esfuerzo y la perseverancia, no la prolijidad"
+          },
+          {
+            "title": "Después",
+            "content": "Nombrar la voz interior perfeccionista se cubre a fondo en las guías de confianza; combina ese movimiento con los de aquí, que aflojan el estándar."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Una autocrítica implacable que no cede con apoyo constante, o evitar cosas por semanas antes que arriesgarse a la imperfección, amerita hablarlo con tu pediatra o con un terapeuta infantil."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_05_es",
+        "title": "'Ya no me importa nada de esto'",
+        "scenario": "El niño que antes traía a casa cada examen calificado ahora se encoge de hombros: \"Las notas son una tontería, no me importa.\" Suena menos a la verdad y más a una pared que se está levantando.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "En el momento, casi nada: \"Está bien. Ahora mismo no te importa. Te escuché.\" (Y ahí lo sueltas; no lo discutas hasta que \"admita\" que le importa.)\n\nMás tarde, con calma y de lado: \"Puede que esté equivocada, pero mi corazonada es que alguna parte de ti no está tan resignada como suena el resto. Nada más.\"\n\nNombrando la vergüenza con suavidad: \"Creo que se siente más seguro decir que no importa que quererlo y llevarte una decepción. No me debes una respuesta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Trata el \"no me importa\" como una armadura sobre el riesgo de que le importe y aun así le vaya mal, no como un cambio de opinión real\n- Niégate a pelear contra la pared; en su lugar, déjale una puerta en silencio\n- Sigue diciendo que confías en lo que puede lograr, desenganchado de cualquier nota"
+          },
+          {
+            "title": "Después",
+            "content": "Una historia corta y sin terminar de una vez que dejaste algo que en secreto querías puede normalizarlo, sin ninguna moraleja pegada. Si la indiferencia se extiende a todo lo que antes le encantaba, consulta la tarjeta de señales de alarma."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Una indiferencia duradera que se extiende más allá del colegio (perder el interés por todo, alejarse de sus amigos, cualquier mención de que nada tiene sentido) amerita consultar a tu pediatra o a un orientador."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_06_es",
+        "title": "Salir de cada reunión sintiendo solo lo malo",
+        "scenario": "Tienes una reunión el jueves y ya conoces la sensación: una lista de lo que anda mal, un nudo en el estómago, y la sospecha de que tu hija se está quedando atrás, aunque en general le vaya bien.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti misma, en la puerta: \"Esta es mi hija completa, de principio a fin. Los próximos veinte minutos son una foto, no el álbum entero.\"\n\nAntes de que termine: \"Antes de terminar... ¿me puede decir algo concreto que esté haciendo muy bien? Quiero llevarme eso también a casa.\"\n\nA tu hija, antes de ir: \"Mañana tu maestra y yo solo vamos a hablar de cómo te va, como hacen los adultos con cada niño. No es un veredicto de bueno o malo sobre ti.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ánclate en quién es ella antes de escuchar una sola palabra de retroalimentación: estás ahí para escuchar con claridad, no para defenderla\n- Lleva dos o tres preguntas por escrito; si no, el tirón de la sala hace que se te olviden\n- Pide en voz alta algo que vaya bien: por defecto, el formato solo te entrega los huecos"
+          },
+          {
+            "title": "Después",
+            "content": "Una reunión cargada de áreas de mejora es el formato funcionando tal como fue diseñado, no un veredicto. Para mantener esta postura de aliados con la maestra durante todo el año, consulta la guía de la maestra de preparación para kindergarten."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_07_es",
+        "title": "Llamaron del colegio: le pegó a otro niño",
+        "scenario": "La hora de salida trae noticias: tu hijo empujó a un compañero y no quiso pedir perdón. Va en el asiento de atrás, con la mandíbula apretada, listo para negarlo todo en cuanto le preguntes.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Empieza con la separación entre identidad y conducta (consulta la guía de la maestra de preparación para kindergarten), y sigue: \"Hoy pasó algo en el colegio. Lo vamos a resolver juntos, y no estás en problemas por decirme la verdad.\"\n\nSi lo niega: \"No tienes que decirme que fuiste tú. Solo me pregunto qué puede hacer que un niño quiera empujar a alguien justo en ese momento.\"\n\nDelátate a ti mismo de niño: \"Cuando yo tenía más o menos tu edad, un niño me quitó el columpio que llevaba rato esperando y lo empujé fuerte. Me sentí fatal después. Me tomó mucho tiempo aprender qué hacer con ese sentimiento tan intenso e injusto, en vez de usar las manos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Sáltate la caza de la confesión: presionar por un \"admítelo\" acumula vergüenza y casi nunca consigue la verdad\n- Ve de lado: habla de por qué pudo haber pasado, no de si pasó\n- Pon el recurso para manejarlo dentro de tu historia, no como un consejo pegado al final"
+          },
+          {
+            "title": "Después",
+            "content": "Un día o dos después, ofrece actuar juntos cómo hacerlo distinto: tú haces el papel difícil, él hace el más tranquilo, y cambian solo si él quiere. La práctica necesita a un niño más tranquilo que el de la primera conversación, cruda."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Una agresión que escala o es peligrosa, o un malestar que se derrama mucho más allá del incidente, necesita al equipo de apoyo del colegio y a tu pediatra, no solo una charla en casa. Prioriza la seguridad; evita la sujeción física salvo que sea necesaria para prevenir un daño inminente."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_08_es",
+        "title": "'Mi maestra me odia' — cuando en realidad no hay peligro",
+        "scenario": "Tu hija está convencida de que su maestra es demasiado estricta y la tiene entre ojos. Nada de lo que has escuchado suena peligroso (sin humillación, sin miedo), pero ella se siente perseguida, y eso le está amargando el colegio.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Afirma el sentimiento sin poner a la maestra en juicio: \"De verdad se siente como si fuera más dura contigo que con los demás. Es horrible sentir eso cada vez que entras.\"\n\nProtege su seguridad: \"Esto es lo que sé: tu maestra sí ve lo bueno en ti, incluso en los días en que es difícil sentirlo. Y mi confianza en ti no depende de cómo vaya esa sola aula.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Valida su experiencia sin emitir un veredicto sobre si la maestra es realmente injusta\n- Mantén cualquier duda real que tengas sobre la maestra en un carril de adultos, lejos de sus oídos\n- Entrena un pequeño movimiento para el aula (cómo pedir ayuda, qué hacer cuando la corrigen) en lugar de prometer \"arreglar\" a la maestra"
+          },
+          {
+            "title": "Después",
+            "content": "Esto es fricción cotidiana, no la versión de alarma. Si a ella le empieza a dar verdadero miedo, o escuchas hablar de humillación o de algo que no es seguro, eso ya cruza hacia el territorio del equipo de apoyo del colegio. Consulta la tarjeta de señales de alarma."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si un niño le tiene verdadero miedo a una maestra, o hay humillación o algo que no es seguro, avisa al equipo de apoyo del colegio y a tu pediatra."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_09_es",
+        "title": "'NUNCA voy a hacer el recital — tal vez cuando sea grande'",
+        "scenario": "Le encanta tocar la flauta dulce en casa, pero se ha plantado con fuerza contra el recital de la clase: \"Nunca lo voy a hacer. Tal vez cuando sea adulta.\" Cada empujón hace que se aferre más.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Sáltate la discusión directa. Ponte curiosa sobre el estándar: \"Ayúdame a entender... ¿qué tendría que pasar para que el recital se sintiera bien? ¿Tocar en casa está bien, pero un escenario no? ¿Cuál es la diferencia para ti?\"\n\nQuítale el reloj: \"Esto no tiene fecha límite. Va a pasar cuando pase, no según un horario, y no para demostrarle nada a nadie.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No arranques con lo más cargado: construye flexibilidad primero en lugares de bajo riesgo y deja que viaje\n- Amplía su control en otras partes del día; un niño que se siente sin poder se aferra con más fuerza donde todavía tiene voz\n- Deja que exprese en voz alta su propia regla: la inconsistencia suele aparecer sola"
+          },
+          {
+            "title": "Después",
+            "content": "Quitar la presión suele aflojar la evitación que esa misma presión estaba alimentando. Si la rigidez se está extendiendo a muchas áreas de su vida, consulta la guía de perfeccionismo y la tarjeta de señales de alarma."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_10_es",
+        "title": "Volver al colegio después de una ausencia larga se siente demasiado grande",
+        "scenario": "Después de unas semanas fuera (una enfermedad, y después una racha difícil), un día completo de vuelta se siente imposible para tu hijo, y para ti. Está claro que el todo-o-nada de \"el lunes vuelves y ya\" no va a funcionar.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A tu hijo: \"No vamos a hacer el día completo de golpe. Vamos a empezar chico e ir sumando: primero solo ver a tu maestra, después una clase, después más. Siempre vas a saber el plan antes de ir.\"\n\nCombinando esperanza con lo difícil: \"Esta parte de verdad es difícil ahora mismo — y ahora mismo no es para siempre. Lo subimos un escalón a la vez.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Divídelo en pasos alcanzables: una visita corta, ver a un adulto conocido en un lugar de bajo riesgo, después un día parcial\n- Trata ver a sus compañeros como una base, no como un premio por mejorar primero\n- Construye la escalera JUNTO CON el colegio: un solo plan compartido, un adulto conocido de más en el momento más difícil"
+          },
+          {
+            "title": "Después",
+            "content": "Espera un progreso que no es lineal; un paso atrás después de un día difícil es parte de la subida, no su derrumbe. Si no hay ningún avance después de semanas de esfuerzo constante, involucra a tu pediatra y al orientador o la orientadora del colegio, juntos."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Un regreso estancado a pesar del esfuerzo constante, o señales de una dificultad más amplia, amerita involucrar a tu pediatra y al orientador o la orientadora del colegio, juntos."
+          }
+        ]
+      }
+    ]
   }
 }

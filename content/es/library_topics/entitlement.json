@@ -80,6 +80,171 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "entitlement_script_01_es",
+        "title": "El regalo equivocado, con toda la familia mirando",
+        "scenario": "Comida familiar, todos mirando. Tu hija rompe el papel del regalo de la tía Mara, encuentra un libro de rompecabezas en lugar de la figura del dragón que llevaba semanas señalando en el catálogo, y lo dice tal cual, en voz alta: \"Ay. Yo quería el dragón.\" La mesa se queda en silencio. A ti se te sube el calor a la cara.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A tu hija, cerca y en voz baja, primero el sentimiento: \"No era el que te imaginabas. Vi cómo te cayó.\"\n\nA ti, ahora mismo: \"La cara caliente es mía. Ocúpate de su sentimiento; mi vergüenza puede esperar.\"\n\nMás tarde, a solas — nada de un gracias exprimido a la fuerza: \"En ese momento te sentiste decepcionada, y eso está permitido. La tía Mara también lo eligió pensando en ti. Busquemos una manera de que ella sepa que nos dimos cuenta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ve al sentimiento antes que a los modales — nombra la decepción, sáltate el \"di gracias\" forzado mientras el ambiente todavía está caliente\n- Cómprate un respiro con elegancia si lo necesitas: \"vamos por agua\", unos pasos lejos, y vuelve\n- Carga tu propia vergüenza por separado — es real, pero no le toca a tu hija arreglarla\n- Haz la reparación con la tía más tarde y a solas, nunca como una actuación en medio de la mesa"
+          },
+          {
+            "title": "Después",
+            "content": "Si los grandes momentos de regalos siempre terminan así, adelántate al próximo en un momento de calma — mira el replanteamiento en ch01 y la práctica de gratitud en ch03. Para calmar un colapso completo mientras sucede, tantrums/ch11."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_02_es",
+        "title": "\"Eso NO lo como\": leer el tono en la mesa",
+        "scenario": "La cena llega a la mesa y tu hija se echa hacia atrás como si le hubieras servido piedras: \"Puaj, eso NO lo como.\" El mismo tono que tuvo la semana pasada con el regalo equivocado, y antes con el juego de cartas que perdió. Sientes que la palabra \"desagradecida\" empieza a subirte por dentro.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero el sentimiento, todavía sin debate sobre la comida: \"Esta noche esperabas otra cosa. Te escucho.\"\n\nNombrando la habilidad real, tranquila y ligera: \"Que te den algo que no querías es un momento feo. No tiene que encantarte la cena — sí tienes que dejarme comer la mía.\"\n\nPara ti, para más tarde: \"¿Esto es sobre la comida, o sobre la decepción en general? ¿Dónde más se choca ella contra esta misma pared?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Recibe el tono como decepción, no como desafío — nómbralo, no lo enjuicies\n- Sáltate el sermón de gratitud en la mesa; llega como regaño y no enseña nada mientras el ambiente sigue caliente\n- A solas, haz la revisión del patrón: si el mismo estallido aparece también con los rompecabezas, al esperar y al perder, el trabajo de fondo es la tolerancia a la decepción en general (ch01; tantrums/ch11), no esta cena en particular\n- Sostén tu propio límite sin acalorarte: la cena se queda como está; los sentimientos sobre ella están permitidos"
+          },
+          {
+            "title": "Después",
+            "content": "Una cena gruñona y aislada no es nada. Una pared ante cada pequeña decepción es lo que vale la pena trabajar — en momentos de calma, no en la mesa. Mira ch01 para el replanteamiento y ch03 para construir el otro lado."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Mantén el foco en el tono, no en obligar a comer; la presión alrededor de la comida es contraproducente y puede crear sus propios conflictos."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_03_es",
+        "title": "Empezar con las tareas de casa sin empezar una pelea",
+        "scenario": "Quieres que tu hijo colabore, pero cada vez que te imaginas el primer paso, te imaginas un enfrentamiento — así que sigues sin empezar. ¿Por dónde arrancas siquiera, sin que esto se convierta en una batalla de todas las noches?",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Siembra la identidad primero, días antes de cualquier tarea: \"Agarraste las servilletas sin que te lo pidiera — ese es un gesto de ayudante de verdad.\"\n\nOfrece una elección real, en tono de mismo equipo: \"Cada uno va a tener a su cargo una tarea para que nuestra casa funcione. ¿Quieres elegir la tuya — separar el reciclaje, o llenar los vasos de agua para la cena?\"\n\nSeñala la tabla, no a tu hijo: \"Vamos a colgarla aquí para que sea la LISTA la que recuerde, no yo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Siembra la identidad antes de asignar — nota y nombra los pequeños momentos de ayuda para que \"soy un ayudante\" ya se esté formando antes de que llegue cualquier tarea\n- Ordena primero tu propia actitud: entra convencido de que puede con esto y de que esto es mantener la casa entre todos, no una batalla que ganar\n- Déjalo elegir entre un par de opciones reales — las ganas de hacerlo vienen incluidas con el elegir\n- Cuelga una tabla visible para que una tarea olvidada sea un vistazo a la lista, no un juicio de carácter ni una maratón de regaños\n- Las primeras semanas: elogia que haya aparecido, todavía nada sobre qué tan bien (ver guion 04)"
+          },
+          {
+            "title": "Después",
+            "content": "Espera tambaleos — es una práctica, no un interruptor. Si más adelante aparece resistencia, ponte curioso sobre qué la bloquea en lugar de quitar un privilegio (ch04). Mantén la mesada fuera de esto (ch05), para que ayudar siga siendo cosa de familia, no de paga."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Elige tareas apropiadas para su edad, y mantén los productos de limpieza, las herramientas cortantes y los objetos con los que se pueda atragantar fuera de su alcance."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_04_es",
+        "title": "Cuando los primeros intentos salen desastrosos",
+        "scenario": "Dos semanas con la tarea nueva de tu hijo, y los resultados son… flojos. La cama es un bulto disparejo, la mitad de los juguetes no llegó a la caja. Te pica la mano por arreglarlo delante de él, o por señalarle todo lo que dejó sin hacer.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Solo el esfuerzo, y de verdad: \"Lo hiciste tú solo, de principio a fin. ESO es lo que estoy mirando ahora mismo.\"\n\nSi de verdad necesitas corregir algo, hazlo cálido y con la vista puesta en la próxima vez: \"Le estás agarrando el truco. Las esquinas las afinamos otro día.\"\n\nPara ti, con la mano ya quieta: \"Si lo corrijo ahora, le enseño a rendirse. La versión bien hecha llega después, de tanto repetir.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Durante el primer tramo, juzga que haya aparecido, no el acabado — esa es toda la tarea por ahora\n- Muérdete las ganas de arreglarlo delante de él; rehacer su trabajo en voz alta dice \"no pensé que pudieras\"\n- Guarda el coaching de calidad para dentro de unas semanas, cuando el hábito ya esté firme — la destreza madura a partir de práctica sin críticas\n- Deja que \"suficientemente bueno para alguien que empieza\" sea, de verdad, suficientemente bueno"
+          },
+          {
+            "title": "Después",
+            "content": "Si mucho después sigue siendo genuinamente un desastre, entrena UN detalle pequeño a la vez, con calidez — nunca una montaña de correcciones de golpe. Esa ventana temprana sin críticas es lo que mantiene las ganas de seguir intentándolo. Ver ch04."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_05_es",
+        "title": "¿Cuánta mesada — y debería pagar las tareas de casa?",
+        "scenario": "Estás listo para empezar con la mesada y te trabas en dos preguntas: cuánto, y si debería ser el pago por las tareas de casa. Cada quien parece tener una regla distinta.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti, sobre la cantidad: \"No es una cifra de tabla — es una cifra de lección. ¿Qué quiero que practique: paciencia, ahorro, compartir un poco?\"\n\nA tu hijo, trazando la línea: \"Esto no es pago por las tareas. Ayudar en casa es cosa de familia. Esto es aparte — es tuyo, para practicar a elegir.\"\n\nEntregándole las monedas de verdad: \"Dinero de verdad, tu mano, tu decisión. Guárdalo para lo que de verdad quieres, o gástalo ahora en algo pequeño.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Elige la cantidad según la lección que persigues, no según la fórmula de nadie — la cifra correcta es la que le queda bien a tu familia\n- Usa dinero real y físico que pueda sostener; un número en una pantalla sigue siendo abstracto a esta edad\n- Mantenla sin enganchar a las tareas, a propósito: pagar por ayudar convierte el \"colaboramos porque somos familia\" (ch04) en \"¿cuánto vale esto para mí?\" — un giro muy difícil de deshacer\n- Fija de entrada un par de categorías prohibidas, y después deja que sus propias decisiones determinen de verdad el resto — incluida una que tú jamás tomarías\n- Escríbanlo juntos: para qué es, cuánto, cada cuánto, para qué está ahorrando"
+          },
+          {
+            "title": "Después",
+            "content": "Espera una compra temprana de la que se arrepienta — ese pequeño arrepentimiento seguro es justo el punto, así que no la reviertas. Si quieres que dar también forme parte de esto, prueba dividir el dinero entre gastar, ahorrar y compartir. Ver ch05."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_06_es",
+        "title": "El colapso en la caja por algo que acaba de ver",
+        "scenario": "A mitad de un mandado, tu hija se queda fija en algo junto a la caja, y el \"porfaaa\" escala hasta un colapso público completo cuando le dices que no. Hay desconocidos mirando. Sientes cómo te arde la cara.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero el sentimiento, la decisión no cambia: \"Lo quieres MUCHÍSIMO, y hoy sigue sin ser el día. Qué mezcla tan mala — lo sé.\"\n\nNombrando tu propio calor, en silencio: \"Las miradas caen sobre MÍ. Eso es mío. Su sentimiento es suyo. No los confundas.\"\n\nSin negociar, cálida y breve: \"Puedes estar molesta todo el camino hasta el coche. La respuesta sigue siendo no.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Recibe el deseo como una decepción real, no como una estrategia — nómbralo, sostén el no\n- No renegocies frente al público; un sí ahora enseña que una escena suficientemente grande reabre un no que ya estaba cerrado\n- Ocúpate de tu propia vergüenza por separado — sentirte observado es una carga tuya, no algo que a ella le toque curar\n- Si sigue escalando, con calma saca todo el asunto afuera — primero salir, después hablar (tantrums/ch11)"
+          },
+          {
+            "title": "Después",
+            "content": "El deseo constante en el momento se trabaja mejor lejos de la caja: construye los músculos del \"suficiente\" y de \"de dónde vienen las cosas\" en momentos de calma (ch03), y deja que una mesada haga que esperar sea algo estructural (ch05)."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "En espacios públicos, mantén a tu hija a tu alcance para que un colapso no se convierta en una carrera hacia el tráfico o las salidas. Prioriza la seguridad; cambien a un lugar tranquilo si hace falta."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_07_es",
+        "title": "Cuando nunca es suficiente",
+        "scenario": "Nunca es suficiente. Cosa nueva, emoción breve, \"¿y ahora qué?\" antes de que termine el fin de semana. Decir que no con más frecuencia solo sube el volumen — quieres hacer crecer la parte que se siente llena, no solo vigilar el deseo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "La pregunta del \"suficiente\", en un momento de calma: \"Pregunta rara — ¿cuántos peluches son SUFICIENTES? ¿Existe ese número? ¿Cómo se daría cuenta tu cuerpo de que ya llegó ahí?\"\n\nRastreando el viaje: \"Las manos de alguien hicieron esto. Lo cultivaron, lo empacaron, lo trajeron hasta aquí. Qué viaje hasta tu estante, ¿no?\"\n\nCuestionando el reflejo, en voz alta y sobre ti: \"Podría comprar esto. El dinero está aquí mismo, en mi bolsillo. Y… lo voy a dejar. No lo necesito lo suficiente.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Trabaja esto FUERA de los momentos de deseo — preguntas tranquilas y curiosas, nunca un sermón justo después de un \"dámelo\"\n- Haz crecer la palabra \"suficiente\": qué significa, si cambia, cómo se sienten distinto lo que no alcanza y lo justo — sin esa palabra, el deseo no tiene frenos\n- Rastrea de dónde vienen las cosas comunes, para que el esfuerzo invisible detrás de ellas se vuelva visible\n- Deja que te vea a TI alejarte de algo que podrías comprar sin problema — la contención que se ve vale más que la que se cuenta"
+          },
+          {
+            "title": "Después",
+            "content": "Este es un músculo lento, no un interruptor — espera que se construya a lo largo de meses (ch03). Combínalo con una mesada para que esperar y elegir entre opciones tengan práctica real, no solo palabras (ch05)."
+          }
+        ]
+      },
+      {
+        "id": "entitlement_script_08_es",
+        "title": "Tres días esquivando la tarea que ella misma eligió",
+        "scenario": "¿La tarea que tu hija eligió y aceptó? Va el tercer día seguido esquivándola. Te descubres pensando palabras como perezosa, desagradecida — y a punto de decir \"bueno, nada de pantalla hasta que esté hecho\".",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Curiosidad en lugar de amenaza: \"Van tres días que esto no pasa. Algo no está funcionando — ¿me cuentas qué?\"\n\nAtrapando tu propia historia, en silencio: \"Si la etiqueto de perezosa, aunque sea solo en mi cabeza, esa es la niña que voy a empezar a criar. Eso no.\"\n\nInvitándola de nuevo, del mismo lado: \"¿Quieres cambiarla por otra tarea, o averiguamos juntos qué se está interponiendo?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Lee una racha de resistencia como información, no como desafío — ponte curioso sobre el obstáculo antes que cualquier otra cosa\n- Sáltate la amenaza del privilegio sin relación; eso cría justo la historia de \"mi hija no aprecia nada\" que estás tratando de evitar\n- Vigila tu narración privada — la etiqueta que ensayas sobre ella se convierte en la persona en la que se va convirtiendo (ch04)\n- Ofrece volver a elegir o resolver el problema juntos; una tarea que vuelve a hacer suya es una que de verdad va a cumplir"
+          },
+          {
+            "title": "Después",
+            "content": "Si la resistencia en realidad tiene que ver con que la tarea se siente como relleno sin sentido, deja que te ayude a transformarla en una contribución de verdad — la elección compartida es la prevención aquí (ch04). Mantén la paga fuera de esto (ch05)."
+          }
+        ]
+      }
+    ]
   }
 }

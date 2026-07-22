@@ -108,6 +108,201 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "play_script_01_es",
+        "title": "Cuando tu hijo te dice \"juega conmigo\" y te congelas",
+        "scenario": "Tu hijo te alcanza un juguete y te pide que juegues, y sientes que te pones tiesa — no tienes idea de qué hacer, te sientes un poco ridícula, y te dan ganas de ordenar algo en vez de sentarte. No te jugaron mucho de pequeña, y se nota.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti misma, antes de sentarte: \"Tiesa es lo que se siente lo nuevo, no lo que se siente fracasar. Noventa segundos. Tengo permiso para ser principiante.\"\n\nA tu hijo, honesta y cálida: \"Estoy oxidada para esto... me vas a tener que enseñar. ¿Qué soy? ¿Qué digo?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Deja que tu hijo dirija: que te den un papel resuelve el problema de \"y ahora qué hago\"\n- Empieza con una ventana minúscula, uno o dos minutos, no una tarde abierta que vas a temer\n- Copia lo que está haciendo en lugar de inventar: imita con un segundo juguete al lado del suyo; cuenta como jugar y no te exige nada\n- Nota la torpeza y sigue de todos modos; es solo óxido, no un veredicto sobre ti ni sobre el vínculo"
+          },
+          {
+            "title": "Después",
+            "content": "Se vuelve menos torpe con la práctica: la soltura viene después de hacerlo, no antes. Si te sientes apagada o sin alegría de forma persistente, mucho más allá del juego en sí, vale la pena comentarlo con tu propio médico."
+          }
+        ]
+      },
+      {
+        "id": "play_script_02_es",
+        "title": "Siempre piensas en jugar, y el día siempre gana",
+        "scenario": "Tienes toda la intención de sacar tiempo para jugar, pero el día se llena — y esa noche en la que sí apartaste un buen rato, se sintió largo, forzado y un poco aburrido. Así que no lo has vuelto a intentar.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti misma: \"Más corto de lo que parece suficiente. Siempre puedo seguir si va bien.\"\n\nMetiéndolo en lo que ya está pasando: \"Carrera hasta el coche... pero hay que moverse como robots todo el camino. BIP. BOP.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Recorta la duración: elige una ventana más corta de lo que crees que puedes sostener, y luego córtala a la mitad otra vez. Noventa segundos fiables valen más que media hora resentida\n- Cose el juego a momentos que ya existen en el día: una voz tonta en el baño, diez segundos de baile mientras se hace la cena, narrar el camino como un documental de naturaleza\n- Deja el teléfono en otra habitación, no solo en silencio: un teléfono cerca sigue tirando de ti, y estar a medias se siente para un niño como no estar\n- Para mientras todavía es divertido; que se queden con ganas de más es la meta, no exprimir hasta el último minuto"
+          },
+          {
+            "title": "Después",
+            "content": "La constancia nace de lo pequeño y posible, no de lo grande y ocasional. Momentos de dos minutos apilados cada día suman más rápido que un gran gesto una vez al mes — y son los que de verdad vas a mantener."
+          }
+        ]
+      },
+      {
+        "id": "play_script_03_es",
+        "title": "Te sentaste a seguir, y en un minuto ya estabas dirigiendo",
+        "scenario": "Te unes a tu hijo, que ya está metido de lleno en su propio juego, con la intención de solo seguirlo — y en un minuto ya estás haciendo preguntas y sugiriendo qué pasa después. Sientes que estás tomando el control sin querer.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "En lugar de una pregunta (\"¿qué es eso? ¿adónde va?\"), narra: \"La excavadora va camino a la colina grande. Despacio. Muy despacito.\"\n\nO no digas nada y cópialo: \"Yo estoy construyendo una justo al lado de la tuya. La mía se tambalea un poco.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cierra la boca de las preguntas: una pregunta es un tirón silencioso del volante, que dirige el juego hacia tu propia idea de él\n- Narra lo que ves, con sencillez y sin elogios, o imita su acción en tu propia versión paralela\n- Espera que se sienta extrañamente lento o aburrido, sobre todo si tu día corre rápido — es un rasgo normal del juego que dirige tu hijo, no una señal de que lo estás haciendo mal\n- Déjalo dirigir incluso los tramos aburridos; todo el punto es que el juego es suyo"
+          },
+          {
+            "title": "Después",
+            "content": "Unos minutos sin dirigir son genuinamente difíciles al principio, y se vuelve más fácil. Si seguir la iniciativa de tu hijo termina siempre en un colapso que ninguno de los dos entiende, coméntaselo a tu pediatra."
+          }
+        ]
+      },
+      {
+        "id": "play_script_04_es",
+        "title": "Tu hijo quiere jugar a imaginar, y a ti te van los juegos de mesa",
+        "scenario": "Tu hijo no deja de arrastrarte a un juego de imaginación abierto y sin reglas — sin forma, sin trama, inventado sobre la marcha —, y por dentro lo temes. Dale un juego con reglas y un ganador y eres feliz; esto sin forma te deja perdida.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti misma: \"Preferir las reglas no es un defecto. Estirarme hacia lo suyo de vez en cuando es el regalo.\"\n\nA tu hijo: \"Tú eres el director. Dime quién soy y qué digo... se me da mal inventar, así que mándame.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nómbralo como una diferencia de estilo, no como una carencia: la mayoría de los adultos se inclina hacia el juego estructurado, con una sola respuesta correcta — no significa que \"no sepas jugar\"\n- Pídele a tu hijo que te asigne un papel y algunas líneas; tener un marco de partida te rescata de esa sensación de página en blanco\n- Mantén también tus propios juegos con reglas en la mezcla: túrnense, para que cada uno tenga su momento con el tipo de juego que prefiere\n- Estírate hacia lo abierto de vez en cuando, justamente porque ahí es donde este hijo más te quiere a ti"
+          },
+          {
+            "title": "Después",
+            "content": "No hace falta que te encante el juego de imaginación para hacerlo bien. Unos minutos de lo que él prefiere, ofrecidos con calidez, valen más que una hora de lo tuyo dado a regañadientes."
+          }
+        ]
+      },
+      {
+        "id": "play_script_05_es",
+        "title": "El colapso en el segundo exacto en que se acaba el juego",
+        "scenario": "El juego iba de maravilla — y en el instante en que dices que hay que parar, tu hijo llora como si fuera una catástrofe. Nada más salió mal; el final en sí es todo el problema.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Elige UNA, no las apiles todas:\nSimple: \"Te habría encantado seguir. A mí también. Nos salió uno bueno hoy.\"\nMás un plan: \"Por hoy ya terminamos... y mañana, apenas comamos, lo retomamos.\"\nEl traspaso: \"Me voy a hacer la cena. Se te da genial seguir construyendo solo — enséñame la torre cuando esté enorme.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Recibe primero el sentimiento; la protesta es un cumplido para el juego, no un desafío\n- Elige una sola respuesta: validación simple, validación más una próxima vez concreta, validación más \"claro que cuesta, estuvo divertido\", o validación más confianza en que puede seguir solo\n- Usa la misma señal de cierre cada vez (una frase, un sonido, una \"última ronda\") para que el final se mantenga predecible\n- No reabras el juego para frenar el llanto: recibe el sentimiento, mantén el final; los \"una más\" infinitos enseñan que llorar vuelve a abrir la puerta"
+          },
+          {
+            "title": "Después",
+            "content": "La versión de confianza es el puente hacia el juego feliz en solitario: presenta el irte como un ascenso, no como una pérdida. Si cada final detona muy por encima de lo que el momento amerita, durante meses, coméntaselo a tu pediatra."
+          }
+        ]
+      },
+      {
+        "id": "play_script_06_es",
+        "title": "Atascado en el mismo movimiento que no funciona",
+        "scenario": "Tu hijo sigue encajando el mismo bloque en la misma torre tambaleante, se le sigue cayendo, y cada \"prueba de otra manera\" que le dices lo hace insistir más fuerte y con más rabia.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Deja de entrenarlo a él. Construye tu PROPIA torre cerca y narra en voz alta: \"Uf, la mía se me sigue cayendo. Bueno... dejo de forzar la pieza grande y pruebo con una plana. Atascado: toca cambiar.\"\n\nY luego hazlo de verdad, en voz alta, donde te pueda ver."
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Suelta la instrucción directa: que le digan que cambie en medio de la frustración normalmente lo hace aferrarse más\n- Corre tu propia versión paralela de la tarea y modela atascarte, y luego elegir un nuevo enfoque, pensando en voz alta todo el camino\n- Engánchalo a una frase mínima y repetible (\"atascado: toca cambiar\") y úsala cada vez que la tuya salga mal — la frase se convierte en el asa que va a agarrar más tarde\n- Deja que él siga fallando en la suya; el poder está en presenciar tu cambio, no en que lo obliguen a copiarlo"
+          },
+          {
+            "title": "Después",
+            "content": "Semanas después vas a escuchar tu propia frase salir de su boca en un lío completamente distinto — eso es la señal de que está funcionando. Si un niño no logra tolerar ninguna frustración sin un colapso total, coméntaselo a tu pediatra."
+          }
+        ]
+      },
+      {
+        "id": "play_script_07_es",
+        "title": "Hay que jugarlo EXACTAMENTE así (o si no...)",
+        "scenario": "Tu hijo te asigna el mismo personaje cada vez — digamos, la hermanita que siempre se mete en problemas —, te da una línea exacta, y se derrumba si improvisas aunque sea un poquito. Se siente mandón y un poco excesivo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero refleja, sin resistencia: \"Entendido: soy la hermanita, tiré los bloques, y digo '¡yo no fui!'. ¿Así?\"\n\nDespués, con curiosidad, DENTRO del personaje: \"¿La hermanita alguna vez tiene su turno para explicarse? ¿Qué diría si alguien de verdad la escuchara?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Interpreta la indicación estricta como comunicación, no como desafío: tu hijo hace correr algo que tiene en la cabeza a través de un guion donde, por fin, tiene todo el poder\n- Refleja su indicación con sus propias palabras; seguirlo sin pelea de poder mantiene la puerta abierta\n- Ponte curiosa dentro del personaje: haz las preguntas del papel en lugar de salirte a redirigir o analizar\n- Mantenlo como un juego, no como un interrogatorio; no te salgas para preguntar \"¿estás molesto por meterte en problemas en el cole?\""
+          },
+          {
+            "title": "Después",
+            "content": "Si un papel se vuelve genuinamente incómodo, puedes parar: \"voy a ser yo misma un minuto\", o \"la hermanita ya necesita su siesta\". Nombrar tu límite no le quita valor a la técnica; la obediencia sin límite nunca fue parte del trato. Si la misma escena angustiante se repite de forma compulsiva durante semanas con una angustia creciente, habla con tu pediatra o con un terapeuta infantil."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si el juego con guion gira repetidamente en torno a material aterrador o de adultos al que un niño pequeño no debería tener acceso, busca orientación profesional en lugar de confiar solo en la técnica."
+          }
+        ]
+      },
+      {
+        "id": "play_script_08_es",
+        "title": "Alistar a los dos hijos sin que se arme una guerra de carreras",
+        "scenario": "Los dos hijos tienen que ponerse zapatos y abrigo para salir, uno es mucho más rápido, y en cuanto termina se pone a presumir que ganó — lo que manda al más lento a un ataque de furia. Cada salida se convierte en una competencia con un perdedor.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Ponlos del MISMO lado, contra una misión compartida y ridícula: \"Nuevo trabajo para el equipo... ¿pueden los DOS convertirse en pingüinos y contonearse hasta la puerta? Aletas arriba. Vamos.\"\n\nNo \"quién llega primero\", sino \"¿podemos TODOS?\"."
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Arma la transición como los niños contra un reto compartido y ridículo, nunca como un niño contra el otro\n- Elimina por completo las comparaciones de velocidad; enfrentar el ritmo de un hijo contra el de su hermano solo fabrica un ganador y un resentido\n- Dale al más rápido un papel de cooperación (\"tú eres el entrenador de pingüinos, anima las aletas de tu hermano\") para que su velocidad ayude en lugar de presumir\n- Celebra que el equipo entero haya llegado, no quién llegó primero"
+          },
+          {
+            "title": "Después",
+            "content": "Plantearlo como un mismo equipo construye cooperación entre hermanos con el tiempo; las carreras de uno contra el otro entrenan la rivalidad sin que te des cuenta. Si el conflicto entre hermanos es constante y duro durante todo el día, las guías de hermanos profundizan más en esto."
+          }
+        ]
+      },
+      {
+        "id": "play_script_09_es",
+        "title": "No quiere hablar de eso... pero sí juega cerca de ti",
+        "scenario": "Está claro que algo le molesta a tu hija, pero en el momento en que se lo preguntas de frente, se queda callada, dice \"nada\", o te pide que la dejes en paz — mientras sigue jugando feliz justo a tu lado. Insistir te consigue menos.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Cambia la pregunta por una señal sin palabras, lado a lado, no cara a cara: \"Dime qué tiempo hace hoy... ¿sol, nublado o tormenta?\" Sol es la mano plana, nublado son los dedos que se mueven, tormenta es el puño cerrado.\n\nCuando responda: \"...Nublado. Gracias por contármelo. Con eso me basta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No fuerces la conversación directa: una niña que no puede responder \"¿qué te pasa?\" muchas veces sí puede responder a un juego\n- Ofrece un gesto, no una frase, y suelta la exigencia de contacto visual; menos contacto visual hace la cercanía más fácil de soportar\n- Quédate hombro con hombro en el juego; la cercanía misma es la puerta abierta, incluso sin palabras\n- Trata una sola señal como un éxito completo; nunca pesques una segunda respuesta"
+          },
+          {
+            "title": "Después",
+            "content": "Si las palabras quieren salir, van a salir; si no, ya construiste un canal para la próxima vez. Sigue ofreciéndolo con ligereza. Si tu hija se mantiene completamente cerrada ante cada intento suave de conectar durante largos períodos, coméntaselo a tu pediatra."
+          }
+        ]
+      },
+      {
+        "id": "play_script_10_es",
+        "title": "A tu hijo se le quedaron pequeños los juguetes. Tú no.",
+        "scenario": "Tu hijo mayor ya no quiere fuertes de almohadas ni juegos de imaginación, y sinceramente no sabes ni qué significa \"jugar juntos\" a esta edad. Pero se le sigue iluminando la cara cuando de verdad te metes en su mundo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Apunta a su terreno, sin darle mucha importancia: \"Enséñame ese juego con el que estás obsesionado... se me va a dar increíblemente mal. Búrlate de mí cuando meta la pata.\"\n\nO simplemente: \"Califica mi forma de hablar del uno al diez. Sé brutal.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Espera que la forma cambie: de los juguetes a las bromas, los chistes internos, el humor a tu costa, y cosas de bajo riesgo hechas lado a lado\n- Deja que sea el experto: pídele que te enseñe su juego, su música, su mundo, y sé una alumna alegremente pésima\n- Mantenlo sin presión y hombro con hombro: una tarea compartida (cocinar, un viaje largo en coche, un rompecabezas enorme sin teléfonos) vale más que un \"vamos a conectar\" formal y sentados\n- Toma las burlas como conexión; que te dejen burlarse un poco de ti es el lenguaje del amor de un hijo mayor"
+          },
+          {
+            "title": "Después",
+            "content": "La conexión juguetona nunca caduca... solo cambia de forma. Algo pequeño, regular y sin muchas vueltas vale más que una gran salida ocasional. Si un hijo mayor se aleja de todos y de todo lo que antes disfrutaba, ese retraimiento vale la pena comentarlo con tu pediatra."
+          }
+        ]
+      }
+    ]
   }
 }

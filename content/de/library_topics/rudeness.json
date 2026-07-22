@@ -122,6 +122,251 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "rudeness_script_01",
+        "title": "Die Blockade am Kindersitz",
+        "scenario": "Abholung von der Kita, alle sind fix und fertig, und dein Kind wird an der offenen Autotür butterweich in den Knien: „Ich steig da NICHT ein\", und rutscht jedes Mal auf den Boden, sobald du nach dem Gurt greifst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Geh in die Hocke, ganz ohne Eile: „Du willst nicht in diesen Sitz. Nach einem langen Tag noch reinklettern ist das Allerletzte.\"\n\nDie Grenze als deine eigene Handlung, plus eine Wie-Wahl: „Das Auto fährt erst los, wenn du angeschnallt bist, dafür sorge ich, damit du sicher bist. Du entscheidest: Kletterst du selbst rein wie eine Bergziege, oder heb ich dich wie eine Rakete rein. Ziege oder Rakete?\"\n\nHängt es immer noch fest, ruhig und warm: „Sieht nach einem Raketentag aus. Los geht's: drei, zwei, eins.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Geh auf Augenhöhe, bevor du sprichst; von oben herab lädt zu einem größeren Kampf ein\n- Benenne die Grenze als etwas, das DU tust (das Auto bleibt stehen), nicht als Befehl, mit dem Fühlen aufzuhören\n- Biete eine begrenzte Wahl beim Wie an, nie beim Ob\n- Halt deine Stimme beim Heben flach und freundlich; das Kommentieren (Ziege/Rakete) schlägt ein stilles Ringen\n- Ist es angeschnallt, lass es komplett gut sein: keine Standpauke für die Fahrt"
+          },
+          {
+            "title": "Danach",
+            "content": "Übt „Ziege oder Rakete\" an einem entspannten Tag als kicherndes Spiel in der Einfahrt: Ein Move, der in Ruhe geübt wurde, steht mitten im Zusammenbruch tatsächlich zur Verfügung. Wurde der Sitz über Nacht zum Streitpunkt, prüf, ob etwas unbequem ist: verdrehte Gurte, eine sonnenheiße Schnalle, eine sperrige neue Jacke."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang: Das Auto bleibt stehen, bis alle richtig angeschnallt sind. Vermeide körperlichen Zwang über die minimale, sanfte Hilfe hinaus, die nötig ist, um ein Kind sicher zu sichern; folge den örtlichen Kindersitz-Vorgaben und such bei Unsicherheit professionelle Unterstützung."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_02",
+        "title": "Anziehen, während die Uhr schreit",
+        "scenario": "Werktagmorgen, ihr seid schon spät dran, und dein Kind liegt noch im Schlafanzug auf dem Boden und verkündet zu jedem Shirt „Das zieh ich NICHT an\", das Quengeln wird lauter, je mehr dein Stress steigt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Erst ein Atemzug. Dann: „Sich anziehen, wenn du lieber weiterspielen würdest, ist blöd. Ich hör dich.\"\n\nEine Wie-Wahl, keine Ob-Wahl: „Angezogen wird, bevor wir losgehen. Du entscheidest: die Punkte oder die Streifen? Und ziehst du dich in deinem Zimmer an, oder machen wir ein Wettrennen hier auf dem Teppich?\"\n\nZieht sich das Zögern weiter: „Ich zähl bis fünf, dann helf ich deinen Armen, die Ärmel zu finden. Eins… zwei…\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beruhige zuerst deinen eigenen Körper; Kinder spüren deine Hetze und stemmen sich dagegen\n- Lass die Mode-Debatte weg; biete zwei vorher ausgesuchte Shirts an, damit jede Antwort für dich passt\n- Gib eine Wahl beim Wo/Wie, nicht beim Ob; das gibt ein Stückchen Kontrolle zurück\n- Führ es sanft zu Ende, wenn die Wahl ausbleibt; mach es mit deinem Kind, nicht an ihm"
+          },
+          {
+            "title": "Danach",
+            "content": "Legt abends zusammen zwei Outfit-Optionen bereit, wenn niemand in Eile ist; die Morgen-Version von dir muss dann nur noch den Plan abspulen. Ist der Morgen ein täglicher Kampf, verschieb den schwersten Schritt nach vorn, vor Bildschirme oder Frühstück, damit Anziehen nicht gegen etwas Schöneres antreten muss."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_03",
+        "title": "Den Spielplatz verlassen, ohne dass alles eskaliert",
+        "scenario": "Du gibst die Fünf-Minuten-Vorwarnung, dann „Zeit zu gehen\", und dein Kind rennt lachend zum entferntesten Klettergerüst oder lässt sich schlaff in den Rindenmulch fallen. Andere Eltern schauen zu.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Überbrück zuerst den Abstand (nicht quer über den Spielplatz verhandeln): „Du wünschst dir, wir könnten bis zum Dunkelwerden bleiben. Es ist SO schwer aufzuhören, wenn es gerade so viel Spaß macht.\"\n\nGrenze plus Wie-Wahl: „Wir gehen jetzt, das steht fest. Du entscheidest, wie wir zum Tor kommen: den ganzen Weg wie ein Frosch hüpfen, oder auf meinen Schultern reiten?\"\n\nZu dir selbst: „Das Publikum bewertet mich nicht. Mein Kind braucht mich standhaft.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Überbrück die Distanz, bevor du sprichst; Anweisungen, quer über den Spielplatz gerufen, starten nur eine Verfolgungsjagd\n- Bestätige den Wunsch vollständig, bevor die Grenze kommt; das verkleinert den Protest\n- Biete eine spielerische Wie-Wahl an, die über den Übergang hinwegträgt\n- Wird es schlaff, nimm es ruhig hoch und geh; heb dir jedes Lehr-Wort für die ruhige Autofahrt auf"
+          },
+          {
+            "title": "Danach",
+            "content": "Gib die Vorwarnung mit einer konkreten letzten Sache („noch zwei Rutschen, dann gehen wir\"), damit das Ende kein Hinterhalt ist. An einem guten Tag baut ihr ein kleines Abschieds-Ritual ein, ein Winken und ein „Tschüss, Spielplatz!\", das den schwersten Moment in Routine verwandelt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang in der Öffentlichkeit: Halt dein Kind in Reichweite, wenn Straßen oder Parkplätze in der Nähe sind. Vermeide körperlichen Zwang über ein sanftes Tragen in Sicherheit hinaus; such bei Unsicherheit professionelle Unterstützung."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_04",
+        "title": "„Ich wünschte, du wärst nicht mein Bruder\" vom Rücksitz",
+        "scenario": "Lange Autofahrt, zwei Kinder eingekeilt auf der Rückbank. Ein Streit um den Fensterplatz explodiert: „Du bist das SCHLIMMSTE. Ich wünschte, du wärst nicht mal mein Bruder!\" Das getroffene Kind fängt an zu heulen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Von vorn, gleichmäßig und ruhig, Augen auf der Straße: „Puh, große, heiße Worte. Du bist gerade so wütend, dass du ihn weghaben willst. Das ist die Wut, die spricht, nicht die Wahrheit.\"\n\nZum verletzten Geschwisterkind: „Das hat wehgetan zu hören. Diese Worte sagen nichts über dich aus.\"\n\nGrenze, ohne eine Rücknahme zu verlangen: „In unserer Familie schicken wir niemanden mit Worten weg. Du darfst wütend sein UND trotzdem Bruder und Schwester bleiben. Das mit dem Fenster klären wir beim nächsten Stopp.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Übersetze den feindseligen Satz in das Gefühl dahinter („so wütend, dass du ihn weghaben willst\"), statt die Worte zu verhandeln\n- Tröste das getroffene Kind kurz, ohne das andere auf der Stelle zur Entschuldigung zu zwingen\n- Formuliere die Familiengrenze ruhig; verlang keine „Rücknahme\", solange beide noch aufgewühlt sind\n- Kümmer dich um den eigentlichen Streit, den Fensterplatz, sobald du anhalten kannst oder die Hitze abgeklungen ist"
+          },
+          {
+            "title": "Danach",
+            "content": "Sag später, ruhig, zum wütenden Kind: „Du wolltest ihn nicht wirklich weghaben, das mit dem Fenster hat sich einfach so unfair angefühlt. Lass uns bessere Worte für so eine große Wut finden.\" Eine einfache Regel zum Sitzplatztausch kann verhindern, dass dieser Streitpunkt sich immer wieder von selbst entzündet."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang beim Fahren: Halt an, bevor du körperlich eingreifst, falls ein Streit unsicher wird. Vermeide Zwang über das hinaus, was nötig ist, um alle sicher zu halten; such bei Unsicherheit professionelle Unterstützung."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_05",
+        "title": "Der gesprungene Bilderrahmen, den niemand angefasst hat",
+        "scenario": "Ein gerahmtes Foto liegt umgekippt und gesprungen im Regal. Dein jüngeres Kind platzt mit „Ich war's nicht!\" raus, bevor du überhaupt gefragt hast, während das ältere sagt, es habe zugesehen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Lass die Falle weg; sag, was du siehst: „Der Rahmen ist gesprungen. Ich will niemanden in Schwierigkeiten bringen, ich will verstehen, was passiert ist.\"\n\nVerhärtet sich das Abstreiten, geh unter vier Augen und sanft vor: „Manchmal, wenn was kaputtgeht, ruft der ängstlichste Teil von uns ganz schnell ‚ich war's nicht!'. Das kenn ich von mir auch. Hattest du ein bisschen Angst, dass ich sauer werde?\"\n\nDann gemeinsam reparieren: „Sowas geht kaputt. Lass es uns als Team zusammenkleben.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenne die bekannte Tatsache ruhig, statt abzufragen, um die Lüge zu „erwischen\"\n- Lies das schnelle Abstreiten als Angst oder Scham, nicht als Taktik; nimm die Hitze raus, bevor du die Wahrheit erwartest\n- Geh unter vier Augen vor, außer Hörweite des Geschwisterkindes; ein Zeuge macht es unmöglich, das Gesicht zu wahren\n- Repariert es gemeinsam, damit Ehrlichkeit an einen sicheren Ort führt statt zu einer Strafe, die beweist, dass Lügen klüger gewesen wäre"
+          },
+          {
+            "title": "Danach",
+            "content": "Sag später, warmherzig: „Es hat Mut gebraucht, mir das zu sagen. Genau das will ich: die Wahrheit, auch wenn sie schwer ist.\" Behalt die Kein-Verhör-Gewohnheit bei; Kinder sagen die Wahrheit dem Elternteil, das keine Fallen stellt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Geh mit kaputten Gegenständen (Glas, scharfe Kanten) sicher um und halt Kinder fern, bis alles aufgeräumt ist. Keine weiteren besonderen Bedenken."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_06",
+        "title": "Das Klowort-Konzert beim Abendessen",
+        "scenario": "Beim Abendessen entdeckt dein Kind, dass ein albernes Klowort das Baby quietschend zum Lachen bringt und dich zusammenzucken lässt, jetzt läuft es in Dauerschleife, jedes Mal lauter, und der ganze Tisch gerät aus den Fugen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Reagier möglichst flach (das Zusammenzucken ist der Preis): „Schon wieder das Wort! Da hast du echt eins mit viel Power gefunden.\"\n\nLenk zu einem erlaubten Ventil um: „Abgemacht: Das ist kein Abendessen-Wort, das ist ein Garten-Wort. Nach dem Essen kriegst du volle zehn Sekunden, es draußen so laut zu brüllen, wie du willst. Und jetzt: Erbsen rüberreichen?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Entzieh die Belohnung, indem du unbeeindruckt bleibst; deine große Reaktion ist der Treibstoff\n- Mach das Wort nicht zur verbotenen Frucht; gib ihm ein Wo und ein Wann, zu dem es erlaubt ist\n- Lenk den Tisch im selben Atemzug wieder auf etwas Gewöhnliches\n- Halt das Ventil später tatsächlich ein, damit die Abmachung echt bleibt"
+          },
+          {
+            "title": "Danach",
+            "content": "Geht es eigentlich um Wirkung erzielen, verteil echte Macht an anderer Stelle: Lass dein Kind die Musik beim Essen aussuchen oder „Guten Appetit!\" ausrufen. Ein Kind mit echten Wegen, sich groß zu fühlen, muss den Tisch nicht nach einer Reaktion durchforsten. Meist verblasst der Reiz schnell, sobald das Wort nicht mehr schockt."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_07",
+        "title": "Die falschen Pfannkuchen und das fehlende Dankeschön",
+        "scenario": "Im Café kommen die Pfannkuchen deines Kindes mit Beeren, die es nicht wollte. Es verzieht das Gesicht, schiebt den Teller weg, und als die Bedienung freundlich einen frischen Teller bringt, sagt dein Kind nichts und starrt an die Wand.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Fordere kein Dankeschön ein, sondern mach es warmherzig vor: „Vielen Dank, dass Sie die getauscht haben, das ist wirklich nett von Ihnen.\"\n\nLeise, zu deinem Kind, ohne Beschämung: „Enttäuschend, wenn's falsch ankommt, was? Wenn du bereit bist, würde ihr ein Dankeschön guttun, kein Stress.\"\n\nSpäter, neugierig statt predigend: „Die Bedienung hätte das nicht tun müssen, sie wollte es. Irgendwie schön, wenn jemand hilft, oder?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Mach die Reparatur selbst vor, statt ein einstudiertes „sag danke\" zu erzwingen; du zeigst die Worte, ganz ohne Machtkampf\n- Lass das vorgesprochene Dankeschön einfach so stehen; verzichte auf den Zusatz „siehst du, SO machen wir das\"\n- Benenne zuerst die Enttäuschung; Dankbarkeit hat keinen Platz, solange der Frust noch nicht abgeklungen ist\n- Lass das Gefühl später durchs Bemerken und Staunen wachsen, nicht auf Kommando"
+          },
+          {
+            "title": "Danach",
+            "content": "Staunt auf der Heimfahrt gemeinsam laut darüber, wie viele Menschen es braucht für ein Restaurant-Frühstück: die Köchin, die Bedienung, die Person an der Spülmaschine. Dankbarkeit wächst als echtes Gefühl durchs Nachdenken, nicht als Vorführung auf Kommando."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_08",
+        "title": "Die kalte Schulter für die Erzieherin beim Abgeben",
+        "scenario": "An der Klassentür sagt die Erzieherin herzlich guten Morgen, und dein Kind dreht sich weg, murmelt „Ich will nicht mit dir reden\" und vergräbt das Gesicht an deinem Bein, während die anderen Kinder drum herum wuseln.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Locker, gesichtswahrend, für die Erzieherin und den Raum: „Der Morgen ist eine große Umstellung, wir kommen heute noch in Schwung.\"\n\nLeise, zu deinem Kind, ohne Vortrag: „Schwer, auf freundlich umzuschalten, genau wenn wir uns verabschieden. Das ist okay.\"\n\nEine unauffällige Brücke: „Du musst nicht plaudern. Ein kleines Winken reicht vielleicht schon, oder wir probieren es morgen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Gib eine kurze, freundliche Rückendeckung, die dein Kind und die Erzieherin schützt; keine Korrektur vor Publikum\n- Lies die kalte Schulter als Übergangs-Überforderung, nicht als Respektlosigkeit\n- Halt das Lehren aus dem Türgetümmel raus; ein mitgehörter Vortrag garantiert Rückzug\n- Biete den kleinsten nächsten Schritt an (ein Winken), statt einen herzlichen Gruß zu erzwingen"
+          },
+          {
+            "title": "Danach",
+            "content": "Sag es zu Hause, ruhig, beim Namen: „Es ist freundlich, einem Erwachsenen zu antworten, der Hallo sagt, sogar ein winziges ‚Morgen' zählt. Lass uns ein einfaches üben.\" Übt einen Zwei-Sekunden-Gruß wie ein Spiel. Steckt hinter dem Widerstand eigentlich Trennungsangst, kümmere dich zuerst um die Abschiedsroutine selbst; eine verlässliche Übergabe schrumpft die Unhöflichkeit, die die Angst befeuert hat."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_09",
+        "title": "„Der Turm ist hässlich\" – ein Geschwisterkind setzt das andere runter",
+        "scenario": "Dein jüngeres Kind stellt stolz einen wackligen Bausteinturm fertig. Das ältere schaut kurz rüber und sagt: „Das ist das Hässlichste, was ich je gesehen hab.\" Das Gesicht des Kleinen fällt in sich zusammen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Schütz zuerst das verletzte Kind, leicht: „Du hast hart daran gearbeitet, ich seh den hohen roten Teil, den du geplant hast.\"\n\nZum älteren Kind, ohne Beschämung, die freundlichere Lesart: „Autsch, das saß. Ich glaub nicht, dass du ihn zerstören wolltest, ist gerade was los mit dir?\"\n\nSpäter, unter vier Augen, das eigentliche Gespräch: „Deine Worte haben große Macht über deinen kleinen Bruder. Was ging gerade in dir vor?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Tröste das getroffene Kind im Moment, ohne eine Gerichtsverhandlung zu inszenieren\n- Geh davon aus, der Seitenhieb kam aus einem Gefühl, Langeweile, Neid, ein harter Tag, nicht aus Grausamkeit; so bleibst du im Coaching statt im Strafen\n- Heb dir das eigentliche Gespräch für später auf, unter vier Augen, allein mit dem Kind, das es gesagt hat\n- Kommt das „Entschuldigung\" nicht, sag es selbst vor und lass es stehen: „Entschuldige, Kleiner, dein Turm hat echt eine coole Schräglage.\""
+          },
+          {
+            "title": "Danach",
+            "content": "Schau nach, was hinter dem scharfen Seitenhieb steckt: Oft ist das Kind, das austeilt, gerade das, dem Verbindung fehlt. Ein bisschen Zweisamkeit mit dem älteren Kind stoppt die Spitzen meist wirkungsvoller als jedes Gespräch übers Nettsein."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_10",
+        "title": "Das brandneue Spielzeug und der Besuch vom Cousin",
+        "scenario": "Dein Kind hat vor zwei Tagen zum Geburtstag ein ferngesteuertes Auto bekommen. Ein Cousin ist zu Besuch für den Nachmittag und greift danach, und dein Kind macht dicht: „NEIN. Das ist MEINS. Du darfst das nicht anfassen.\"",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Bestätige das Festhalten, beschäme es nicht: „Das Auto ist brandneu und SO besonders. Du bist noch nicht bereit, es herzugeben, das verstehe ich.\"\n\nLenk um zum Abwechseln, keine erzwungene Übergabe: „Du musst es jetzt nicht hergeben. Wenn du ganz fertig bist mit Fahren, kann Mateo dran sein. Du sagst uns, wann.\"\n\nZum Cousin, warmherzig: „Es ist wirklich neu, deshalb braucht er noch etwas Zeit damit. Willst du in der Zwischenzeit ein anderes Spielzeug aussuchen?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenne die Besitzansprüche als normal (ein neues, geschätztes Ding), nicht als Egoismus\n- Biete Abwechseln nach dem Signal deines Kindes an, statt eine sofortige Übergabe zu befehlen; erzwungene Übergabe lässt es nur fester klammern\n- Gib dem wartenden Cousin eine echte Alternative, damit niemand nur zusehen muss\n- Sprich das Vertrauen laut aus: „Er kommt dran, und du bekommst deins immer zurück.\" Gezeigtes Vertrauen lockert den Griff"
+          },
+          {
+            "title": "Danach",
+            "content": "Bereitet euch vor Besuchen in einem ruhigen Moment vor: Sucht ein, zwei „nur-meins\"-Schätze aus, die weggeräumt werden, und ein paar Spielzeuge, die für Gäste okay sind. Ein Kind, das ein paar besondere Dinge schützen darf, teilt den Rest viel leichter."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_11",
+        "title": "„Geh weg, ich hasse dich\" – wieder zueinanderfinden",
+        "scenario": "Eine harte Schlafenszeit ist eskaliert: Dein Kind hat „geh weg, du bist so GEMEIN, ich hasse dich!\" geschrien und die Tür zugeknallt. Eine Stunde später sind alle ruhig, aber es liegt noch etwas in der Luft. Du willst wieder Verbindung aufnehmen, und du willst, dass dein Kind lernt: Reparatur geht in beide Richtungen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Geh zu ihm, warmherzig, ohne Vortrag: „Das ist vorhin richtig groß geworden. Ich bin jetzt nicht mehr sauer, ich bin gekommen, um dich zu finden.\"\n\nMach die Reparatur zuerst selbst laut vor: „Das ist mein Teil, den ich repariere: Ich bin auch laut geworden, das tut mir leid. Laut hilft uns beiden nicht.\"\n\nÖffne eine Tür ohne Druck für seinen Teil: „Wenn es was gibt, wofür du dich entschuldigen willst, ich bin genau hier. Und bist du noch nicht bereit, ist das auch okay, wir sind trotzdem gut.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Warte, bis ihr beide ruhig seid; Reparatur geht nicht, solange noch jemand überflutet ist\n- Nimm zuerst die Verbindung wieder auf und überspring die Manöverkritik, wer schlimmer war; dieser Besuch gilt der Beziehung\n- Mach die Entschuldigung selbst vor, damit dein Kind ihre Form sieht; Kinder reparieren so, wie sie es bei dir gesehen haben\n- Lass sein „Entschuldigung\" freiwillig und ungezwungen; eine herausgepresste Entschuldigung lehrt Vorführung, keine Reue\n- Kommt sie, nimm sie einfach an, „danke, das bedeutet mir viel\", und lass es dabei bewenden, ohne angehängte Lektion"
+          },
+          {
+            "title": "Danach",
+            "content": "Benenne die Erkenntnis an einem anderen Tag sanft: „Auch wenn wir mal aufeinander wütend werden, finden wir immer wieder zueinander. Das machen wir in unserer Familie so.\" Mit der Zeit lässt Vormachen-und-Einladen ein Kind wachsen, das von selbst repariert, ganz ohne Zwang."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_12",
+        "title": "Der kleine Drache, der das Bücherregal verwüstet hat",
+        "scenario": "Du kommst rein und findest jedes Buch aus dem unteren Regal gerissen und über den Boden verteilt. Dein Vierjähriges erklärt mit großen Augen: „Ich war's nicht! Der kleine Drache, der unter meinem Bett wohnt, war das.\"",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Begegne dem mit Staunen, nicht mit Verhör: „Ein Drache unter deinem Bett?! Erzähl mir von ihm, macht er viel Ärger?\"\n\nEin sanfter Realitätscheck mitten im Spiel, leise und freundlich: „Nur unter uns zweien: Hat der Drache die wirklich runtergezogen, oder haben vielleicht ein paar fleißige Hände ihm geholfen?\"\n\nDann die Reparatur ohne Schuldzuweisung: „Drache hin oder her, die Bücher müssen zurück nach Hause fliegen. Willst du derjenige sein, der sie im Regal landen lässt?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Genieß die Geschichte zuerst; für ein kleines Kind ist die Grenze zwischen Fantasie und Realität wirklich verschwommen, keine Lüge, die du aufdecken musst\n- Biete eine sanfte, private Ausfahrt zur Wahrheit, ohne daraus eine Konfrontation zu machen\n- Verlang kein Geständnis und beschäme das Schwindeln nicht; halt die Tür zur Ehrlichkeit leicht begehbar\n- Bau das Aufräumen ins Spiel ein, damit es sich sicher anfühlt, sogar Spaß macht, dazu zu stehen"
+          },
+          {
+            "title": "Danach",
+            "content": "Wird „der Drache war's\" zur Standardantwort, sobald etwas nicht stimmt, erzähl mit der Zeit sanft den Unterschied: „Fantasie-Drachen sind SO ein Spaß. Und wenn wirklich was passiert, brauch ich die echte Geschichte, für die Wahrheit bekommst du nie großen Ärger.\" Halt jede Reaktion auf Ehrlichkeit warm; genau das sorgt dafür, dass sie weiterkommt."
+          }
+        ]
+      }
+    ]
   }
 }

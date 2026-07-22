@@ -150,6 +150,313 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "lifeevents_script_01_es",
+        "title": "Contarlo juntos: la conversación en familia",
+        "scenario": "Tú y el otro progenitor han decidido separarse, y ahora llega la conversación que llevas tiempo temiendo: sentar a tu hijo y decir la palabra en voz alta. Quieres que sea tranquila, honesta, y sin culpar a nadie.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Entrada, los dos presentes si es seguro y posible: \"Tenemos algo grande e importante que contarte, como familia. Puede traer sentimientos grandes, y eso está bien.\"\n\nEl hecho, sin rodeos: \"Hemos decidido divorciarnos. Eso significa que ya no vamos a estar casados, y que vamos a vivir en dos casas.\"\n\nLo que se mantiene: \"Esto es lo que no cambia: los dos vamos a seguir siendo siempre tus padres, los dos te amamos por completo y para siempre, y esta fue una decisión de adultos que tú no causaste de ninguna manera.\"\n\nLa puerta abierta: \"Nos puedes preguntar lo que sea — ahora, esta noche, o la próxima semana. Siempre te vamos a decir la verdad.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Si es seguro y posible, cuéntenlo juntos, a partir de un plan acordado: quién dice cada parte, y cómo van a mantenerse en calma cada uno si hay lágrimas o enojo\n- Dejen cualquier culpa o reproche mutuo completamente fuera de la habitación\n- Digan la palabra sin rodeos, y hagan una pausa para dejarlo reaccionar antes de añadir cualquier logística\n- Repitan la frase de \"no es tu culpa\" más de una vez; los niños se echan la culpa de forma automática"
+          },
+          {
+            "title": "Después",
+            "content": "Espera que las preguntas de verdad lleguen después, en pedazos, a la hora de dormir o en el coche. Sigue respondiendo de forma simple y honesta, y guarda los detalles de horarios para cuando los sentimientos ya se hayan asentado."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Cuéntenselo juntos a los niños solo si es seguro hacerlo. Prioriza la seguridad; busca apoyo profesional si tienes dudas. Las preguntas de custodia y las legales son un tema para un profesional del derecho de familia, no para esta guía."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_02_es",
+        "title": "La conversación previa entre los adultos",
+        "scenario": "Antes de contárselo a los niños, tú y el otro progenitor necesitan ponerse de acuerdo — aunque ahora mismo no coincidan en casi nada. Esta conversación es de adulto a adulto, sin ningún niño en la habitación.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombrando el objetivo compartido: \"Ahora mismo no estamos de acuerdo en casi nada. Pero creo que los dos queremos que los niños salgan de esto sintiéndose seguros y amados. ¿Podemos planear la conversación pensando solo en eso?\"\n\nRepartiendo las partes: \"Pongámonos de acuerdo en quién dice la palabra, quién explica lo que se mantiene igual, y cómo nos mantenemos en calma cada uno si hay lágrimas — para que nos vean firmes, juntos, aunque sea por diez minutos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ancla el plan en lo único que todavía comparten: cómo va a vivir su hijo este momento, no el acuerdo sobre la separación\n- Decidan de antemano las palabras exactas para el hecho llano y para el mensaje de \"no es tu culpa\"\n- Acuerden una señal simple para pausar o dar un paso atrás si alguno de los dos se desborda durante la conversación\n- Mantengan esta conversación estrictamente entre adultos; resuelvan su propia fricción antes de que los niños estén en la habitación"
+          },
+          {
+            "title": "Después",
+            "content": "Si de verdad no es posible una conversación conjunta y en calma, un mensaje consistente contado por separado —la misma palabra clara, las mismas garantías— igual protege al niño. Un terapeuta familiar o un mediador puede ayudarles a construir ese guion compartido."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "En situaciones de alto conflicto o inseguras, busca apoyo de un terapeuta familiar o un mediador. Prioriza la seguridad; esta guía no es asesoría legal."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_03_es",
+        "title": "\"¡Pero papá me deja!\": entre dos casas",
+        "scenario": "Tu hijo vuelve de la otra casa y suelta la frase clásica: que allá le dan postre todas las noches, o que se acuesta más tarde, o que tiene más tiempo de pantalla. Tu instinto es reaccionar contra el otro progenitor. Lo que tu hijo necesita es que reacciones ante él.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Centra su experiencia, no tu opinión sobre la otra casa: \"Suena a que las reglas son distintas en tu otra casa, y cambiar de una a otra no siempre es fácil. Cuéntame cómo se siente ir y venir entre las dos.\"\n\nSostén tu propia regla sin dar un veredicto sobre el otro progenitor: \"Aquí, la regla es apagar las pantallas después de cenar. Casas distintas funcionan distinto — así es esto, y tú eres buenísimo distinguiendo cuál es cuál.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Pon tu atención en el trabajo de adaptación de tu hijo entre dos sistemas, no en juzgar la decisión del otro progenitor\n- Valida lo injusto que le parece, sin defender por qué tu regla es la correcta\n- Deja tu opinión sobre el otro progenitor fuera de lo que le dices a tu hijo, incluso cuando tengas una\n- Sostén el límite de tu propia casa con calma; la consistencia en tu casa importa más que igualar la de ellos"
+          },
+          {
+            "title": "Después",
+            "content": "Plantea una diferencia de reglas directamente con el otro progenitor solo si cruza a un tema de seguridad, no por un simple desajuste. Día a día, los niños manejan bien dos conjuntos de reglas, siempre que ningún progenitor los use de mensajeros."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_04_es",
+        "title": "El primer encuentro con alguien nuevo",
+        "scenario": "Estás en una relación que ya se volvió seria, y llegó el momento de que tu hijo conozca a tu pareja. Quieres bajarle la presión para que sea un primer saludo suave, no un evento cargado de expectativas.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero, un aviso de palabra, con días de anticipación: \"Tengo un buen amigo que se llama Sam, y me gustaría que lo conocieras este fin de semana. Vamos a ir a darles de comer a los patos un rato, los tres.\"\n\nPermiso para cualquier reacción: \"Puede que te sientas contento, o tímido, o inseguro — todo eso está bien. No tienes que sentirte de ninguna manera en especial.\"\n\nEn el encuentro, mantenlo ligero y compartido: \"Vamos a ver si entre los tres logramos que ese ganso tan glotón agarre un poco de pan.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Espera a que la relación sea seria y con visos de durar, antes de cualquier presentación\n- Da un aviso verbal con tiempo de anticipación antes del encuentro en persona\n- Haz que el primer encuentro sea corto y \"codo con codo\" — una actividad compartida, no una charla larga cara a cara\n- Deja que la ambivalencia de tu hijo exista sin intentar convencerlo de que no la sienta; conserva tu propia felicidad sin entregarle a él la tarea de gestionarla"
+          },
+          {
+            "title": "Después",
+            "content": "Cada paso nuevo —la primera cena en casa, la primera noche que se queda— merece su propio aviso suave. No des por hecho que un buen primer encuentro cubre todo lo que viene después."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_05_es",
+        "title": "Cuando tienes que decir que alguien murió",
+        "scenario": "Alguien que tu hijo quiere ha muerto, y tienes que contárselo. Cada parte de ti quiere suavizarlo. Lo más bondadoso es la palabra real y clara, dicha despacio, con tus brazos rodeándolo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Entrada: \"Tengo una noticia muy triste, del tipo que trae sentimientos grandes. Ven, siéntate conmigo.\"\n\nEl hecho tal cual, con el nombre real y la palabra murió: \"El tío Theo murió hoy. Su cuerpo dejó de funcionar, y no va a volver a funcionar. Él no puede regresar, y eso es lo más triste de todo.\"\n\nPausa. Deja que se asiente. Una mano que sostener. Luego: \"Esto no es culpa tuya, ni un poquito. Y yo no me voy a ningún lado — estoy aquí mismo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Usa \"murió\", no \"lo perdimos\", \"se durmió\" o \"se fue\" — las palabras suaves confunden ahora y asustan después\n- Da el hecho tal cual, y luego detente; deja que pasen el silencio y las lágrimas antes de cualquier otro detalle\n- Di explícitamente que no fue su culpa, y que tú estás bien de salud y te vas a quedar\n- Sigue su ritmo — si quiere jugar o pedir algo de comer justo después, eso es su forma de procesarlo, no frialdad"
+          },
+          {
+            "title": "Después",
+            "content": "El duelo en los niños llega en oleadas: una pregunta difícil semanas después, un llanto repentino, y luego vuelven a jugar. Sigue respondiendo con claridad. Puede ayudar un pequeño ritual de despedida que construyan juntos. Si el duelo se queda atascado durante semanas, un consejero o consejera de duelo, o un terapeuta infantil, pueden apoyarlos a los dos."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad emocional de tu hijo. Busca a un consejero o consejera de duelo, a un terapeuta infantil, o a tu pediatra, si el duelo se mantiene intenso o prolongado."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_06_es",
+        "title": "\"¿Tú también te vas a morir?\"",
+        "scenario": "Después de una muerte, o de la nada a la hora de dormir, tu hijo hace la pregunta que te detiene el corazón: ¿te vas a morir? ¿Me voy a morir yo? El instinto es prometer \"nunca\". La respuesta más firme es honesta y cálida.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Honesta, no falsamente absoluta: \"Esta es la respuesta verdadera: todo el mundo se muere algún día, muy lejos en el futuro. Y yo me cuido mucho, y pienso estar aquí muchísimo, muchísimo tiempo — el tiempo suficiente para volvernos viejitos juntos.\"\n\nLuego, una pausa y un abrazo apretado: \"Estás a salvo. Estoy aquí mismo esta noche, y voy a estar aquí en la mañana.\"\n\nSi pregunta por sí mismo: \"Tienes una vida larguísima por delante — años y años y años. Tu único trabajo ahora mismo es ser niño.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Responde con honestidad en lugar de prometer \"nunca\": una promesa que después descubra falsa le cuesta tu credibilidad\n- Combina la respuesta honesta con consuelo físico inmediato y un recordatorio de seguridad en presente\n- Mantenlo breve; estás calmando un miedo, no dando una clase de biología\n- Espera que la pregunta regrese más de una vez, y respóndela de la misma forma firme cada vez"
+          },
+          {
+            "title": "Después",
+            "content": "Que pregunte una y otra vez, con ansiedad, es su manera de buscar seguridad, no morbo. Mantén las respuestas cortas, cálidas y consistentes. Si el miedo crece y se vuelve físico durante semanas, consulta con el pediatra o la pediatra, o con un terapeuta infantil."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Busca apoyo profesional si el miedo relacionado con la muerte se vuelve intenso o persistente. Prioriza la seguridad; busca ayuda si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_07_es",
+        "title": "Contarle a un niño que alguien está gravemente enfermo",
+        "scenario": "Un familiar tiene una enfermedad grave, y tu hijo percibe la preocupación en la casa. Nombrarla con claridad —con el nombre real y palabras claras sobre el contagio— vale más que un vago \"alguien no se siente bien\".",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombre real, distinguido de un malestar cualquiera: \"El abuelo tiene una enfermedad grave, con un nombre real. Es muy distinta de la tos y los resfriados que te dan a ti — es un tipo de enfermedad grande, de adultos, y los médicos lo están ayudando.\"\n\nAclara el contagio, cuando sea cierto: \"No se contagia. Ni con un abrazo, ni por sentarte cerca, ni por compartir su vaso. Simplemente no funciona así.\"\n\nLo que se sabe, lo que no, y lo que se mantiene: \"Los médicos saben mucho y están trabajando muy duro. Algunas cosas todavía no las sabemos. Lo que sí sé con certeza: siempre te voy a decir la verdad, y estoy aquí contigo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Usa el nombre real de la enfermedad para que no se confunda con un malestar infantil cualquiera\n- Aborda el tema del contagio directamente — muchas veces los niños temen en silencio contagiarse, o al contrario, no captan qué tan grave es\n- Habla con honestidad sobre lo que no se sabe, en lugar de taparlo con un optimismo falso\n- Invita a que sigan llegando preguntas; esta es la primera de muchas conversaciones, no una charla única"
+          },
+          {
+            "title": "Después",
+            "content": "Mantén las actualizaciones simples y honestas a medida que las cosas cambien, y mantente pendiente de las preocupaciones silenciosas (\"¿me puedo contagiar?\", \"¿yo lo causé?\"). Cualquier pregunta sobre cómo va a evolucionar la enfermedad es para el equipo médico; un terapeuta infantil puede ayudar si tu hijo tiene dificultades."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Esta guía no es asesoría médica; dirige las preguntas médicas al equipo de atención. Busca a un terapeuta infantil si tu hijo tiene dificultades para sobrellevarlo."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_08_es",
+        "title": "Antes de visitar el hospital: describe el cuarto primero",
+        "scenario": "Tu hijo va a visitar en el hospital a un familiar gravemente enfermo. Lo que más asusta a los niños no es la visita: es entrar a una escena que nadie les describió antes. Así que tú se la pintas, con claridad, de antemano.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Anticipa la escena sensorial: \"Antes de ir, déjame contarte exactamente cómo se va a ver todo. Tu tía va a estar en una cama alta, con barandas. Tiene un tubo en el brazo que le da medicina, y máquinas que hacen pitidos y parpadean. Se ve más delgada y más cansada que la última vez.\"\n\nLo que puede hacer: \"Puedes agarrarle la mano, contarle sobre tu día, o simplemente sentarte cerca. No tienes que hacer nada que no quieras hacer.\"\n\nPermiso de salida: \"Si en algún momento sientes que es demasiado, dime, y salimos un rato a tomar aire. Voy a estar justo a tu lado todo el tiempo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Describe el equipo médico, los sonidos, y el aspecto cambiado de la persona, de forma literal, antes de llegar\n- Dale a tu hijo cosas concretas que puede hacer — y permiso para simplemente estar ahí\n- Ofrece un plan de salida claro, para que la visita nunca se sienta como una trampa\n- Sigue el ritmo de tu hijo; una visita corta es una visita perfectamente válida"
+          },
+          {
+            "title": "Después",
+            "content": "Después, deja espacio para preguntas y sentimientos — algunos niños procesan jugando. Si tu hijo no quiere ir, eso también está permitido; una tarjeta o un dibujo que haga puede llevar su cariño en su lugar."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_09_es",
+        "title": "Anunciar la mudanza, y la cuenta regresiva que sigue",
+        "scenario": "Se van a mudar a una casa nueva, y llegó el momento de contárselo a tu hijo. Quieres que el anuncio caiga con firmeza y le dé herramientas que achiquen lo desconocido — no solo un \"nos mudamos, va a estar genial\".",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "La forma —aviso, hecho concreto, lo que se mantiene—: \"Tenemos noticias, y cada quien puede sentirse de mil maneras distintas al respecto. En el verano, nos mudamos a una casa nueva, del otro lado de la ciudad. La casa es nueva. Nuestra familia es exactamente la misma.\"\n\nDale una herramienta: \"Mira, aquí hay fotos de tu cuarto nuevo, y del parque que está a dos calles. ¿Y este frasco? Cada mañana metes una piedra. Cuando esté lleno, ese va a ser el día de la mudanza.\"\n\nEspacio concreto para sentimientos encontrados: \"Puedes llorar por dejar esta cocina y alegrarte por el patio grande, a veces en la misma hora. Eso está permitido.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Anuncia con una forma clara: aviso de que los sentimientos van a variar, el destino concreto, y lo que se mantiene igual, antes de preguntarle cómo se siente\n- Haz que lo desconocido sea familiar cuanto antes: fotos, una visita si es posible, dejarlo elegir algo para el cuarto nuevo\n- Dale una cuenta regresiva práctica que él mismo actualice, para que \"pronto\" se convierta en algo que puede ver\n- Deja que empaque una caja etiquetada con sus cosas favoritas, que él mismo cargue hasta la casa nueva"
+          },
+          {
+            "title": "Después",
+            "content": "Tomen fotos juntos de la casa vieja —los rincones favoritos, los escondites— para que se quede como parte de su historia. No le vendas tanto la mudanza como para convencerlo de saltarse una despedida de verdad."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_10_es",
+        "title": "Cuando llegan los de la mudanza y tu hijo no está",
+        "scenario": "El día de la mudanza, tu hijo va a estar en casa de un familiar o de un amigo mientras empacan y se llevan todo. No va a presenciarlo — lo cual puede hacer que sienta que todo su mundo desapareció a sus espaldas.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Narra la secuencia invisible: \"Mientras te diviertes en casa de la abuela, esto es exactamente lo que va a pasar: unos ayudantes grandes van a meter nuestro sofá, las camas y tu estante de juguetes en un camión, los van a llevar a la casa nueva, y los van a acomodar ahí. Después vamos por ti, y te llevamos a la casa nueva.\"\n\nConviértelo en un juego: \"¿Quieres adivinar qué sube primero al camión — tu cama o la mesa de la cocina? Hagamos cada quien su apuesta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cuenta la historia mecánica de lo que va a pasar mientras no está, de principio a fin, para que no quede ningún vacío que rellenar con preocupación\n- Asegúrale que sus cosas van con él — nada se queda atrás ni se tira sin preguntarle\n- Convierte la secuencia en un juego ligero de adivinanzas, para darle una forma fácil de seguir y de bajo estrés\n- Manda con él, para ese día, su objeto de consuelo de siempre, en lugar de empacarlo en el camión"
+          },
+          {
+            "title": "Después",
+            "content": "Cuando lo recojas, recórrele la casa nueva cuarto por cuarto, mostrándole dónde quedaron sus cosas. Su propia caja etiquetada, cargada por él, es un buen primer paquete para desempacar juntos."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_11_es",
+        "title": "Un desastre cerca de casa: mantener a un niño pequeño estable",
+        "scenario": "Hay un incendio forestal —o una inundación, o una tormenta grande— cerca de tu zona. Tal vez ya evacuaron, tal vez solo están lo bastante cerca como para oler el humo y sentir el miedo en la casa. Tu hijo pequeño necesita menos información y más de tu cuerpo firme.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero el cuerpo, en pleno miedo: \"Aquí estoy contigo. ¿Sientes cómo respiro? Lento y tranquilo. Ahora mismo estamos a salvo, en este lugar, juntos.\"\n\nPalabras simples y verdaderas, y luego te detienes: \"Hay un incendio grande, lejos de donde vamos a dormir esta noche. Los bomberos, que se dedican justo a esto, están trabajando en ello. Nuestra familia está a salvo.\"\n\nNombra lo sorpresivo: \"Nadie sabía que esto iba a pasar — por eso se siente tan extraño. También sorprendió a los adultos.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Mantén las noticias y sus imágenes repetidas apagadas cerca de tu hijo — las repeticiones le dicen a un niño pequeño que está pasando otra vez\n- En pleno miedo, co-regula primero: abrázalo, haz más lenta tu propia respiración, repite una sola frase corta de seguridad; explica después\n- Tranquilízalo con cosas concretas — quién los está protegiendo, dónde van a dormir esta noche, que te vas a quedar cerca\n- Espera y permite retrocesos (más necesidad de cercanía, sueño agitado, comer más selectivo) como una forma pasajera de recuperar el control"
+          },
+          {
+            "title": "Después",
+            "content": "Con un niño pequeño, actuar el suceso a pequeña escala con figuras de juguete puede ayudarlo a procesarlo con sus propias manos. La mayoría de los niños se estabilizan en unas semanas con calma y rutina; si el miedo, las pesadillas, o el revivirlo jugando persisten, consulta a un terapeuta infantil o al pediatra o la pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Sigue primero todas las indicaciones oficiales de seguridad y evacuación. Busca apoyo profesional si las respuestas de trauma persisten."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_12_es",
+        "title": "\"¿Cómo se hacen los bebés?\": la respuesta nivel cuento ilustrado",
+        "scenario": "De la nada —en el coche, en la mesa de la cena— tu hijo pequeño pregunta cómo se hacen los bebés. Te congelas. La jugada es una respuesta tranquila, verdadera, de una sola capa, con espacio para la siguiente pregunta cuando llegue.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Profundidad nivel cuento ilustrado: \"Buena pregunta. Un bebé empieza cuando una célula diminuta de una persona adulta se junta con una célula diminuta de otra persona adulta. Esa célula unida crece, muy despacito, dentro de un cuerpo, hasta que es lo bastante grande para nacer como un bebé.\"\n\nInclusiva de muchas familias: \"A veces una familia necesita la ayuda de un médico, o de una persona que colabora con cariño, para juntar esas células — y cada uno de esos caminos está hecho de amor.\"\n\nDeja la puerta abierta: \"Esa es toda la respuesta por ahora. Si se te ocurren más preguntas, siempre me encanta contarte la siguiente parte.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Responde a nivel de cuento ilustrado —dos células se unen y crecen— sin entrar en la mecánica del sexo en la misma respuesta\n- Trata una pregunta de seguimiento como una señal normal para añadir una capa pequeña más, no como una prueba de que respondiste mal\n- Usa una voz simple y natural, la misma que usarías para explicar cómo funciona la lluvia\n- Mantén el marco de cómo se forman las familias inclusivo y simple, sin enumerar cada método"
+          },
+          {
+            "title": "Después",
+            "content": "Los niños preguntan en cuotas, a lo largo de meses. Cada vez, responde exactamente la pregunta que te hicieron, y luego detente. Las respuestas tranquilas y honestas de ahora hacen mucho más fáciles las conversaciones más grandes de dentro de unos años."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_13_es",
+        "title": "Tocarse las partes íntimas: el límite amable y claro",
+        "scenario": "Te has dado cuenta de que tu hijo se toca sus partes íntimas — tal vez en el sofá, tal vez delante de otras personas. Quieres poner un límite sobre el dónde, sin sembrar ninguna vergüenza sobre su cuerpo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Afirma, y luego pon el límite de contexto: \"Esa es una parte de tu cuerpo que es tuya y privada. Está bien que se sienta de cierta manera al tocarla. La regla no es que dejes de hacerlo — es cuestión de dónde lo haces. Eso es algo para hacer tú solo, en un lugar privado como tu cuarto, no donde hay otras personas.\"\n\nHaz que \"privado\" sea concreto: \"Privado significa solo para ti — como tu propio cuarto con la puerta cerrada, no la sala o el parque.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Primero afirma, sin ninguna vergüenza, que esto es normal y que su cuerpo es suyo\n- Pon el límite sobre el contexto —a solas y en privado— no sobre que la curiosidad o la sensación estén mal\n- Nombra en concreto dónde es \"privado\", porque los niños pequeños necesitan el lugar específico, no la idea abstracta\n- Mantén tu tono tan tranquilo y natural como con cualquier otra regla cotidiana"
+          },
+          {
+            "title": "Después",
+            "content": "Puede que tengas que repetir la regla del dónde con calma varias veces; eso es aprendizaje normal, no desafío. Combínala con la regla más amplia del cuerpo: nadie toca el cuerpo de otra persona sin su sí."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "El autotocamiento común es normal en el desarrollo. Consulta a tu pediatra si el comportamiento parece ir más allá de la edad del niño o si indica una posible exposición inapropiada."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_14_es",
+        "title": "Seguridad ante desconocidos, sin pesadillas",
+        "scenario": "Quieres que tu hijo esté seguro cerca de adultos que no conoce, sin enseñarle que el mundo entero es peligroso. La versión honesta es más precisa —y da menos miedo— que \"todos los desconocidos son malos\".",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "El marco preciso: \"La mayoría de los adultos que no conoces son perfectamente buenos. Aquí está la parte complicada: no se puede saber solo con mirar quiénes no lo son. Así que la regla es simple: no te vas a ningún lado con un adulto que no conoces, ni aceptas cosas de esa persona, a menos que tu adulto de confianza te diga que está bien.\"\n\nDa una acción concreta: \"Si un adulto que no conoces intenta llevarte, te pones bien fuerte. Gritas con toda tu voz — '¡Auxilio, no conozco a esta persona!' — y corres hacia mí o hacia otro adulto de confianza.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Enmárcalo con precisión: la mayoría de los desconocidos son buena gente, y el problema es que no se puede distinguir quién no lo es — por eso la regla los protege\n- Evita enseñar un miedo generalizado hacia toda persona desconocida, que además de falso genera ansiedad\n- Da una acción concreta que se pueda ensayar, y una frase corta y fuerte para gritar\n- Guíalo hacia ayudantes seguros (un padre o una madre con niños, alguien que trabaje en una tienda) en lugar de \"cualquier adulto es una amenaza\""
+          },
+          {
+            "title": "Después",
+            "content": "Practícalo con ligereza, como un juego de \"¿qué harías tú?\", no como un simulacro que dé miedo. Mantenlo natural; la meta es un niño capaz y alerta, no uno temeroso."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Refuerza que el permiso de un adulto de confianza es el factor decisivo. Adapta esto al contexto de tu familia."
+          }
+        ]
+      }
+    ]
   }
 }

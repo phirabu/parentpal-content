@@ -122,6 +122,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "kindergartenprep_script_01",
+        "title": "Still Crying at Drop-Off, Three Weeks In",
+        "scenario": "It's not the first day anymore — it's week three, and your child still sobs and clings every single morning at the classroom door. You're starting to wonder if something's wrong, or whether you should be pulling back.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "At the door, warm and brief, then go: \"Big squeeze, our two words, and I'm back after snack. You can do hard things, and I'll see you soon.\"\n\nIf they beg you to stay: \"I know you want me to stay. I can't — AND you are going to be okay. Ms. Bianchi is right here with you.\"\n\nTo yourself, walking away: \"His body reads me leaving as danger even though he's safe. My calm is the message. Some kids just need longer.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Keep the goodbye short and identical every day — same squeeze, same words, then leave, even through tears\n- Don't linger or sneak back; a drawn-out or repeated goodbye tells his body you're not sure it's safe\n- Picture him settled and busy a few hours from now — that image is how you hold your own steadiness at the door\n- Plan your own reset for right after: a call to a friend, a walk, two minutes to feel it — leaving steady is a skill you practise too\n- Hold the exact same routine longer for a slower-adjusting, more intensely-feeling child; more days, not a new plan"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Ask the teacher how long the crying lasts once you're gone — most children settle within minutes. If it keeps up for many weeks with no softening at all, or he's distressed all day rather than only at the door, talk with the teacher and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Coordinate with school staff on how your child settles after you leave. Prioritize safety; seek professional support if distress is severe or persistent."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_02",
+        "title": "Perfect at School, Falls Apart the Second They See You",
+        "scenario": "The teacher raves about your calm, helpful kid. Then you show up and within ninety seconds it's tears, whining, and refusing to walk — and you're left wondering why they save the worst for you.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "At pickup, low and steady, few words: \"You made it through your whole day. I've got you now. Let's just get to the car.\"\n\nIf they melt down: \"You held it together for so long. You don't have to anymore — I'm your safe place.\"\n\nTo yourself: \"This isn't him misbehaving. This is him finally letting go with the one person he trusts most.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Reframe it: all day he rationed his self-control for other people, and you're who he can finally unload with — that's trust, not defiance\n- Lead with a snack and your calm body, not questions or corrections; the reasoning part of his brain is offline mid-flood\n- Keep demands near zero for the first stretch after pickup — no \"how was your day,\" no debrief, no errands if you can help it\n- Expect the biggest release on the days he \"was so good\" at school — the tighter the lid all day, the bigger the exhale"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Once he's eaten, rested, and settled, the real day often trickles out sideways. If the after-school state stays extreme for hours every day for weeks, or he seems flat and joyless rather than just spent, check in with your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Ensure a safe pickup and transition environment. Prioritize safety; seek professional support if distress is extreme or prolonged."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_03",
+        "title": "Loved School at First — Now Suddenly Doesn't",
+        "scenario": "The first days were a dream — she skipped in, waved you off, chattered all afternoon. Now, a couple of weeks in, she's crying about going and saying she doesn't want to anymore. It feels like it's all coming undone.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "\"You were so excited about school, and now it feels different. That happens to almost everybody — the new-and-shiny part wears off and the real, everyday part shows up. It doesn't mean anything is wrong.\"\n\n\"We're still going. And I think you're still getting used to it — that takes a while, and I'm not worried.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Recognize the dip for what it is: the normal comedown after the novelty fades, not a sign the transition failed or she's slipping backward\n- Hold the same routine steady — resist the urge to overhaul everything the moment enthusiasm drops\n- Keep naming that adjusting takes time, so she doesn't read her own dip as a problem either\n- Stay curious about any specific new snag — a tricky moment at lunch, a hard part of the day — without treating the whole thing as broken"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The comedown usually smooths out over a few weeks of steady, unremarkable repetition. If she slides into real dread, panic, or withdrawal that doesn't lift, loop in the teacher and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if distress deepens rather than easing over a few weeks."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_04",
+        "title": "\"I Hate School! I'm Never Going Back!\"",
+        "scenario": "Your child throws down the biggest words they've got — \"I HATE school, I am NEVER going back\" — and your instinct is to remind them about all the days they came home happy.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Meet the size, not the sentence: \"Whoa. Sounds like today was really hard. Tell me what happened.\"\n\nNot: \"But you said you loved it yesterday\" or \"That's not true, you have fun there.\"\n\nIf they can't name it yet: \"You don't have to explain all of it. That was a big feeling, and I'm right here.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Hear the extreme words as a measure of how strongly they feel, not as a literal report to fact-check\n- Resist arguing or listing counter-evidence — being corrected in that moment makes a child feel unheard and shut down\n- Respond to the intensity first; the specific, smaller, real event usually surfaces once they feel met\n- Keep the going-to-school boundary intact and separate from the feeling — you can hear all of it and still go tomorrow"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Once the heat passes, gently trace back to the actual moment — a hard interaction, a confusing task — and problem-solve that one thing. If \"I hate school\" hardens into daily dread or fear, talk with the teacher and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if a child's distress about school becomes persistent or fearful."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_05",
+        "title": "The Every-Morning Battle to Get Out the Door",
+        "scenario": "Every school morning is a slog — dawdling, \"I'm not going,\" socks that won't go on, and you nagging through gritted teeth until everyone's frazzled before you've even left the house.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Offer motion, not debate: \"Coat first or backpack first? You choose.\"\n\nWhen \"I'm not going\" lands: \"You really don't want to go today. That's allowed — AND it's a school day. My job is to keep you safe, and today that means we go.\"\n\nKeep it moving: \"Picture chart says shoes are next. Bet you can't beat me to the door.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Put the morning on the wall as pictures, not spoken minutes — a young child can follow dress-eat-teeth-shoes and start running it themselves\n- Park your phone and take your own two minutes first; a distracted parent gets met with stalling and clinging\n- When resistance flares, keep the routine rolling with small real choices instead of arguing the \"I'm not going\"\n- If motion isn't enough, do both in order: name the feeling, then hold the line without apology — validation first, boundary second"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Most morning friction eases once the sequence is visual, predictable, and theirs to run rather than nagged. If mornings involve real panic or physical distress, not just resistance, talk with the teacher and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical force; keep transitions safe. Seek professional support if morning distress is severe."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_06",
+        "title": "Getting Ready for the Very First Day",
+        "scenario": "The first day of kindergarten is coming, and you want to actually prepare your child — not with a pep talk the night before, but with something that helps.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Countdown: \"See these beads? One comes off each morning. When they're all gone, it's your first day. You're in charge of moving them.\"\n\nFamiliarize the teacher: \"Your teacher's name is Mr. Sandoval. I already like him — I hear he keeps a whole box of dinosaurs in the reading corner.\"\n\nRehearse the goodbye: \"Here's our goodbye, and it'll be the same every day: big squeeze, 'see you soon,' and off I go. Let's practise it on Rabbit first.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Build a hands-on countdown they update themselves — beads, a stone in a jar, a clothespin hopped along a number line — so \"soon\" becomes something they can watch shrink\n- Make the unknown familiar early: the teacher's name dropped in warmly, a photo if the school has one, a visit to the building or yard if you can\n- Design one short, identical goodbye and rehearse it in play with toys before day one\n- Pack a small bridge object — a photo of you, a little something from home — and move one morning task to the night before"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Expect nerves even after good preparation — the goal is fewer surprises, not zero feelings. If dread balloons for weeks before the start or tips into panic, check in with your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if pre-start anxiety becomes severe or persistent."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_07",
+        "title": "\"How Was School?\" \"Fine.\" (And Nothing Else)",
+        "scenario": "You're dying to know how their day went, and every question hits the same wall: \"fine,\" \"nothing,\" a shrug, a blank stare. You feel shut out.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Skip the big open question at pickup. Later, once they've decompressed, go sideways.\n\nWrong-guess on purpose: \"Let me guess — you had spaghetti for snack and a pet elephant visited, right?\" (Then wait for the delighted correction.)\n\nTrade a real and a made-up thing: \"One true thing and one silly made-up thing about my day — you guess which. Then your turn.\"\n\nAnchor on a known fact: \"I know you had music today. What song did you sing?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't lead with \"how was your day\" the second you reunite — they're still crossing back over and have nothing ready to hand you\n- Wait until they've eaten and settled; timing does more than any clever question\n- Use playful, concrete formats — reacting to something small is easy, narrating a whole day from scratch is not\n- Open with a specific fact you already know, so they have a handle to grab instead of a blank to fill"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Bits of the day tend to leak out later, often at bedtime or in the car when no one's asking. If your child seems to be actively hiding distress rather than just decompressing, follow up gently and check in with the teacher."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; if a child seems to be concealing fear or distress, follow up gently and seek professional guidance if needed."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_08",
+        "title": "The Teacher Says Your Child Hit or Lashed Out",
+        "scenario": "You get the message no parent wants — your child hurt someone or blew up at school — and your stomach drops. Part of you wants to march home and demand answers.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself first, before a single word to your child: \"This is my whole kid, not the worst ten minutes of his day. One report is not a forecast.\"\n\nTo your child, curious not accusing: \"I heard something hard happened with the blocks today. I'm not mad. Tell me about it — we're on the same team.\"\n\nSkill-build, don't interrogate: \"When you want a turn and someone won't share, that's a really hard feeling. Let's practise what your body can do next time instead.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Settle yourself first — a flooded parent interrogates, and interrogation only stacks shame on top of the incident\n- Catch the catastrophe-story your brain wants to tell about where this \"leads,\" and set it down; parent the child, not the scary forecast\n- Skip demanding a full confession — if you know the shape of what happened, go straight to the struggle underneath (sharing, waiting, a plan that broke)\n- Separate \"who you are\" from \"what you did,\" out loud, and rehearse one different move for that specific trigger"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Loop back with the teacher as teammates — what they see, what you see, one shared plan. If aggression is frequent, escalating, or spilling well past school, work with the school's support staff and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety of all children involved. Avoid shaming or physical punishment. Seek professional support if aggression is frequent or escalating."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_09",
+        "title": "\"Nobody Likes Me. I Have No Friends.\"",
+        "scenario": "Your child comes home deflated — \"nobody likes me,\" \"I had no one to play with.\" It squeezes your heart, and you want to fix it immediately.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Receive it before you fix it: \"That was brave to say out loud. I take every word seriously. Walk me through it.\"\n\nShrink the big word to the real event: \"'Nobody' is a big word. Who was it today — and what happened right before you felt left out?\"\n\nPair sympathy with hope, without collapsing into only one: \"That sounds really lonely right now. And it won't always feel like this — I'm sure of it.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Receive first, advise later — the rush to fix teaches a child the feeling was the problem\n- Don't argue \"nobody likes me\" with evidence — meet the size of the feeling, then locate the one real moment underneath\n- Resist smoothing every rough patch away; a hard social moment, faced with you beside them, is where the coping muscles grow\n- For deeper friendship coaching and specific social skills, lean on the social-skills material — this script is about being their safe place first"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Most lonely days pass with a listening ear and time. If your child is repeatedly excluded or hurt and it isn't letting up, or dreads school over it, partner with the teacher and check in with your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if peer exclusion is persistent or a child becomes withdrawn or fearful."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_10",
+        "title": "Your Child Says They're Being Bullied",
+        "scenario": "Your child tells you another kid keeps being mean to them — pushing, excluding, name-calling. Your alarm spikes and you're ready to call the school this second.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Receive it fully before doing anything: \"Thank you for telling me. That should not happen, and I'm so glad I know. Can you walk me through it — where were you, what happened right before, and right after?\"\n\nTake the fault off them: \"This is not your fault, and nothing about you caused it.\"\n\nRegulate before scripting comebacks: \"Let's help you feel steadier first. We'll figure out what to do next together — you are not handling this alone anymore.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Slow down before escalating — reacting with instant alarm or storming the school can leave a child feeling more alone with it, not less\n- Ask gentle, specific questions less to gather facts and more to place a trusted adult beside a memory they first faced alone\n- Put self-regulation and \"this isn't your fault\" before any coaching on what to say back — a comeback line taught too early just adds a second way to feel they failed\n- When you do contact the school, go as a teammate: here's what we're hearing, what are you seeing, can we build a plan together"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Stay close and keep the door open for more. For sustained bullying and the longer-game confidence work, use the social-skills material and work directly with the school. If your child is being hurt or is frightened, treat it as urgent and involve the school's staff and your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. If a child is being physically hurt or is frightened, treat it as urgent and involve school staff and professional support."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_11",
+        "title": "\"I Can't Do It!\" — And Instant Giving Up",
+        "scenario": "Your child hits the first hard bit — a puzzle piece that won't fit, a name that won't come out right on the page — and immediately melts down or shoves it away: \"I CAN'T.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name the in-between place: \"You're in the figuring-out part — the bit between 'can't' and 'can.' It feels stuck because that's exactly what it's supposed to feel like. Everybody stands here.\"\n\nValidate, don't rescue: \"This is frustrating. You're allowed to be mad at that puzzle. Want to sit here mad for a second, then try one more time? I'll stay right here.\"\n\nPraise the trying: \"You didn't get it yet — AND you stayed with it. That's the part I'm proud of.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Give the gap between not-knowing and knowing a name your child can point at; naming it mid-frustration is itself calming\n- Resist solving it for them — the rescue teaches that struggle summons a rescuer, instead of a skill they can use alone\n- Reflect effort and persistence, not correctness — you're building \"a kid who keeps trying\" over \"a kid who gets it right\"\n- Keep the task in range for this age (a puzzle, sounding out a word, writing their name) and match the challenge to where they actually are"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Frustration and \"I can't\" are the normal weather of learning at this age. If your child seems joyless about everything they try, or is harshly self-critical in a way that won't lift, mention it to your pediatrician."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if a child shows persistent, harsh self-criticism or joylessness about learning."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_12",
+        "title": "Your Child Was Just Identified as Differently-Wired — Now What?",
+        "scenario": "A professional has recently identified a learning or developmental difference in your child, and you're reeling — grieving, googling, and unsure how to parent the child you thought you knew.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself: \"This isn't failing. It's a different set of instructions I'm still learning to read. My job is to understand how she's actually built.\"\n\nTo your child, plainly and warmly: \"Your brain works in its own way, and that's not a problem to fix — it just means some things we'll do a little differently, together.\"\n\nTo the other adults in her life: \"Here's how she's wired and what actually helps her — can we all get on the same page?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Let the default strategies go when they don't fit — if the standard move keeps failing despite real effort, it's a mismatch to her wiring, not your failure\n- Give yourself gentle permission to grieve the path you'd pictured, without guilt; it isn't disloyalty to the child in front of you, and it clears space to see her strengths\n- Watch how she already regulates — words, movement, quiet, closeness, or space — and build on that instead of overriding it\n- Invest in genuine strengths, not only the weak spots, and find a community of parents on a similar road — that does more than any single technique"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Keep every question about assessment, therapies, and next steps with your pediatrician and the school's professionals — they are the right people to guide the plan. Lean on them early and often; you don't have to figure the map out alone."
+          },
+          {
+            "title": "Safety note",
+            "content": "This is not diagnostic guidance. Route all assessment and treatment questions to your pediatrician and qualified school professionals. Prioritize safety and seek professional support when unsure."
+          }
+        ]
+      }
+    ]
   }
 }

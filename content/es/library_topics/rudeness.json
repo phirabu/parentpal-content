@@ -122,6 +122,251 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "rudeness_script_01_es",
+        "title": "El gran pulso por la silla del coche",
+        "scenario": "Es la salida del colegio, todos están agotados, y tu hijo se derrumba como un fideo junto a la puerta abierta del coche — \"NO me voy a subir\" — resbalando hacia el suelo cada vez que alcanzas el cinturón.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Agáchate a su altura, sin prisa: \"No quieres subirte a esa silla. Después de un día tan largo, subirse es lo peor.\"\n\nEl límite como tu propia acción, más una elección de cómo: \"El coche no se mueve hasta que tu cuerpo esté abrochado — ese es mi trabajo, mantenerte a salvo. Tú eliges: subes solo como una cabra montés, o te subo yo como un cohete. ¿Cabra o cohete?\"\n\nSi sigue atascado, en calma y con cariño: \"Parece que hoy es día de cohete. Vamos allá — tres, dos, uno.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ponte a su altura antes de decir nada; verlo desde arriba invita a una pelea más grande\n- Nombra el límite como algo que TÚ haces (el coche se queda quieto), no como una orden de dejar de sentir\n- Ofrece una elección acotada sobre CÓMO se sube, nunca sobre SI se sube\n- Mantén la voz plana y cálida durante el alzamiento; narrar (cabra/cohete) vale más que un forcejeo en silencio\n- Una vez abrochado, suéltalo del todo — nada de sermón para el camino"
+          },
+          {
+            "title": "Después",
+            "content": "Ensayen \"cabra o cohete\" como un juego entre risas en la entrada de casa, un día tranquilo — un movimiento ensayado en calma es uno que de verdad está disponible en plena crisis. Si la silla se volvió una batalla de la noche a la mañana, revisa la comodidad: correas torcidas, la hebilla al rojo vivo por el sol, un abrigo nuevo demasiado abultado."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad: el coche se queda estacionado hasta que todos estén bien abrochados. Evita la sujeción física más allá de la ayuda mínima y suave necesaria para asegurar a un niño; sigue las normas locales sobre sillas de coche y busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_02_es",
+        "title": "Vestirse mientras el reloj no para de gritar",
+        "scenario": "Una mañana entre semana, ya vas tarde, y tu hijo sigue en pijama en el suelo anunciando \"NO me voy a poner eso\" a cada camiseta que le muestras — la queja sube al mismo ritmo que tu estrés.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Una respiración primero. Después: \"Vestirse cuando preferirías seguir jugando no tiene nada de divertido. Te escucho.\"\n\nUna elección de cómo, no de si: \"La ropa se pone antes de salir, eso ya está decidido. Tú eliges — ¿los lunares o las rayas? ¿Y te vistes en tu cuarto, o hacemos una carrera aquí en la alfombra?\"\n\nSi el estancamiento sigue: \"Voy a contar hasta cinco, y después ayudo a tus brazos a encontrar las mangas. Uno... dos...\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Calma tu propio cuerpo primero — los niños se contagian de tu prisa y se resisten a ella\n- Sáltate el debate de moda; ofrece dos camisetas ya aprobadas por ti, para que cualquier respuesta te sirva\n- Da una elección sobre el dónde o el cómo, no sobre el si — le devuelve un pedacito de control\n- Si no logra elegir, acompaña con suavidad; hazlo CON tu hijo, no A tu hijo"
+          },
+          {
+            "title": "Después",
+            "content": "Preparen juntos dos opciones de ropa la noche anterior, cuando nadie tiene prisa — así, por la mañana, solo tienes que seguir el plan. Si las mañanas son una guerra diaria, adelanta el paso más difícil, antes de las pantallas o el desayuno, para que vestirse no compita contra algo más divertido."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_03_es",
+        "title": "Salir del parque sin que termine en colapso",
+        "scenario": "Avisas que faltan cinco minutos, y después que ya es hora de irse — y tu hijo sale corriendo hacia el otro extremo de la estructura, riendo, o se deja caer sin fuerzas sobre el suelo del parque. Otros padres están mirando.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Acorta la distancia primero (no negocies a los gritos de un lado a otro del parque): \"Ojalá pudiéramos quedarnos hasta que oscurezca. Es TAN difícil irse cuando te estás divirtiendo tanto.\"\n\nLímite más una elección de cómo: \"Nos vamos ahora — esa parte ya está decidida. Tú eliges cómo llegamos a la puerta: ¿saltando como una rana todo el camino, o subido a mis hombros?\"\n\nPara ti misma: \"El público no me está calificando. Mi hijo me necesita firme.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Acorta la distancia antes de hablar; las instrucciones gritadas de un lado a otro del parque solo arrancan una persecución\n- Reconoce el deseo por completo antes del límite — eso encoge la protesta\n- Ofrece una elección de cómo, con tono de juego, para llevarlo a través de la transición\n- Si se deja caer sin fuerzas, levántalo en calma y vete; guarda cada palabra de enseñanza para el trayecto tranquilo en el coche"
+          },
+          {
+            "title": "Después",
+            "content": "Da el aviso con algo concreto de cierre (\"dos toboganes más, y nos vamos\") para que el final no sea una emboscada. En un buen día, construyan un ritual de despedida divertido — un saludo con la mano y un \"¡adiós, parque!\" — que convierta el momento más difícil en una rutina."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad en espacios públicos; mantén a tu hijo a tu alcance cerca de calles o estacionamientos. Evita la sujeción física más allá de cargarlo con suavidad hasta un lugar seguro; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_04_es",
+        "title": "\"Ojalá no fueras mi hermano\", desde el asiento trasero",
+        "scenario": "Viaje largo en coche, dos hermanos apretujados atrás. Una pelea por el asiento de la ventana explota: \"Eres lo PEOR. ¡Ojalá ni siquiera fueras mi hermano!\" El otro rompe a llorar.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Desde el asiento delantero, con calma, sin apartar los ojos de la carretera: \"Uy — palabras grandes y calientes. Estás tan enojado ahora mismo que quieres que desaparezca. Ahí habla tu enojo, no la verdad.\"\n\nAl hermano herido: \"Eso dolió al escucharlo. Esas palabras no dicen nada de ti.\"\n\nLímite, sin exigir que se retracte: \"En esta familia no mandamos a nadie lejos con palabras. Puedes estar furioso Y seguir siendo hermanos. Resolvemos lo de la ventana en la próxima parada.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Traduce la frase hostil al sentimiento de fondo (\"tan enojado que lo quieres lejos\") en vez de juzgar las palabras\n- Consuela brevemente al niño afectado, sin obligar al otro a disculparse en el acto\n- Nombra el límite familiar con calma; no exijas un \"retráctate\" mientras los dos siguen calientes\n- Resuelve la disputa real — el asiento — cuando puedas detenerte o cuando baje la temperatura"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, en calma, al que se enojó: \"De verdad no querías que desapareciera — es que lo de la ventana se sintió muy injusto. Busquemos mejores palabras para un enojo tan grande.\" Una regla simple de turnos para el asiento puede apagar sola esta chispa que se repite."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad mientras conduces; detente antes de intervenir físicamente si un conflicto deja de ser seguro. Evita la sujeción más allá de lo necesario para mantener a todos a salvo; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_05_es",
+        "title": "El marco roto que nadie tocó",
+        "scenario": "Una foto enmarcada está boca abajo y rota sobre el estante. Tu hijo menor suelta \"¡Yo no fui!\" antes de que preguntes nada — mientras la mayor dice que lo vio pasar.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Sáltate la trampa; di lo que ves: \"El marco está roto. No estoy tratando de meter a nadie en problemas — quiero entender qué pasó.\"\n\nSi la negación se endurece, ve a un lugar privado y con suavidad: \"A veces, cuando algo se rompe, la parte más asustada de nosotros grita 'yo no fui' muy rápido. A mí también me ha pasado. ¿Tenías un poco de miedo de que me enojara?\"\n\nDespués, repara juntos: \"Las cosas se rompen. Peguémoslo con cinta, en equipo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nombra el hecho conocido con calma, en vez de interrogar para \"atrapar\" la mentira\n- Lee la negación rápida como miedo o vergüenza, no como estrategia — baja la temperatura antes de esperar la verdad\n- Habla a solas, fuera del alcance del oído de su hermana; un testigo hace imposible salvar la cara\n- Arréglenlo juntos, para que la honestidad lleve a algo seguro, en vez de a un castigo que demuestre que mentir era más inteligente"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, con calidez: \"Te costó valor contármelo. Eso es exactamente lo que quiero — la verdad, incluso cuando es difícil.\" Mantén el hábito de no interrogar; los niños le dicen la verdad al padre que no les tiende trampas."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Maneja los objetos rotos (vidrio, bordes filosos) con cuidado y mantén a los niños alejados hasta limpiar todo. Sin otras preocupaciones específicas."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_06_es",
+        "title": "El concierto de la palabra asquerosa en la cena",
+        "scenario": "En la cena, tu hijo descubre que cantar una palabra asquerosa y tonta hace que el bebé chille de risa y a ti te saque una mueca — así que ahora la repite, cada vez más fuerte, y toda la mesa se descarrila.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Aplana tu reacción (el respingo es el premio): \"¡Otra vez esa palabra! Encontraste una con mucho poder, ¿eh?\"\n\nRedirige hacia una salida autorizada: \"El trato es este: esa no es palabra de cena, es palabra de patio. Cuando terminemos de comer, tienes diez segundos enteros para gritarla tan fuerte como quieras, afuera. Ahora — ¿me pasas el pan?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Vacía la recompensa quedándote imperturbable; tu gran reacción es el combustible\n- No conviertas la palabra en oro prohibido al prohibirla sin más — dale un dónde y un cuándo en que SÍ está permitida\n- En la misma frase, guía la mesa de vuelta a algo cotidiano\n- Cumple de verdad la salida más tarde, para que el trato se mantenga real"
+          },
+          {
+            "title": "Después",
+            "content": "Si en el fondo se trata de querer causar impacto, reparte poder legítimo en otro lado — que elija la música de la cena o que sea quien diga \"¡a comer!\". Un niño con formas reales de sentirse grande no necesita explotar la mesa para conseguir una reacción. Espera que esto se apague rápido en cuanto se le acabe la gracia de escandalizar."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_07_es",
+        "title": "El desayuno equivocado y el gracias que faltó",
+        "scenario": "En un restaurante, el desayuno de tu hijo llega con frutos rojos que no quería. Hace una mueca, aparta el plato de un empujón, y cuando la mesera amablemente le trae uno nuevo, tu hijo no dice nada y mira hacia la pared.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "No exijas un gracias; modélalo con calidez: \"Muchísimas gracias por cambiarlos — qué amable de tu parte.\"\n\nEn voz baja, a tu hijo, sin avergonzarlo: \"Qué decepción cuando algo sale mal, ¿verdad? Cuando estés listo, un gracias le sentaría bien a ella — sin prisa.\"\n\nMás tarde, con curiosidad, no con sermón: \"Esa mesera no tenía que arreglarlo, pero quiso hacerlo. Se siente bien cuando alguien ayuda, ¿no?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Modela tú mismo la reparación en vez de forzar un \"di gracias\" de guion — muestras el lenguaje, sin lucha de poder\n- Deja que el gracias modelado quede ahí; sáltate el \"¿ves? ASÍ se hace\"\n- Nombra primero la decepción; la gratitud no puede cargar hasta que el chasco se disipe\n- Haz crecer el sentimiento después, notando y preguntándose juntos, nunca por orden"
+          },
+          {
+            "title": "Después",
+            "content": "De camino a casa, pregúntense en voz alta cuánta gente hace falta para un desayuno de restaurante — el cocinero, la mesera, quien lava los platos. La gratitud crece como algo sentido a través de la reflexión, no como una actuación exprimida por orden."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_08_es",
+        "title": "La ley del hielo a la maestra, a la entrada del colegio",
+        "scenario": "En la puerta del aula, la maestra saluda con calidez — y tu hijo se da la vuelta, murmura \"no quiero hablar contigo\", y esconde la cara en tu pierna mientras sus compañeros pasan alrededor.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Ligero, para salvar las apariencias frente a la maestra y la clase: \"Las mañanas son un cambio grande — hoy todavía estamos entrando en calor.\"\n\nEn voz baja, a tu hijo, sin sermón: \"Es difícil encender el modo simpático justo cuando nos estamos despidiendo. Está bien.\"\n\nUn puente sencillo: \"No tienes que hablar. Un saludito con la mano puede ser suficiente — o lo intentamos mañana.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Da una cobertura breve y amable que proteja tanto a tu hijo como a la maestra — sin corregir en público\n- Lee la ley del hielo como el desborde de la transición, no como falta de respeto\n- Deja la enseñanza FUERA de la multitud en la puerta; un sermón con testigos garantiza el bloqueo\n- Ofrece el paso siguiente más pequeño posible (un saludo con la mano) en vez de forzar un saludo cálido"
+          },
+          {
+            "title": "Después",
+            "content": "En casa, con calma, nómbralo: \"Es amable contestarle a un adulto que te saluda — hasta un 'buenos días' chiquito cuenta. Practiquemos uno fácil.\" Ensayen un saludo de dos segundos como si fuera un juego. Si el verdadero motor es el miedo a la despedida, arregla la rutina de despedida en sí — una entrega predecible encoge la grosería que la ansiedad estaba alimentando."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_09_es",
+        "title": "\"Esa torre es fea\": cuando un hermano hiere al otro",
+        "scenario": "Tu hijo menor termina, orgulloso, una torre de bloques tambaleante; el mayor la mira de reojo y dice: \"eso es lo más feo que he visto en mi vida.\" La carita del pequeño se derrumba.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Protege primero al niño herido, con ligereza: \"Trabajaste mucho en eso — veo la parte roja y alta que planeaste.\"\n\nAl mayor, sin avergonzarlo, con la lectura más amable: \"Uy, ese comentario dolió. No creo que quisieras aplastarlo — algo te está pasando a ti, ¿verdad?\"\n\nMás tarde, en privado, la conversación de verdad: \"Tus palabras tienen mucho poder sobre tu hermano pequeño. ¿Qué te estaba pasando justo en ese momento?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Consuela en el momento al niño herido, sin montar un tribunal\n- Asume que el golpe vino de un sentimiento — aburrimiento, envidia, un mal día — no de crueldad; eso te mantiene guiando en vez de castigando\n- Guarda la conversación de verdad para después y en privado, a solas con quien lo dijo\n- Si el \"perdón\" no sale, modélalo tú y déjalo ahí: \"Perdón, campeón — tu torre tiene una inclinación bien lograda.\""
+          },
+          {
+            "title": "Después",
+            "content": "Revisa qué hay debajo del filo — muchas veces el niño que lanza los golpes es el que anda bajo de conexión. Un rato a solas con el mayor suele frenar las pullas más que cualquier charla sobre ser amable."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_10_es",
+        "title": "El juguete nuevo y el primo de visita",
+        "scenario": "Tu hijo recibió un coche a control remoto de cumpleaños hace dos días. Un primo viene de visita esta tarde y estira la mano hacia el coche — y tu hijo se cierra por completo: \"NO. Es MÍO. No lo puedes tocar.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Valida el apego, sin avergonzarlo: \"Ese coche es nuevísimo y muy especial. Todavía no estás listo para prestarlo — tiene sentido.\"\n\nReformula hacia el turno, no hacia la entrega forzada: \"No tienes que darlo ahora mismo. Cuando termines de manejarlo, dejas que Mateo tenga su turno. Tú avisas cuándo.\"\n\nAl primo, con calidez: \"Es muy nuevo, así que él lo necesita un rato primero. ¿Quieres elegir otro juguete mientras esperas?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nombra la posesividad como algo normal (algo nuevo y valioso), no como egoísmo\n- Ofrece el turno a la señal de tu hijo, en vez de ordenar una entrega instantánea — la entrega forzada hace que apriete más fuerte\n- Dale al primo que espera una alternativa real, para que nadie se quede solo mirando\n- Di la confianza en voz alta: \"Él va a tener su turno, y tú siempre recuperas el tuyo.\" La confianza demostrada afloja el puño"
+          },
+          {
+            "title": "Después",
+            "content": "Antes de las visitas, prepara todo en un momento tranquilo: elijan uno o dos tesoros \"solo míos\" para guardar, y algunos juguetes que sí estén disponibles para las visitas. Un niño que puede proteger unos pocos especiales comparte el resto mucho más fácil."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_11_es",
+        "title": "Hacer las paces después de \"vete, te odio\"",
+        "scenario": "Una hora de dormir difícil terminó explotando — tu hijo gritó \"¡vete, eres muy MALA, te odio!\" y cerró la puerta de un golpe. Una hora después todos están en calma, pero entre ustedes todavía queda algo dolido. Quieres reconectar, y quieres que tu hijo aprenda que la reparación va en los dos sentidos.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Ve hacia tu hijo, con calidez, sin sermón: \"Antes se puso muy intenso. Ya no estoy enojada — vine a buscarte.\"\n\nModela primero tu propia reparación, en voz alta: \"Aquí voy con mi parte: yo también levanté la voz, y lo siento. Gritar no nos ayuda a ninguno de los dos.\"\n\nAbre una puerta sin presión para la suya: \"Si hay algo por lo que quieras pedir perdón, aquí estoy. Y si todavía no estás listo, está bien — seguimos bien.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Espera hasta que los DOS estén en calma; la reparación no puede pasar mientras alguien sigue desbordado\n- Reconecta primero, y sáltate el debate de quién se portó peor — en esta visita lo que importa es la relación\n- Modela tú la disculpa para que vea cómo se hace; los niños reparan de la forma en que te han visto reparar a ti\n- Deja su \"perdón\" como algo opcional y sin forzar; una disculpa exprimida a la fuerza enseña actuación, no arrepentimiento\n- Si llega, recíbela con sencillez — \"gracias, eso significa mucho\" — y déjala ahí, sin pegarle una lección encima"
+          },
+          {
+            "title": "Después",
+            "content": "Nombra la lección otro día, con suavidad: \"Aunque nos enojemos, siempre encontramos el camino de vuelta el uno al otro. Así es nuestra familia.\" Con el tiempo, modelar e invitar hace crecer a un niño que repara por sí solo — sin necesidad de forzar nada."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_12_es",
+        "title": "El pequeño dragón que destrozó la estantería",
+        "scenario": "Entras y encuentras todos los libros arrancados del estante bajo, abiertos en abanico por el suelo. Tu hijo de cuatro años, con los ojos como platos, explica: \"¡Yo no fui! Fue el dragón pequeñito que vive debajo de mi cama.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Recíbelo con asombro, no con un interrogatorio: \"¿¡Un dragón debajo de tu cama!? Cuéntame de él — ¿es de los que dan mucho trabajo?\"\n\nUn chequeo de realidad suave dentro del juego, en voz baja y con cariño: \"Entre nosotros dos — ¿el dragón de verdad tiró esto, o unas manitos ocupadas lo ayudaron un poco?\"\n\nDespués, la reparación sin culpa: \"Dragón o no, estos libros necesitan volar de regreso a casa. ¿Quieres ser quien los hace aterrizar en el estante?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Disfruta primero el cuento; para un niño pequeño, la línea entre lo imaginario y lo real es de verdad borrosa, no una mentira que hay que desenmascarar\n- Ofrece una salida suave y privada hacia la verdad, sin convertirla en una confrontación\n- No exijas una confesión ni avergüences la invención; mantén la puerta a la honestidad fácil de cruzar\n- Mete la limpieza dentro del juego, para que asumirlo se sienta seguro, incluso divertido"
+          },
+          {
+            "title": "Después",
+            "content": "Si \"fue el dragón\" se vuelve la excusa de siempre que algo anda mal, ve narrando la diferencia con suavidad: \"Los dragones de mentira son DIVERTIDÍSIMOS. Y cuando pasa algo de verdad, necesito la historia real — nunca te vas a meter en un gran problema por decir la verdad.\" Mantén cada respuesta a la honestidad con calidez; eso es lo que hace que siga llegando."
+          }
+        ]
+      }
+    ]
   }
 }

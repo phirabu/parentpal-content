@@ -94,6 +94,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "confidence_script_01_es",
+        "title": "Un familiar elogia la belleza o la inteligencia de tu hijo o hija, cara a cara",
+        "scenario": "En un almuerzo familiar, una tía no para de decirle a tu hijo o hija, en su cara, lo hermoso e inteligente que es. Lo dice con cariño, pero sientes que cae como presión. No quieres corregir a tu tía, y tampoco quieres que la etiqueta se le pegue.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "En el momento, con ligereza, sin corregir al adulto: \"Tiene muchas opiniones sobre ti — ¡qué suerte la tuya!\" y sigue con lo tuyo.\n\nMás tarde, a solas: \"La tía te dijo hoy varias veces que eres listo y bonito. ¿Cómo se sintió escuchar eso?… No hay respuesta incorrecta, solo tengo curiosidad.\"\n\nSi le gustó: \"Tiene sentido, se siente bien. Y tú eres muchísimo más que esas dos cosas.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No contradigas al otro adulto delante de tu hijo o hija: eso arma un espectáculo y no enseña nada\n- Más tarde, devuélvele la etiqueta a tu hijo o hija para que la sopese él mismo, sin darle tú el veredicto\n- Dirige tu propio elogio de seguimiento a lo que sí controla — lo amable, lo curioso, lo mucho que se esfuerza"
+          },
+          {
+            "title": "Después",
+            "content": "Esto es un movimiento que se repite, no algo de una sola vez. Con el tiempo, tu hijo o hija aprende a tratar cualquier etiqueta — halagadora o no — como una opinión de afuera que se puede notar, no como un hecho que hay que tragarse."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_02_es",
+        "title": "\"No puedo hacer nada bien\", en medio de algo difícil",
+        "scenario": "Tu hijo o hija va a la mitad de construir una pista de canicas que se le sigue derrumbando, y suelta: \"No puedo hacer nada bien. Soy el peor.\" No es flojera, y tampoco se está rindiendo de verdad: está atascado e inundado de frustración.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero, la lectura amable, en voz alta: \"No se te da mal esto. Llegaste a una parte difícil y te está afectando.\"\n\nNombra la voz: \"Suena como que se puso fuerte esa voz de nunca-es-suficiente. ¿Qué está diciendo?\"\n\nDespués, la más valiente: \"Bueno… ¿qué podría responderle tu otra voz?… 'Esta parte es dura, y ya he hecho cosas duras antes.' ¿Quieres pedirle prestada esa?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Lee el colapso como un sentimiento difícil sin nombre, no como flojera — responde con curiosidad, no con un discurso motivador ni una consecuencia\n- Separa el pensamiento de tu hijo o hija: es una voz que está escuchando, no la verdad sobre quién es\n- Quédate cerca y deja que intente la siguiente pieza pequeña contigo, sin que tú te hagas cargo"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, en calma, siembra el aviso: \"La próxima vez que construyamos algo, adivinemos cuándo va a aparecer la voz de nunca-es-suficiente — así no te agarra de sorpresa.\" Para acompañar la tarea en sí en el momento, consulta la guía de tolerancia a la frustración."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_03_es",
+        "title": "Cuando un proyecto a medio terminar se estruja de frustración",
+        "scenario": "Tu hijo o hija estaba modelando un perro de plastilina. Las patas se le siguen cayendo, y de repente aplasta todo el perro: \"Es una tontería. Ya no sigo.\" Las lágrimas vienen justo detrás.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Atiende el sentimiento, no la plastilina: \"Uy. No te estaba quedando como lo imaginabas, y eso da muchísima frustración.\"\n\nDale forma al impulso: \"Ese impulso de aplastarlo todo — esa es la voz de si-no-es-perfecto-está-arruinado. Yo también tengo esa voz.\"\n\nDeja la puerta abierta para volver: \"El perro puede descansar así. Cuando estés listo, podemos arreglar una pata — solo una — juntos. O empezar de nuevo. Tú decides.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No rescates el objeto ni regañes por haberlo aplastado — ve directo a la decepción que hay debajo\n- Nombra el impulso perfeccionista como una parte, para que no sea todo tu hijo o hija\n- Déjale a él la decisión de volver a intentarlo; obligarlo a continuar alimenta la voz"
+          },
+          {
+            "title": "Después",
+            "content": "En un día tranquilo, modela tu propia versión: falla algo pequeño a propósito, di \"no está perfecto, y aun así está bien\", y deja que te vean seguir adelante."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_04_es",
+        "title": "\"¿Me veo bien?\" — la pregunta cotidiana del espejo",
+        "scenario": "Mientras se viste para el día, tu hijo o hija da una vuelta completa: \"¿Me veo bonito? ¿Me queda bien esto?\" No hay crisis, es solo una pregunta al pasar, con los ojos puestos en ti, esperando el veredicto.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Devuélvele la pregunta: \"Ooh, ¿y a TI cómo te hace sentir? ¿Cómodo? ¿Divertido para moverte? Esa es la parte que importa.\"\n\nResponde la pregunta más grande que hay debajo: \"Y si me estás preguntando si eres genial tal como eres, lo eres, te pongas lo que te pongas.\"\n\nSáltate la calificación: no un \"¡sí, precioso!\", sino un \"te ves como tú, y eso me encanta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Trata la pregunta sobre el aspecto como un sustituto de \"¿estoy bien?\" y responde esa, con calidez\n- Redirige hacia cómo se siente la ropa y qué le gusta a él, no hacia tu calificación externa\n- Mantén tus propios comentarios enfocados en la función y el sentir, por encima de la apariencia"
+          },
+          {
+            "title": "Después",
+            "content": "Si el revisarse en el espejo se vuelve frecuente o ansioso, fíjate qué más está pasando esa semana: la pregunta suele dispararse cuando algo sin relación lo tiene sintiéndose inestable."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_05_es",
+        "title": "Atrapar el \"¡qué inteligente eres!\" antes de que se te escape",
+        "scenario": "Tu hijo o hija resuelve un rompecabezas rapidísimo y te mira, radiante. El \"¡qué inteligente eres!\" ya te está saliendo a medias, y te acuerdas de que querías elogiar distinto, sin dejar de celebrar un logro real.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Cambia la etiqueta por el proceso, sin perder la calidez: \"¡Wow! ¿Cómo se te ocurrió tan rápido? ¡Enséñame cómo pensaste!\"\n\nNombra lo que hizo, no lo que es: \"Probaste tres formas distintas y seguiste hasta que encajó. ESO es lo bueno.\"\n\nPuedes seguir celebrando la victoria, solo apúntala bien: \"Eso estaba difícil y lo lograste, porque no te rendiste.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Conserva la calidez; solo mueve el peso de \"quién eres\" a \"qué hiciste\"\n- Elogia verbos que pueda repetir mañana — intentó, siguió, se dio cuenta, lo arregló\n- No finjas un elogio al esfuerzo en algo fácil; busca la acción real que sí puedes nombrar"
+          },
+          {
+            "title": "Después",
+            "content": "No hace falta prohibir \"inteligente\". Solo deja que el esfuerzo tenga el reflector la mayoría de los días, y observa cómo tu hijo o hija empieza a contarte su propio esfuerzo de vuelta."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_06_es",
+        "title": "Tu hijo o hija te escucha criticar tu propio cuerpo",
+        "scenario": "Estirándote la camisa frente al espejo, murmuras \"uf, me veo horrible con esto.\" Una vocecita detrás de ti: \"Mamá, ¿no te gusta tu cuerpo?\" No sabías que estaba ahí.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "No lo dejes pasar, repara con claridad: \"Me escuchaste siendo dura con mi propio cuerpo. Eso no fue justo, ni conmigo, ni para tus oídos.\"\n\nModela el reinicio: \"Mi cuerpo cargó las bolsas del mercado y dio buenos abrazos hoy. Es un buen cuerpo. Le voy a hablar más bonito.\"\n\nVuelve a él, sin veredicto sobre su apariencia: \"Y tu cuerpo es tuyo y es bueno, y punto.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nómbralo y corrige el rumbo, en vez de fingir que no escuchó\n- Muestra la reparación en voz alta — los niños aprenden tanto de la corrección como habrían absorbido del desliz\n- De ahora en más, mantén tus comentarios duros sobre tu cuerpo fuera de su alcance — procésalos con otro adulto"
+          },
+          {
+            "title": "Después",
+            "content": "Deja que tu hijo o hija te vea seguido disfrutar tu cuerpo con naturalidad — moviéndote, descansando, haciendo cosas — no evaluándolo. Esa es la lección silenciosa que dura más que cualquier desliz."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_07_es",
+        "title": "Un pediatra o entrenador comenta sobre el tamaño de tu hijo o hija, delante de él",
+        "scenario": "En una revisión médica, el pediatra o la pediatra le dice, justo delante de tu hijo o hija de siete años, que \"hay que vigilar el peso.\" Ves cómo se le cae la cara. Tienes unos dos segundos.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "En calma, ahí mismo, rechazando el enfoque: \"Aquí no hablamos de tamaño de cuerpo delante de mi hijo o hija — su cuerpo está haciendo exactamente lo que debe hacer. Si hay algo médico de por medio, hablemos usted y yo por separado.\"\n\nA tu hijo o hija, con calidez: \"Tu cuerpo es bueno y fuerte. Eso es un tema de adultos que me toca resolver a mí, no algo que tengas que cargar tú.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Tu contraafirmación en calma, dicha ahí mismo, le importa a tu hijo o hija más que el comentario original\n- Después, deja establecido el canal una vez y con claridad — con la clínica, el entrenador, el familiar: cualquier cosa sobre su cuerpo o su peso nos la dicen a los adultos directamente, no a él o ella\n- Lleva cualquier preocupación médica real sobre la alimentación, el crecimiento o el peso al pediatra o la pediatra en privado — nunca lo conviertas en un problema de tu hijo o hija, ni en una dieta"
+          },
+          {
+            "title": "Después",
+            "content": "Con un niño mayor, habla del tema con suavidad más tarde: \"Se sintió feo cuando lo dijo el doctor, ¿verdad? A mí tampoco me encantó. Tú solo tienes que disfrutar tu cuerpo — los números los resolvemos el doctor y yo.\" Si la alimentación o el crecimiento es una preocupación real, esa es una conversación privada y profesional."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Lleva cualquier preocupación sobre la alimentación, el crecimiento o el peso a tu pediatra en privado; nunca restrinjas la comida de tu hijo o hija sin indicación médica."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_08_es",
+        "title": "Tu hijo o hija señala en voz alta el cuerpo de una desconocida en público",
+        "scenario": "En el autobús de la ciudad, tu hijo o hija pregunta a todo volumen, señalando: \"¿Por qué esa señora está en silla de ruedas?\" Tres filas completas lo escuchan. Sientes la cara arder.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Simple y sin apuro, sin mandar a callar, sin discurso: \"Ella usa silla de ruedas para moverse. Mucha gente la usa.\"\n\nDespués, trátala como a cualquier persona: \"¿Quieres saludarla cuando pasemos?\"\n\nSi tu hijo o hija sigue insistiendo, deja el tema para después, con calidez: \"Qué buena pregunta. Hablemos de esto con calma en casa — te voy a contar todo lo que sé.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Responde la pregunta real en una sola frase tranquila — un \"¡shhh!\" nervioso enseña que los cuerpos son vergonzosos de mencionar\n- Cuando encaje, pasa de observar a saludar; un saludo con la mano trata a la persona como alguien a quien conocer, no como algo que explicar\n- Guarda la conversación completa para casa, y tenla de verdad"
+          },
+          {
+            "title": "Después",
+            "content": "En casa, retoma el tema: \"Preguntaste por la señora del autobús. ¿Qué querías saber?\" Responde con claridad. Después, la regla de la casa, en las dos direcciones: \"Los cuerpos no son para comentarios en público — ni los de otros, ni el tuyo. Las preguntas siempre me las traes a mí, cuando sea.\""
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_09_es",
+        "title": "La misma frase dura, tarea tras tarea",
+        "scenario": "Ya no es solo un mal momento. \"Soy tan tonto\", \"todo me sale mal\", \"arruino todo\" — lo escuchas en la tarea, al dibujar, al vestirse, casi todos los días de este mes.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombra el patrón con amabilidad: \"Sigo escuchando esa voz que te dice tonto. Ha estado presente mucho últimamente, ¿verdad?\"\n\nSepara la voz de tu hijo o hija: \"Eso es una voz que estás escuchando — no es la verdad sobre ti, aunque suene fuerte.\"\n\nHaz crecer la voz contraria, a propósito, todos los días: \"Busquemos algo que pueda decir tu voz valiente, y practiquémoslo cuando todo esté en calma, no solo cuando las cosas se ponen difíciles.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Aplica la técnica de nombrar la voz de forma constante — una voz tan dura y frecuente necesita repetición, no una sola charla\n- Busca patrones: una materia en particular, una hora del día, o una presión que la dispara de forma confiable\n- Sigue ofreciendo la lectura más amable, aunque todavía no parezca calar"
+          },
+          {
+            "title": "Después",
+            "content": "Un poco de autocrítica es normal; esta cantidad, con esta frecuencia, vale la pena vigilarla. Si la dureza se mantiene constante durante semanas a pesar de un apoyo sostenido, o llega junto con tristeza, aislamiento, o un \"ojalá no estuviera aquí\", no esperes a que pase sola o solo: habla con tu pediatra o con un terapeuta infantil."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si el discurso autocrítico incluye desesperanza o cualquier deseo de no existir, busca apoyo profesional de inmediato."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_10_es",
+        "title": "Después de perder los estribos: superar tu propia culpa",
+        "scenario": "Perdiste los estribos — más de lo que querías — por algo pequeño. Ahora tu hijo o hija está bien y jugando, y tú te quedas repitiendo la escena en tu cabeza, resbalando hacia el \"soy una pésima madre.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti misma, la lectura honesta pero amable: \"Perdí los estribos. Eso es algo que hice, no es la clase de madre que soy. Puedo hacerme cargo y repararlo.\"\n\nEn voz alta a tu hijo o hija, la reparación: \"Antes usé una voz fuerte y cortante, y eso no era por ti. Lo siento. Estoy trabajando en eso.\"\n\nNada de espiral, nada de excusas, solo: \"Esa se me escapó. Reparo, reinicio, sigo adelante.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Date a ti misma la misma lectura generosa que le darías a tu hijo o hija — juzgarte con dureza modela la voz dura\n- Separa la acción (\"perdí los estribos\") de tu identidad (\"soy mala para esto\") — una la puedes arreglar, la otra solo te hunde\n- Repara de forma simple y concreta; no te disculpes de más ni dejes que tu hijo o hija tenga que consolarte a ti"
+          },
+          {
+            "title": "Después",
+            "content": "Ser amable contigo misma aquí no es librarte de responsabilidad: es lo que libera la energía para de verdad cambiar el patrón. Un padre o madre que puede recuperarse modela justo la resiliencia que quieres para tu hijo o hija."
+          }
+        ]
+      }
+    ]
   }
 }

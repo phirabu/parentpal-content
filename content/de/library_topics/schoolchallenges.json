@@ -108,6 +108,221 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "schoolchallenges_script_01",
+        "title": "Wochenlang „Ich geh nicht\", nicht nur ein schwerer Montag",
+        "scenario": "Seit einem Monat beginnen die meisten Morgen gleich: Bauchschmerzen, Tränen, „bitte zwing mich nicht.\" Am Wochenende geht es ihm gut. Dir gehen Geduld und Ideen aus, und ein Teil von dir fragt sich, ob du gerade ausgetrickst wirst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, bevor du an seine Tür klopfst: „Er kämpft nicht gegen mich. Er kämpft gegen etwas, das ich noch nicht sehen kann. Meine Ruhe ist der Plan.\"\n\nZu ihm, ruhig und warmherzig: „Dein Körper will gerade wirklich nicht reingehen. Das versteh ich, UND wir bringen dich trotzdem hin, gemeinsam. Du musst es nicht wollen. Du musst mich dir nur helfen lassen.\"\n\nFragt er, warum er muss: „Weil wir nur so rausfinden, was sich gerade so groß anfühlt. Und ich bin die ganze Zeit direkt neben dir.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Schau erst auf das Muster, dann auf die Lösung: dieselbe Klasse, dasselbe Kind, dieselbe Tageszeit, oder Panik schon vor den Aufgaben selbst? Die Form zeigt dir die Ursache\n- Halte Wärme und Grenze zusammen: voll anerkennen, und bei der Antwort „wir gehen\" bleiben\n- Spür deine eigene Wut oder dein Bangen vor der Haustür, nicht mittendrin\n- Hol die Schule mit ins Boot, mit einem gemeinsamen Plan: dieselben Worte, eine vertraute Person im schwersten Moment"
+          },
+          {
+            "title": "Danach",
+            "content": "Fortschritt ist hier klein und ungleichmäßig, keine saubere Rückkehr, also zähl die winzigen Erfolge. Bewegt sich trotz wochenlanger, konsequenter Bemühung nichts, oder siehst du Hoffnungslosigkeit, Veränderungen beim Essen oder Schlafen, oder Panik, die seinen ganzen Körper flutet: Holt gemeinsam eure Kinderärztin oder euren Kinderarzt und die Schulpsychologin oder den Schulpsychologen dazu. Das ist ein nächster Schritt, kein Scheitern."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Anhaltende Schulverweigerung mit Hoffnungslosigkeit, Panik oder Veränderungen beim Essen oder Schlafen braucht professionelle Unterstützung. Beginnt bei eurer Kinderärztin oder eurem Kinderarzt und der Schulpsychologin oder dem Schulpsychologen. Bleibt am Morgen warmherzig und trotzdem klar; keine körperliche Gewalt."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_02",
+        "title": "Das Bruchrechnen-Arbeitsblatt endet in Tränen und einem zerrissenen Blatt",
+        "scenario": "Nach zwanzig Minuten an der Matheaufgabe knallt der Stift auf den Tisch, das Arbeitsblatt wird zerknüllt, und Tränen fließen in Strömen: „ICH KANN DAS NICHT, ich bin so dumm.\"",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst nichts Kluges. Beschreib einfach nur: „Der Stift liegt da, das Blatt ist zerknautscht, und diese Brüche wollen einfach nicht aufgehen. Das ist gerade der schlimmste Teil.\"\n\nZum „ich kann das nicht\": „Da ist sie wieder, die laute ‚Ich kann das nicht'-Stimme. Sie meldet sich immer genau an der schweren Stelle. Sie entscheidet nicht, was wahr ist.\"\n\nSprich den Wunsch dahinter an: „Du wolltest die ganze Seite fertig haben und vom Tisch, UND es dauert jetzt viel länger. Kein Wunder, dass du so wütend bist.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Kommentier nüchtern, was gerade passiert; gib keine Hinweise und repariere nichts, solange er überflutet ist. Noch kommt nichts an\n- Nenn „ich kann das nicht\" eine laute Stimme, keine Tatsache; kontere nicht mit „doch, du kannst das\"\n- Sobald er ruhiger ist, biete einen einzelnen nächsten Schritt an, nicht die ganze Seite\n- Ist er völlig außer deiner Reichweite, hör ganz auf zu unterrichten: erst Ruhe und Sicherheit, Mathe kommt später"
+          },
+          {
+            "title": "Danach",
+            "content": "Spiegelst du das Gefühl, wird er womöglich erst lauter, bevor er ruhiger wird. Das ist normal, und es wirkt über viele Wiederholungen, nicht über diese eine. Für die allgemeine Fähigkeit, mitten im Frust stehen zu bleiben, schau dir den Frustrationstoleranz-Leitfaden an."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_03",
+        "title": "„Mach's einfach für mich\": das warme Nein",
+        "scenario": "Bei den letzten beiden Aufgaben festgefahren, schiebt sie dir das Blatt rüber: „Mach du das. Du kannst das gut, schreib einfach die Antworten hin.\" Es würde dich zehn Sekunden kosten und dem Gejammer ein Ende machen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "„Ich merk schon, du willst fertig sein, und ich schreib das nicht für dich. Nicht, weil ich nicht helfen will, sondern weil ich dir sonst den Klick klaue, dieses kleine ‚ich hab's', das nur zählt, wenn es wirklich deins ist.\"\n\n„Ich setz mich einfach hierhin. Liest du mir die erste Aufgabe laut vor?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lehn warmherzig ab und bleib körperlich nah dran: Die Grenze betrifft die Aufgabe, nicht deine Aufmerksamkeit\n- Sag den fürsorglichen Grund laut, statt einfach nur abzulehnen\n- Biete Unterstützung beim Weg an, nicht bei der Antwort: gemeinsam lesen, den ersten Schritt zusammen gehen"
+          },
+          {
+            "title": "Danach",
+            "content": "Machst du es immer wieder für sie, lernt sie: Frust endet durch Rettung. Die ganze Logik der warmen Grenze steht im Frustrationstoleranz-Leitfaden, hier geht es speziell um den Hausaufgabentisch."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_04",
+        "title": "Ein durchgestrichenes Wort, und die ganze Seite wird zerrissen",
+        "scenario": "Er schreibt einen Buchbericht, verschreibt sich einmal, streicht es durch, und dann rastet er aus. „Es ist RUINIERT, ich muss von vorne anfangen\", und er reißt das Blatt entzwei.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Beruhige nicht den Maßstab weg („das sieht doch toll aus!\"), das beweist nur, dass du nicht spürst, wie falsch es sich für ihn anfühlt. Stattdessen: „Dieses eine durchgestrichene Wort fühlt sich an, als würde es alles kaputt machen. Die kaputt aussehende Version trotzdem fertigzustellen, das ist gerade der schwere, mutige Teil. Lass uns das gemeinsam machen.\"\n\nWerd neugierig, nicht korrigierend: „Erklär's mir mal: Was würde diese Seite okay machen? … Und die durchgestrichene wirklich nicht? Wie kommt's?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Schütz das Fertigstellen der unperfekten Version, nicht das Korrigieren des Fehlers. Heb dir jede Korrektur für einen ruhigen Moment ohne Druck auf\n- Lass ihn seinen eigenen Maßstab laut erklären: Die Widersprüchlichkeit zeigt sich von allein\n- Bemerk die Anstrengung und das Drangebleiben, nicht die Sauberkeit"
+          },
+          {
+            "title": "Danach",
+            "content": "Wie du die perfektionistische innere Stimme benennst, steht ausführlich in den Leitfäden zum Selbstvertrauen. Kombinier diesen Kniff mit dem Lockern des Maßstabs von hier."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Gnadenlose Selbstkritik, die sich auch mit geduldiger Unterstützung nicht hebt, oder wochenlanges Vermeiden aus Angst vor Unperfektem, ist ein guter Anlass für ein Gespräch mit eurer Kinderärztin, eurem Kinderarzt oder einer Kindertherapeutin oder einem Kindertherapeuten."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_05",
+        "title": "„Mir ist das alles sowieso egal\"",
+        "scenario": "Das Kind, das früher jeden benoteten Test mit nach Hause gebracht hat, zuckt jetzt nur noch mit den Schultern: „Noten sind sowieso blöd, ist mir egal.\" Das klingt weniger nach der Wahrheit und mehr nach einer Mauer, die gerade hochgezogen wird.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Im Moment selbst fast nichts: „Okay. Dir ist es gerade egal. Ich hab dich gehört.\" (Und dann lass es gut sein. Argumentier ihn nicht zurück zum Interesse.)\n\nSpäter, ruhig und von der Seite: „Kann sein, dass ich mich irre, aber ich hab so eine Ahnung: Irgendeine Ecke von dir hat das noch nicht so abgehakt, wie der Rest von dir klingt. Mehr sag ich nicht.\"\n\nDie Scham sanft benennen: „Ich glaub, es fühlt sich sicherer an zu sagen, dass es einem egal ist, als es sich zu wünschen und dann enttäuscht zu werden. Du schuldest mir keine Antwort.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Behandle „ist mir egal\" als Panzer über dem Risiko, sich etwas zu wünschen und trotzdem zu scheitern, nicht als echten Sinneswandel\n- Kämpf nicht gegen die Mauer an; lass stattdessen leise eine Tür darin\n- Sag weiter, dass du an das glaubst, was er kann, ganz losgelöst von jeder Note"
+          },
+          {
+            "title": "Danach",
+            "content": "Eine kurze, unfertige Geschichte davon, wie du selbst mal etwas aufgegeben hast, das du dir insgeheim gewünscht hattest, kann das normalisieren, ganz ohne angehängte Moral. Breitet sich die Gleichgültigkeit auf alles aus, was er früher geliebt hat, schau dir die Warnsignale-Karte an."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Anhaltende Gleichgültigkeit, die sich über die Schule hinaus ausbreitet, verlorenes Interesse an allem, Rückzug von Freunden, jedes Reden von Hoffnungslosigkeit, ist ein guter Anlass für eure Kinderärztin, euren Kinderarzt oder eine Therapeutin oder einen Therapeuten."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_06",
+        "title": "Aus jedem Elternsprechtag nur mit dem Schlechten rausgehen",
+        "scenario": "Donnerstag ist Elternsprechtag, und du kennst das Gefühl schon jetzt: eine Liste mit dem, was nicht klappt, ein Kloß im Magen, und das Gefühl, dein Kind hinkt hinterher, selbst wenn es ihr eigentlich gut geht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, an der Tür: „Das ist mein ganzes Kind, von Anfang bis Ende. Die nächsten zwanzig Minuten sind eine einzelne Momentaufnahme, nicht das ganze Album.\"\n\nBevor es endet: „Bevor wir aufhören: Können Sie mir noch eine konkrete Sache sagen, die sie wirklich gut macht? Das möchte ich auch mit nach Hause nehmen.\"\n\nZu deinem Kind, vorher: „Morgen vergleichen deine Lehrerin und ich einfach nur Notizen, so wie Erwachsene das bei jedem Kind machen. Das ist kein Gut-oder-schlecht-Urteil über dich.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erde dich in dem, was sie ausmacht, bevor das erste Feedback fällt: Du bist da, um klar zuzuhören, nicht um sie zu verteidigen\n- Bring zwei, drei aufgeschriebene Fragen mit; der Sog des Raumes lässt dich sie sonst vergessen\n- Frag laut nach einer Sache, die gut läuft: Das Format gibt dir sonst von sich aus nur die Lücken"
+          },
+          {
+            "title": "Danach",
+            "content": "Ein Gespräch mit Schwerpunkt auf Entwicklungsfeldern ist das Format, das genau so funktioniert, wie es soll, kein Urteil. Für die Haltung „gleiches Team\" mit einer Lehrkraft übers ganze Jahr, schau dir das Kapitel „Team mit der Lehrkraft und Vorfälle im Schulalltag\" im Schulreife-Leitfaden an."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_07",
+        "title": "Die Schule hat angerufen: Er hat ein anderes Kind geschlagen",
+        "scenario": "Beim Abholen kommt die Neuigkeit gleich mit: Dein Sohn hat einen Klassenkameraden geschubst und wollte sich nicht entschuldigen. Er sitzt hinten im Auto, Kiefer fest zusammengebissen, bereit, alles abzustreiten, sobald du fragst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Beginn mit der Trennung von Identität und Verhalten (siehe dazu den Schulreife-Leitfaden), dann: „Heute ist in der Schule etwas passiert. Das klären wir gemeinsam, und du kriegst keinen Ärger dafür, mir die Wahrheit zu sagen.\"\n\nStreitet er es ab: „Du musst mir nicht sagen, dass du es warst. Ich frag mich nur, was ein Kind in genau diesem Moment dazu bringen könnte, jemanden zu schubsen.\"\n\nErzähl von dir selbst, früher: „Als ich ungefähr in deinem Alter war, hat mir ein Kind die Schaukel weggenommen, auf die ich gewartet hab, und ich hab richtig fest geschubst. Danach hab ich mich fürchterlich gefühlt. Ich hab ziemlich lange gebraucht, um zu lernen, was ich mit diesem heißen, ungerechten Gefühl mache, statt mit meinen Händen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die Jagd nach einem Geständnis: Auf ein „gib's zu\" zu drängen, häuft nur Scham auf und bringt dir sowieso selten die Wahrheit\n- Geh seitlich ran: Sprich darüber, warum es passiert sein könnte, nicht ob\n- Verpack den Umgang mit dem Gefühl in deine Geschichte, nicht als drangehängten Ratschlag danach"
+          },
+          {
+            "title": "Danach",
+            "content": "Ein, zwei Tage später, biete an, eine bessere Version durchzuspielen: Du übernimmst die harte Rolle, er die ruhigere, tauscht nur, wenn er will. Üben braucht ein ruhigeres Kind als das erste, noch rohe Gespräch."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Aggression, die sich zuspitzt oder gefährlich wird, oder Kummer, der weit über den Vorfall hinausreicht, braucht das Beratungsteam der Schule und eure Kinderärztin oder euren Kinderarzt, nicht nur ein Gespräch zu Hause. Sicherheit hat Vorrang; körperliches Festhalten nur, wenn es nötig ist, um unmittelbaren Schaden zu verhindern."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_08",
+        "title": "„Meine Lehrerin hasst mich\": wenn es eigentlich nicht um Sicherheit geht",
+        "scenario": "Deine Tochter ist überzeugt, ihre Lehrerin sei zu streng und picke sich ausgerechnet sie raus. Nichts, was du bisher gehört hast, klingt nach einer Sicherheitsfrage, keine Bloßstellung, keine Angst, aber sie fühlt sich schikaniert, und das vermiest ihr die Schule.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Bestätige das Gefühl, ohne die Lehrerin vor Gericht zu stellen: „Es fühlt sich für dich wirklich an, als wäre sie härter zu dir als zu den anderen. Das ist ein mieses Gefühl, mit dem man jeden Morgen reingehen muss.\"\n\nSchütz ihre Sicherheit: „Eins weiß ich: Deine Lehrerin sieht das Gute in dir, auch an den Tagen, an denen es sich schwer anfühlt. Und mein Vertrauen in dich hängt nicht davon ab, wie es gerade in diesem einen Klassenzimmer läuft.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bestätige ihre Erfahrung, ohne zu entscheiden, ob die Lehrerin wirklich unfair ist\n- Behalt echte Zweifel an der Lehrerin unter Erwachsenen, fern von ihren Ohren\n- Übe einen kleinen Schritt fürs Klassenzimmer (wie man um Hilfe bittet, was man bei einer Korrektur tut), statt zu versprechen, die Lehrerin zu „reparieren\""
+          },
+          {
+            "title": "Danach",
+            "content": "Das ist alltägliche Reibung, nicht die Warnsignal-Version. Bekommt sie wirklich Angst, oder hörst du von Bloßstellung oder irgendetwas Unsicherem, geht das ins Gebiet des Beratungsteams der Schule über. Siehe dazu die Warnsignale-Karte."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Hat ein Kind wirklich Angst vor einer Lehrkraft, oder gibt es Bloßstellung oder irgendetwas Unsicheres, zieht das Beratungsteam der Schule und eure Kinderärztin oder euren Kinderarzt hinzu."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_09",
+        "title": "„Ich mach das Vorspiel NIE. Vielleicht, wenn ich erwachsen bin.\"",
+        "scenario": "Zu Hause liebt sie ihre Blockflöte, aber beim Vorspiel der Klasse stellt sie sich stur: „Ich mach das nie. Vielleicht, wenn ich erwachsen bin.\" Jeder Schubs macht ihren Griff nur fester.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Lass die direkte Diskussion. Werd neugierig auf den Maßstab: „Hilf mir mal zu verstehen: Was müsste stimmen, damit sich das Vorspiel okay anfühlt? … Und zu Hause spielen ist in Ordnung, aber eine Bühne nicht? Was ist für dich der Unterschied?\"\n\nNimm die Uhr weg: „Dafür gibt's keine Frist. Es passiert, wenn es passiert, nicht nach Zeitplan, und nicht, um irgendwem etwas zu beweisen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Steig nicht bei der aufgeladenen Sache ein: Bau Flexibilität zuerst an Stellen auf, wo wenig auf dem Spiel steht, und lass sie weiterwandern\n- Erweitere ihre Kontrolle an anderer Stelle im Tag; ein Kind, das sich machtlos fühlt, klammert sich am festesten dort, wo es noch mitreden kann\n- Lass sie ihre eigene Regel laut erklären: Die Widersprüchlichkeit zeigt sich meist von allein"
+          },
+          {
+            "title": "Danach",
+            "content": "Nimmst du den Druck weg, löst sich oft auch die Vermeidung, die der Druck genährt hat. Breitet sich die Starrheit über viele Lebensbereiche aus, schau dir den Perfektionismus-Leitfaden und die Warnsignale-Karte an."
+          }
+        ]
+      },
+      {
+        "id": "schoolchallenges_script_10",
+        "title": "Nach langer Abwesenheit fühlt sich die Rückkehr in die Schule zu groß an",
+        "scenario": "Nach ein paar Wochen Abwesenheit, erst eine Krankheit, dann eine schwere Zeit, fühlt sich ein ganzer Schultag für dein Kind unmöglich an, und für dich auch. Das Alles-oder-nichts von „geh einfach am Montag wieder hin\" wird eindeutig nicht funktionieren.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu deinem Kind: „Wir machen nicht gleich den ganzen Tag auf einen Schlag. Wir fangen klein an und bauen aus: erst nur deine Lehrerin sehen, dann eine Stunde, dann mehr. Du kennst den Plan immer, bevor wir losgehen.\"\n\nHoffnung und das Schwere zusammen: „Dieser Teil ist gerade wirklich schwer, UND gerade ist nicht für immer. Wir erklimmen das Schritt für Schritt.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Teil es in machbare Schritte: ein kurzer Besuch, eine vertraute erwachsene Person an einem Ort ohne Druck treffen, dann ein halber Tag\n- Behandle das Treffen mit Freunden als Grundlage, nicht als Belohnung dafür, sich vorher gebessert zu haben\n- Bau die Leiter zusammen mit der Schule: ein gemeinsamer Plan, eine zusätzliche vertraute Person im schwersten Moment"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne mit unregelmäßigem Fortschritt; ein Rückschritt nach einem schweren Tag gehört zum Klettern dazu, ist nicht sein Zusammenbruch. Bewegt sich trotz wochenlanger, konsequenter Bemühung nichts, holt gemeinsam eure Kinderärztin oder euren Kinderarzt und die Schulpsychologin oder den Schulpsychologen dazu."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Eine ins Stocken geratene Rückkehr trotz konsequenter Bemühung, oder Anzeichen für einen größeren Kampf, ist ein guter Anlass, gemeinsam eure Kinderärztin oder euren Kinderarzt und die Schulpsychologin oder den Schulpsychologen hinzuzuziehen."
+          }
+        ]
+      }
+    ]
   }
 }

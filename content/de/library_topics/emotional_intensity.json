@@ -80,6 +80,237 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "emotional_intensity_script_01",
+        "title": "Wenn die Worte zu „Ich hasse dich\" werden",
+        "scenario": "Mitten im Zusammenbruch schleudert dir dein 5-Jähriges das Schlimmste entgegen, was es hat: „Ich hasse dich\", „Du liebst mich doch gar nicht\", „Ich wünschte, ich würde woanders wohnen\". Das trifft dich direkt, und es tut weh.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Ruhig und bestimmt, ohne die Hitze zu spiegeln: „Du darfst so wütend auf mich sein. Ich gehe nirgendwohin.\"\n\n„Diese großen Worte zeigen mir, wie groß dieses Gefühl ist. Ich höre auf das Große.\"\n\nAn die Angst hinter den Worten gerichtet, nicht an die Worte: „Du bist mir nicht zu viel. Ich kann das mit dir zusammen tragen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Höre in dem Satz den unbeholfenen Versuch zu fragen „Ist das echt für dich?\", nicht Grausamkeit, die verletzen will\n- Widersprich den Worten nicht und korrigiere keine Fakten („das meinst du doch nicht so\"): Das heizt nur an und geht an der Sache vorbei\n- Antworte auf die Angst, die in den Worten steckt: nicht wichtig zu sein, nicht liebenswert zu sein, zu viel zu sein\n- Bleib in der Nähe, halt deine Stimme leiser als seine, und lass die Welle vorbeiziehen, ohne Vortrag"
+          },
+          {
+            "title": "Danach",
+            "content": "Später, beiläufig und leicht, nicht von Angesicht zu Angesicht: „Große Gefühle sagen manchmal wilde Sachen. Das ändert nichts an uns.\" Es braucht kein erneutes Aufrollen dessen, was gesagt wurde."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sprechen die Worte deines Kindes von Selbstverletzung oder von „Ich wünschte, es würde mich nicht geben\", nimm das ernst: Antworte auf die Angst, halte dein Kind sicher, und wende dich zeitnah an eure Kinderärztin, euren Kinderarzt oder eine Kindertherapeutin. Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_02",
+        "title": "„Lass mich in Ruhe!\" (Wenn „weg\" nicht wirklich weg heißt)",
+        "scenario": "Dein 6-Jähriges ist mitten im Zusammenbruch und schreit „Geh weg, lass mich in Ruhe!\", aber du spürst, es ist nicht sicher, es jetzt allein zu lassen, und es wird dich wahrscheinlich in dem Moment zurückrufen, in dem du den Raum verlässt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "„Du willst, dass ich gehe, UND du willst nicht allein sein. Ich geb dir etwas Platz, ich setz mich hier neben die Tür, nicht weit weg.\"\n\n„Ich gehe nicht. Ich bin still. Du musst mich nicht ansehen.\"\n\nKommt es zurück: „Da bin ich. Ich war nie weit weg.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lies „geh weg\" als „das ist gerade zu viel, um dabei beobachtet zu werden\", nicht als echten Wunsch, dass du gehst\n- Erfüll die Bitte um Abstand, ohne dein Kind wirklich allein zu lassen: Weich ein paar Schritte zurück, bleib im Raum\n- Werd still und lockere den Blickkontakt; eine sanfte Präsenz von der Seite wirkt weniger bedrohlich als eine Begegnung von Angesicht zu Angesicht\n- Besteht echte Gefahr, zählt Nähe mehr als die Bitte: Geh ruhig näher, um alle sicher zu halten"
+          },
+          {
+            "title": "Danach",
+            "content": "Ruhig, später: „Wenn Gefühle riesig werden, bleibe ich immer in deiner Nähe, auch wenn du willst, dass ich still bin. Das ist ein Versprechen.\" Den Plan vorher zu kennen macht das nächste Mal leichter."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Erfülle die Bitte um Abstand nur, solange es sicher ist; geh näher, wenn Verletzungsgefahr besteht. Vermeide körperliches Festhalten, außer um unmittelbaren Schaden zu verhindern. Folge den örtlichen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_03",
+        "title": "Darüber reden, ohne darüber zu reden",
+        "scenario": "Ein schwieriger Moment ist vorbei, aber jedes Mal, wenn du versuchst, ihn noch einmal aufzugreifen, macht dein 5-Jähriges dicht: „Sprich nicht darüber\", „Schau mich nicht an\". Der Moment braucht trotzdem ein Wiederaufgreifen, nur die direkte Version scheitert immer wieder.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Nebeneinander, mit beschäftigten Händen, beim Malen, im Auto, beim Abwasch: „Harte Morgen sind einfach hart, was.\"\n\nNach vorn planen statt zurückschauen: „Willst du ein geheimes Zeichen für riesige Gefühle erfinden? Du suchst es aus, ich halte mich daran.\"\n\nOder das ganze Wiederaufgreifen in einem Satz, mit einer Umarmung: „Das war ein harter Moment. Uns geht's gut.\" Dann nichts mehr."
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Rede nebeneinander, nicht über den Tisch hinweg: Beschäftigte Hände und kein Blickkontakt senken die Bloßstellung\n- Richte das Gespräch nach vorn statt zurück: Gemeinsam zu planen, was beim nächsten Mal hilft, fühlt sich wie Macht an, nicht wie Bloßstellung\n- Lass an manchen Tagen einen einzigen gesagten Satz reichen: Anerkannt und abgeschlossen schlägt verhört und in die Ecke gedrängt\n- Lies „sprich nicht darüber\" als „nicht auf diese Art\", eine Bitte um einen sanfteren Zugang, kein Nein"
+          },
+          {
+            "title": "Danach",
+            "content": "An manchen Tagen lässt du es komplett vorbeiziehen, das ist erlaubt, besonders wenn dein eigener Tank leer ist. Wiederaufgreifen baut eine ruhigere Erinnerung auf, es muss nicht heute passieren."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Das sind Werkzeuge für die alltägliche Wiedergutmachung, kein Ersatz für professionelle Hilfe, wenn ein Muster schwer oder anhaltend ist. Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_04",
+        "title": "Wenn ein Fehler zu „Ich bin schlecht in allem\" wird",
+        "scenario": "Dein 6-Jähriges zieht einen Strich falsch und bricht zusammen: „Ich kann GAR NICHTS, ich bin der Schlechteste.\" Ein winziger Ausrutscher ist gerade zu einem Urteil über die ganze Person geworden.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Langsam und leise, keine Aufmunterungsrede: „Oha. Das war eine knifflige Stelle. Lass uns kurz durchatmen.\"\n\n„Du hast gerade ein großes Gefühl wegen einer kleinen Sache. Ich bin genau hier.\"\n\nBenenn es schlicht, widersprich nicht: „Das ist der Teil, der sich furchtbar anfühlt. Er geht vorbei. Ich warte mit dir.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Verlangsame, statt zu kontern: Die Selbstattacke ist ein schnelles Gefühl, keine Tatsache, die widerlegt werden muss\n- Lass die Beweise weg („aber du kannst so gut zeichnen!\"): Beweise machen eine Spirale nur dringlicher\n- Senk deine Stimme und dein Tempo; lass die Intensität erst auf den Höhepunkt kommen und wieder abklingen, bevor irgendetwas anderes passiert\n- Wenn es wieder ruhig ist, biete gemeinsam den nächsten kleinen Schritt an, keine Rede über Fehler"
+          },
+          {
+            "title": "Danach",
+            "content": "Erzähl später von dir selbst: „Ich hatte heute auch mein eigenes Ich-bin-der-Schlechteste-Gefühl, als ich das Essen hab anbrennen lassen. Laut, was, und es geht immer vorbei.\" Deins zu teilen macht seins weniger einsam."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Verfestigt sich die Selbstkritik zu einem festen „Ich bin schlecht\", oder lässt dein Kind wochenlang jede anstrengende Sache links liegen, sprich mit eurer Kinderärztin, eurem Kinderarzt oder einer Kindertherapeutin. Sicherheit hat Vorrang. Bei Unsicherheit Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_05",
+        "title": "Der Mach's-richtig-Stimme einen Namen geben",
+        "scenario": "Dein 5-Jähriges beginnt bei Dingen zu erstarren, die es früher geliebt hat: Es bricht eine Zeichnung auf halbem Weg ab, weigert sich beim Klettergerüst, überall dort, wo es beim ersten Versuch danebengehen könnte.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Mach zuerst deine eigene vor, bevor du auch nur andeutest, dass dein Kind so etwas haben könnte: „Ach, meine Mach's-richtig-Stimme ist heute laut, sie will unbedingt ordentliche Buchstaben, und sie ist sauer, dass sie wacklig geworden sind.\"\n\nBiete später leicht die Version deines Kindes an: „Ich frag mich, ob du auch so eine Stimme hast, eine, die sauer wird, wenn die Zeichnung anders aussieht als geplant?\"\n\nVor einer bekannt schwierigen Sache: „Da kommt deine Mach's-richtig-Stimme. Winken wir ihr zu und machen es trotzdem.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Führ die Idee ein, indem du deine eigene Version mehrmals laut benennst, bevor du sie an dein Kind weitergibst\n- Gib dem Drang einen freundlichen Namen, damit er zu etwas wird, das man bemerkt, nicht zu etwas, dem man gehorcht\n- „Begrüßt\" die Stimme gemeinsam vor einer schwierigen Aufgabe: Anerkannt und geteilt schlägt heimlich und beschämend\n- Bleib leicht und spielerisch: Ihr freundet euch mit dem Drang an, ihr schimpft nicht mit ihm"
+          },
+          {
+            "title": "Danach",
+            "content": "Benennt dein Kind es eines Tages selbst, „meine Mach's-richtig-Stimme ist gerade SO bestimmend\", ist das der eigentliche Gewinn. Du hast aus einem heimlichen, beschämenden Druck etwas gemacht, das ihr beide sehen und necken könnt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_06",
+        "title": "Der Zusammenbruch wegen eines winzigen Makels",
+        "scenario": "Der Sticker sitzt leicht schief, oder der Turm aus Bauklötzen ist nicht ganz gerade, und dein 4-Jähriges löst sich in Tränen auf. Der Makel ist winzig und hat keine wirkliche Folge, aber das Leid ist riesig.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Begegne zuerst der Größe: „Das ist SO gar nicht, wie du es wolltest. Zeig mir, wie frustrierend. Größer als der Tisch? Größer als das Haus?\"\n\nDreh es dann spielerisch um: „Ohh, wollen wir ‚Mach es absichtlich schief' spielen? Wer zuerst absichtlich danebenhaut, gewinnt.\"\n\n„Fehler machen ist der ganze Sinn bei diesem Spiel. Wir sind auf der Jagd danach.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bestätige das Ausmaß, bevor du irgendetwas reparierst: Das Gefühl ist echt, auch wenn die Ursache klein aussieht\n- Mach den Fehler zum eigentlichen Ziel des Spiels, nicht zu etwas, das man meiden muss\n- Mach selbst einen absichtlichen Fehler, gut gelaunt, damit dein Kind sieht, dass man ihn überlebt\n- Halt den Einsatz niedrig und albern; ein gesuchter Fehler kann kein Desaster mehr sein"
+          },
+          {
+            "title": "Danach",
+            "content": "Benenn das Muster ein andermal sanft: „Manchmal fühlt sich ein bisschen schief wie eine große Sache an. Wir werden richtig gut im Absichtlich-Chaos-Spiel.\" Übung nimmt die Wucht raus."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_07",
+        "title": "Wenn ein schlechter Moment zu „Immer\" und „Nie\" wird",
+        "scenario": "Ein verpasster Schuss beim Fußballtraining, und jetzt ist sich dein 6-Jähriges sicher: „Ich bin der Schlechteste im ganzen Team, ich werde NIE ein Tor schießen.\" Ein einzelner, klar begrenzter Moment ist zu einem umfassenden Urteil fürs Leben geworden.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Gefühl vor Fakten: „Das klingt nach einem schweren, miesen Gefühl.\"\n\nStell die Geschichte nicht richtig, werd neugierig auf den einen Moment: „Was ist direkt davor passiert, bevor es sich so angefühlt hat?\"\n\n„Heute ist etwas passiert, das wehgetan hat. Ich will genau von der Stelle hören.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Widersteh dem Drang, die Behauptung richtigzustellen („das stimmt doch nicht, du hast Freunde!\"): Das wird zu einer Debatte, die dein Kind verteidigen wird\n- Bestätige zuerst die Größe des Gefühls; die Intensität ist die eigentliche Botschaft, nicht die wörtliche Genauigkeit\n- Grenz dann sanft auf den konkreten auslösenden Moment ein: Die Übertreibung wird weicher, sobald der echte Moment auftaucht\n- Bleib neugierig, nicht korrigierend; du hilfst deinem Kind, das eigentliche Ereignis unter der umfassenden Behauptung zu finden"
+          },
+          {
+            "title": "Danach",
+            "content": "Ist der echte Moment erst einmal draußen, schrumpft er meist von allein. Später: „Eine harte Minute beim Training, nicht die ganze Saison. Es hat aber wirklich wehgetan, und ich stehe auf deiner Seite.\""
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Bei anhaltendem Mobbing, Ausgrenzung oder einem Kind, das sich über Wochen sozial zurückzieht, wendet euch an eine Kinderärztin, einen Kinderarzt oder eine Beraterin. Sicherheit hat Vorrang. Bei Unsicherheit Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_08",
+        "title": "Von einer Veränderung erzählen, gegen die dein Kind kämpfen wird",
+        "scenario": "Eine Veränderung steht bevor, ein neues Klassenzimmer, eine spätere Schlafenszeit, eine andere Routine, und du weißt, dein 5-Jähriges wird heftig protestieren, nicht weil die Veränderung schlecht ist, sondern weil sie unbekannt ist.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Benenn den wahren Grund, das Neue, nicht das Schlechte: „Bald wird etwas anders sein. Neues kann sich beängstigend anfühlen, selbst wenn es in Ordnung ist. Das ist normal.\"\n\nVersicher deinem Kind, dass es keine Strafe ist: „Das ist nicht, weil du irgendetwas getan hast. Es ist einfach eine Veränderung, und ich helfe dir, dich darauf vorzubereiten.\"\n\nMach das Unbekannte kleiner: „Lass uns ‚Rate das neue Zimmer' spielen, ich wette, da ist ein Aquarium. Was wettest du?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erklär zuerst, warum es für dieses Kind schwer ist, der Berg an unbekannten Details, nicht die Logistik der Veränderung\n- Sag klar, dass es keine Konsequenz ist; das Unbekannte fühlt sich für sich genommen schon bedrohlich genug an\n- Mach ein paar unbekannte Dinge schon vorher vertraut: einen Namen, ein Foto, einen Besuch, ein Ratespiel\n- Kommt der Protest trotzdem, halt die Routine sanft in Bewegung, statt sie Punkt für Punkt zu diskutieren"
+          },
+          {
+            "title": "Danach",
+            "content": "Der übliche Countdown und die Schritte der Morgenroutine stehen in den Leitfäden zur Schulvorbereitung, das hier ist die zusätzliche Schicht: weniger Überraschungen, statt das Neue als aufregend anzupreisen. Rechne damit, es mehr als einmal ruhig zu wiederholen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_09",
+        "title": "Dein Kind einer neuen Lehrkraft erklären",
+        "scenario": "Ein neues Schuljahr oder eine neue Aktivität beginnt, und du willst der Lehrkraft oder Trainerin dein intensiv fühlendes Kind erklären, bevor schwierige Momente passieren, mit konkreten Bitten, nicht nur einem allgemeinen Hinweis.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Die Eigenart in einfachen Worten, ohne Fachjargon: „Ihre Gefühle werden schnell groß. So ist sie gestrickt, das ist kein Trotz und kein Drama, und sie kann es nicht einfach abstellen.\"\n\nAls Team formuliert: „Ich würde gern gemeinsam mit Ihnen herausfinden, was ihr für ein gutes Jahr hilft.\"\n\nDie drei Bitten: „Wenn es groß wird, hilft Nähe viel mehr als eine Konsequenz. Eine leise Umlenkung kommt besser an als eine Korrektur vor der ganzen Klasse. Und es hilft enorm, wenn Sie kleine ‚Das ist auch für mich manchmal schwer'-Geschichten teilen, bevor etwas Neues und Kniffliges ansteht.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erklär die Eigenart in Alltagsworten, bevor Probleme entstehen, keine klinischen Etiketten\n- Formulier es als gemeinsames Ziel, nicht als Kritik daran, wie die Lehrkraft ihre Klasse führt\n- Mach die drei Bitten konkret: Nähe statt Strafe, leise statt öffentliche Korrektur, Erlaubnis für kleine Geschichten, die die Scham nehmen\n- Biete an, zu teilen, was zu Hause schon funktioniert; bleib im Ton kooperativ"
+          },
+          {
+            "title": "Danach",
+            "content": "Die umfassendere Beziehung zur Lehrkraft, Elterngespräche, laufende Updates, steht im Leitfaden „Team mit der Lehrkraft\". Das hier ist das konkrete Gespräch „so ist mein Kind gestrickt\", das du von Anfang an führst."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_10",
+        "title": "Wenn Gefeiertwerden zu viel wird",
+        "scenario": "Das Geburtstagslied fängt an, oder der ganze Raum wendet sich deinem 5-Jährigen zu, um es für eine Auszeichnung zu feiern, und statt Freude kommt Zusammenbrechen, Weglaufen oder ein Ausbruch. Selbst warme, positive Aufmerksamkeit kann dieses Kind überfordern.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Würdige es, statt es zu beschämen: „All die Blicke auf einmal, das war ganz schön viel, was. Du bist nicht unhöflich, es hat sich einfach nach zu viel angefühlt.\"\n\nBiete Kontrolle im Voraus an: „Bei der Feier kommt vielleicht das Lied. Willst du die Kerzen mit mir direkt neben dir ausblasen, oder von meinem Schoß aus zusehen?\"\n\n„Du musst es nicht lieben, im Mittelpunkt zu stehen. Wir können es immer klein machen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lies das Zusammenzucken bei überraschender Aufmerksamkeit als Teil der Eigenart, dieselbe Verdrahtung, keine Unhöflichkeit oder Undankbarkeit\n- Gib rechtzeitig Bescheid und eine Wahl bei jedem Rampenlicht-Moment, statt ihn zu überraschen\n- Biete einen Ausstieg oder Puffer an: an deiner Seite, auf deinem Schoß, eine kleinere Version\n- Erzwing niemals die Vorführung oder das Dankeschön im Moment selbst; komm später warmherzig darauf zurück, wenn überhaupt"
+          },
+          {
+            "title": "Danach",
+            "content": "Später, ohne Druck: „Du hast dem Singen von meinem Schoß aus zugesehen, und das war genau richtig. Wir dürfen große Momente immer in deiner Größe erleben.\""
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      }
+    ]
   }
 }

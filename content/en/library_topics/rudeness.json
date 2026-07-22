@@ -122,6 +122,251 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "rudeness_script_01",
+        "title": "The Great Car-Seat Standoff",
+        "scenario": "Preschool pickup, everyone's fried, and your child goes noodle-limp by the open car door — \"I'm NOT getting in\" — sliding to the ground every time you reach for the buckle.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Crouch to their level, unhurried: \"You do not want to get in that seat. Climbing in after a long day is the worst.\"\n\nBoundary as your action, plus a how-choice: \"The car doesn't roll until your body's buckled — that's my job, keeping you safe. You pick: climb up yourself like a mountain goat, or I lift you like a rocket. Goat or rocket?\"\n\nIf still stuck, calm and warm: \"Looks like a rocket day. Here we go — three, two, one.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Get to eye level before any words; looming over them invites a bigger fight\n- Name the boundary as something YOU do (the car stays put), not an order to stop feeling\n- Offer a contained choice about HOW they get in, never WHETHER\n- Keep your voice flat and kind through the lift; narrating (goat/rocket) beats a silent wrestle\n- Once buckled, drop it completely — no lecture for the road"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Rehearse \"goat or rocket\" as a giggly driveway game on an easy day — a move practiced in calm is one that's actually available mid-meltdown. If the seat became a battle overnight, check comfort: twisted straps, a sun-hot buckle, a bulky new coat."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety: the car stays parked until everyone is properly buckled. Avoid physical restraint beyond the minimum gentle help needed to secure a child safely; follow local car-seat guidance and seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_02",
+        "title": "Getting Dressed While the Clock Is Yelling",
+        "scenario": "Weekday morning, you're already late, and your child is still in pajamas on the floor announcing \"I'm NOT wearing that\" to every shirt — the whine climbing as your stress climbs.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "One breath first. Then: \"Getting dressed when you'd rather keep playing is no fun. I hear you.\"\n\nA how-choice, not a whether: \"Clothes are happening before we leave. You choose — the spots or the stripes? And do you want to dress in your room, or race me here on the rug?\"\n\nIf the stall continues: \"I'll count to five, then help your arms find the sleeves. One… two…\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Settle your own body first — kids catch your rush and push against it\n- Skip the fashion debate; offer two pre-approved shirts so every answer works for you\n- Give a choice about where/how, not whether — it hands back a scrap of control\n- Follow through gently if they can't choose; do it WITH them, not TO them"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Lay out two outfit options together the night before, when nobody's rushed — morning-you just runs the plan. If mornings are a daily war, move the hardest step earlier, before screens or breakfast, so getting dressed isn't competing with something more fun."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_03",
+        "title": "Leaving the Playground Without a Meltdown",
+        "scenario": "You give the five-minute warning, then \"time to go\" — and your child bolts to the far climber, laughing, or drops boneless into the wood chips. Other parents are watching.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Close the distance first (don't negotiate across the playground): \"You wish we could stay till dark. It's SO hard to leave when you're having this much fun.\"\n\nBoundary plus a how-choice: \"We're leaving now — that part's decided. You pick how we get to the gate: hop like a frog the whole way, or ride up on my shoulders?\"\n\nTo yourself: \"The audience isn't grading me. My kid needs me steady.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Close the gap before you speak; instructions shouted across a playground just start a chase\n- Acknowledge the want fully before the limit — it shrinks the protest\n- Offer a playful how-choice to carry them over the transition\n- If they go limp, calmly scoop and go; save every word of teaching for the calm car ride"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Give the warning with a concrete last thing (\"two more slides, then we go\") so the ending isn't an ambush. On a good day, build a fun leaving-ritual — a wave and a \"bye, playground!\" — that turns the hardest moment into a routine."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety in public spaces; keep your child within safe reach near roads or parking. Avoid physical restraint beyond a gentle carry to safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_04",
+        "title": "\"I Wish You Weren't My Brother\" From the Back Seat",
+        "scenario": "Long drive, two kids wedged in back. An argument over the window seat detonates: \"You're the WORST. I wish you weren't even my brother!\" The wounded one starts to wail.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "From the front, even and calm, eyes on the road: \"Whoa — big, hot words. You're so mad right now you want him gone. That's the anger talking, not the truth.\"\n\nTo the hurt sibling: \"That stung to hear. Those words aren't a fact about you.\"\n\nBoundary, no retraction demanded: \"In our family we don't send people away with words. You can be furious AND still be brothers. We'll sort the window at the next stop.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Translate the hostile line into the feeling underneath (\"so mad you want him gone\") instead of prosecuting the words\n- Comfort the targeted child briefly without forcing the other to apologize on the spot\n- State the family limit calmly; don't demand a \"take it back\" while both are still hot\n- Deal with the actual dispute — the seat — once you can stop or once the heat drops"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, calm, to the angry one: \"You didn't really want him gone — the window just felt so unfair. Let's find better words for a mad that big.\" A simple seat-rotation rule can stop the recurring flashpoint from lighting itself."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety while driving; pull over before intervening physically if a conflict becomes unsafe. Avoid restraint beyond what's needed to keep everyone safe; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_05",
+        "title": "The Cracked Picture Frame Nobody Touched",
+        "scenario": "A framed photo is face-down and cracked on the shelf. Your younger child blurts \"I didn't do it!\" before you've even asked — while the older one says she watched it happen.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Skip the trap; state what you see: \"The frame is cracked. I'm not trying to get anyone in trouble — I want to understand what happened.\"\n\nIf the denial hardens, go private and gentle: \"Sometimes when something breaks, the scaredest part of us shouts 'not me!' really fast. I've done that. Were you a little scared I'd be mad?\"\n\nThen repair, together: \"Breaks happen. Let's tape it up as a team.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name the known fact calmly instead of quizzing to \"catch\" the lie\n- Read the fast denial as fear or shame, not scheming — lower the heat before you expect the truth\n- Move one-on-one, out of the sibling's earshot; a witness makes saving face impossible\n- Fix it together, so honesty leads somewhere safe rather than to a punishment that proves lying was smarter"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, warmly: \"It took guts to tell me. That's exactly what I want — the truth, even when it's hard.\" Keep the no-interrogations habit; kids tell the truth to the parent who doesn't set traps."
+          },
+          {
+            "title": "Safety note",
+            "content": "Handle broken items (glass, sharp edges) safely and keep children clear until cleaned up. No other specific concerns."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_06",
+        "title": "The Gross-Word Dinner Concert",
+        "scenario": "At dinner your child discovers that chanting a silly bathroom word makes the baby shriek with laughter and makes you flinch — so now it's on repeat, louder each time, the whole table derailing.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Flatten your reaction (the gasp is the prize): \"That word again! You found one with a lot of power, huh.\"\n\nRedirect to a sanctioned outlet: \"Here's the deal: that's not a dinner word, it's a backyard word. After we eat, you get ten whole seconds to yell it as loud as you want, outside. Right now — pass the peas?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Drain the reward by staying unbothered; your big reaction is the fuel\n- Don't forbid the word into forbidden-fruit gold — give it a where and a when it IS allowed\n- Steer the table back to something ordinary in the same breath\n- Actually honor the outlet later, so the deal stays real"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If it's really about wanting impact, hand out legit power elsewhere — let them choose the dinner music or call \"dig in.\" A kid with real ways to feel big doesn't have to mine the table for a reaction. Expect it to fade fast once the shock value's gone."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_07",
+        "title": "The Wrong Pancakes and the Missing Thank-You",
+        "scenario": "At a diner, your child's pancakes arrive with berries they didn't want. They scowl, shove the plate away, and when the server kindly brings a fresh one, your child says nothing and looks off at the wall.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Don't command a thank-you; model it warmly: \"Thank you so much for swapping these — that's really kind of you.\"\n\nQuiet, to your child, no shaming: \"Disappointing when it comes out wrong, huh. When you're ready, a thank-you would feel nice for her — no rush.\"\n\nLater, curious not preachy: \"That server didn't have to fix it, but she wanted to. Kind of nice when someone helps, right?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Model the repair yourself instead of forcing a scripted \"say thank you\" — you show the language, no power struggle\n- Let the modeled thanks stand; skip the \"see, THAT'S how we do it\" tag\n- Name the disappointment first; gratitude can't load until the letdown clears\n- Grow the feeling later through noticing and wondering, not on command"
+          },
+          {
+            "title": "Follow-up",
+            "content": "On the drive home, wonder aloud about everyone it takes to make a restaurant breakfast — the cook, the server, the dishwasher. Gratitude grows as a felt thing through reflection, not as a performance squeezed out on demand."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_08",
+        "title": "Cold-Shouldering the Teacher at Drop-Off",
+        "scenario": "At the classroom door the teacher warmly says good morning — and your child turns away, mutters \"I don't want to talk to you,\" and buries their face in your leg while classmates mill around.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Light, face-saving, for the teacher and the room: \"Mornings are a big switch — we're still warming up today.\"\n\nQuiet, to your child, no lecture: \"Hard to flip on and be friendly right when we're saying goodbye. That's okay.\"\n\nA low-key bridge: \"You don't have to chat. A little wave might be enough — or we just try a wave tomorrow.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Give a brief, kind cover that protects both your child and the teacher — no public correction\n- Read the cold shoulder as transition-overwhelm, not disrespect\n- Keep the teaching OUT of the doorway crowd; a witnessed lecture guarantees shutdown\n- Offer the smallest next step (a wave) instead of forcing a warm greeting"
+          },
+          {
+            "title": "Follow-up",
+            "content": "At home, calm, name it: \"It's kind to answer a grown-up who says hi — even a tiny 'morning' counts. Let's practice an easy one.\" Rehearse a two-second greeting as a game. If drop-off dread is the real driver, fix the goodbye routine itself — a predictable handoff shrinks the rudeness the anxiety was fueling."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_09",
+        "title": "\"That Tower Is Ugly\" — One Sibling Cuts the Other Down",
+        "scenario": "Your younger child proudly finishes a wobbly block tower; the older one glances over and says, \"that's the ugliest thing I've ever seen.\" The little one's face crumples.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Protect the hurt child first, lightly: \"You worked hard on that — I see the tall red part you planned.\"\n\nTo the older one, no shaming, the kinder read: \"Ouch, that one landed hard. I don't think you meant to crush him — something's up with you, huh?\"\n\nLater, privately, the real talk: \"Your words have big power over your little brother. What was going on for you right then?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Comfort the stung child in the moment without staging a courtroom\n- Assume the cut came from a feeling — boredom, envy, a rough day — not cruelty; it keeps you coaching\n- Save the actual conversation for later and in private, one-on-one with the one who said it\n- If the \"sorry\" won't come, model it yourself and let it stand: \"Sorry, bud — your tower's got a cool lean to it.\""
+          },
+          {
+            "title": "Follow-up",
+            "content": "Check what's underneath the sharp edge — often the child throwing jabs is the one running low on connection. A little one-on-one time with the older one frequently does more to stop the digs than any talk about being nice."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_10",
+        "title": "The Brand-New Toy and the Visiting Cousin",
+        "scenario": "Your child got a remote-control car for their birthday two days ago. A cousin is over for the afternoon and reaches for it — and your child clamps down: \"NO. It's MINE. You can't touch it.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Validate the grip, don't shame it: \"That car is brand new and SO special. You're not ready to hand it over — that makes sense.\"\n\nReframe to turn-taking, not forced handover: \"You don't have to give it up right now. When you're all done driving it, you can let Mateo have a turn. You tell us when.\"\n\nTo the cousin, warmly: \"It's really new, so he needs a bit first. Want to pick another toy while you wait?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name the possessiveness as normal (a new, treasured thing), not selfishness\n- Offer turn-taking on the child's signal instead of ordering an instant handover — forced handover makes them clutch harder\n- Give the waiting cousin a real alternative so nobody's stuck staring\n- Say the trust out loud: \"He'll get his turn, and you always get yours back.\" Demonstrated trust loosens the grip"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Before visits, prep at a calm moment: pick one or two \"just-mine\" treasures to put away, and a few toys that are fair game for guests. A child who gets to protect a special few shares the rest far more easily."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_11",
+        "title": "Making Up After \"Go Away, I Hate You\"",
+        "scenario": "A rough bedtime blew up — your child screamed \"go away, you're so MEAN, I hate you!\" and slammed the door. An hour later everyone's calm, but the air still feels bruised. You want to reconnect, and you want them to learn that repair goes both ways.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Go to them, warm, no lecture: \"That got really big earlier. I'm not mad now — I came to find you.\"\n\nModel repair out loud, first: \"Here's me fixing my part: I got loud too, and I'm sorry for that. Loud doesn't help either of us.\"\n\nOpen a low-pressure door for theirs: \"If there's anything you want to say sorry for, I'm right here. And if you're not ready, that's okay — we're still good.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Wait until you're BOTH calm; repair can't happen while anyone's still flooded\n- Reconnect first and skip the debrief of who was worse — this visit is about the relationship\n- Model the apology yourself so they see its shape; kids repair the way they've watched you repair\n- Leave their \"sorry\" optional and unforced; a squeezed-out apology teaches performance, not remorse\n- If it comes, receive it simply — \"thank you, that means a lot\" — and let it stand, no lesson tacked on"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Name the takeaway another day, gently: \"Even when we get mad at each other, we always find our way back. That's what our family does.\" Over time, model-and-invite grows a child who repairs on their own — no forcing required."
+          }
+        ]
+      },
+      {
+        "id": "rudeness_script_12",
+        "title": "The Little Dragon Who Wrecked the Bookshelf",
+        "scenario": "You walk in to find every book yanked off the low shelf and fanned across the floor. Your four-year-old, wide-eyed, explains: \"It wasn't me! The tiny dragon who lives under my bed did it.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Meet it with wonder, not a cross-examination: \"A dragon under your bed?! Tell me about him — is he big trouble?\"\n\nA gentle reality-check inside the play, quiet and kind: \"Just between us two — did the dragon really pull these down, or did some busy hands maybe help him?\"\n\nThen the no-blame repair: \"Dragon or not, these books need to fly back home. Want to be the one who lands them on the shelf?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Enjoy the story first; for a young child the line between pretend and real is genuinely fuzzy, not a lie you must bust\n- Offer a soft, private off-ramp to the truth without turning it into a confrontation\n- Don't demand a confession or shame the fib — keep the door to honesty easy to walk through\n- Fold the cleanup into the play so owning it feels safe, even fun"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If \"the dragon did it\" becomes the go-to whenever something's amiss, gently narrate the difference over time: \"Pretend dragons are SO fun. And when a real thing happens, I need the real story — you'll never be in big trouble for the truth.\" Keep every response to honesty warm; that's what keeps it coming."
+          }
+        ]
+      }
+    ]
   }
 }

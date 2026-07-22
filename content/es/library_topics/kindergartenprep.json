@@ -122,6 +122,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "kindergartenprep_script_01_es",
+        "title": "Sigue llorando en la despedida, tres semanas después",
+        "scenario": "Ya no es el primer día — es la semana tres, y tu hijo sigue llorando y aferrándose a ti cada mañana en la puerta del salón. Empiezas a preguntarte si algo anda mal, o si deberías cambiar de estrategia.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "En la puerta, cálida y breve, y te vas: \"Un abrazo fuerte, nuestras dos palabras, y vuelvo después de la merienda. Tú puedes con las cosas difíciles, y nos vemos pronto.\"\n\nSi te suplica que te quedes: \"Sé que quieres que me quede. No puedo — Y vas a estar bien. La maestra Bianchi está aquí contigo.\"\n\nPara ti misma, mientras te alejas: \"Su cuerpo siente que me voy como si fuera un peligro, aunque está a salvo. Mi calma es el mensaje. Algunos niños solo necesitan más tiempo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Haz la despedida corta e idéntica cada día — el mismo abrazo, las mismas palabras, y vete, incluso entre lágrimas\n- No te quedes rondando ni vuelvas a asomarte: una despedida larga o repetida le dice a su cuerpo que ni tú estás segura de que esto sea seguro\n- Imagínatelo tranquilo y ocupado dentro de unas horas — esa imagen es lo que te sostiene firme en la puerta\n- Planea tu propio reinicio para justo después: una llamada a una amiga, una caminata, dos minutos para sentirlo — irte con firmeza también es una habilidad que se practica\n- Sostén exactamente la misma rutina más tiempo si tu hijo se adapta más despacio y siente todo con más intensidad: más días, no un plan nuevo"
+          },
+          {
+            "title": "Después",
+            "content": "Pregúntale a la maestra cuánto dura el llanto una vez que te vas — la mayoría de los niños se calman en minutos. Si se mantiene igual durante muchas semanas sin ablandarse nada, o si está angustiado todo el día y no solo en la puerta, habla con la maestra y con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Coordina con el personal de la escuela cómo se calma tu hijo después de que te vas. Prioriza la seguridad; busca apoyo profesional si la angustia es intensa o persistente."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_02_es",
+        "title": "Perfecto en la escuela, se derrumba en cuanto te ve",
+        "scenario": "La maestra no para de elogiar lo tranquilo y colaborador que es tu hijo. Pero apenas te ve, en noventa segundos ya hay llanto, quejas, y se niega a caminar — y tú te preguntas por qué te guarda lo peor a ti.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Al recogerlo, con voz baja y firme, pocas palabras: \"Terminaste todo tu día. Ahora estoy yo contigo. Vamos al coche.\"\n\nSi se derrumba: \"Aguantaste tanto tiempo. Ya no tienes que seguir aguantando — yo soy tu lugar seguro.\"\n\nPara ti misma: \"Esto no es que se porte mal. Es que por fin se suelta con la persona en la que más confía.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cámbiale el sentido: todo el día racionó su autocontrol para los demás, y tú eres con quien por fin puede descargarlo — eso es confianza, no desafío\n- Empieza con una merienda y tu cuerpo tranquilo, no con preguntas ni correcciones: la parte de su cerebro que razona está desconectada en medio del desborde\n- Mantén las exigencias cerca de cero en el primer rato después de recogerlo — nada de \"¿cómo te fue?\", nada de repaso del día, ningún mandado si lo puedes evitar\n- Espera la mayor descarga justo los días en que \"se portó tan bien\" en la escuela: cuanto más apretada la tapa todo el día, más grande el suspiro al final"
+          },
+          {
+            "title": "Después",
+            "content": "Una vez que coma, descanse y se calme, el día real suele salir de a poquito y de lado. Si el estado de después de la escuela se mantiene extremo por horas, todos los días, durante semanas, o si se ve apagado y sin alegría en lugar de solo agotado, coméntalo con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Asegura un entorno seguro para la recogida y la transición. Prioriza la seguridad; busca apoyo profesional si la angustia es extrema o prolongada."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_03_es",
+        "title": "Le encantaba la escuela al principio — y ahora de repente ya no",
+        "scenario": "Los primeros días fueron un sueño — entraba saltando, se despedía feliz de ti, hablaba sin parar toda la tarde. Ahora, un par de semanas después, tu hija llora antes de ir y dice que ya no quiere. Sientes que todo se está desmoronando.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "\"Estabas tan emocionada con la escuela, y ahora se siente distinto. Eso le pasa a casi todo el mundo — lo nuevo y brillante se gasta, y aparece la parte normal de todos los días. No significa que algo esté mal.\"\n\n\"Seguimos yendo. Y creo que todavía te estás acostumbrando — eso lleva su tiempo, y no me preocupa.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Reconoce esta bajada por lo que es: el bajón normal después de que se apaga la novedad, no una señal de que la transición fracasó o de que está retrocediendo\n- Mantén la misma rutina firme — resiste las ganas de cambiarlo todo en cuanto baja el entusiasmo\n- Sigue repitiendo que acostumbrarse lleva tiempo, para que ella tampoco lea su propio bajón como un problema\n- Mantente curiosa sobre algún detalle nuevo y concreto — un momento incómodo en el almuerzo, una parte difícil del día — sin tratar todo el conjunto como si estuviera roto"
+          },
+          {
+            "title": "Después",
+            "content": "El bajón suele suavizarse después de unas semanas de repetición constante y sin sobresaltos. Si se desliza hacia un pavor real, pánico o retraimiento que no se levanta, avísale a la maestra y consulta con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si la angustia se profundiza en lugar de aliviarse en unas semanas."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_04_es",
+        "title": "¡Odio la escuela! ¡No pienso volver!",
+        "scenario": "Tu hijo o hija suelta las palabras más grandes que tiene — \"ODIO la escuela, NUNCA más voy a volver\" — y tu instinto es recordarle todos los días que volvió feliz.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Responde al tamaño, no a la frase: \"Uy. Suena a que hoy fue un día muy difícil. Cuéntame qué pasó.\"\n\nNo: \"Pero ayer dijiste que te encantaba\" ni \"Eso no es cierto, tú la pasas bien ahí.\"\n\nSi todavía no puede ponerle nombre: \"No tienes que explicarlo todo. Fue un sentimiento grande, y aquí estoy.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Escucha las palabras extremas como una medida de cuán fuerte se siente, no como un reporte literal que hay que corregir\n- Resiste discutir o hacer una lista de contraejemplos: que lo corrijan en ese momento lo hace sentir que no lo escuchan y lo cierra por completo\n- Responde primero a la intensidad; el hecho concreto y más pequeño que hay detrás suele salir a la luz cuando se siente comprendido\n- Mantén el límite de ir a la escuela intacto y separado del sentimiento — puedes escucharlo todo y aun así ir mañana"
+          },
+          {
+            "title": "Después",
+            "content": "Una vez que baje la temperatura, vuelve con calma al momento real — una interacción difícil, una tarea confusa — y resuelvan juntos ese punto concreto. Si \"odio la escuela\" se convierte en pavor diario, habla con la maestra y con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si la angustia de tu hijo por la escuela se vuelve persistente o llena de miedo."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_05_es",
+        "title": "La batalla de todas las mañanas para salir de casa",
+        "scenario": "Cada mañana de escuela es un suplicio — lentitud, \"no voy a ir\", calcetines que no quieren ponerse, y tú insistiendo entre dientes hasta que todos terminan agotados antes de salir siquiera de casa.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Ofrece movimiento, no debate: \"¿Primero el abrigo o primero la mochila? Tú eliges.\"\n\nCuando llega el \"no voy a ir\": \"De verdad no quieres ir hoy. Eso está permitido — Y es día de escuela. Mi trabajo es mantenerte a salvo, y hoy eso significa que vamos.\"\n\nMantén el ritmo: \"El cartel de dibujos dice que ahora toca ponerse los zapatos. A que no me ganas a llegar a la puerta.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Pon la mañana en la pared con dibujos, no con minutos hablados — un niño pequeño puede seguir vestirse-comer-lavarse los dientes-zapatos y empezar a manejarlo solo\n- Guarda tu teléfono y tómate tus propios dos minutos primero: un padre distraído se encuentra con más resistencia y más apego\n- Cuando surja la resistencia, mantén la rutina en marcha con pequeñas decisiones reales, en lugar de discutir el \"no voy a ir\"\n- Si el movimiento no basta, haz las dos cosas en orden: nombra el sentimiento, y luego sostén el límite sin pedir disculpas — primero la validación, después el límite"
+          },
+          {
+            "title": "Después",
+            "content": "La mayoría de la fricción matutina se alivia en cuanto la secuencia es visual, predecible, y algo que el niño puede manejar en lugar de algo que le repites. Si las mañanas incluyen pánico real o angustia física, y no solo resistencia, habla con la maestra y con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la fuerza física; mantén las transiciones seguras. Busca apoyo profesional si la angustia matutina es intensa."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_06_es",
+        "title": "Prepararse para el gran primer día",
+        "scenario": "Se acerca el primer día de este primer año, y quieres preparar de verdad a tu hijo — no con un discurso motivador la noche anterior, sino con algo que en realidad ayude.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Cuenta regresiva: \"¿Ves estas cuentas? Cada mañana quitas una. Cuando ya no quede ninguna, es tu primer día. Tú decides cuándo las mueves.\"\n\nVuelve familiar al maestro: \"Tu maestro se llama Sandoval. Ya me cae bien — dicen que tiene toda una caja de dinosaurios en el rincón de lectura.\"\n\nEnsaya la despedida: \"Esta va a ser nuestra despedida, siempre igual: abrazo fuerte, 'nos vemos pronto', y me voy. Vamos a practicarla primero con tu peluche.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Construye una cuenta regresiva que tu hijo maneje con sus propias manos — cuentas, una piedrita en un frasco, una pinza de ropa que salta por una recta numérica — cualquier formato sirve, lo importante es que la toque cada día\n- Vuelve familiar lo desconocido desde ya: el nombre del maestro dicho con cariño, una foto si la escuela la tiene, una visita al edificio o al patio si es posible\n- Diseña una sola despedida corta y ensáyala jugando con muñecos antes del primer día\n- Prepara un pequeño objeto puente — una foto tuya, algo pequeño elegido de casa — y adelanta una tarea de la mañana a la noche anterior"
+          },
+          {
+            "title": "Después",
+            "content": "Espera que los nervios aparezcan incluso con buena preparación — la meta es menos sorpresas, no cero sentimientos. Si el pavor crece durante semanas antes de empezar o se convierte en pánico, coméntalo con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si la ansiedad antes de empezar se vuelve intensa o persistente."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_07_es",
+        "title": "“¿Cómo te fue en la escuela?” “Bien.” (Y nada más)",
+        "scenario": "Te mueres por saber cómo le fue, y cada pregunta choca con el mismo muro: \"bien\", \"nada\", un encogimiento de hombros, la mirada perdida. Sientes que te cierra la puerta.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Sáltate la gran pregunta abierta al recogerlo. Más tarde, cuando ya se haya descomprimido, entra por otro lado.\n\nAdivina mal a propósito: \"A ver, déjame adivinar — ¿comiste espagueti de merienda y te visitó un elefante de mascota, verdad?\" (Y espera la corrección encantada.)\n\nIntercambia algo real y algo inventado: \"Una cosa verdadera y una inventada de mi día — tú adivinas cuál es cuál. Después te toca a ti.\"\n\nAncla en un dato que ya conoces: \"Sé que hoy tuviste música. ¿Qué canción cantaron?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No abras con \"¿cómo te fue?\" en el segundo mismo del reencuentro — todavía está cruzando de vuelta y no tiene nada listo para entregarte\n- Espera a que haya comido y se haya calmado; el momento hace más que cualquier pregunta ingeniosa\n- Usa formatos concretos y de juego — reaccionar a algo pequeño es fácil, narrar un día entero desde cero no lo es\n- Abre con un dato específico que ya sabes, para darle algo de dónde agarrarse en lugar de un espacio en blanco que llenar"
+          },
+          {
+            "title": "Después",
+            "content": "Los pedacitos del día suelen salir más tarde, muchas veces a la hora de dormir o en el coche, cuando nadie está preguntando. Si tu hijo parece estar ocultando angustia de verdad y no solo descomprimiendo, indaga con suavidad y coméntalo con la maestra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; si tu hijo parece estar ocultando miedo o angustia, indaga con suavidad y busca orientación profesional si hace falta."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_08_es",
+        "title": "La maestra dice que tu hijo pegó o estalló",
+        "scenario": "Te llega el mensaje que ningún padre quiere recibir — tu hijo lastimó a alguien o estalló en la escuela — y se te cae el alma a los pies. Parte de ti quiere ir corriendo a exigir respuestas.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Primero a ti misma, antes de decirle una sola palabra a tu hijo: \"Este es mi hijo entero, no los peores diez minutos de su día. Un solo reporte no es una predicción.\"\n\nA tu hijo, con curiosidad, no acusando: \"Me contaron que pasó algo difícil hoy con los bloques. No estoy enojada. Cuéntame — estamos en el mismo equipo.\"\n\nConstruye la habilidad, no un interrogatorio: \"Cuando quieres tu turno y alguien no comparte, ese es un sentimiento muy difícil. Vamos a practicar qué puede hacer tu cuerpo la próxima vez.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cálmate tú primero: un padre desbordado interroga, y el interrogatorio solo le agrega vergüenza a lo que ya pasó\n- Atrapa la historia catastrófica que tu cabeza quiere contar sobre a dónde \"lleva\" esto, y suéltala; ocúpate del hijo que tienes, no del pronóstico que da miedo\n- Sáltate exigir una confesión completa — si ya conoces la forma general de lo que pasó, ve directo a la dificultad de fondo (compartir, esperar, un plan que se rompió)\n- Separa en voz alta \"quién eres\" de \"qué hiciste\", y practiquen juntos un movimiento distinto para ese detonante específico"
+          },
+          {
+            "title": "Después",
+            "content": "Vuelve con la maestra como compañeros de equipo — lo que ella ve, lo que tú ves, un solo plan compartido. Si la agresión es frecuente, va en aumento, o se sale bastante de la escuela, trabaja con el personal de apoyo de la escuela y con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad de todos los niños involucrados. Evita avergonzar o el castigo físico. Busca apoyo profesional si la agresión es frecuente o va en aumento."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_09_es",
+        "title": "“Nadie me quiere. No tengo amigos.”",
+        "scenario": "Tu hijo llega a casa desanimado — \"nadie me quiere\", \"no tuve con quién jugar\". Se te encoge el corazón y quieres arreglarlo de inmediato.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Recíbelo antes de arreglarlo: \"Fue muy valiente decir eso en voz alta. Me tomo en serio cada palabra. Cuéntame paso a paso.\"\n\nReduce la palabra grande al hecho real: \"'Nadie' es una palabra enorme. ¿Quién fue hoy — y qué pasó justo antes de que te sintieras dejado de lado?\"\n\nCombina la empatía con la esperanza, sin quedarte solo en una: \"Eso suena muy solitario ahora mismo. Y no siempre se va a sentir así — de eso estoy segura.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Recibe primero, aconseja después: la prisa por arreglarlo le enseña a tu hijo que el sentimiento era el problema\n- No discutas \"nadie me quiere\" con pruebas en contra — responde al tamaño del sentimiento, y después ubica el momento real que hay debajo\n- Resiste la tentación de allanar cada tropiezo social; un momento social difícil, enfrentado contigo al lado, es donde crecen los músculos para afrontar\n- Para entrenar amistades más a fondo y habilidades sociales concretas, apóyate en el material de habilidades sociales — este guion es sobre ser su lugar seguro primero"
+          },
+          {
+            "title": "Después",
+            "content": "La mayoría de los días solitarios pasan con un oído que escucha y con tiempo. Si a tu hijo lo excluyen o lastiman una y otra vez y no cede, o le teme a la escuela por eso, trabaja junto con la maestra y coméntalo con el pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si la exclusión entre compañeros es persistente o tu hijo se retrae o llena de miedo."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_10_es",
+        "title": "Tu hijo dice que está sufriendo acoso",
+        "scenario": "Tu hijo te cuenta que otro niño no deja de portarse mal con él — empujones, exclusión, insultos. Se te dispara la alarma y quieres llamar a la escuela ahora mismo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Recíbelo por completo antes de hacer nada: \"Gracias por contarme. Eso no debería pasar, y me alegra muchísimo que me lo hayas contado. ¿Me llevas paso a paso? ¿Dónde estabas, qué pasó justo antes, y qué pasó después?\"\n\nQuítale la culpa de encima: \"Esto no es culpa tuya, y no lo causó nada de lo que eres.\"\n\nRegula antes de armar respuestas: \"Primero vamos a ayudarte a sentirte más firme. Después vemos juntos qué hacer — ya no tienes que manejar esto solo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Baja el ritmo antes de escalar: reaccionar con alarma instantánea o ir corriendo a la escuela puede dejar a tu hijo sintiéndose más solo con esto, no menos\n- Haz preguntas suaves y concretas, menos para reunir datos y más para poner a un adulto de confianza junto a un recuerdo que primero enfrentó solo\n- Antes de enseñar cualquier respuesta ingeniosa, pon primero la autorregulación y el \"esto no es tu culpa\" — una frase de respuesta enseñada demasiado pronto solo añade una segunda forma de sentir que falló\n- Cuando contactes a la escuela, hazlo como compañera de equipo: esto es lo que estamos escuchando, qué están viendo ustedes, construyamos un plan juntos"
+          },
+          {
+            "title": "Después",
+            "content": "Quédate cerca y deja la puerta abierta para que siga contando. Para el acoso sostenido y el trabajo de confianza a largo plazo, usa el material de habilidades sociales y trabaja directamente con la escuela. Si a tu hijo lo están lastimando o tiene miedo, trátalo como urgente e involucra al personal de la escuela y al pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Si a tu hijo lo están lastimando físicamente o tiene miedo, trátalo como urgente e involucra al personal de la escuela y apoyo profesional."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_11_es",
+        "title": "“¡No puedo!” — y se rinde al instante",
+        "scenario": "Tu hijo llega al primer tramo difícil — una pieza de rompecabezas que no encaja, un nombre que no le sale bien en el papel — y se derrumba de inmediato o lo aparta de un empujón: \"NO PUEDO.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombra el punto intermedio: \"Estás en la parte de ir descubriéndolo — ese tramo entre 'no puedo' y 'puedo'. Se siente atascado porque así se supone que se sienta. Todo el mundo pasa por aquí.\"\n\nValida, no rescates: \"Esto da frustración. Puedes estar enojado con ese rompecabezas. ¿Quieres quedarte un segundo enojado aquí sentado, y después intentarlo una vez más? Yo me quedo aquí contigo.\"\n\nElogia el intento: \"Todavía no te salió — Y seguiste con eso. Esa es la parte que me enorgullece.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ponle un nombre al espacio entre no-saber-todavía y saber, algo que tu hijo pueda señalar; nombrarlo en medio de la frustración ya calma por sí solo\n- Resiste resolvérselo tú: el rescate le enseña que la lucha convoca a un rescatador, en lugar de una habilidad que puede usar solo\n- Refleja el esfuerzo y la persistencia, no si acertó — estás construyendo \"un niño que sigue intentando\" por encima de \"un niño que acierta\"\n- Mantén la tarea al nivel de su edad (un rompecabezas, sonar una palabra, escribir su nombre) y ajusta el desafío a donde realmente está"
+          },
+          {
+            "title": "Después",
+            "content": "La frustración y el \"no puedo\" son el clima normal del aprendizaje a esta edad. Si tu hijo parece sin alegría con todo lo que intenta, o muy duro consigo mismo de una forma que no cede, coméntaselo al pediatra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad; busca apoyo profesional si tu hijo muestra una autocrítica dura y persistente, o falta de alegría frente al aprendizaje."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_12_es",
+        "title": "A tu hija la acaban de identificar con un cableado distinto — ¿y ahora qué?",
+        "scenario": "Un profesional acaba de identificar una diferencia de aprendizaje o del desarrollo en tu hija, y estás dando vueltas — de duelo, buscando en internet, sin saber cómo criar a la hija que creías conocer.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti misma: \"Esto no es un fracaso. Es un conjunto distinto de instrucciones que todavía estoy aprendiendo a leer. Mi trabajo es entender cómo está hecha ella de verdad.\"\n\nA tu hija, con sencillez y calidez: \"Tu cerebro funciona a su propia manera, y eso no es un problema que arreglar — solo significa que algunas cosas las vamos a hacer un poco distinto, juntas.\"\n\nA los demás adultos en su vida: \"Así es como está hecha ella y esto es lo que de verdad le ayuda — ¿podemos estar todos en sintonía?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Suelta las estrategias por defecto cuando no encajan: si el movimiento estándar sigue fallando a pesar de un esfuerzo real, es un desajuste con su cableado, no un fracaso tuyo\n- Date permiso, con suavidad, para hacer duelo por el camino que habías imaginado, sin culpa; no es deslealtad hacia la hija que tienes delante, y te abre espacio para ver sus fortalezas\n- Observa cómo ya se regula — con palabras, con movimiento, con silencio, con cercanía o con espacio — y construye sobre esa señal en lugar de imponerle otra\n- Invierte en sus fortalezas genuinas, no solo en los puntos débiles, y busca una comunidad de padres en un camino parecido — eso hace más que cualquier técnica aislada"
+          },
+          {
+            "title": "Después",
+            "content": "Deja cada pregunta sobre evaluaciones, terapias y próximos pasos en manos del pediatra y de los profesionales de la escuela — son las personas indicadas para guiar el plan. Apóyate en ellos temprano y seguido; no tienes que descifrar el mapa sola."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Esto no es orientación diagnóstica. Dirige todas las preguntas sobre evaluación y tratamiento a tu pediatra y a los profesionales calificados de la escuela. Prioriza la seguridad y busca apoyo profesional si tienes dudas."
+          }
+        ]
+      }
+    ]
   }
 }

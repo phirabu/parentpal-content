@@ -108,6 +108,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "defiance_script_01",
+        "title": "Anziehstreik an einem eiskalten Morgen",
+        "scenario": "Ihr müsst in wenigen Minuten los, draußen ist es eiskalt, und dein Kind hat sich einbetoniert: keine Jacke, keine Schuhe, Arme verschränkt, ein flaches „Nein\" auf jede Bitte. Je mehr du drängst, desto fester setzt es sich.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "„Du musst deine Jacke nicht wollen. Sie kommt so oder so mit uns mit. Du kannst sie hier anziehen, wo es warm ist, oder sie tragen und im Auto entscheiden. Ich bin an der Tür.\"\n\nStockt es, werd leicht: „Verrückter Plan: Wir ziehen in ein warmes Land, damit du nie wieder eine Jacke brauchst?\"\n\nZu dir selbst: „Ich zwinge es nicht in die Jacke. Ich sorge dafür, dass sie mitkommt. Das ist mein Teil.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Setz die eigentliche Grenze als deine eigene Handlung: Die Jacke kommt mit dir mit, ob sie jetzt oder im Auto angezogen wird, ist wirklich die Entscheidung deines Kindes\n- Biete die Wahl über den Zeitpunkt an, dann tritt einen Moment zurück, statt über der Entscheidung zu hängen\n- Beweg deinen eigenen Körper ruhig Richtung Tür, statt die Weigerung deines Kindes zu kommentieren\n- Bleib im Ton unbeeindruckt: Deine Eile ist der Treibstoff, von dem die Konfrontation lebt"
+          },
+          {
+            "title": "Danach",
+            "content": "Bereite den Aufbruch schon am Vorabend vor: Kleidung rausgelegt, ein Zehn-Minuten-Puffer eingeplant, damit die Uhr nicht zur dritten Partei im Streit wird. Die meisten morgendlichen Konfrontationen schrumpfen, sobald der Zeitdruck es tut."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_02",
+        "title": "Der allabendliche Kampf ums Haareentwirren",
+        "scenario": "Jeden einzelnen Abend kommt der Kamm raus, und der Kampf beginnt: Wegdrehen, „NEIN, das tut weh\", eine Konfrontation um verknotetes Haar, die aus einem Zwei-Minuten-Job zwanzig Minuten macht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Bestätige zuerst genau die Beschwerde: „Irgendwas am Kamm auf deinem Kopf fühlt sich gerade wirklich nicht gut an. Ich glaube dir, es zieht, und du hast keine Lust mehr darauf.\"\n\nDann werd verspielt: „Sollen wir es einfach zu einem riesigen Nest wachsen lassen? Ein paar Spatzen einziehen lassen? Ihnen Namen geben?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Benenne den konkreten Widerstand (es zieht, es ist langweilig), bevor der Kamm irgendwas berührt: Sich verstanden zu fühlen entschärft den Kampf\n- Bau es früh und jeden Abend auf dieselbe Art auf, Entwirrspray bereit, ruhiges Timing, damit es kein nächtlicher Hinterhalt wird\n- Gib eine kleine, echte Kontrolle ab: Dein Kind hält das Spray oder wählt, ob von oben oder von unten begonnen wird\n- Klemmt es, werd albern: Ein gemeinsames Lachen öffnet mehr Kooperation als jedes Drängen"
+          },
+          {
+            "title": "Danach",
+            "content": "Tut es wirklich weh, mach das Ganze insgesamt entspannter: eine kürzere Frisur, ein Leave-in-Spray, ein weitzinkiger Kamm. Wiederkehrende Konfrontationen lassen am schnellsten nach, wenn der sinnliche Teil leichter wird, nicht wenn du den nächtlichen Streit gewinnst."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_03",
+        "title": "„Du kannst mich nicht zwingen, es auszumachen!\"",
+        "scenario": "Die vereinbarte Folge geht zu Ende, und dein Kind gräbt sich ein: „Du kannst mich nicht zwingen, es auszumachen.\" Jede Bewegung Richtung Bildschirm dreht die Anspannung eine Stufe höher.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Mach die Grenze zu deiner eigenen Handlung: „Wenn diese Folge zu Ende ist, mach ich den Bildschirm aus. Du musst darüber nicht glücklich sein.\"\n\nVerbinde das Nein mit einem Ja: „Ich lass die Sendung nicht weiterlaufen, und du darfst aussuchen, was als Nächstes kommt: Kissenburg oder Trampolin?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Behalt die Grenze auf deiner Seite: Du beendest es am vereinbarten Stopp-Punkt, verlang nicht, dass dein Kind selbst den Knopf drückt oder etwas übergibt\n- Gib eine einzige Vorwarnung („das ist die letzte, dann ist Schluss\"), und zieh es dann ruhig durch, mitten durch den Protest hindurch\n- Häng an das „Aus\" etwas Verlockendes an, damit die Energie einen Ort hat, wohin sie kann\n- Rechne mit der Beschwerde, und lies sie nicht als Scheitern: Dass die Grenze gehalten hat, ist bereits der Erfolg"
+          },
+          {
+            "title": "Danach",
+            "content": "Entscheide die Bildschirmregel bei Tageslicht, nicht mitten in der Sendung: ein fester Stopp-Punkt, den du durchsetzt („Sendungen enden, wenn der Timer klingelt\"), damit er nicht jedes Mal neu von vorn verhandelt wird."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_04",
+        "title": "Das vereinbarte Aufräumen, plötzlich verweigert",
+        "scenario": "Bauklötze überall, das Abendessen ist fertig, und das Aufräumen, das ihr vor einer Stunde beide vereinbart hattet, ist plötzlich „nicht fair, du kannst mich nicht zwingen.\" Aus einem kleinen Job ist eine Grundsatzfrage geworden.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Biete eine echte Wahl an, und gib sie dann ganz ab: „Du kannst mit den Bauklötzen anfangen oder mit den Autos, ganz wie du willst.\" Dann schau weg und lass dein Kind das übernehmen.\n\nSteckt es fest: „Du bist der schnellste Rote-Klötze-Sortierer in diesem Haus. Los geht's.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Biete eine echte Zwei-Optionen-Wahl an, die du voll akzeptierst, und hör dann auf zuzusehen: Beaufsichtigung macht aus einer Wahl wieder eine Prüfung\n- Steckt dein Kind fest, lenk es zu dem Teil des Jobs, in dem es sich als Meister fühlt, und lass den Rest folgen, ohne den Schachzug anzukündigen\n- Lass die Debatte über Fairness ganz weg: Die gewinnst du nicht, und sie ist auch nicht das eigentliche Thema\n- Halt die Aufgabe klein und klar machbar, keinen Marathon"
+          },
+          {
+            "title": "Danach",
+            "content": "Bau den Job in einen vorhersagbaren Rhythmus ein, Aufräumen vor dem Abendessen, jeden Abend, damit daraus eine Routine wird statt jedes Mal eine neue Verhandlung."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_05",
+        "title": "„Ich war's nicht\", obwohl ihr beide wisst, dass doch",
+        "scenario": "Der Bauklötzeturm deines jüngeren Kindes liegt in Trümmern, das ältere stand direkt daneben, und jetzt kommt ein flaches, steinernes „Ich war's nicht\", obwohl ihr beide genau wisst, was passiert ist.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Lass das Verhör weg: „Der Turm ist umgefallen, und deine Schwester ist richtig traurig. Ich spiel jetzt nicht Detektiv, lass uns einfach beim Reparieren helfen.\"\n\nSpäter, eine eigene Geschichte: „Als ich klein war, hab ich mal absichtlich die ganze Murmelbahn meines Bruders umgeworfen. Mir war das so peinlich, dass ich hoch und heilig geschworen hab, ich war's nicht…\" Dann hörst du auf, ohne Moral dranzuhängen."
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Verlang kein Geständnis: Das drängt ein schamerfülltes Kind nur zu einer größeren Lüge\n- Verbinde dich zuerst wieder, und lade dann zur Wiedergutmachung durch Handeln ein (beim Wiederaufbauen helfen), statt zu einer erzwungenen Entschuldigung\n- Erzähl eine kurze, wahre Geschichte über deinen eigenen Ausrutscher als Kind, inklusive der Tatsache, dass du es auch versteckt hast, und lass sie unfertig stehen\n- Gib der Ehrlichkeit Raum, später anzukommen, nach der Uhr deines Kindes"
+          },
+          {
+            "title": "Danach",
+            "content": "Die Wahrheit taucht vielleicht Stunden oder Tage später auf, sobald die Scham nachlässt. Begegne ihr dann warmherzig: Widersteh dem „Ich wusste es die ganze Zeit\", das nur wieder lehrt, dass Ehrlichkeit bestraft wird."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_06",
+        "title": "„Ich hör nie wieder auf dich!\"",
+        "scenario": "Mitten in einer Aufgabe bricht bei deinem Kind der ganz große Satz raus: „Ich mach nie wieder, was du sagst!\" Er ist darauf angelegt zu treffen, und der Sog, dagegenzuhalten, ist stark.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Streite nicht über die Drohung. Benenne das Tauziehen: „Ein Teil von dir hat gerade richtig genug davon, sich sagen zu lassen, was er tun soll. Und ein Teil von dir will das vielleicht trotzdem noch fertigmachen. Beides ergibt Sinn.\" Dann warte.\n\nZu dir selbst: „Da spricht gerade ein großes Gefühl, kein Lebensplan.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass den dramatischen Satz vorbeiziehen, ohne zu widersprechen: Widerspruch zwingt dein Kind, ihn zu verteidigen\n- Benenne den inneren Konflikt laut, ohne ihn zu lösen, und gib deinem Kind dann stille Zeit, um selbst zu landen\n- Heb dir die umgekehrte Psychologie als seltenen Notgriff für einen erschöpften Moment auf: nie als Standard, und nie angekündigt\n- Bleib warm: Die Drohung ist ein Alarmsignal, kein Urteil über dich oder eure Beziehung"
+          },
+          {
+            "title": "Danach",
+            "content": "Benenne später, wenn wieder Ruhe eingekehrt ist, die Stärke mitten im Sturm, „du stehst wirklich zu dem, was du willst\", damit dieser wilde Wille als Stärke gilt und nicht nur als Problem."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_07",
+        "title": "Die losgerissene Hand auf dem Parkplatz",
+        "scenario": "Jeder Weg über den Parkplatz ist derselbe Test: Die Hand reißt sich los, der kleine Körper schwenkt ab, und du jonglierst Sicherheit und Machtkampf gleichzeitig.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Leg es vorher als deine eigene Handlung fest: „Auf Parkplätzen behalte ich dich bei mir, Hand in meiner Hand oder im Einkaufswagen. Das ist mein Job, keine Strafe.\"\n\nBiete eine Wahl innerhalb der Regel an: „Hand oder Wagen, du suchst aus. Aber eins von beiden, jedes Mal.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Entscheide die Regel und sag sie an, bevor du die Autotür öffnest, nicht erst, nachdem dein Kind losgeflitzt ist: So wird sie nicht mitten an einer gefährlichen Stelle live verhandelt\n- Mach die Grenze zu deiner Handlung: Du hältst die Hand oder setzt dein Kind in den Wagen, du verlässt dich nicht darauf, dass es selbst in deiner Nähe bleibt\n- Biete eine echte Wahl innerhalb des Nicht-Verhandelbaren an (Hand oder Wagen), um das Kontrollbedürfnis zu stillen, ohne die Sicherheit zu lockern\n- Reißt es sich los, verankere ruhig neu und geh weiter: möglichst wenig Worte, kein Vortrag"
+          },
+          {
+            "title": "Danach",
+            "content": "Üb die Regel an Orten mit wenig auf dem Spiel, in der Einfahrt, auf einem ruhigen Weg, damit sie schon sitzt, bevor sie in der Nähe fahrender Autos getestet wird."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Halt in Verkehrsbereichen fest und blockiere oder lenke zur Sicherheit, statt hinterherzulaufen; rennt dein Kind auf echte Gefahr zu, geht körperliche Sicherheit vor. Sieh dir die Warnsignale-Karte und das Wutanfall-Kapitel zum sicheren Halten bei großen Ausbrüchen an."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_08",
+        "title": "Wenn du anfängst, um dein eigenes Kind herumzuschleichen",
+        "scenario": "Du ertappst dich dabei: Du lässt die Grenze aus, lässt die Bitte fallen, steuerst um alles herum, was den Ausbruch auslösen könnte. Das Leben ist ruhiger, aber du bist in eine ängstliche Erziehung hineingerutscht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst: „Seine Reaktion ist kein Notfall, den ich verhindern muss. Ich kann eine kleine Grenze halten und ruhig bleiben, während es aufgebracht ist.\"\n\nZu deinem Kind, eine gewöhnliche Grenze, die du bisher umgangen hast, ganz schlicht: „Das machen wir jetzt.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bemerk das Muster, ohne dich selbst fertigzumachen: Sich im Stillen wegzuducken ist verbreitet und zutiefst menschlich\n- Such dir eine einzige kleine Grenze aus, die du vermieden hast, und stell sie wieder auf, dann lass die Reaktion kommen\n- Bleib standhaft durch den Sturm hindurch: Du lehrst gerade, dass große Gefühle auszuhalten und willkommen sind, nicht zu viel für irgendjemanden\n- Rechne mit allmählicher Veränderung, nicht mit einer Wende über Nacht: Das ist ein langsamer Hebel, und er wirkt wirklich"
+          },
+          {
+            "title": "Danach",
+            "content": "Jede Grenze, die du hältst und durchstehst, macht die nächste für euch beide leichter. Bestimmt Angst deinen Erziehungsalltag, hol dir auch für dich selbst Unterstützung, sieh dir die Warnsignale-Karte an."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_09",
+        "title": "„Nicht fair, also nein!\"",
+        "scenario": "Dein älteres Kind gräbt sich bei der Abendroutine ein, weil das jüngere etwas durfte, was es selbst nicht durfte, und jetzt ist die eigene Routine rein aus Prinzip gestrichen. „Nicht fair, also nein.\"",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Eröffne keinen Gerechtigkeits-Prozess: „Ihr zwei habt unterschiedliche Pläne, so läuft das bei uns.\" Einmal gesagt, dann weiter.\n\nWechsle zu deiner eigenen Handlung, plus einer Umlenkung: „Ich mach jetzt dein Bad fertig. Und ich brauch den schnellsten Schlafanzug-Wechsel aller Zeiten, schaffst du das?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die Gerechtigkeitsdebatte komplett weg: „Verschiedene Kinder, verschiedene Pläne\" ist die ganze Antwort, einmal gesagt und ruhig\n- Wechsle zu deiner eigenen Handlung, statt Befehle zu erteilen\n- Lenk zu etwas um, worin dein Kind glänzt, ein Rennen, ein Job, den es sich zu eigen macht, um die Konfrontation zu durchbrechen, ohne den Schachzug zu benennen\n- Schütz die getrennte Zeit zu zweit mit jedem Kind, damit „sie durfte mehr\" von vornherein weniger Ladung trägt"
+          },
+          {
+            "title": "Danach",
+            "content": "Die tatsächlichen Bedürfnisse jedes Kindes zu erfüllen, statt allen exakt dasselbe zu geben, verringert Gerechtigkeitskämpfe mit der Zeit. Sieh dir das Kapitel zum Vorbeugen von Machtkämpfen an."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_10",
+        "title": "Wenn mitten im Ausbruch eine Drohung rausbricht",
+        "scenario": "Am Höhepunkt einer Weigerung schreit dein Kind, dass es dir wehtun wird, oder seinem Bruder. Das trifft wie eine Ohrfeige. Darunter steckt ein Kind, das erschrickt, wie groß und unkontrolliert es sich gerade fühlt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Bekräftige die Grenze als Beruhigung, nicht als Kräftemessen: „Ich lass nicht zu, dass du mir wehtust, und ich lass nicht zu, dass du deinem Bruder wehtust. Ich sorge dafür, dass alle sicher sind. Du bist nicht in Schwierigkeiten, du bist überfordert.\"\n\nBiete der Kraft ein Ventil an: „Dieses große, starke Gefühl braucht irgendwo einen Weg raus, drück mit mir gegen diese Wand, so fest du kannst.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Antworte auf die Angst unter der Drohung, ruhig und fest: Du lässt keinen Schaden zu, und du sorgst dafür, dass alle sicher sind, gesagt als Trost, denn ein Kind, das die eigenen Grenzen testet, muss wissen, dass ein vertrauter Erwachsener es nicht zu weit gehen lässt\n- Sobald das gelandet ist, biete ein sicheres Ventil für den Wunsch an, mächtig zu sein (gegen eine Wand drücken, ein Kissen knautschen)\n- Sorg für die Sicherheit aller nur durch ruhiges Blockieren oder Abschirmen, nie durch Ringen oder Festhalten\n- Sprich weniger. Sei die ruhige, standhafte Präsenz, kein Vortrag"
+          },
+          {
+            "title": "Danach",
+            "content": "Das ist Trotz, der in einen Sicherheitsmoment kippt. Für die allgemeine Reaktion auf ernste Drohungen sieh dir das Kapitel zu ernsten Drohungen und Sicherheitsbedenken an. Wird es körperlich gefährlich, folg dem Wutanfall-Kapitel zum sicheren Halten bei großen Ausbrüchen. Repariere warmherzig, sobald alle ruhig sind."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Vermeide körperliches Festhalten, außer es ist nötig, um unmittelbaren Schaden zu verhindern; blockiere oder schirme ab, statt festzuhalten. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen. Bei echten, konkreten Drohungen mit Schaden eine Fachperson für psychische Gesundheit hinzuziehen, sieh dir die Warnsignale-Karte an."
+          }
+        ]
+      }
+    ]
   }
 }

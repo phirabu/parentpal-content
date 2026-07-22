@@ -108,6 +108,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "listening_script_01_es",
+        "title": "La cena está lista y no se ha movido",
+        "scenario": "La cena está en la mesa, enfriándose. Tu hijo sigue en el suelo del salón, metido de lleno en un desfile interminable de animales de juguete, y no se ha movido después de tres llamadas de \"ven a comer\".",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Acércate, agáchate, únete diez segundos primero: \"Uy, mira este desfile. ¿Quién va al mando?\"\n\nLuego la petición, con una razón más cercana: \"Los animales pueden vigilar la mesa mientras comemos — la comida está calentita ahora, y tú eliges tu silla.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cruza la habitación en lugar de llamar desde el otro lado — una petición necesita conexión para poder viajar\n- Nombra lo que está haciendo antes de nombrar lo que necesitas tú\n- Dale una elección pequeña o una razón cercana, no un sermón sobre la comida fría\n- Redúcelo a un solo paso: venir a la mesa ahora; todo lo demás espera"
+          },
+          {
+            "title": "Después",
+            "content": "Si llamar desde la cocina sigue sin funcionar, convierte en costumbre \"voy yo primero hasta donde está\", y añade un aviso de dos minutos antes de cada comida."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_02_es",
+        "title": "Un \"no\" rotundo a recoger",
+        "scenario": "Le pides, con calma y una sola vez, que tape los marcadores y recoja los dibujos antes del almuerzo. Tu hijo no se mueve — solo un \"No\" rotundo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Haz una pausa primero: \"Mmm. Bueno.\" (Detente de verdad tres segundos.)\n\nNombra el deseo bajo el no: \"No has terminado. Te gustaría que colorear pudiera seguir para siempre.\"\n\nValida sin necesitar el motivo: \"Parar se siente mal, de alguna manera. Está bien — no necesito el porqué para tomármelo en serio.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No respondas al primer \"no\" con una segunda petición más fuerte — eso apila resistencia\n- Apunta por debajo de la negativa, al deseo que la mueve, no a la palabra en sí\n- Ofrece un puente, no una batalla: \"Un último color, y luego recogemos juntos\"\n- Si la tensión se dispara, rómpela con algo de tontería antes de romperla con fuerza"
+          },
+          {
+            "title": "Después",
+            "content": "Si se endurece hasta el punto muerto, repara el momento antes de volver a pedir. Un ritual predecible de \"último color\" hace que la próxima vez sea más fácil parar."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_03_es",
+        "title": "La hora de dormir se alarga una hora, un aplazamiento a la vez",
+        "scenario": "La hora de dormir es una maratón. Cada paso — baño, pijama, dientes — se convierte en su propia negociación, y una rutina de veinte minutos se estira hasta la hora.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Entra un momento en su mundo — una pieza del rompecabezas, una mirada de admiración — antes de la petición. \"Hagámoslo juntos, solo nosotros y los pasos del dibujo.\"\n\nPara ti, antes de entrar: \"Aquí lo lento es normal. Un grado más calmado que mi impulso.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Convierte la rutina en una tira visible de dibujitos que pueda seguir, así el cartel manda en lugar de tu voz\n- Muestra y haz un paso a la vez; no anuncies toda la lista de golpe\n- Conviértelo en una carrerita suave o un juego, en lugar de una serie de órdenes\n- Estabilízate tú primero — tu calma hace la mitad del trabajo"
+          },
+          {
+            "title": "Después",
+            "content": "En un momento tranquilo, sin relación con esto, pregúntale qué hace tan difícil la hora de dormir, y busca la solución junto con él. Deja la tira de dibujos donde empieza la rutina."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_04_es",
+        "title": "Le dices que pare de trepar, y vuelve a subirse",
+        "scenario": "Tu hijo no deja de treparse al respaldo del sofá para saltar desde ahí. Le has dicho \"bájate\" una y otra vez, y cada vez vuelve a subirse antes de que pase un minuto.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Deja de repetir; di lo que vas a hacer: \"Ya te lo pedí un montón de veces, y trepar ahí no es seguro — así que ahora te voy a bajar yo. Y después buscamos un lugar de verdad para trepar.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Cuando \"para\" no funcionó dos veces, actúa en lugar de decirlo una tercera — bájalo tú, con calma\n- Cambia el entorno: acerca una pila de cojines al suelo como el lugar que SÍ es para saltar\n- Dale al impulso de trepar un lugar a donde ir, en lugar de solo bloquearlo\n- Mantén un tono neutro y cálido; la acción es el límite, no las palabras"
+          },
+          {
+            "title": "Después",
+            "content": "Las guías de desafío explican qué hace que esto sea un límite de verdad (uno que no depende de que tu hijo esté de acuerdo); las guías de disciplina explican cómo redirigir el impulso. Las dos se aplican directamente a este momento."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Supervisa la escalada y asegura los muebles que puedan volcarse. Evita la sujeción física más allá de mover con suavidad a tu hijo hacia un lugar seguro. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_05_es",
+        "title": "\"Un momento\" en medio de tu bloque de trabajo",
+        "scenario": "Tienes treinta minutos de trabajo por terminar en la mesa de la cocina. Tu hijo se acerca cada dos por tres — una pregunta, un antojo, algo que quiere enseñarte.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Conecta y prepara todo de antemano: \"Tengo trabajo de personas grandes para dos vueltas del temporizador. Aquí tienes tu propia caja de trabajo, justo a mi lado. Cuando suene el temporizador, todo mi tiempo es para ti, con un abrazo gigante.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Haz primero un depósito de atención de verdad, antes del bloque de trabajo, no solo después\n- Prepara una actividad paralela a la vista, así está cerca de ti, no fuera del cuadro\n- Usa un temporizador visible, para que la espera tenga una forma que pueda ver\n- Anuncia con claridad el reencuentro, y cumple esa promesa en el segundo en que suene"
+          },
+          {
+            "title": "Después",
+            "content": "Empieza con bloques cortos y estíralos a medida que funcione. Llenar el tanque de conexión antes del bloque evita la mayoría de las interrupciones durante él."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_06_es",
+        "title": "El muro de silencio cuando se acaba la pantalla",
+        "scenario": "El programa de la tablet está terminando y tu hijo se queda en silencio — no es un \"no\", es un muro. Cada recordatorio resbala sin dejar huella. No se mueve, no discute, no para.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Fija el final antes de que empiece: \"Quedan dos programas, y luego la tablet se va a dormir — tú puedes poner en marcha el temporizador.\"\n\nEn el momento de apagarla, con humor: \"Uy uy… la tablet está bostezando. Tiene TANTO sueño. Dile buenas noches.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Decide y anuncia el final desde el principio — la pelea casi siempre es por el final, no por la mitad\n- Deja que sea él quien ponga en marcha el temporizador, así algo de control es suyo\n- Ponle humor al momento de apagar, en lugar de una cuenta regresiva de advertencias\n- Trata el muro de silencio como agobio, no como desafío — convierte el \"apagar\" en un paso que das junto con él"
+          },
+          {
+            "title": "Después",
+            "content": "En un momento tranquilo, decide junto con él la rutina para terminar la pantalla. Un muro que se repite es señal de que el final necesita un plan, no más recordatorios."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_07_es",
+        "title": "Todo tiene que ser ya",
+        "scenario": "En el instante en que tu hijo quiere algo — una merienda, su turno, tu atención — tiene que ser YA, y hasta \"un minuto\" lo manda derecho a una rabieta.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nómbralo como práctica y valida la parte difícil: \"Lo quieres ya mismo, y esperar se siente horrible. Vamos a hacer crecer el músculo de la espera — cuenta hasta cinco conmigo, y es tuyo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Construye esperas pequeñas y deliberadas en momentos tranquilos y de bajo riesgo, no solo cuando le toca esperar de verdad\n- Narra y valida la espera cada vez — \"esperar es difícil\" — para que nunca se sienta como un castigo\n- Empieza diminuto (contar hasta tres) y estíralo a medida que crece la tolerancia\n- Cumple en el instante en que termina la espera, así la práctica se mantiene confiable"
+          },
+          {
+            "title": "Después",
+            "content": "El músculo hay que construirlo antes de necesitarlo. Un niño que practicó la espera a la hora de la merienda tiene algo de dónde sacar fuerzas cuando la espera es de verdad."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_08_es",
+        "title": "Escucha a uno de los dos, y al otro no",
+        "scenario": "Tu hijo coopera sin problema con un cuidador y se resiste a casi todo con el otro — y el adulto al que menos escucha está empezando a sentirse como el malo de la película.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Entre los adultos, sin culpar a nadie: \"No eres tú, y no es que tenga un favorito. Revisemos dos cosas aburridas: ¿mis límites son tan claros y concretos como los tuyos?, ¿y nuestro tiempo a solas necesita un repaso?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Olvídate por completo de buscar culpables — son dos variables que se pueden ajustar, no una clasificación de quién es mejor padre o madre\n- Revisa la claridad del límite: un tiempo vago (\"en un ratito\") se percibe como un límite confuso; lo concreto y específico funciona mejor\n- Revisa la conexión cotidiana con el cuidador al que menos escucha, y constrúyela a propósito\n- Trabaja este ajuste junto con el otro adulto, en lugar de dejar que una sola persona se esfuerce más en el momento"
+          },
+          {
+            "title": "Después",
+            "content": "Casi siempre es una mezcla de claridad y conexión, no de cariño ni de favoritismo. Vuelve a revisar la situación después de un par de semanas con límites más claros y más tiempo a solas."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_09_es",
+        "title": "\"Mi cuerpo es mío\" apuntado al protector solar",
+        "scenario": "Le enseñaste a tu hijo que su cuerpo es suyo y que siempre puede decir que pare — algo bueno e importante — y ahora usa esas mismas palabras para negarse al protector solar antes de la piscina.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Respeta sus palabras y sigue con la tarea: \"Tienes razón — tu cuerpo es tuyo, y siempre puedes decirme que pare. El protector solar no es opcional, porque protege tu piel de hacerse daño. Te voy a ayudar, rápido y con cuidado. Tú eliges: ¿primero los brazos o primero las piernas?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Respeta de verdad las palabras de consentimiento — no las pases por alto con frialdad ni hagas como si no las hubiera dicho\n- Sigue adelante con el cuidado necesario; una tarea de salud y seguridad no está en discusión\n- Ofrece una elección real sobre el cómo o el orden, nunca sobre el si\n- Mantente cálido y rápido; la meta es terminar con suavidad, no entrar en debate"
+          },
+          {
+            "title": "Después",
+            "content": "Sigue enseñando el lenguaje de \"mi cuerpo\" para el contacto que de verdad es opcional. Una excepción nombrada con calma para el cuidado necesario no lo deshace."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Esto se aplica solo al cuidado de salud y seguridad que no es negociable. Si el uso que un niño hace del lenguaje de autonomía corporal alguna vez señala algo que le asusta o le confunde, tómalo en serio y busca orientación profesional. Evita la sujeción física más allá de la ayuda mínima y suave que sea necesaria."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_10_es",
+        "title": "Cinco minutos para salir, cero cooperación",
+        "scenario": "Tienes que salir por la puerta en cinco minutos para una recogida a la que no puedes llegar tarde, y tu hijo se resiste con todas sus fuerzas a ponerse las botas y el abrigo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti primero: \"Llegar tarde es una molestia, no una emergencia. Mi pánico es el verdadero problema aquí.\"\n\nA tu hijo, con firmeza y calidez, un paso a la vez: \"Salimos en cinco minutos, y voy a ayudar a tu cuerpo a llegar. Primero las botas — ¿las quieres a la manera rápida o a la manera tonta?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Antes que nada, calma esa sensación de emergencia que tú mismo fabricaste; es lo que arruina tu paciencia\n- Ve paso a paso, no sueltes de golpe toda la secuencia de salida\n- Sé firme y cálido a la vez — el límite se sostiene, tu tono sigue siendo amable\n- Si el reloj de verdad lo exige, ayúdalo tú con calma a ponerse las cosas, en lugar de ganar una discusión"
+          },
+          {
+            "title": "Después",
+            "content": "Si salir a tiempo es una batalla que se repite, planea la rutina de salida con él en un momento tranquilo — eso arregla más que cualquier mañana apurada."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_11_es",
+        "title": "La rabieta con público",
+        "scenario": "En la biblioteca, tu hijo se tira al suelo y se niega a irse cuando llega la hora — y ahora un par de padres están mirando para ver cómo vas a manejarlo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti primero: \"Puedo con esto. La sala no es lo que importa, y no le debo una actuación.\"\n\nA tu hijo, con calidez y claridad: \"Cuesta irse cuando se está tan a gusto aquí. Igual nos vamos — puedes caminar conmigo, o te puedo cargar. Tú eliges.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Calma tu propio pánico por el público antes de tocar la situación; ese pánico es lo que te empuja a ser demasiado duro o demasiado blando\n- Da por hecho que quienes miran están recordando sus propios días difíciles — no es menos probable que el juicio, y es mucho más amable contigo\n- Mantente firme y cálido a la vez; ofrece una elección sobre el cómo salir, no sobre el si\n- Manéjalo como lo harías en casa, porque el público te cambia a ti, no a tu hijo"
+          },
+          {
+            "title": "Después",
+            "content": "Ensaya en casa la combinación de firmeza y calidez, donde es fácil. Bajo los focos cuesta más improvisar, así que tenerla lista ayuda."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_12_es",
+        "title": "Gritaste por lo de los zapatos",
+        "scenario": "Pediste cinco veces que se pusiera los zapatos, y después gritaste — tan fuerte que tu hijo se quedó callado y con los ojos llorosos. Ahora quieres volver de eso.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Para ti primero: \"Un momento ruidoso no es toda la historia. Puedo volver de esto.\"\n\nA tu hijo, una vez que estés en calma: \"Grité por lo de los zapatos. Eso fue demasiado, y no fue culpa tuya. Voy a trabajar en mi volumen. ¿Quieres un abrazo para empezar de nuevo?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Calma tu propio sistema nervioso antes de acercarte — reparar todavía desbordado casi nunca funciona\n- Sé breve y específico: nombra el momento de cooperación por el que te pusiste a gritar\n- Asume tu parte sin cargarle ninguna culpa a tu hijo\n- Deja que la reparación pese más que la ruptura; volver construye más confianza de la que había al principio"
+          },
+          {
+            "title": "Después",
+            "content": "Las guías de reparación explican paso a paso cómo tener esa conversación. Lo específico aquí es nombrar que pasó por un tema de cooperación — así que la reparación también lo nombra."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas."
+          }
+        ]
+      }
+    ]
   }
 }

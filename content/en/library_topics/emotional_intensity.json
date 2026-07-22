@@ -80,6 +80,237 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "emotional_intensity_script_01",
+        "title": "When the Words Turn to \"I Hate You\"",
+        "scenario": "Mid-meltdown, your 5-year-old hurls the worst thing they've got — \"I hate you,\" \"you don't even love me,\" \"I wish I lived somewhere else.\" It's aimed straight at you and it stings.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Low and steady, not matching their heat: \"You're allowed to be this mad at me. I'm not going anywhere.\"\n\n\"Those big words tell me how big this feeling is. I'm listening to the big part.\"\n\nTo the fear under the words, not the words: \"You are not too much for me. I can hold this with you.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Hear the line as a clumsy way of asking \"is this real to you?\" — not as cruelty meant to wound\n- Don't argue the words or correct the facts (\"you don't mean that\") — it adds heat and misses the point\n- Answer the fear the words carry: of not mattering, of being unlovable, of being too much\n- Stay near; keep your voice under theirs; let the wave pass without a lecture"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, sideways and light — not face-to-face: \"Big feelings say wild things sometimes. Doesn't change one thing about us.\" No need to relitigate what was said."
+          },
+          {
+            "title": "Safety note",
+            "content": "If your child's words turn to harming themselves or 'I wish I wasn't here,' take it seriously — respond to the fear, keep them safe, and contact your pediatrician or a child therapist promptly. Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_02",
+        "title": "\"Leave Me Alone!\" (When They Don't Mean Gone)",
+        "scenario": "Your 6-year-old is melting down and shouts \"go away, leave me alone!\" — but you can feel they aren't safe to be left, and they'll likely call you back the moment you step out.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "\"Okay. I'll give you some space — I'm going to sit right here by the door, not far.\"\n\n\"I'm not leaving. I'll be quiet. You don't have to look at me.\"\n\nWhen they circle back: \"Here I am. I never went far.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Read \"go away\" as \"this is too much to be watched right now,\" not a real wish for you to leave\n- Honor the request for distance without honoring abandonment — back off a few feet, stay in the room\n- Go quiet and ease off eye contact; a soft, sideways presence is less threatening than a face-to-face fix\n- If there's any real danger, closeness wins over the request — move in calmly to keep everyone safe"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Calm, later: \"When feelings get huge, I'll always stay close by — even if you need me quiet. That's a promise.\" Pre-loading the plan softens the next one."
+          },
+          {
+            "title": "Safety note",
+            "content": "Honor a push-away only while it's safe to do so; move closer if there's risk of harm. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_03",
+        "title": "Talking About It Without Talking About It",
+        "scenario": "A rough moment is over, but every time you try to revisit it your 5-year-old shuts down — \"don't talk about it,\" \"don't look at me.\" The moment still needs revisiting; the head-on version keeps failing.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Side by side, hands busy — drawing, the car, the dishes: \"Hard mornings are just hard, huh.\"\n\nDesigning forward instead of looking back: \"Want to invent a secret signal for when feelings get huge? You pick it — I'll follow it.\"\n\nOr the whole revisit in one line, with a squeeze: \"That was a hard one. We're okay.\" Then nothing more."
+          },
+          {
+            "title": "What to do",
+            "content": "- Talk side by side, not across a table — busy hands and no eye contact lower the exposure\n- Move the conversation forward in time: co-designing what helps next time feels like power, not exposure\n- Let one delivered line be enough some days — acknowledged and closed beats interviewed and cornered\n- Read \"don't talk about it\" as \"not this way\" — a request for a gentler channel, not a no"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Some days you let it pass entirely — that's allowed, especially when your own tank is low. Revisiting builds a calmer memory; it doesn't have to happen today."
+          },
+          {
+            "title": "Safety note",
+            "content": "These are everyday repair tools, not a substitute for professional help where a pattern is severe or persistent. Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_04",
+        "title": "When One Mistake Becomes \"I'm Terrible at Everything\"",
+        "scenario": "Your 6-year-old draws one line wrong and crumples — \"I can't do ANYTHING, I'm the worst.\" A tiny slip just became a verdict on their whole self.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Slow and low, not a pep talk: \"Whoa. That was a tricky one. Let's just breathe for a sec.\"\n\n\"You're having a big feeling about a small slip. I'm right here.\"\n\nName it plainly, don't argue it: \"This is the part that feels awful. It passes. I'll wait with you.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Slow down instead of countering — the self-attack is a fast feeling, not a fact to disprove\n- Skip the evidence (\"but you're so good at drawing!\") — proof only adds urgency to a spiral\n- Lower your voice and your pace; let the intensity crest and drop before anything else\n- Once calm, offer the next small step together, not a speech about mistakes"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, model your own: \"I ran into my own I'm-the-worst feeling today when I burned dinner. It's loud, huh — and it always passes.\" Sharing yours makes theirs less lonely."
+          },
+          {
+            "title": "Safety note",
+            "content": "If self-criticism hardens into a settled 'I'm bad,' or a child stops attempting anything effortful for weeks, consult your pediatrician or a child therapist. Prioritize safety; seek support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_05",
+        "title": "Giving the \"Get-It-Right Voice\" a Name",
+        "scenario": "Your 5-year-old is starting to freeze up on things they used to love — abandoning a drawing halfway, refusing the monkey bars — anywhere they might not get it right the first time.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Model your OWN first, before ever suggesting they have one: \"Ugh, my Get-It-Right voice is loud today — it really wants my letters neat, and it's cross that they came out wobbly.\"\n\nLater, offer theirs lightly: \"I wonder if you've got a voice like that too — one that gets cross when the drawing comes out different than it planned?\"\n\nBefore a known-hard thing: \"Here comes your Get-It-Right voice. Let's wave hi and do it anyway.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Introduce the idea by naming your own version out loud, several times, before you hand it to your child\n- Give the urge a friendly name so it becomes something to notice, not something to obey\n- \"Greet\" the voice together before a hard task — acknowledged and shared beats private and shaming\n- Keep it light and playful; this is befriending the urge, not scolding it"
+          },
+          {
+            "title": "Follow-up",
+            "content": "When they name it themselves one day — \"my Get-It-Right voice is being SO bossy\" — that's the win. You've turned a private, shaming pressure into something you can both see and tease."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_06",
+        "title": "The Meltdown Over a Tiny Imperfection",
+        "scenario": "The sticker went on slightly crooked, or the block tower isn't perfectly even, and your 4-year-old dissolves. The imperfection is tiny and has no real consequence — but the distress is enormous.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Meet the size first: \"That is SO not how you wanted it. Show me how frustrating — bigger than the table? Bigger than the house?\"\n\nThen flip it playful: \"Ooh — want to play Make It Wonky on purpose? First one to mess up on purpose wins.\"\n\n\"Making mistakes is the whole point of this game. We're hunting for them.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Validate the magnitude before any fixing — the feeling is real even when the cause looks small\n- Turn the mistake from a failure to avoid into the actual goal of a game\n- Make a deliberate mistake yourself, cheerfully, so they watch it survive\n- Keep the stakes low and silly; a sought-after mistake can't also be a disaster"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Name the pattern gently another time: \"Sometimes a little bit wonky feels like a big deal. We're getting good at the on-purpose-messy game.\" Practice shrinks the charge."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_07",
+        "title": "When One Bad Moment Becomes \"Always\" and \"Never\"",
+        "scenario": "One missed kick at soccer practice, and now your 6-year-old is certain \"I'm the worst on the whole team, I'll NEVER score.\" A single bounded moment has become a sweeping life sentence.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Feeling before fact: \"That sounds like a heavy, rotten feeling.\"\n\nDon't correct the story — get curious about the one moment: \"What happened right before it started feeling that way?\"\n\n\"Something happened today that hurt. I want to hear about the exact bit.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Resist correcting the claim (\"that's not true, you have friends!\") — it becomes an argument they'll defend\n- Validate the size of the feeling first; the intensity is the real message, not the literal accuracy\n- Then gently narrow to the specific triggering moment — the exaggeration softens once the real one surfaces\n- Stay curious, not corrective; you're helping them find the actual event under the sweeping claim"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Once the real moment is out, it usually shrinks on its own. Later: \"One hard minute at practice — not the whole season. It really stung, though, and I'm on your side.\""
+          },
+          {
+            "title": "Safety note",
+            "content": "For ongoing bullying, exclusion, or a child who withdraws socially over weeks, see a pediatrician or counselor. Prioritize safety; seek support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_08",
+        "title": "Telling Them About a Change They'll Fight",
+        "scenario": "A change is coming — a new classroom, a later bedtime, a switched routine — and you know your 5-year-old will protest hard, not because the change is bad but because it's unfamiliar.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name the real driver — newness, not badness: \"Something's going to be different soon. New can feel scary even when it's fine. That's normal.\"\n\nReassure it isn't a punishment: \"This isn't because you did anything. It's just a change, and I'll help you get ready for it.\"\n\nShrink the unknowns: \"Let's play Guess the New Room — I bet there's a fish tank. What do you bet?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Lead with why it's hard for THIS child — the pile of unfamiliar detail — not the change's logistics\n- Say plainly it isn't a consequence; unfamiliarity already feels like enough of a threat\n- Make a few unknowns known ahead of time: a name, a photo, a visit, a guessing game\n- If protest comes anyway, keep the routine gently moving rather than debating it point by point"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The general countdown and morning-routine steps live in the kindergarten-prep guides — this is the layer on top: fewer surprises, not a more exciting sell. Expect to repeat it calmly more than once."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_09",
+        "title": "Explaining Your Child to a New Teacher",
+        "scenario": "A new school year or activity is starting, and you want to explain your intense feeler to the teacher or coach before any hard moments happen — with specific requests, not just a general heads-up.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Plain-language trait, no jargon: \"Her feelings run big and fast. That's how she's wired — it isn't defiance or drama, and she can't just switch it off.\"\n\nSame-team framing: \"I'd love to figure out together what helps her have a good year.\"\n\nThe three asks: \"When it gets big, staying near her helps far more than a consequence. Any redirection lands better quiet than in front of the class. And it helps a lot if you can share little 'this is hard for me too' stories before a tricky new thing.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Explain the trait in everyday words, before problems start — not clinical labels\n- Frame it as a shared goal, not a critique of how they run their room\n- Make the three asks concrete: closeness over punishment, quiet over public correction, permission for small de-shaming stories\n- Offer to share what already works at home; keep the tone collaborative"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The broader teacher relationship — conferences, ongoing updates — is covered in the kindergarten-prep teacher guide. This is the specific \"here's how my child is wired\" conversation to have up front."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "emotional_intensity_script_10",
+        "title": "When Being Celebrated Feels Like Too Much",
+        "scenario": "The birthday song starts, or the room turns to cheer your 5-year-old for an award, and instead of delight they crumple, bolt, or melt down. Even warm, positive attention can overwhelm this child.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Honor it, don't shame it: \"All those eyes at once was a lot, huh. You're not being rude — it just felt like too much.\"\n\nOffer control ahead of time: \"At the party, the song might happen. Want to blow the candles with me right beside you, or watch from my lap?\"\n\n\"You don't have to love being the center. We can always do it small.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Read the flinch at surprise attention as trait-consistent — the same wiring, not rudeness or ingratitude\n- Give advance notice and a choice about any spotlight moment instead of springing it\n- Offer an exit or a buffer — your side, your lap, a smaller version\n- Never force the performance or the thank-you in the moment; debrief warmly later, if at all"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, no pressure: \"You watched the singing from my lap and that was just right. We always get to do big moments your size.\""
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety; seek professional support if unsure."
+          }
+        ]
+      }
+    ]
   }
 }

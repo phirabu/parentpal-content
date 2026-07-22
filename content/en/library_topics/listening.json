@@ -108,6 +108,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "listening_script_01",
+        "title": "Dinner's Ready and They Haven't Budged",
+        "scenario": "Dinner is on the table going cold. Your child is on the living-room floor, deep in a long parade of toy animals, and hasn't moved after three calls of \"come eat.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Go to them, get low, join for ten seconds first: \"Whoa — look at this parade. Who's the leader?\"\n\nThen the ask, with a nearer reason: \"The animals can guard the table while we eat — food's hot now, and you get to pick your seat.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Cross the room instead of calling across it — a request needs connection to travel on\n- Name what they're doing before you name what you need\n- Give one small choice or nearer reason, not a lecture about cold food\n- Keep it to a single step: come to the table now; everything else waits"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If calling from the kitchen keeps failing, make \"I come to you first\" the default, and build a two-minute heads-up into the run-up to meals."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_02",
+        "title": "A Flat \"No\" to Putting It Away",
+        "scenario": "You ask, calm and just once, for the crayons to be capped and the coloring cleared before lunch. Your child doesn't move — just a flat \"No.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Pause first: \"Hmm. Okay.\" (Actually stop for three seconds.)\n\nName the wish under the no: \"You're not done. You wish coloring could just keep going.\"\n\nValidate without needing the reason: \"Stopping feels wrong to you somehow. Okay — I don't need the why to take it seriously.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't answer the first \"no\" with a bigger second ask — that stacks resistance\n- Aim under the refusal at the wish driving it, not the word itself\n- Offer a bridge, not a battle: \"One last color, then we clear it together\"\n- If tension spikes, break it with silliness before you break it with force"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If it hardens into a standoff, mend the moment before re-asking. A predictable \"last-color\" ritual makes the stop easier next time."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_03",
+        "title": "Bedtime Takes an Hour, One Stall at a Time",
+        "scenario": "Bedtime is a marathon. Every step — bath, pajamas, teeth — turns into its own negotiation, and a twenty-minute routine sprawls into an hour.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Step into their world for a beat — one puzzle piece, one admiring look — before the ask. Let's do it together, just us and the picture-steps.\"\n\nTo yourself, going in: \"Slow is normal here. A notch calmer than my gut.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Turn the routine into a visible strip of little pictures they can follow, so the chart leads instead of your voice\n- Show and do one step at a time; don't announce the whole list at once\n- Make it a gentle race or game rather than a series of orders\n- Steady yourself first — your calm is doing half the work"
+          },
+          {
+            "title": "Follow-up",
+            "content": "At a calm, unrelated time, ask together what makes bedtime so hard and problem-solve it. Keep the picture-strip where the routine starts."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_04",
+        "title": "Told to Stop Climbing, Right Back Up",
+        "scenario": "Your child keeps climbing onto the back of the couch to leap off. You've said \"get down\" over and over, and each time they are right back up within a minute.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Stop repeating; state what you'll do: \"I've asked a bunch of times, and that climb isn't safe — so I'm going to help you down now. Then let's find you a real climbing spot.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- When \"stop\" hasn't worked twice, act instead of saying it a third time — lift them down, calmly\n- Change the setup: move a pile of floor cushions over as a spot that IS for jumping\n- Give the climbing urge a home rather than only walling it off\n- Keep your tone flat and warm; the action is the boundary, not the words"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The defiance guides cover what makes this a real boundary (one that doesn't depend on your child agreeing); the discipline guides cover redirecting the urge. Both apply straight to this moment."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Supervise climbing and secure furniture that can tip. Avoid physical restraint beyond gently moving your child to safety. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_05",
+        "title": "\"Just a Minute\" During Your Work Block",
+        "scenario": "You have thirty minutes of work to finish at the kitchen table. Your child keeps drifting over every couple of minutes — a question, a snack request, a thing to show you.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Connect and set it up in advance: \"I have grown-up work for two timer-turns. Here's your own work box, right next to me. When the timer sings, I'm all yours for a giant hug.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Make a deposit of real attention first, before the work block, not only after\n- Set up a parallel activity within sight so they're near you, not shut out\n- Use a visible timer so the wait has a shape they can see\n- Name the reunion clearly, then keep that promise the second it sings"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Start with short blocks and stretch them as it works. Topping up connection before the block prevents most of the interruptions during it."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_06",
+        "title": "The Silent Wall When the Screen Ends",
+        "scenario": "The tablet show is ending and your child goes silent — not a \"no,\" just a wall. Every reminder slides off. They don't move, don't argue, don't stop.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Set the ending before it starts: \"Two shows left, then the tablet goes to sleep — you get to start the timer.\"\n\nAt the handover, playful: \"Uh oh… the tablet's yawning. It's SO sleepy. Say night-night.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Decide and announce the ending up front — the fight is almost always the ending, not the middle\n- Let them start the timer, so some control is theirs\n- Bring humor to the switch-off instead of a countdown of warnings\n- Treat the silent wall as overwhelm, not defiance — make the \"off\" a step you do together"
+          },
+          {
+            "title": "Follow-up",
+            "content": "At a calm time, decide the screen-ending routine together. A wall that repeats is a sign the ending needs a plan, not more reminders."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_07",
+        "title": "Everything Has to Be Now",
+        "scenario": "The instant your child wants something — a snack, a turn, your attention — it has to be NOW, and even \"one minute\" tips them straight into a meltdown.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name it as practice and validate the hard part: \"You want it right now, and waiting feels awful. Let's grow the waiting muscle — count to five with me, then it's yours.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Build small, deliberate waits at calm, low-stakes times, not only when a real wait is forced on them\n- Narrate and validate the wait every time — \"waiting's hard\" — so it never feels like a punishment\n- Start tiny (a count of three) and stretch it as tolerance grows\n- Follow through the moment the wait is done, so the practice stays trustworthy"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The muscle has to be built before it's needed. A child who has practiced waiting at snack time has something to draw on when the wait is real."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_08",
+        "title": "Listens for One of You, Not the Other",
+        "scenario": "Your child cooperates smoothly for one caregiver and pushes back on nearly everything with the other — and the less-listened-to grown-up is starting to feel like the bad guy.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Between the adults, no blame: \"It isn't you, and it isn't favoritism. Let's check two boring things — are my limits as clear and specific as yours, and does our just-us time need a top-up?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Skip the blame entirely — this is two fixable variables, not a ranking of parents\n- Check limit clarity: vague timing (\"in a bit\") lands as an unclear boundary; specific and concrete lands better\n- Check the everyday connection with the less-listened-to caregiver, and build it deliberately\n- Adjust both together rather than one person trying harder in the moment"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Usually it's clarity plus connection, not love or favoritism. Re-check after a couple of weeks of clearer limits and more one-on-one time."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_09",
+        "title": "\"It's My Body\" Aimed at Sunscreen",
+        "scenario": "You've taught your child that their body is theirs and they can always say stop — good and important — and now they are using those exact words to refuse sunscreen before the pool.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Honor the words and keep the task: \"You're right — your body is yours, and you can always tell me stop. Sunscreen isn't a choice, because it keeps your skin from getting hurt. I'm going to help, quick and gentle. You pick: arms first or legs first?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Genuinely honor the consent words — don't override them coldly or pretend they weren't said\n- Keep the necessary care happening; a health-and-safety task isn't up for negotiation\n- Offer a real choice over how or in what order, never over whether\n- Stay warm and quick; the goal is done and gentle, not a debate"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Keep teaching the \"my body\" language for genuinely optional touch. A calmly-named exception for necessary care doesn't undo it."
+          },
+          {
+            "title": "Safety note",
+            "content": "This applies to non-negotiable health and safety care only. If a child's use of body-autonomy language ever points to something that frightens or confuses them, treat it seriously and seek professional guidance. Avoid physical restraint beyond the minimum gentle help needed."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_10",
+        "title": "Five Minutes to Leave, Zero Cooperation",
+        "scenario": "You have to be out the door in five minutes for a pickup you can't be late for, and your child is flat-out resisting boots and coat.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself first: \"Late is a nuisance, not an emergency. My panic is the real problem here.\"\n\nTo your child, firm and warm, one step: \"We're leaving in five, and I'll help your body get there. Boots first — do you want the fast way or the silly way into them?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Steady your own manufactured-emergency feeling before anything else; it's what wrecks your patience\n- Keep it to one step at a time, not the whole leaving sequence\n- Be firm and warm together — the limit holds, your tone stays kind\n- If the clock truly demands it, help them into things calmly rather than winning an argument"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If leaving on time is a recurring battle, plan the departure routine together at a calm moment — that fixes more than any rushed morning ever will."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_11",
+        "title": "The Meltdown With an Audience",
+        "scenario": "At the library, your child flops down and refuses to leave when it's time — and now a couple of other parents are watching to see how you'll handle it.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself first: \"I've got this. The room isn't the point, and I don't owe it a performance.\"\n\nTo your child, warm and clear: \"Hard to leave when it's cozy here. We're still going — you can walk with me, or I can carry you. You choose.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Calm your own audience-panic before you touch the situation; that panic is what tips you too-harsh or too-soft\n- Assume the watchers remember their own hard days — it's no less likely than judgment, and far kinder to you\n- Stay firm and warm at once; offer a choice over how you leave, not whether\n- Handle it the way you would at home, because the audience changes you, not the child"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Rehearse the firm-and-warm combination at home, where it's easy. Under the spotlight it's harder to improvise, so having it ready helps."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_12",
+        "title": "You Yelled About the Shoes",
+        "scenario": "You asked five times to get shoes on, then you yelled — loud enough that your child went quiet and teary. Now you want to come back from it.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself first: \"One loud moment isn't the whole story. I can come back from this.\"\n\nTo your child, once you're steady: \"I yelled about the shoes. That was too big, and it wasn't your fault. I'm going to work on my volume. Want a do-over hug?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Settle your own nervous system before you approach — repair while still flooded rarely lands\n- Keep it short and specific: name the cooperation moment you got loud about\n- Take your part without piling any fault onto your child\n- Let the repair count for more than the rupture; coming back builds trust past where it started"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The repairing guides walk through the full how of a repair conversation. What's specific here is naming that it happened over listening — so the repair names that too."
+          },
+          {
+            "title": "Safety note",
+            "content": "Prioritize safety. Avoid physical restraint unless needed to prevent imminent harm. Follow local guidance; seek professional support if unsure."
+          }
+        ]
+      }
+    ]
   }
 }

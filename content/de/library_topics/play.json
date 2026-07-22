@@ -108,6 +108,201 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "play_script_01",
+        "title": "Wenn dein Kind „Spiel mit mir\" sagt und du erstarrst",
+        "scenario": "Dein Kind hält dir ein Spielzeug hin und bittet dich mitzuspielen, und du merkst, wie du innerlich erstarrst: keine Ahnung, was du tun sollst, ein bisschen albern fühlt es sich an, und am liebsten würdest du stattdessen aufräumen. Mit dir wurde als Kind nicht viel gespielt, und das merkt man.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst, bevor du dich hinsetzt: „Steif, das ist das Gefühl von etwas Neuem, nicht das Gefühl von Scheitern. Neunzig Sekunden. Ich darf ein Anfänger sein.\"\n\nZu deinem Kind, ehrlich und warmherzig: „Ich bin da echt eingerostet, du musst mir zeigen, wie's geht. Was bin ich? Was sag ich?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass dein Kind die Regie übernehmen: Eine zugewiesene Rolle löst das Problem „was mach ich überhaupt\"\n- Fang mit einem winzigen Zeitfenster an, ein, zwei Minuten, keinem offenen Nachmittag, vor dem dir graut\n- Mach nach, statt zu erfinden: Spiegle mit einem zweiten Spielzeug neben seinem, das zählt als Spiel und verlangt nichts von dir\n- Bemerke die Unbeholfenheit und mach trotzdem weiter, das ist Rost, kein Urteil über dich oder die Bindung"
+          },
+          {
+            "title": "Danach",
+            "content": "Mit der Übung wird es weniger tollpatschig. Die Leichtigkeit folgt dem Tun, nicht umgekehrt. Fühlst du dich anhaltend flach oder freudlos, weit über das Spielen selbst hinaus, lohnt sich ein Wort mit deiner eigenen Ärztin oder deinem eigenen Arzt."
+          }
+        ]
+      },
+      {
+        "id": "play_script_02",
+        "title": "Du willst spielen, und der Alltag gewinnt immer",
+        "scenario": "Du nimmst dir fest vor, Zeit zum Spielen zu finden, aber der Tag füllt sich, und der eine Abend, an dem du dir einen großen Block freigeschaufelt hast, fühlte sich lang, erzwungen und ein bisschen öde an. Seitdem hast du es nicht wieder versucht.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst: „Kürzer, als beeindruckend wirkt. Weitermachen kann ich immer noch.\"\n\nEingebaut in das, was ohnehin passiert: „Wer zuerst am Auto ist! Aber wir müssen uns die ganze Strecke wie Roboter bewegen. PIEP. PIEP.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Kürz die Länge radikal: Wähl ein Zeitfenster, das kürzer ist, als du dir zutraust, und halbier es dann noch mal. Verlässliche neunzig Sekunden schlagen eine widerwillige halbe Stunde\n- Flicht Spiel in Momente ein, die der Tag ohnehin schon hat: eine alberne Stimme beim Baden, zehn Sekunden Tanzen, während das Essen kocht, den Spaziergang wie eine Naturdokumentation kommentieren\n- Leg das Handy in ein anderes Zimmer, nicht nur auf lautlos: Ein Handy in der Nähe zieht trotzdem an dir, und halb dabei kommt bei einem Kind an wie gar nicht dabei\n- Hör auf, solange es noch Spaß macht. Das Ziel ist, dass dein Kind noch mehr will, nicht jede letzte Minute rauszupressen"
+          },
+          {
+            "title": "Danach",
+            "content": "Verlässlichkeit entsteht durch klein und machbar, nicht durch groß und selten. Zweiminütige Momente, täglich gestapelt, summieren sich schneller als eine große Geste im Monat, und sie sind die, die du wirklich durchhältst."
+          }
+        ]
+      },
+      {
+        "id": "play_script_03",
+        "title": "Du wolltest nur folgen, und nach einer Minute hast du das Steuer übernommen",
+        "scenario": "Du setzt dich zu deinem Kind, das schon mitten in seinem eigenen Spiel steckt, mit dem Vorsatz, einfach nur zu folgen, und nach einer Minute stellst du schon Fragen und schlägst vor, was als Nächstes passiert. Du merkst, wie du übernimmst, ohne es zu wollen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Statt einer Frage („was ist das? wo geht's hin?\") beschreibst du: „Der Bagger fährt jetzt auf den großen Hügel zu. Langsam. Ganz, ganz langsam.\"\n\nOder du sagst gar nichts und machst nach: „Ich bau mir einen, direkt neben deinen. Meiner wackelt ein bisschen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die Fragen weg: Eine Frage ist ein leiser Griff nach dem Steuer. Sie lenkt das Spiel in Richtung deiner eigenen Vorstellung\n- Beschreib, was du siehst, schlicht und ohne Lob, oder spiegle die Handlung deines Kindes in deiner eigenen parallelen Version\n- Rechne damit, dass es sich seltsam langsam oder öde anfühlt, besonders wenn dein Alltag sonst schnell läuft. Das ist ein normales Merkmal von kindgeführtem Spiel, kein Zeichen, dass du es falsch machst\n- Lass dein Kind auch die zähen Abschnitte führen. Der ganze Sinn liegt darin, dass es seins ist"
+          },
+          {
+            "title": "Danach",
+            "content": "Ein paar ungesteuerte Minuten sind am Anfang wirklich schwer, und es wird leichter. Endet das Folgen deines Kindes zuverlässig in einem Wutanfall, den ihr beide nicht versteht, sprich es bei eurer Kinderärztin oder eurem Kinderarzt an."
+          }
+        ]
+      },
+      {
+        "id": "play_script_04",
+        "title": "Dein Kind will So-tun-als-ob, und du bist eher der Brettspiel-Typ",
+        "scenario": "Dein Kind zieht dich immer wieder in offenes So-tun-als-ob ohne Regeln, ziellos, ohne Handlung, im Moment erfunden, und dir graut im Stillen davor. Ein Spiel mit Regeln und einer Gewinnerin oder einem Gewinner, und du bist glücklich. Dieses formlose Zeug lässt dich ratlos zurück.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst: „Regeln zu bevorzugen ist kein Makel. Sich ab und zu Richtung seiner Art zu strecken, das ist das Geschenk.\"\n\nZu deinem Kind: „Du machst die Regie. Sag mir, wer ich bin und was ich sage. Ich bin schlecht im Erfinden, also sag mir, wo's langgeht.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Nenn es einen Unterschied im Stil, keinen Mangel: Die meisten Erwachsenen neigen zu strukturiertem Spiel mit einer richtigen Antwort. Das heißt nicht, dass du „nicht spielen kannst\"\n- Bitte dein Kind, dir eine Rolle und ein paar Sätze zuzuweisen. Ein Startrahmen rettet dich vor dem Gefühl des leeren Blattes\n- Halt auch deine strukturierten Spiele im Programm. Wechselt euch ab, damit jeder mal an der Reihe ist mit seiner bevorzugten Art\n- Streck dich ab und zu Richtung offenes Spiel, gerade weil dein Kind dich dort am meisten haben will"
+          },
+          {
+            "title": "Danach",
+            "content": "Du musst So-tun-als-ob nicht lieben, um es gut zu machen. Ein paar warmherzig angebotene Minuten seiner bevorzugten Art wirken mehr als eine widerwillige Stunde deiner."
+          }
+        ]
+      },
+      {
+        "id": "play_script_05",
+        "title": "Der Wutanfall in der Sekunde, in der das Spiel vorbei ist",
+        "scenario": "Das Spiel lief wunderbar, und in dem Moment, in dem du sagst, es sei Zeit aufzuhören, jammert dein Kind, als wäre es eine Katastrophe. Sonst ist nichts schiefgelaufen. Das Ende selbst ist das ganze Problem.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Wähl eine Variante aus, stapel sie nicht aufeinander:\n\nSchlicht: „Du wünschst dir, wir könnten weitermachen. Ich auch. Das war ein gutes Spiel.\"\n\nPlus Plan: „Für jetzt ist Schluss, UND gleich morgen nach dem Mittagessen machen wir direkt weiter.\"\n\nDie Übergabe: „Ich geh jetzt Abendessen machen. Du bist großartig darin, allein weiterzubauen. Zeig mir den Turm, wenn er riesig ist.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Begegne zuerst dem Gefühl. Der Protest ist ein Kompliment ans Spiel, kein Trotz\n- Wähl eine einzelne Antwort: schlichte Bestätigung, Bestätigung plus ein konkretes nächstes Mal, Bestätigung plus „klar ist es schwer, es war schön\", oder Bestätigung plus Vertrauen, dass es allein weitermachen kann\n- Nutze jedes Mal dasselbe Schlusssignal (einen Satz, ein Klingeln, ein „letztes Mal\"), damit das Ende vorhersehbar bleibt\n- Öffne das Spiel nicht wieder, um das Weinen zu stoppen: Begegne dem Gefühl, halt am Ende fest. Endloses „noch einmal\" bringt bei, dass Wehklagen die Tür wieder aufmacht"
+          },
+          {
+            "title": "Danach",
+            "content": "Die Vertrauens-Variante ist die Brücke ins fröhliche, selbstständige Spielen. Rahme das Gehen als Beförderung, nicht als Verlust. Explodiert jedes Ende über Monate weit über das hinaus, was der Moment hergibt, sprich es bei eurer Kinderärztin oder eurem Kinderarzt an."
+          }
+        ]
+      },
+      {
+        "id": "play_script_06",
+        "title": "Immer wieder derselbe Zug, der einfach nicht klappt",
+        "scenario": "Dein Kind drückt immer wieder denselben Klotz auf denselben wackligen Turm. Der Turm stürzt immer wieder ein, und jedes „probier's doch anders\" von dir macht es nur bockiger und wütender.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Hör auf, dein Kind anzuleiten. Bau stattdessen deinen eigenen Turm daneben und kommentier dich selbst: „Ugh, meiner kippt schon wieder um. Okay, ich hör auf, den großen reinzudrücken. Ich probier's mit einem flachen Stück. Klemmt's, wechsle.\"\n\nUnd dann mach es tatsächlich, laut und sichtbar für dein Kind."
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die direkte Anweisung weg: Mitten in der Frustration zum Wechseln aufgefordert zu werden, zementiert meist erst recht das Bocken\n- Zieh eine parallele Version der Aufgabe selbst durch und mach vor, wie du hängen bleibst und dann einen neuen Weg wählst, die ganze Zeit laut mitdenkend\n- Häng es an einen winzigen, wiederholbaren Satz („Klemmt's, wechsle\") und benutz ihn jedes Mal, wenn deine Sache schiefgeht. Der Satz wird zum Griff, den sich dein Kind später holt\n- Lass dein Kind an seiner Sache ruhig weiter scheitern. Die Kraft liegt darin, dass es deinen Wechsel miterlebt, nicht darin, ihn nachmachen zu müssen"
+          },
+          {
+            "title": "Danach",
+            "content": "Wochen später hörst du deinen eigenen Satz aus dem Mund deines Kindes, in einer völlig anderen Klemme. Genau dann wirkt es. Übersteht ein Kind gar keine Frustration, ohne in einen vollen Wutanfall zu rutschen, sprich es bei eurer Kinderärztin oder eurem Kinderarzt an."
+          }
+        ]
+      },
+      {
+        "id": "play_script_07",
+        "title": "Du musst es haargenau richtig spielen (sonst...)",
+        "scenario": "Dein Kind besetzt dich jedes Mal mit derselben Figur, sagen wir, der kleinen Schwester, die immer in Schwierigkeiten steckt, gibt dir einen exakten Text vor und bricht zusammen, wenn du auch nur ein bisschen improvisierst. Das fühlt sich rechthaberisch an und ein bisschen viel.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Spiegle zuerst, ohne Widerspruch: „Alles klar, ich bin die kleine Schwester, ich hab die Bauklötze umgestoßen, und ich sag ‚Das war nicht ich!' So ungefähr?\"\n\nDann neugierig, in der Rolle: „Kommt die kleine Schwester eigentlich auch mal dran, sich zu erklären? Was würde sie sagen, wenn ihr wirklich jemand zuhören würde?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lies die strenge Regieanweisung als Kommunikation, nicht als Trotz: Dein Kind lässt etwas, das es beschäftigt, durch ein Skript laufen, in dem es endlich die Macht hat\n- Spiegle seine Anweisung in seinen eigenen Worten zurück. Ohne Machtkampf zu folgen, hält die Tür offen\n- Werd neugierig in der Rolle: Stell die Fragen der Figur, statt auszusteigen, um umzulenken oder zu analysieren\n- Lass es ein Spiel bleiben, kein Verhör: Steig nicht aus, um zu fragen „bist du sauer, weil du in der Kita Ärger bekommen hast?\""
+          },
+          {
+            "title": "Danach",
+            "content": "Wird eine Rolle wirklich unangenehm, darfst du aufhören, „ich bin jetzt kurz wieder ich selbst\" oder „die kleine Schwester braucht jetzt ein Nickerchen\". Deine Grenze zu benennen, macht den Wert nicht zunichte. Unbegrenzter Gehorsam war nie der Deal. Wiederholt sich dieselbe belastende Szene wochenlang zwanghaft mit wachsender Anspannung, sprich mit eurer Kinderärztin, eurem Kinderarzt oder einer Kindertherapeutin bzw. einem Kindertherapeuten."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Dreht sich inszeniertes Spiel wiederholt um beängstigende oder altersunangemessene Inhalte, zu denen ein kleines Kind keinen Zugang haben sollte, hol dir professionelle Beratung, statt dich allein auf die Technik zu verlassen."
+          }
+        ]
+      },
+      {
+        "id": "play_script_08",
+        "title": "Zwei Kinder startklar machen, ohne dass ein Wettrennen draus wird",
+        "scenario": "Beide Kinder müssen zum Losgehen Schuhe und Jacke anziehen. Eines ist viel schneller, und kaum ist es fertig, prahlt es mit dem Sieg, was das langsamere Kind in einen wütenden Haufen verwandelt. Jeder Aufbruch wird zum Wettkampf mit einer Verliererin oder einem Verlierer.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Stell beide Kinder als ein Team gegen eine gemeinsame, alberne Mission: „Neuer Job fürs Team: Könnt ihr beide euch in Pinguine verwandeln und den ganzen Weg zur Haustür watscheln? Flossen hoch. Los.\"\n\nNicht „wer ist zuerst da\". Sondern „schaffen wir das alle\"."
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bau den Übergang als Kinder-gegen-eine-gemeinsame-alberne-Herausforderung auf, nie als Kind gegen Kind\n- Lass Geschwindigkeitsvergleiche ganz weg: Das Tempo eines Kindes gegen das seines Geschwisters zu stellen, erzeugt nur eine Gewinnerin oder einen Gewinner und einen Groll\n- Gib dem schnelleren Kind eine kooperative Rolle („du bist der Pinguin-Coach, feuer die Flossen deines Bruders an\"), damit sein Tempo hilft, statt zu prahlen\n- Feiere, dass das ganze Team ankommt, nicht wer zuerst da war"
+          },
+          {
+            "title": "Danach",
+            "content": "Die Team-Rahmung baut über die Zeit Zusammenarbeit zwischen Geschwistern auf. Kopf-an-Kopf-Rennen trainieren im Stillen Rivalität. Ist der Geschwisterstreit über den ganzen Tag verteilt ständig und schmerzhaft, gehen die Geschwister-Leitfäden tiefer."
+          }
+        ]
+      },
+      {
+        "id": "play_script_09",
+        "title": "Sie will nicht drüber reden, aber sie spielt gern in deiner Nähe",
+        "scenario": "Etwas beschäftigt deine Tochter sichtlich, aber sobald du sie direkt darauf ansprichst, wird sie still, sagt „nichts\" oder bittet darum, allein gelassen zu werden, während sie gleichzeitig fröhlich direkt neben dir weiterspielt. Nachbohren bringt dir weniger, nicht mehr.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Tausch die Frage gegen ein Zeichen ohne Worte, nebeneinander, nicht von Angesicht zu Angesicht: „Zeig mir dein Wetter von heute: sonnig, wolkig oder stürmisch?\" Sonnig ist eine flache Hand, wolkig sind wackelnde Finger, stürmisch ist eine Faust.\n\nWenn sie antwortet: „… Wolkig. Danke, dass du's mir zeigst. Mehr brauch ich nicht.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erzwing das direkte Gespräch nicht: Ein Kind, das „was ist los?\" nicht beantworten kann, schafft oft trotzdem die Antwort in einem Spiel\n- Biete eine Geste an, keinen Satz, und lass die Blickkontakt-Forderung weg. Weniger Blickkontakt macht Nähe leichter auszuhalten\n- Bleib Schulter an Schulter im Spiel. Die Nähe selbst ist schon die Öffnung, auch ganz ohne Worte\n- Behandle ein einzelnes Zeichen als vollen Erfolg. Angel nie nach einer zweiten Antwort"
+          },
+          {
+            "title": "Danach",
+            "content": "Wollen Worte kommen, kommen sie von allein. Wenn nicht, hast du einen Kanal fürs nächste Mal gebaut. Biete es weiterhin leicht an. Bleibt ein Kind über lange Phasen hinweg verschlossen gegenüber jedem sanften Verbindungsversuch, sprich es bei eurer Kinderärztin oder eurem Kinderarzt an."
+          }
+        ]
+      },
+      {
+        "id": "play_script_10",
+        "title": "Dein großes Kind ist aus dem Spielzeug rausgewachsen, nicht aus dir",
+        "scenario": "Dein älteres Kind will keine Höhlen oder So-tun-als-ob mehr, und ehrlich gesagt weißt du nicht mehr genau, was „zusammen spielen\" in diesem Alter überhaupt noch bedeutet. Aber es blüht immer noch auf, wenn du wirklich in seiner Welt bist.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Ziel auf sein Terrain, ganz beiläufig: „Zeig mir das Spiel, für das du dich gerade so begeisterst. Ich werd zum Brüllen schlecht sein. Roast mich, wenn ich's vermassle.\"\n\nOder einfach: „Bewerte meinen Slang, eins bis zehn. Sei gnadenlos.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Rechne damit, dass sich die Form ändert: von Spielzeug zu Frotzeleien, Insider-Witzen, Humor auf deine Kosten und unaufgeregten Dingen, die man nebeneinander tut\n- Lass dein Kind die Expertin oder den Experten sein: Bitte es, dir sein Spiel, seine Musik, seine Welt zu zeigen, und sei ein fröhlich miserabler Schüler\n- Halt es druckfrei und Schulter an Schulter: Eine gemeinsame Aufgabe (kochen, eine lange Autofahrt, ein großes Puzzle ohne Handys) schlägt ein Setz-dich-hin-„lass uns reden\"\n- Nimm die Neckerei als Verbindung: Dich ein bisschen roasten zu dürfen, ist die Liebessprache eines großen Kindes"
+          },
+          {
+            "title": "Danach",
+            "content": "Verspielte Verbindung verfällt nie. Nur ihre Form ändert sich. Klein, regelmäßig und beiläufig schlägt einen seltenen großen Ausflug. Zieht sich ein älteres Kind von allem und jedem zurück, was ihm früher Freude gemacht hat, ist dieser Rückzug ein Wort mit eurer Kinderärztin oder eurem Kinderarzt wert."
+          }
+        ]
+      }
+    ]
   }
 }

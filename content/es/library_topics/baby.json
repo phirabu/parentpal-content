@@ -94,6 +94,179 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "baby_script_01_es",
+        "title": "El sentimiento que asusta: dudar de si querías esto",
+        "scenario": "Unas semanas después del parto, te descubres con el ánimo apagado, con resentimiento, preguntándote incluso si de verdad querías esto — y encima aterriza un segundo miedo: que sentir esto signifique que algo anda mal contigo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Dite, sin adornos: \"No estoy fallando ningún examen. Esto es de lo más exigente que existe, y está hecho para ponerme a prueba.\"\n\nLa frase completa, no solo la mitad aceptable: \"Mantengo a este bebé alimentado, abrigado y querido — y también extraño tanto mi vida de antes que duele.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nombra que este agobio encaja con la situación, no es una señal de que el problema seas tú\n- Deja que los sentimientos sean mixtos y contradictorios — el amor, el duelo, el aburrimiento y el resentimiento pueden compartir la misma hora sin que ninguno sea el \"verdadero\"\n- Protege una cosa pequeña que te ayude a sentir que sigues siendo tú, y nombra en voz alta lo que perdiste en lugar de fingir que no perdiste nada\n- Reponte antes de vaciarte del todo: suelta al bebé veinte minutos sin tener que ganártelo primero\n- Cuéntale a una persona de confianza la versión sin editar — el alivio está en la compañía, no en que te arreglen el problema"
+          },
+          {
+            "title": "Después",
+            "content": "El agobio ordinario llega en oleadas y afloja entre una y otra. Un estado de ánimo bajo que no cede, la incapacidad de funcionar, pensamientos que asustan, o rabia hacia el bebé, es otra cosa, y merece ayuda real — habla con tu médico o con tu matrona o partera."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "El agobio ordinario es distinto de la depresión o la ansiedad posparto. Una desesperanza persistente, pensamientos intrusivos, o impulsos de hacerle daño al bebé, merecen contacto inmediato con un médico, una matrona o partera, o una línea de crisis. Esto es común y tratable, no motivo de vergüenza."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_02_es",
+        "title": "¿Voy a malcriar a mi bebé si no salto cada vez?",
+        "scenario": "Tu bebé protesta y una parte de ti salta a resolverlo — pero también has escuchado que \"lo vas a malcriar\", y ahora no sabes si responder con palabras en lugar de una solución instantánea, o tomarte un momento, le está haciendo daño en silencio.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nombra el deseo mientras actúas: \"Quieres que te cargue. Te escucho — ya voy.\"\n\nCuando necesitas un momento: \"No te gusta esperar, y lo entiendo. Ya casi termino, y después mis manos son tuyas.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Confía en que el amor que responde no malcría a un bebé — construye la seguridad desde la que más adelante va a explorar el mundo\n- Nombrar el deseo ya cuenta como una respuesta real, no como una forma de ganar tiempo: el mensaje que tu bebé recibe es \"alguien me ve y está de mi lado\"\n- Usa cualquiera de los dos caminos según convenga — resolverlo ahora, o reconocerlo y atenderlo en un momento; el segundo no es el camino de segunda categoría\n- Nunca te saltes el reconocimiento en voz alta, aunque estés a punto de resolverlo de todas formas — esa es la parte que tranquiliza\n- Tómate un minuto contado para una necesidad genuina cuando tu bebé esté a salvo, siempre que nombres la espera en lugar de quedarte en silencio"
+          },
+          {
+            "title": "Después",
+            "content": "Esa capacidad de respuesta temprana que te preocupa es justo lo que hace crecer, más adelante, a un niño seguro e independiente. No estás creando un mal hábito: estás construyendo una base."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_03_es",
+        "title": "A salvo pero furioso: cuándo no rescatar a tu bebé",
+        "scenario": "Tu bebé se estira hacia un juguete que le queda justo fuera del alcance de los dedos — o se esfuerza por darse la vuelta — y cada segundo que pasa se pone más ruidoso y más rojo. No pasa nada malo, pero cada célula de tu cuerpo quiere lanzarse a resolvérselo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Nómbralo y quédate: \"Lo quieres muchísimo, y te queda justo fuera de alcance. Qué frustrante. Aquí estoy contigo.\"\n\nDite primero: \"Aquí no pasa nada malo. Esto es trabajo duro, no una emergencia. Puedo respirar y quedarme.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Clasifícalo antes de actuar: la frustración recibe tu compañía tranquila; el miedo o el peligro reciben un rescate inmediato. Ante la duda, consuela\n- Toma una respiración para estabilizarte antes de responder — esa sola pausa cambia lo que le transmites a tu bebé\n- Quédate cerca y narra con calma en lugar de borrar la lucha; tu estabilidad es la ayuda\n- Fíjate en tus propias ganas de arreglarlo, y déjalas pasar — el impulso muchas veces tiene que ver con tu comodidad tanto como con la suya\n- Recurre a la distracción solo de vez en cuando; si te apoyas en ella siempre, le enseña a escapar del sentimiento en lugar de darle espacio para quedarse con él"
+          },
+          {
+            "title": "Después",
+            "content": "Tu presencia tranquila durante la lucha importa mucho más que la rapidez con la que llegue la habilidad, o cómo se compare tu bebé con otros. Si de verdad te preocupa su desarrollo, esa es una conversación para tu pediatra — no una comparación casera."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_04_es",
+        "title": "Las tres de la madrugada, y quien se está derrumbando eres tú",
+        "scenario": "La casa está a oscuras, el bebé se remueve otra vez, y quien de verdad se está ahogando ahora mismo eres tú: con soledad, con el cuerpo exprimido hasta el final, temiendo el siguiente tramo de la noche.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Dite, despacio: \"Somos muchísimos los que estamos despiertos en este mismo minuto. Puedo sentir todo este cansancio y aun así seguir firme.\"\n\nY: \"Esta hora es dura, y esta hora va a pasar.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Estabilízate primero con una respiración larga antes de hacer nada por el bebé\n- Dale a lo que sientes tú en plena madrugada la misma ternura que le darías a lo que siente tu bebé — es real y cuenta\n- Recuerda que de verdad no estás en soledad: ahora mismo hay incontables personas despiertas y cuidando bebés, igual que tú\n- Mantén tus propias expectativas pequeñas por la noche — mantenerte amable y a salvo es todo lo que hace falta, no optimizar nada\n- Organiza de día, cuando de verdad puedas pensar con claridad, tu propio descanso y tus peticiones de ayuda"
+          },
+          {
+            "title": "Después",
+            "content": "El agotamiento y el pavor nocturnos son un límite humano, no un defecto de carácter. Si se endurecen hasta convertirse en una desesperanza que no cede, cuéntaselo a tu médico o a tu matrona o partera — tú también importas aquí."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Si el agotamiento nocturno se inclina hacia un estado de ánimo bajo persistente, desesperanza, o pensamientos intrusivos, contacta cuanto antes a tu médico o a tu matrona o partera."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_05_es",
+        "title": "¿Entrar o esperar? La pregunta sin número mágico",
+        "scenario": "Un despertar nocturno te detiene en seco en el pasillo, dando vueltas al mismo bucle: ¿entro ya?, ¿cuánto es demasiado?, ¿lo estoy dejando llorar más de la cuenta?",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Dite: \"Primero lo físico. Después leo el llanto. Comprobar nunca es la decisión equivocada.\"\n\nLeyéndolo: \"Alimentado, seco, abrigado, a salvo — esto suena al llanto de protesta, no al llanto de miedo.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Descarta lo físico antes que nada — hambre, un pañal mojado, demasiado calor o frío, cualquier cosa insegura. Este paso no es negociable y va primero\n- Una vez descartado eso, toma la única decisión que te corresponde a ti: ¿esto suena a frustración, o a miedo? Consuela el miedo de inmediato; a la frustración puedes darle un ritmo más lento y tranquilo\n- Ten en cuenta tu propio reflejo — si saltas al primer sonido, o si toleras bien la protesta — para responderle a tu bebé y no a tu costumbre\n- Cuando de verdad no logres leerlo, entra; no hay premio por esperar"
+          },
+          {
+            "title": "Después",
+            "content": "No existe un número de minutos correcto para todos — quien te dé uno está adivinando. Cualquier pregunta sobre un método concreto de entrenamiento del sueño, o sobre cuánto tiempo dejar llorar a un bebé, le corresponde a tu pediatra o a un profesional certificado en sueño infantil. Un llanto que parece de dolor, o que viene con fiebre o un bebé al que cuesta despertar, es primero un asunto médico."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "La lectura conductual solo aplica una vez descartadas las causas físicas y médicas. Los métodos concretos de entrenamiento del sueño y la duración del llanto deben decidirse con tu pediatra o un profesional certificado en sueño infantil, nunca a partir de consejos generales."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_06_es",
+        "title": "Un plan de verdad para dejar el chupete",
+        "scenario": "Ya decidiste dejar atrás el chupete (o el dedo), y lo que quieres es un plan de verdad — no un recordatorio más de que esto es normal.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Replantéalo con calidez: \"Quieres mucho a tu chupete — ayuda a que tu cuerpo se sienta tranquilo. Vamos a buscar otra forma de conseguir esa misma calma.\"\n\nSosteniendo el límite: \"Lo sé. Lo quieres de verdad. Ahora vive en su caja, y me voy a quedar aquí contigo mientras estás triste por eso.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nombra tu propio motivo para cambiar esto ahora antes de empezar; si no encuentras ninguno, quizás todavía no es el momento\n- Elige un tramo tranquilo sin otros grandes cambios encima — nada de mudanza, hermano nuevo, o cuidador nuevo en la misma temporada\n- Sostén el límite con calidez y firmeza a la vez, y deja que las emociones sean grandes — puedes actuar con total cariño y con total firmeza al mismo tiempo\n- Ofrece un reemplazo para el consuelo que estás retirando: otro objeto de apego, un contacto ligero y calmante, una respiración lenta que hagan juntos\n- Prepárense y ensayen primero de día — hablen de qué cambia y qué se queda igual, quizás dejando que un juguete favorito \"vaya primero\""
+          },
+          {
+            "title": "Después",
+            "content": "Una noche difícil no es un adelanto de para siempre — la repetición constante y cariñosa lo va asentando. Cualquier duda sobre los dientes, el paladar o el habla le corresponde a tu odontopediatra o a tu pediatra, no a un juicio casero."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_07_es",
+        "title": "De la cuna a la cama sin miedo",
+        "scenario": "Se acerca el paso de la cuna a una cama de verdad, y ya te estás preparando para lo peor — que se levante, que salga a deambular, que se resista a un orden que antes se sostenía solo con cuatro paredes.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Prepárenlo de día: \"Tu cama grande ya es tuya, y viene con una sola regla — después de apagar la luz, nos quedamos bien tapaditos. Voy a ayudar a tu cuerpo a aprenderlo, y primero vamos a practicar.\"\n\nEn la puerta, con calidez y en voz baja: \"Es hora de dormir. De vuelta a la cama. Te quiero. Estoy cerca.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ten claro tu motivo y elige una temporada tranquila sin nada más grande cambiando a la vez\n- Prepárense y ensayen: recorran la nueva rutina jugando de día para que la noche real se sienta conocida\n- Ofrece un ancla de reemplazo para lo que antes daban las paredes de la cuna — una manta especial, un peluche, una luz tenue que tu hijo o hija ayude a elegir\n- Mantén cualquier regreso a la cama tranquilo, cálido y sin dramatismo; una reacción grande, en cualquier dirección, se convierte en el motivo para repetirlo\n- Sostén el límite mientras permites la protesta — su disgusto es un sentimiento, no la prueba de que el cambio está mal"
+          },
+          {
+            "title": "Después",
+            "content": "Espera que esto se asiente en un par de semanas de constancia tranquila y sin dramatismo — una noche movida no es el nuevo para siempre. Un niño o niña que ya puede salir de la cama necesita un cuarto completamente a prueba de accidentes y muebles bien anclados."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prepara el cuarto a prueba de accidentes y ancla los muebles — un niño o niña que ya puede salir de la cama por la noche necesita un cuarto seguro. Evita la sujeción física; mantén los regresos a la cama tranquilos y suaves."
+          }
+        ]
+      },
+      {
+        "id": "baby_script_08_es",
+        "title": "Cuando la crisis te hace dudar de tu decisión",
+        "scenario": "Decidiste dejar la lactancia. Al tercer día, la protesta a la hora de dormir sigue siendo enorme — larga, llena de lágrimas, buscando la rutina antigua — y su tamaño hace tambalear toda la decisión.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Dite primero: \"Querer parar ya es razón suficiente. Una protesta grande es un sentimiento, no un veto.\"\n\nSosteniéndolo con calidez: \"La teta ya se acabó. Puedes estar muy triste, y me voy a quedar aquí contigo.\"\n\nNombrando lo que permanece: \"Seguimos abrazándonos, seguimos leyendo, seguimos teniendo nuestro rato tranquilo. Esa parte no se va a ningún lado.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Deja que tu propio deseo sea el punto de partida, aparte de si tu hijo o hija parece \"listo\" según algún criterio externo\n- Prepara el terreno fuera del momento de tensión — nombra con calma y con antelación qué va a cambiar y por qué\n- Sostén el límite con suavidad, y físicamente si hace falta, impidiéndolo con calma mientras validas el sentimiento; un límite describe lo que tú vas a hacer, no algo que le exiges aceptar a tu hijo o hija\n- Deja que la culpa venga en el asiento de atrás sin dejarla conducir — puedes sentirla y aun así mantener tu decisión\n- Dale otros cauces a la cercanía que traía la lactancia — abrazos, cuentos, unos minutos especiales"
+          },
+          {
+            "title": "Después",
+            "content": "Una protesta fuerte no es prueba de que tu hijo o hija \"no está listo\" — es prueba de que tiene sentimientos sobre un cambio, lo cual es esperable. Todo lo relacionado con el momento o el cómo del destete, o cualquier duda física sobre ti o sobre tu hijo o hija, le corresponde a tu matrona o partera, tu pediatra, o una consultora de lactancia."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Sostén los límites con suavidad; evita la sujeción física más allá de bloquear el comportamiento con calma. El momento, el método, y cualquier duda física o de salud sobre el destete le corresponden a tu matrona o partera, tu pediatra, o una consultora de lactancia."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -94,6 +94,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "confidence_script_01",
+        "title": "A Relative Praises Your Child's Looks or Brains — To Their Face",
+        "scenario": "At a family lunch, an aunt keeps telling your child, right to their face, how gorgeous and clever they are. Kindly meant — but you can feel it landing as pressure. You don't want to correct your aunt, and you don't want the label to stick.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "In the moment, light, no correction of the adult: \"She's got a lot of opinions about you — lucky you!\" and move on.\n\nLater, one-on-one: \"Auntie called you smart and pretty a bunch today. What was that like to hear? … No wrong answer — I'm just curious.\"\n\nIf they liked it: \"Makes sense, it feels nice. And you're so much more than either of those.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't contradict the other adult in front of your child — it makes a scene and teaches nothing\n- Later, hand the label back to your child to weigh, without supplying the verdict yourself\n- Aim your own follow-up praise at what they control — how kind, how curious, how hard they try"
+          },
+          {
+            "title": "Follow-up",
+            "content": "This is a repeatable move, not a one-off. Over time your child learns to treat any label — flattering or not — as an outside opinion to notice, not a fact to swallow."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_02",
+        "title": "\"I Can't Do Anything Right\" in the Middle of Something Hard",
+        "scenario": "Your child is mid-way through building a marble run that keeps collapsing, and out it comes: \"I can't do anything right. I'm the worst.\" They're not lazy and not really quitting — they're stuck and flooded.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "First, the kind read, out loud: \"You're not bad at this. You hit a hard part and it's getting to you.\"\n\nName the voice: \"Sounds like that never-good-enough voice got loud. What's it saying?\"\n\nThen the braver one: \"Okay — what could your other voice say back? … 'This part's tough, and I've done tough before.' Want to borrow that one?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Read the meltdown as an unnamed hard feeling, not laziness — respond with curiosity, not a pep talk or a consequence\n- Separate the thought from the child: it's a voice they're hearing, not the truth about them\n- Stay near and let them try the next small piece with you, no takeover"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Later, calm, plant the heads-up: \"Next time we build, let's guess when the never-enough voice shows up — so it can't ambush you.\" For coaching the task itself in the moment, see the frustration-tolerance guide."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_03",
+        "title": "When a Half-Finished Project Gets Crumpled in Frustration",
+        "scenario": "Your child was shaping a clay dog. The legs keep flopping, and suddenly they squash the whole thing flat: \"It's stupid. I'm done.\" The tears are right behind it.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Meet the feeling, not the clay: \"Ohh. It wasn't turning out the way you pictured, and that is so frustrating.\"\n\nGive the urge a shape: \"That squash-it-all feeling — that's the 'if it's not perfect it's ruined' voice. I get that one too.\"\n\nOffer the door back: \"The dog can rest. When you're ready, we can fix one leg — just one — together. Or start fresh. Your call.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't rescue the object or scold the squashing — go to the disappointment underneath it\n- Name the perfectionistic urge as a part, so it isn't the whole child\n- Leave the choice to re-enter with them; forced continuation feeds the voice"
+          },
+          {
+            "title": "Follow-up",
+            "content": "On a calm day, model your own version: fumble something small on purpose, say \"not perfect — still good enough,\" and let them watch you keep going."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_04",
+        "title": "\"Do I Look Good?\" — The Everyday Mirror Question",
+        "scenario": "Getting dressed for the day, your child spins around: \"Do I look pretty? Does this look good on me?\" No crisis — just an offhand ask, eyes on you for the verdict.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Hand the question back: \"Ooh — how does it feel to YOU? Comfy? Fun to move in? That's the part that counts.\"\n\nAnswer the bigger question underneath: \"And if you're asking whether you're great exactly as you are — you are, dressed any which way.\"\n\nSkip the rating: not \"yes, gorgeous!\" but \"you look like you, and I love that.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Treat the looks question as a stand-in for \"am I okay?\" and answer that one warmly\n- Redirect to how the outfit feels and what they like, not your external score\n- Keep your own comments aimed at function and feeling over appearance"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If the mirror-checking turns frequent or anxious, notice what else is going on that week — the question often spikes when something unrelated has them feeling wobbly."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_05",
+        "title": "Catching \"You're So Smart!\" Before It Leaves Your Mouth",
+        "scenario": "Your child solves a puzzle fast and looks up, glowing. \"You're so smart!\" is halfway out of your mouth — and you remember you wanted to praise differently, without going cold on a real win.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Swap the label for the process, warmth intact: \"Whoa — how did you figure that out so fast? Show me your thinking!\"\n\nName the doing, not the trait: \"You tried three ways and stuck with it till it clicked. THAT'S the good stuff.\"\n\nYou can still cheer the win — just aim it: \"That was hard and you got it, because you kept at it.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Keep the warmth; only move the weight from \"who you are\" to \"what you did\"\n- Praise verbs they can repeat tomorrow — tried, stuck with it, noticed, fixed\n- Don't fake effort praise on something easy; find the real doing to name"
+          },
+          {
+            "title": "Follow-up",
+            "content": "No need to ban \"smart.\" Just let effort get the spotlight most days, and watch your child start narrating their own effort back to you."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_06",
+        "title": "Your Child Overhears You Criticize Your Own Body",
+        "scenario": "Yanking at your shirt in the mirror, you mutter \"ugh, I look awful in this.\" A small voice behind you: \"Mama, do you not like your body?\" You didn't know they were there.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Don't wave it off — repair plainly: \"You heard me being unkind about my own body. That wasn't fair — to me, or to your ears.\"\n\nModel the reset: \"My body carried groceries and gave good hugs today. It's a good body. I'm going to talk to it nicer.\"\n\nReturn to them, no appearance verdict: \"And your body is yours and good, full stop.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name it and course-correct rather than pretending they didn't hear\n- Show the repair out loud — kids learn as much from the fix as they'd have absorbed from the slip\n- Move your hard body-talk out of earshot going forward — process it with another grown-up"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Let your child regularly see you enjoy your body plainly — moving, resting, doing — not evaluating it. That's the quiet lesson that outlasts any single slip."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_07",
+        "title": "A Doctor or Coach Comments on Your Child's Size — In Front of Them",
+        "scenario": "At a checkup, the doctor says, right in front of your seven-year-old, that they should \"watch the weight.\" You see your child's face fall. You have about two seconds.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Calm, in the room, declining the framing: \"We keep body-size talk out of the room with her — her body's doing exactly what it should. If there's something medical, let's you and I talk separately.\"\n\nTo your child, warmly: \"Your body is good and strong. That's grown-up stuff for me to sort out, not yours to carry.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Your calm counter-statement in the room matters more to your child than the original comment\n- Afterwards, set the channel once and plainly — with the practice, the coach, the relative: anything about her body or weight comes to us adults directly, not to her\n- Take any real medical concern about eating, growth, or weight to the pediatrician privately — never make it your child's problem or a diet"
+          },
+          {
+            "title": "Follow-up",
+            "content": "For an older child, debrief gently later: \"That felt yucky when the doctor said it, huh. I didn't love it either. You just get to like your body — the numbers are for me and the doctor to sort out.\" If eating or growth is a genuine worry, that is a private, professional conversation."
+          },
+          {
+            "title": "Safety note",
+            "content": "Route any concern about eating, growth, or weight to your pediatrician privately; never restrict a child's food without medical guidance."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_08",
+        "title": "Your Child Loudly Points Out a Stranger's Body in Public",
+        "scenario": "On the city bus, your child asks at full volume, pointing: \"Why is that lady in a wheelchair?\" Three rows hear it. Your face goes hot.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Plain and unhurried — no shushing, no speech: \"She uses a wheelchair to get around. Lots of people do.\"\n\nThen turn the person back into a person: \"Want to say hi when we go past?\"\n\nIf your child keeps drilling, park it warmly: \"Great question. Let's talk about it properly at home — I'll tell you everything I know.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Answer the actual question in one calm sentence — a hot \"shhh!\" teaches that bodies are shameful to mention\n- Shift from observing to greeting where it fits; a wave treats the person as someone to meet, not something to explain\n- Save the full curiosity conversation for home, and actually have it"
+          },
+          {
+            "title": "Follow-up",
+            "content": "At home, open it back up: \"You asked about the lady on the bus. What did you want to know?\" Answer plainly. Then the house rule, in both directions: \"Bodies aren't for public comments — other people's or yours. Questions always come to me, any time.\""
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_09",
+        "title": "The Same Harsh Phrase, Task After Task",
+        "scenario": "It's not just one bad moment anymore. \"I'm so stupid,\" \"I always mess up,\" \"I ruin everything\" — you're hearing it across homework, drawing, getting dressed, most days this month.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Name the pattern kindly: \"I keep hearing that voice call you stupid. It's around a lot lately, huh.\"\n\nSeparate voice from child: \"That's a voice you're hearing — it is not the truth about you, even when it's loud.\"\n\nGrow the counter-voice on purpose, daily: \"Let's catch one thing your brave voice can say, and practice it when things are calm — not only when it's hard.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Work the naming technique consistently — a harsh voice this frequent needs repetition, not one talk\n- Look for patterns: a certain subject, time of day, or pressure that reliably sets it off\n- Keep offering the kinder read even when it doesn't seem to land yet"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Some self-criticism is normal; this much, this often, is worth watching. If the harshness stays constant for weeks despite steady support, or comes with sadness, withdrawal, or \"I wish I wasn't here,\" don't wait it out alone — check in with your pediatrician or a child therapist."
+          },
+          {
+            "title": "Safety note",
+            "content": "If self-critical talk includes hopelessness or any wish not to exist, seek professional support promptly."
+          }
+        ]
+      },
+      {
+        "id": "confidence_script_10",
+        "title": "After You Snap: Getting Past Your Own Guilt",
+        "scenario": "You lost it — sharper than you meant — over something small. Now your child is fine and playing, and you're stuck replaying it, sliding toward \"I'm a terrible parent.\"",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, the kinder-but-honest read: \"I snapped. That's a thing I did — not the kind of parent I am. I can own it and repair it.\"\n\nOut loud to your child, the repair: \"I used a big sharp voice earlier, and that wasn't about you. I'm sorry. I'm working on it.\"\n\nNot the spiral, not the excuse — just: \"Missed that one. Repair, reset, keep going.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Give yourself the same generous read you'd give your child — harsh self-judgment models the harsh voice\n- Separate the action (\"I snapped\") from your identity (\"I'm bad at this\") — one you can fix, the other just sinks you\n- Repair simply and specifically; don't over-apologize or make your child comfort you"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Self-kindness here isn't letting yourself off the hook — it's what frees up the energy to actually change the pattern. A parent who can recover models the exact resilience you want for your child."
+          }
+        ]
+      }
+    ]
   }
 }

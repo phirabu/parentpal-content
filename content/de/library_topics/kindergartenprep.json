@@ -122,6 +122,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "kindergartenprep_script_01",
+        "title": "Immer noch Tränen beim Abschied, drei Wochen später",
+        "scenario": "Es ist nicht mehr der erste Tag, es ist Woche drei, und dein Kind schluchzt und klammert immer noch jeden einzelnen Morgen an der Klassenzimmertür. Du fragst dich langsam, ob etwas nicht stimmt, oder ob du dich zurückhalten solltest.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "An der Tür, warm und kurz, dann gehen: „Eine feste Umarmung, unsere zwei Worte, und ich bin nach dem Snack wieder da. Du kannst schwere Dinge schaffen, und wir sehen uns bald.\"\n\nFleht es, dass du bleibst: „Ich weiß, du willst, dass ich bleibe. Ich kann nicht, UND du wirst das gut schaffen. Frau Bianchi ist direkt bei dir.\"\n\nZu dir selbst, beim Weggehen: „Sein Körper liest mein Gehen als Gefahr, obwohl er sicher ist. Meine Ruhe ist die Botschaft. Manche Kinder brauchen einfach länger.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Halt den Abschied jeden Tag kurz und immer gleich: dieselbe Umarmung, dieselben Worte, dann gehen, auch durch Tränen hindurch\n- Bleib nicht stehen und schleich dich nicht zurück; ein gedehnter oder wiederholter Abschied sagt seinem Körper, dass du selbst nicht sicher bist\n- Stell dir vor, wie er in ein paar Stunden ruhig und beschäftigt ist. Genau dieses Bild hält deine eigene Standfestigkeit an der Tür\n- Plan dir direkt danach einen Moment zum Durchatmen ein: ein Anruf bei einer Freundin, ein Spaziergang, zwei Minuten, um es zu fühlen. Ruhig zu gehen ist eine Fähigkeit, die auch du übst\n- Halt bei einem Kind, das langsamer Anschluss findet und Gefühle intensiver erlebt, genau dieselbe Routine länger durch: mehr Tage, kein neuer Plan"
+          },
+          {
+            "title": "Danach",
+            "content": "Frag die Lehrkraft, wie lange das Weinen anhält, sobald du weg bist. Die meisten Kinder beruhigen sich innerhalb weniger Minuten. Hält es sich über viele Wochen ohne jede Besserung, oder ist er den ganzen Tag über verzweifelt statt nur an der Tür, sprich mit der Lehrkraft und eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sprich mit dem Schulpersonal ab, wie sich dein Kind nach deinem Weggehen beruhigt. Sicherheit hat Vorrang; such professionelle Unterstützung, wenn die Verzweiflung stark oder anhaltend ist."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_02",
+        "title": "In der Schule perfekt, bei dir sofort am Ende",
+        "scenario": "Die Lehrkraft schwärmt von deinem ruhigen, hilfsbereiten Kind. Dann holst du es ab, und innerhalb von neunzig Sekunden gibt es Tränen, Gejammer und die Weigerung zu laufen, und du fragst dich, warum es sich das Schlimmste für dich aufhebt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Beim Abholen, leise und ruhig, wenige Worte: „Du hast deinen ganzen Tag geschafft. Ich hab dich jetzt. Lass uns einfach zum Auto gehen.\"\n\nBricht es zusammen: „Du hast dich so lange zusammengehalten. Das musst du jetzt nicht mehr. Ich bin dein sicherer Hafen.\"\n\nZu dir selbst: „Das ist kein schlechtes Benehmen. Das ist er, wie er bei der einen Person endlich loslässt, der er am meisten vertraut.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Sieh es neu: Den ganzen Tag hat er sich für andere zusammengerissen, und bei dir darf endlich alles raus. Das ist Vertrauen, kein Trotz\n- Setz auf einen Snack und deinen ruhigen Körper, nicht auf Fragen oder Korrekturen. Der abwägende Teil seines Gehirns ist mitten in der Flut offline\n- Halt die Anforderungen in der ersten Zeit nach dem Abholen so gering wie möglich: kein „Wie war dein Tag\", keine Nachbesprechung, wenn irgend möglich keine Erledigungen\n- Rechne mit der größten Entladung genau an den Tagen, an denen er „in der Schule so brav war\". Je fester der Deckel den ganzen Tag saß, desto größer das Ausatmen"
+          },
+          {
+            "title": "Danach",
+            "content": "Hat er gegessen, sich ausgeruht und beruhigt, sickert der echte Tag oft nebenbei durch. Bleibt der Zustand nach der Schule stundenlang extrem, jeden Tag, über Wochen, oder wirkt er dauerhaft flach und freudlos statt nur erschöpft, sprich mit eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sorge für eine sichere Umgebung beim Abholen und beim Übergang danach. Sicherheit hat Vorrang; such professionelle Unterstützung, wenn die Verzweiflung extrem oder anhaltend ist."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_03",
+        "title": "Am Anfang liebte sie die Schule, jetzt plötzlich nicht mehr",
+        "scenario": "Die ersten Tage waren ein Traum: Sie ist reingehüpft, hat dir gewunken und den ganzen Nachmittag erzählt. Jetzt, ein paar Wochen später, weint sie vorm Gehen und sagt, sie will nicht mehr. Es fühlt sich an, als würde alles wieder zerfallen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "„Du warst so aufgeregt wegen der Schule, und jetzt fühlt sie sich anders an. Das passiert fast allen: Das Neue und Glänzende nutzt sich ab, und der echte, ganz normale Alltag kommt zum Vorschein. Das heißt nicht, dass etwas nicht stimmt.\"\n\n„Wir gehen trotzdem weiter hin. Und ich glaube, du gewöhnst dich gerade noch daran, das braucht seine Zeit, und ich mach mir keine Sorgen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erkenne das Tief als das, was es ist: das normale Abflauen, wenn die Neuheit verfliegt, kein Zeichen, dass die Eingewöhnung gescheitert ist oder sie einen Rückschritt macht\n- Halt genau dieselbe Routine bei, widersteh dem Drang, alles umzukrempeln, sobald die Begeisterung nachlässt\n- Benenne weiter, dass Gewöhnung Zeit braucht, damit sie ihr eigenes Tief nicht auch noch als Problem liest\n- Bleib neugierig bei einem konkreten neuen Stolperstein, einem kniffligen Moment beim Mittagessen, einem schweren Teil des Tages, ohne gleich das Ganze als kaputt zu behandeln"
+          },
+          {
+            "title": "Danach",
+            "content": "Das Abflauen glättet sich meist über ein paar Wochen mit ruhiger, unspektakulärer Wiederholung. Rutscht sie in echte Angst, Panik oder einen Rückzug, der nicht nachlässt, zieh die Lehrkraft und eure Kinderärztin oder euren Kinderarzt hinzu."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; such professionelle Unterstützung, wenn sich die Verzweiflung über einige Wochen vertieft, statt nachzulassen."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_04",
+        "title": "„Ich hasse die Schule! Ich geh nie wieder hin!\"",
+        "scenario": "Dein Kind holt die größten Worte raus, die es hat: „Ich HASSE die Schule, ich geh NIE wieder hin\", und dein erster Impuls ist, es an all die Tage zu erinnern, an denen es glücklich nach Hause kam.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Begegne der Größe, nicht dem Satz: „Wow. Klingt, als wäre heute wirklich schwer gewesen. Erzähl mir, was passiert ist.\"\n\nNicht: „Aber gestern hast du doch noch gesagt, dass es dir gefällt\" oder „Das stimmt nicht, du hast dort doch Spaß.\"\n\nKann es noch nichts benennen: „Du musst noch nicht alles erklären können. Das war ein großes Gefühl, und ich bin genau hier.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Hör die drastischen Worte als Maß dafür, wie stark das Gefühl ist, nicht als wörtlichen Bericht, den es zu überprüfen gilt\n- Widersteh dem Drang zu widersprechen oder Gegenbeweise aufzuzählen. In diesem Moment korrigiert zu werden, lässt ein Kind sich ungehört und abgeschnitten fühlen\n- Reagiere zuerst auf die Intensität. Das konkrete, kleinere, echte Ereignis kommt meist von selbst zum Vorschein, sobald es sich getroffen fühlt\n- Halt die Grenze, dass die Schule stattfindet, unangetastet und getrennt vom Gefühl. Du kannst alles davon hören und trotzdem morgen wieder hingehen"
+          },
+          {
+            "title": "Danach",
+            "content": "Ist die Hitze vorbei, geh vorsichtig zum eigentlichen Moment zurück, einer schweren Begegnung, einer verwirrenden Aufgabe, und lös genau diese eine Sache gemeinsam. Verfestigt sich „Ich hasse die Schule\" zu täglicher Angst oder Furcht, sprich mit der Lehrkraft und eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; such professionelle Unterstützung, wenn die Verzweiflung deines Kindes wegen der Schule anhält oder in Angst umschlägt."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_05",
+        "title": "Der tägliche Kampf, morgens aus dem Haus zu kommen",
+        "scenario": "Jeder Schulmorgen ist ein Kraftakt: Trödeln, „Ich geh nicht\", Socken, die einfach nicht drangehen, und du nörgelst durch zusammengebissene Zähne, bis alle fix und fertig sind, noch bevor ihr überhaupt aus dem Haus seid.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Biete Bewegung an, keine Diskussion: „Jacke zuerst oder Rucksack zuerst? Du entscheidest.\"\n\nLandet ein „Ich geh nicht\": „Du willst heute wirklich nicht gehen. Das ist erlaubt, UND heute ist ein Schultag. Meine Aufgabe ist, dich sicher zu halten, und heute heißt das: Wir gehen.\"\n\nHalt es in Bewegung: „Der Bilderplan sagt, jetzt kommen die Schuhe. Ich wette, du schaffst es nicht vor mir zur Tür.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Häng den Morgen als Bilder an die Wand, nicht als gesprochene Minutenangaben. Ein kleines Kind kann anziehen-essen-Zähne-Schuhe befolgen und irgendwann selbst steuern\n- Leg dein Handy weg und nimm dir zuerst selbst zwei Minuten. Ein abgelenktes Elternteil bekommt Trödeln und Klammern zur Antwort\n- Flammt Widerstand auf, halt die Routine mit kleinen, echten Entscheidungen am Laufen, statt gegen das „Ich geh nicht\" zu argumentieren\n- Reicht Bewegung allein nicht, mach beides, in dieser Reihenfolge: Benenne das Gefühl, dann halte die Grenze, ohne dich zu entschuldigen. Erst Bestätigung, dann Grenze"
+          },
+          {
+            "title": "Danach",
+            "content": "Die meiste Morgenreibung legt sich, sobald der Ablauf sichtbar, vorhersehbar und von deinem Kind selbst gesteuert ist, statt genörgelt zu werden. Geht es morgens um echte Panik oder körperliche Verzweiflung, nicht nur um Widerstand, sprich mit der Lehrkraft und eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Verzichte auf körperlichen Zwang; halt Übergänge sicher. Such professionelle Unterstützung, wenn die morgendliche Verzweiflung stark ist."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_06",
+        "title": "Sich auf den allerersten Schultag vorbereiten",
+        "scenario": "Der erste Schultag steht bevor, und du willst dein Kind wirklich vorbereiten, nicht mit einer Aufmunterungsrede am Vorabend, sondern mit etwas, das tatsächlich hilft.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Countdown: „Siehst du diese Perlen? Jeden Morgen kommt eine runter. Wenn keine mehr da ist, ist dein erster Schultag. Du bestimmst, wann sie runterkommen.\"\n\nDie Lehrkraft vertraut machen: „Dein Lehrer heißt Herr Sandoval. Ich mag ihn jetzt schon: Ich hab gehört, er hat eine ganze Kiste Dinosaurier in der Leseecke.\"\n\nDen Abschied einüben: „So machen wir unseren Abschied, jeden Tag gleich: eine feste Umarmung, ‚bis bald', und ich geh los. Lass uns das erst mit Hase üben.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bau einen Countdown zum Anfassen, den dein Kind selbst bedient: Perlen, ein Stein im Glas, eine Wäscheklammer, die eine Zahlenreihe entlanghüpft, damit „bald\" zu etwas wird, dem es beim Schrumpfen zusehen kann\n- Mach das Unbekannte früh vertraut: den Namen der Lehrkraft warm einstreuen, ein Foto zeigen, falls die Schule eins hat, das Gebäude oder den Schulhof besuchen, wenn das geht\n- Entwirf einen kurzen, immer gleichen Abschied und übt ihn vor Tag eins im Spiel mit Kuscheltieren durch\n- Pack ein kleines Stück Verbindung ein, ein Foto von dir, eine Kleinigkeit von zu Hause, und verlager eine Morgenaufgabe auf den Vorabend"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne mit Nervosität, selbst nach guter Vorbereitung. Das Ziel ist, Überraschungen zu verringern, nicht Gefühle auf null zu bringen. Wächst die Angst über Wochen vor dem Start immer weiter oder kippt sie in Panik, sprich mit eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; such professionelle Unterstützung, wenn die Angst vor dem Schulstart stark oder anhaltend wird."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_07",
+        "title": "„Wie war die Schule?\" „Gut.\" (Und sonst nichts)",
+        "scenario": "Du willst unbedingt wissen, wie der Tag war, und jede Frage stößt auf dieselbe Mauer: „Gut\", „Nichts\", ein Schulterzucken, ein leerer Blick. Du fühlst dich ausgeschlossen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Lass die große, offene Frage beim Abholen weg. Später, wenn es angekommen ist, geh über Umwege.\n\nRate absichtlich falsch: „Lass mich raten, es gab Spaghetti als Snack, und ein Elefant hat euch besucht, oder?\" (Dann auf die begeisterte Richtigstellung warten.)\n\nTauscht eine wahre und eine erfundene Sache: „Eine wahre und eine lustige, erfundene Sache über meinen Tag, du rätst, welche welche ist. Dann bist du dran.\"\n\nHäng dich an eine bekannte Tatsache: „Ich weiß, ihr hattet heute Musik. Welches Lied habt ihr gesungen?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Fang nicht in dem Moment, in dem ihr euch wiederseht, mit „Wie war dein Tag\" an. Es kommt gerade erst wieder an und hat noch nichts parat, das es dir geben kann\n- Warte, bis es gegessen hat und angekommen ist. Das Timing bewirkt mehr als jede clevere Frage\n- Nutz spielerische, konkrete Formate: Auf etwas Kleines zu reagieren ist leicht, einen ganzen Tag aus dem Nichts zu erzählen nicht\n- Beginn mit einer konkreten Tatsache, die du schon kennst, damit es etwas zum Festhalten hat statt einer Leere, die es füllen muss"
+          },
+          {
+            "title": "Danach",
+            "content": "Stückchen des Tages sickern meist später durch, oft beim Zubettgehen oder im Auto, wenn niemand fragt. Wirkt es, als würde dein Kind aktiv etwas verbergen statt einfach nur anzukommen, hak sanft nach und sprich mit der Lehrkraft."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; wirkt es, als würde dein Kind Angst oder Verzweiflung verbergen, hak sanft nach und such bei Bedarf professionelle Unterstützung."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_08",
+        "title": "Die Lehrkraft sagt, dein Kind hat geschlagen oder ist ausgerastet",
+        "scenario": "Du bekommst die Nachricht, die sich kein Elternteil wünscht: Dein Kind hat jemanden verletzt oder ist in der Schule explodiert, und dir rutscht das Herz in die Hose. Ein Teil von dir will sofort nach Hause stürmen und Antworten verlangen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst, bevor du ein einziges Wort zu deinem Kind sagst: „Das ist mein ganzes Kind, nicht die schlimmsten zehn Minuten seines Tages. Ein Bericht ist keine Prognose.\"\n\nZu deinem Kind, neugierig statt anklagend: „Ich hab gehört, mit den Bauklötzen ist heute etwas Schweres passiert. Ich bin nicht sauer. Erzähl mir davon, wir sind im selben Team.\"\n\nFähigkeiten aufbauen statt verhören: „Wenn du dran sein willst und jemand nicht teilt, ist das ein wirklich schweres Gefühl. Lass uns üben, was dein Körper das nächste Mal stattdessen tun kann.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beruhige zuerst dich selbst. Ein überflutetes Elternteil verhört, und ein Verhör türmt nur noch mehr Scham auf den Vorfall\n- Erwisch die Katastrophengeschichte, die dein Kopf darüber erzählen will, wohin das „führt\", und leg sie beiseite. Erzieh das Kind, nicht die beängstigende Prognose\n- Verzicht auf das volle Geständnis. Kennst du die grobe Form dessen, was passiert ist, geh direkt zu dem, was dahintersteckte: Teilen, Warten, ein Plan, der zerbrach\n- Trenn „wer du bist\" von „was du getan hast\", laut ausgesprochen, und übt gemeinsam eine andere Reaktion für genau diesen Auslöser"
+          },
+          {
+            "title": "Danach",
+            "content": "Sprich mit der Lehrkraft als Team: was sie sieht, was du siehst, ein gemeinsamer Plan. Ist Aggression häufig, wird sie schlimmer, oder greift sie weit über die Schule hinaus, arbeite mit dem Fachpersonal der Schule und eurer Kinderärztin oder eurem Kinderarzt zusammen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit aller beteiligten Kinder hat Vorrang. Verzichte auf Beschämung oder körperliche Strafen. Such professionelle Unterstützung, wenn Aggression häufig auftritt oder zunimmt."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_09",
+        "title": "„Niemand mag mich. Ich hab keine Freunde.\"",
+        "scenario": "Dein Kind kommt niedergeschlagen nach Hause: „Niemand mag mich\", „Ich hatte niemanden zum Spielen.\" Das schnürt dir das Herz zu, und du willst es sofort in Ordnung bringen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Nimm es an, bevor du es reparierst: „Das laut auszusprechen war mutig. Ich nehme jedes Wort davon ernst. Erzähl mir alles.\"\n\nSchrumpf das große Wort auf das echte Ereignis: „‚Niemand' ist ein großes Wort. Wer war es heute, und was ist passiert, kurz bevor du dich ausgeschlossen gefühlt hast?\"\n\nVerbinde ehrliches Mitgefühl mit Hoffnung, ohne bei nur einem von beiden zu bleiben: „Das klingt gerade wirklich einsam. Und es wird sich nicht immer so anfühlen, da bin ich mir sicher.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Nimm zuerst an, berate später. Die Eile zur Lösung lehrt ein Kind, dass das Gefühl das Problem war\n- Widerlege „Niemand mag mich\" nicht mit Beweisen. Begegne der Größe des Gefühls, und such dann den einen echten Moment darunter\n- Widersteh dem Drang, jede raue Stelle wegzuglätten. Ein schwerer sozialer Moment, an deiner Seite durchlebt, ist genau der Ort, an dem die Bewältigungsmuskeln wachsen\n- Willst du tiefer an Freundschaften und konkreten sozialen Fähigkeiten arbeiten, nutz dafür das Material zu sozialen Fähigkeiten. Dieses Skript geht darum, zuerst sein sicherer Ort zu sein"
+          },
+          {
+            "title": "Danach",
+            "content": "Die meisten einsamen Tage vergehen mit einem offenen Ohr und etwas Zeit. Wird dein Kind wiederholt ausgeschlossen oder verletzt, ohne dass es nachlässt, oder fürchtet es sich deswegen vor der Schule, arbeite mit der Lehrkraft zusammen und sprich mit eurer Kinderärztin oder eurem Kinderarzt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; such professionelle Unterstützung, wenn der Ausschluss durch Gleichaltrige anhält oder dein Kind zurückgezogen oder ängstlich wird."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_10",
+        "title": "Dein Kind sagt, es wird gemobbt",
+        "scenario": "Dein Kind erzählt dir, dass ein anderes Kind ständig gemein zu ihm ist: schubsen, ausschließen, blöde Sprüche. Dein Alarm schnellt hoch, und du willst am liebsten sofort die Schule anrufen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Nimm es zuerst vollständig auf, bevor du irgendetwas tust: „Danke, dass du mir das erzählst. Das sollte nicht passieren, und ich bin so froh, dass ich es jetzt weiß. Erzähl mir alles: Wo wart ihr, was ist direkt davor passiert, und was danach?\"\n\nNimm ihm die Schuld ab: „Das ist nicht deine Schuld, und nichts an dir hat das verursacht.\"\n\nErst regulieren, dann Antworten einüben: „Lass uns dir erst helfen, dich stabiler zu fühlen. Wir finden gemeinsam heraus, was als Nächstes zu tun ist. Du gehst da nicht mehr allein durch.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Werd langsamer, bevor du eskalierst. Mit sofortigem Alarm zu reagieren oder die Schule zu stürmen kann ein Kind noch einsamer damit zurücklassen, nicht weniger\n- Stell sanfte, konkrete Fragen, weniger um Fakten zu sammeln, mehr um eine vertraute erwachsene Person neben eine Erinnerung zu stellen, die es zuerst allein durchstehen musste\n- Setz Selbstregulation und „das ist nicht deine Schuld\" vor jedes Coaching zu Gegenantworten. Eine zu früh eingeübte Antwort gibt nur einen zweiten Grund, sich als gescheitert zu fühlen\n- Kontaktierst du die Schule, geh als Team hin: Das hören wir, was seht ihr, können wir gemeinsam einen Plan bauen"
+          },
+          {
+            "title": "Danach",
+            "content": "Bleib nah dran und halte die Tür für mehr offen. Für anhaltendes Mobbing und den langfristigen Aufbau von Selbstvertrauen nutz das Material zu sozialen Fähigkeiten und arbeite direkt mit der Schule zusammen. Wird dein Kind verletzt oder hat es Angst, behandle es als dringend und zieh das Schulpersonal und professionelle Unterstützung hinzu."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Wird ein Kind körperlich verletzt oder hat es Angst, behandle es als dringend und zieh Schulpersonal und professionelle Unterstützung hinzu."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_11",
+        "title": "„Ich kann das nicht!\", und sofortiges Aufgeben",
+        "scenario": "Dein Kind trifft auf die erste schwere Stelle, ein Puzzleteil, das nicht passen will, ein Name, der auf dem Blatt nicht richtig rauskommen will, und bricht sofort zusammen oder schiebt es weg: „ICH KANN DAS NICHT.\"",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Benenne den Zwischenraum: „Du steckst gerade im Rausfinden-Teil, dem Stück zwischen ‚kann nicht' und ‚kann'. Es fühlt sich fest an, weil es sich genau so anfühlen soll. Da steht jeder mal.\"\n\nBestätige, rette nicht: „Das ist frustrierend. Du darfst sauer sein auf das Puzzle. Willst du hier eine Sekunde wütend sitzen und es dann noch mal probieren? Ich bleib genau hier.\"\n\nLob das Dranbleiben: „Du hattest es noch nicht raus, UND du bist drangeblieben. Genau darauf bin ich stolz.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Gib der Lücke zwischen Nicht-Wissen und Wissen einen Namen, auf den dein Kind zeigen kann. Sie mitten im Frust zu benennen wirkt selbst schon beruhigend\n- Widersteh dem Drang, es für dein Kind zu lösen. Einspringen lehrt, dass Kämpfen jemanden zur Rettung herbeiruft, statt einer Fähigkeit, die es auch allein nutzen kann\n- Spiegel Anstrengung und Dranbleiben, nicht Richtigkeit. Du baust „ein Kind, das immer weiter probiert\" auf, nicht „ein Kind, das es richtig macht\"\n- Halt die Aufgabe im Rahmen dieses Alters (ein Puzzle, ein Wort lautieren, den eigenen Namen schreiben) und pass die Herausforderung an das an, was dein Kind wirklich schon kann"
+          },
+          {
+            "title": "Danach",
+            "content": "Frust und „Ich kann das nicht\" gehören in diesem Alter zum ganz normalen Lernwetter. Wirkt dein Kind bei wirklich allem, was es versucht, freudlos, oder ist es auf eine Art hart mit sich selbst, die nicht nachlässt, sprich das bei eurer Kinderärztin oder eurem Kinderarzt an."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang; such professionelle Unterstützung, wenn dein Kind anhaltend hart mit sich selbst umgeht oder keine Freude mehr am Lernen zeigt."
+          }
+        ]
+      },
+      {
+        "id": "kindergartenprep_script_12",
+        "title": "Gerade festgestellt: Dein Kind tickt anders. Und jetzt?",
+        "scenario": "Eine Fachperson hat vor Kurzem eine Lern- oder Entwicklungsbesonderheit bei deinem Kind festgestellt, und du bist völlig durch den Wind: trauerst, googelst und weißt nicht mehr genau, wie du das Kind erziehen sollst, das du zu kennen glaubtest.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zu dir selbst: „Das ist kein Scheitern. Das ist eine andere Bedienungsanleitung, die ich gerade erst lesen lerne. Meine Aufgabe ist, zu verstehen, wie sie wirklich gebaut ist.\"\n\nZu deinem Kind, klar und warm: „Dein Gehirn funktioniert auf seine eigene Art, und das ist kein Problem, das repariert werden muss. Es heißt nur, dass wir manche Dinge gemeinsam ein bisschen anders machen.\"\n\nZu den anderen Erwachsenen in ihrem Leben: „So ist sie gebaut, und das hilft ihr wirklich, können wir da alle an einem Strang ziehen?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die Standardstrategien los, wenn sie nicht passen. Scheitert der übliche Weg immer wieder, trotz echter Anstrengung, ist das eine falsche Passung zu ihrer Bauweise, nicht dein Versagen\n- Gib dir selbst sanft die Erlaubnis, den Weg zu betrauern, den du dir vorgestellt hattest, ohne Schuldgefühl. Das ist keine Untreue gegenüber dem Kind vor dir, es schafft Raum, ihre Stärken zu sehen\n- Beobachte, wie sie sich schon jetzt reguliert: über Worte, Bewegung, Ruhe, Nähe oder Abstand, und bau darauf auf, statt es zu überschreiben\n- Investier in ihre echten Stärken, nicht nur in die schwachen Stellen, und such dir eine Gemeinschaft von Eltern auf einem ähnlichen Weg. Das bewirkt mehr als jede einzelne Technik"
+          },
+          {
+            "title": "Danach",
+            "content": "Behalt jede Frage zu Abklärung, Therapien und nächsten Schritten bei eurer Kinderärztin, eurem Kinderarzt und dem Fachpersonal der Schule. Sie sind die richtigen Ansprechpartner für den weiteren Plan. Lehn dich früh und oft bei ihnen an, du musst die Landkarte nicht allein herausfinden."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Das ist keine diagnostische Anleitung. Richte alle Fragen zu Abklärung und Behandlung an eure Kinderärztin, euren Kinderarzt und qualifiziertes Fachpersonal der Schule. Sicherheit hat Vorrang; such professionelle Unterstützung, wenn du unsicher bist."
+          }
+        ]
+      }
+    ]
   }
 }

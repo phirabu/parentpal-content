@@ -108,6 +108,205 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "defiance_script_01_es",
+        "title": "El muro de vestirse en una mañana fría",
+        "scenario": "Faltan minutos para salir, afuera hace un frío que cala, y tu hijo se ha plantado — sin abrigo, sin zapatos, brazos cruzados, un \"no\" plano para cada petición. Cuanto más lo apuras, más se afirma.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "\"No tienes que tener ganas de ponerte el abrigo. Se viene con nosotros de todas formas — puedes ponértelo aquí, donde hace calorcito, o llevarlo y decidir en el coche. Voy a estar junto a la puerta.\"\n\nSi se atasca, aligera: \"Plan loco: ¿nos mudamos a un país cálido para que nunca más tengas que usar abrigo?\"\n\nPara ti: \"No le impongo el abrigo. Hago que se venga con nosotros. Esa parte es mía.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Pon el límite real como tu propia acción: el abrigo se va con ustedes; que se lo ponga ahora o en el coche es de verdad su decisión\n- Ofrece la opción sobre el momento, y luego da un paso atrás en lugar de quedarte vigilando la decisión\n- Mueve tu propio cuerpo con calma hacia la puerta, en lugar de narrar su negativa\n- Mantén un tono despreocupado — tu urgencia es el combustible que alimenta el pulso"
+          },
+          {
+            "title": "Después",
+            "content": "Prepara la salida la noche anterior — la ropa lista, un margen de diez minutos de sobra — para que el reloj no sea un tercero metido en la pelea. La mayoría de los pulsos matutinos se achican cuando la presión del tiempo también lo hace."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_02_es",
+        "title": "La batalla nocturna de desenredar el pelo",
+        "scenario": "Todas las noches, sin falta, sale el peine y empieza la pelea — se retuerce para escapar, \"NO, duele\", un pulso por el pelo enredado que convierte un trabajo de dos minutos en veinte.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Valida primero la queja exacta: \"Algo del peine en tu cabeza de verdad no se siente bien. Te creo — tira del pelo, y ya estás cansado de esto.\"\n\nLuego ponte juguetón: \"¿Y si mejor dejamos que se convierta en un nido gigante? ¿Metemos un par de gorriones a vivir ahí? ¿Les ponemos nombre?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nombra la resistencia concreta (tira del pelo, es aburrido) antes de que el peine toque nada — sentirse comprendido baja la pelea\n- Prepáralo temprano y de la misma forma cada noche — el desenredante listo, el momento tranquilo — para que no sea una emboscada cada noche\n- Entrégale un poco de control real: que sostenga el spray, o que elija si empiezan por arriba o por abajo\n- Cuando se traba, ponte tonto; una risa compartida abre más cooperación que cualquier empujón"
+          },
+          {
+            "title": "Después",
+            "content": "Si de verdad le duele, baja la apuesta de todo el asunto — un peinado más corto, un spray sin enjuague, un peine de dientes anchos. Los pulsos que se repiten se calman más rápido cuando la parte sensorial se vuelve más fácil, no cuando ganas la discusión de cada noche."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_03_es",
+        "title": "\"No puedes obligarme a apagarlo\"",
+        "scenario": "El episodio acordado está terminando y tu hijo se planta — \"no puedes obligarme a apagarlo\" — y cada vez que te acercas a la pantalla, sube un escalón más.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Convierte el límite en tu propia acción: \"Cuando termine este episodio, voy a apagar la pantalla. No tienes que estar contento con eso.\"\n\nJunta el no con un sí: \"No voy a dejar que el programa siga — y tú eliges qué sigue: ¿fuerte de cojines o cama elástica?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Mantén el límite de tu lado: tú lo terminas en el punto acordado — no le exijas que él apriete el botón ni que entregue nada\n- Da un solo aviso (\"este es el último, y luego se apaga\"), y luego cúmplelo con calma, atravesando la protesta sin desviarte\n- Engancha algo atractivo al \"apagado\" para que la energía tenga a dónde ir\n- Espera la queja y no la leas como un fracaso — que el límite se sostenga YA ES el éxito"
+          },
+          {
+            "title": "Después",
+            "content": "Decide la regla de las pantallas en un momento de calma, no en medio del programa: un punto de parada fijo que tú haces cumplir (\"los programas terminan cuando suena el temporizador\"), para que no se renegocie desde cero cada vez."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_04_es",
+        "title": "La recogida que había aceptado — y luego se negó a hacer",
+        "scenario": "Bloques por todos lados, la cena está lista, y la recogida que acordaron hace una hora de repente es \"no es justo, no puedes obligarme\". Un trabajo pequeño se ha convertido en una línea que nadie cruza.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Ofrece una opción real, y entrégala de verdad: \"Puedes empezar por los bloques o por los carritos — cualquiera de los dos, es totalmente tu decisión.\" Luego aparta la mirada y déjalo hacerse cargo.\n\nSi está atascado: \"Eres el más rápido de esta casa ordenando bloques rojos. Adelante.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Ofrece una opción real de dos caminos que aceptas por completo, y luego deja de vigilar — la supervisión convierte la opción otra vez en un examen\n- Si está atascado, guíalo hacia la parte del trabajo en la que se siente un campeón, y deja que el resto lo siga — sin anunciar la jugada\n- Sáltate por completo el debate sobre lo justo; no lo vas a ganar, y no es el verdadero problema\n- Mantén la tarea pequeña y claramente posible, no un maratón"
+          },
+          {
+            "title": "Después",
+            "content": "Incorpora el trabajo a un ritmo predecible — recoger antes de cenar, cada noche — para que se vuelva una rutina en lugar de una negociación nueva cada tarde."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_05_es",
+        "title": "\"Yo no fui\" cuando los dos saben que sí",
+        "scenario": "La torre de bloques de tu hijo menor está hecha pedazos, el mayor estaba justo ahí, y ahora hay un \"yo no fui\" plano y duro como piedra — aunque los dos saben exactamente qué pasó.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Sáltate el interrogatorio: \"La torre se cayó y tu hermana está muy triste. No estoy jugando a ser detective — vamos a ayudar a arreglarla.\"\n\nMás tarde, una historia tuya: \"Cuando era chico, tiré a propósito toda la pista de canicas de mi hermano. Me dio tanta vergüenza que juré y perjuré que no había sido yo…\" — y ahí paras, sin ninguna moraleja pegada."
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- No exijas una confesión; eso arrincona a un niño lleno de vergüenza hacia una negación todavía más grande\n- Reconecta primero, y después invita a la reparación a través de una acción (ayudar a reconstruir) en lugar de un perdón forzado\n- Cuenta una historia corta y real de un tropiezo de tu propia infancia — incluyendo que tú también lo escondiste — y déjala sin terminar\n- Dale a la honestidad espacio para llegar después, a su propio ritmo"
+          },
+          {
+            "title": "Después",
+            "content": "La verdad puede aparecer horas o días después, una vez que baja la vergüenza. Cuando aparezca, recíbela con calidez — resiste el \"yo lo sabía desde el principio\", que solo le vuelve a enseñar que la honestidad se castiga."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_06_es",
+        "title": "\"¡Nunca más te voy a hacer caso!\"",
+        "scenario": "A mitad de una tarea, tu hijo estalla con la frase grande: \"¡NUNCA MÁS voy a hacer lo que me digas!\" Está diseñada para dar en el blanco, y las ganas de discutírsela son fuertes.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "No debatas la amenaza. Nombra el tira y afloja: \"Una parte de ti ya está harta de recibir órdenes ahora mismo. Y otra parte tal vez todavía quiere terminar. Las dos tienen sentido.\" Y luego espera.\n\nPara ti: \"Ahí habla un sentimiento muy grande, no un plan de vida.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Deja pasar la frase dramática sin discutirla — discutirla lo obliga a defenderla\n- Nombra el conflicto interno en voz alta sin resolverlo, y dale después un espacio tranquilo para aterrizarlo\n- Guarda la psicología inversa como un recurso raro de último momento para un día sin batería — nunca como opción por defecto, y nunca anunciada\n- Mantente cálido; la amenaza es una bengala, no un veredicto sobre ti ni sobre su relación"
+          },
+          {
+            "title": "Después",
+            "content": "Más tarde, en calma, nombra la fortaleza que hay dentro de la tormenta — \"de verdad sostienes tu postura\" — para que esa voluntad feroz se lea como una virtud, y no solo como un problema."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_07_es",
+        "title": "Soltarse de la mano en el estacionamiento",
+        "scenario": "Cada cruce por el estacionamiento es la misma prueba — la mano se suelta de un tirón, el cuerpecito se desvía, y tú estás manejando la seguridad y una lucha de poder al mismo tiempo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Plantéalo como tu propia acción, de antemano: \"En los estacionamientos te mantengo conmigo — tu mano en la mía, o vas en el carrito. Ese es mi trabajo, no un castigo.\"\n\nOfrece una opción dentro de la regla: \"Mano o carrito — tú eliges. Pero uno de los dos, siempre.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Decide y anuncia la regla antes de abrir la puerta del coche, no después de que salga corriendo — para que no sea una negociación en vivo en un lugar peligroso\n- Convierte el límite en tu acción: tú sostienes la mano o lo sientas en el carrito; no dependes de que él decida quedarse cerca\n- Ofrece una opción real dentro de lo innegociable (mano o carrito) para alimentar la necesidad de control sin aflojar la seguridad\n- Si se suelta, vuelve a anclarlo con calma y sigue caminando — palabras mínimas, sin sermón"
+          },
+          {
+            "title": "Después",
+            "content": "Ensaya la regla en lugares de bajo riesgo — la entrada de la casa, un camino tranquilo — para que ya esté aprendida antes de que se ponga a prueba cerca de coches en movimiento."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. En zonas de tráfico, sostén, bloquea o dirige hacia un lugar seguro en lugar de perseguir; si tu hijo corre hacia un peligro real, la seguridad física va primero. Consulta la tarjeta de señales de alarma y el capítulo de rabietas sobre cómo sostener la seguridad en los grandes colapsos."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_08_es",
+        "title": "Cuando empiezas a caminar de puntillas alrededor de tu propio hijo",
+        "scenario": "Te sorprendes haciéndolo — te saltas el límite, retiras la petición, esquivas cualquier cosa que pueda desatar el colapso. La vida es más tranquila, pero has empezado a criar con miedo.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "A ti mismo, primero: \"Su reacción no es una emergencia que tenga que evitar. Puedo sostener un límite pequeño y mantenerme firme mientras ella está molesta.\"\n\nA tu hijo, un límite normal que llevabas tiempo esquivando, con sencillez: \"Esto lo hacemos ahora.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Nota el patrón sin castigarte por eso — ceder por adelantado en silencio es común y muy humano\n- Elige UN límite pequeño que hayas estado evitando y vuelve a ponerlo en su lugar, y luego deja que llegue la reacción\n- Mantente firme durante la tormenta; le estás enseñando que los sentimientos grandes se pueden atravesar y son bienvenidos, no que son demasiado para que alguien los sostenga\n- Espera un cambio gradual, no una vuelta de la noche a la mañana — esta es una palanca lenta, y de verdad funciona"
+          },
+          {
+            "title": "Después",
+            "content": "Cada límite que sostienes y aguantas hace que el siguiente sea más fácil para los dos. Si el temor está manejando tu crianza día a día, busca apoyo también para ti — consulta la tarjeta de señales de alarma."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_09_es",
+        "title": "\"¡Ella sí pudo, así que yo no!\"",
+        "scenario": "Tu hijo mayor se planta a la hora de dormir porque el menor pudo hacer algo que él no — y ahora su propia rutina se descarrila, por puro principio. \"No es justo, así que no.\"",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "No abras el tribunal de lo justo: \"Ustedes dos tienen planes distintos — así funciona aquí.\" Dicho una vez, y sigue adelante.\n\nPasa a tu propia acción, más una redirección: \"Voy a preparar tu baño. Y necesito el cambio de pijama más rápido de la historia — ¿crees que puedes lograrlo?\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Sáltate por completo el caso de lo justo; \"hijos distintos, planes distintos\" es toda la respuesta, dicha una vez y con calma\n- Cambia a tu propia acción en lugar de darle órdenes\n- Redirige hacia algo en lo que brilla — una carrera, un trabajo que es solo suyo — para romper el pulso sin nombrar la jugada\n- Cuida su tiempo individual por separado para que \"ella tuvo más\" cargue menos peso desde el principio"
+          },
+          {
+            "title": "Después",
+            "content": "Atender las necesidades reales de cada hijo — en lugar de repartir todo idéntico — reduce las peleas por justicia con el tiempo. Consulta el capítulo sobre adelantarse a las luchas de poder."
+          }
+        ]
+      },
+      {
+        "id": "defiance_script_10_es",
+        "title": "Cuando en pleno colapso sale volando una amenaza de hacer daño",
+        "scenario": "En el pico de una negativa, tu hijo grita que te va a hacer daño a ti — o a su hermano. Cae como una bofetada. Debajo de eso hay un niño asustado de lo grande y descontrolado que se siente.",
+        "steps": [
+          {
+            "title": "Qué decir",
+            "content": "Afirma el límite como consuelo, no como un reto: \"No voy a dejar que me hagas daño, y no voy a dejar que le hagas daño a tu hermano. Voy a mantener a todos a salvo. No estás en problemas — estás desbordado.\"\n\nOfrécele una salida a ese poder: \"Ese sentimiento tan grande y tan fuerte necesita un lugar a donde ir — empuja esta pared conmigo, tan fuerte como puedas.\""
+          },
+          {
+            "title": "Qué hacer",
+            "content": "- Respóndele al miedo que hay debajo de la amenaza, con calma y firmeza: no vas a permitir que nadie salga lastimado y vas a mantener a todos a salvo — dicho como consuelo, porque un niño que está probando sus propios límites necesita saber que un adulto de confianza no va a dejar que esto se pase de la raya\n- Una vez que eso cala, ofrece una salida segura para las ganas de sentirse poderoso (empujar una pared, apretar un cojín)\n- Mantén a todos a salvo bloqueando o cubriendo con calma, únicamente — nunca forcejeando ni sujetando\n- Habla menos; sé la presencia firme, no quien da el sermón"
+          },
+          {
+            "title": "Después",
+            "content": "Esto es un desafío que se inclina hacia un momento de seguridad. Para la respuesta general ante amenazas serias, consulta el capítulo sobre lo que dice tu hijo, en la parte de amenazas serias y temas de seguridad; si se vuelve físicamente peligroso, sigue el capítulo de rabietas sobre cómo sostener la seguridad en los grandes colapsos. Repara con calidez en cuanto todos estén tranquilos."
+          },
+          {
+            "title": "Nota de seguridad",
+            "content": "Prioriza la seguridad. Evita la sujeción física salvo que sea necesaria para prevenir un daño inminente; bloquea o cubre en lugar de sujetar. Sigue las indicaciones locales; busca apoyo profesional si tienes dudas. Ante amenazas de daño reales y específicas, consulta a un profesional de salud mental — consulta la tarjeta de señales de alarma."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -108,6 +108,283 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "listening_script_01",
+        "title": "Das Abendessen ist fertig, dein Kind rührt sich nicht",
+        "scenario": "Das Abendessen steht auf dem Tisch und wird kalt. Dein Kind sitzt auf dem Wohnzimmerboden, mitten in einer langen Parade aus Spieltieren, und hat sich nach drei Rufen „komm essen\" nicht vom Fleck bewegt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Geh zu ihm hin, runter in die Hocke, mach zuerst zehn Sekunden mit: „Wow, schau dir diese Parade an. Wer ist der Anführer?\"\n\nDann die Bitte, mit einem näheren Grund: „Die Tiere können den Tisch bewachen, während wir essen. Das Essen ist jetzt heiß, und du darfst dir deinen Platz aussuchen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Geh durchs Zimmer, statt quer hindurchzurufen: Eine Bitte braucht Verbindung, um anzukommen\n- Benenn zuerst, was dein Kind gerade tut, bevor du benennst, was du brauchst\n- Gib eine kleine Wahl oder einen näheren Grund, keinen Vortrag über kaltes Essen\n- Beschränk dich auf einen einzigen Schritt: jetzt an den Tisch kommen, alles andere wartet"
+          },
+          {
+            "title": "Danach",
+            "content": "Scheitert das Rufen aus der Küche immer wieder, mach „ich komme zuerst zu dir\" zum Standard, und bau eine Zwei-Minuten-Vorwarnung fest in die Zeit vor dem Essen ein."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_02",
+        "title": "Ein glattes „Nein\" zum Aufräumen",
+        "scenario": "Du bittest ruhig und nur einmal darum, die Stifte zuzumachen und das Malzeug vor dem Mittagessen wegzuräumen. Dein Kind bewegt sich nicht, nur ein glattes „Nein\".",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Halt zuerst inne: „Hmm. Okay.\" (Wirklich drei Sekunden stoppen.)\n\nBenenn den Wunsch unter dem Nein: „Du bist noch nicht fertig. Du wünschst dir, dass das Malen einfach weitergehen könnte.\"\n\nBestätige, ohne den Grund zu brauchen: „Aufhören fühlt sich für dich gerade irgendwie falsch an. Okay, ich muss das Warum nicht kennen, um es ernst zu nehmen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beantworte das erste „Nein\" nicht mit einer größeren zweiten Bitte: Das türmt nur Widerstand auf\n- Ziel unter die Weigerung, auf den Wunsch dahinter, nicht auf das Wort selbst\n- Biete eine Brücke an, keinen Kampf: „Eine letzte Farbe, dann räumen wir gemeinsam auf\"\n- Schnellt die Spannung hoch, brich sie mit Albernheit, bevor du sie mit Druck brichst"
+          },
+          {
+            "title": "Danach",
+            "content": "Verhärtet es sich zum Machtkampf, kitte zuerst den Moment, bevor du neu fragst. Ein verlässliches „letzte Farbe\"-Ritual macht das Aufhören beim nächsten Mal leichter."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_03",
+        "title": "Schlafenszeit zieht sich eine Stunde, ein Hinauszögern nach dem anderen",
+        "scenario": "Die Schlafenszeit ist ein Marathon. Jeder Schritt, Baden, Schlafanzug, Zähneputzen, wird zu einer eigenen Verhandlung, und aus einer Zwanzig-Minuten-Routine wird eine ganze Stunde.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Betritt kurz seine Welt, ein Puzzleteil, ein bewundernder Blick, bevor die Bitte kommt: „Lass uns das zusammen machen, nur wir zwei und die Bilderschritte.\"\n\nZu dir selbst, im Reingehen: „Langsam ist hier normal. Eine Nuance ruhiger als mein erster Impuls.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Verwandle die Routine in einen sichtbaren Streifen kleiner Bilder, dem dein Kind folgen kann, damit der Streifen führt, nicht deine Stimme\n- Zeig und mach einen Schritt nach dem anderen; kündige nicht die ganze Liste auf einmal an\n- Mach daraus ein sanftes Wettrennen oder Spiel statt einer Reihe von Befehlen\n- Beruhig zuerst dich selbst: Deine Ruhe erledigt die halbe Arbeit"
+          },
+          {
+            "title": "Danach",
+            "content": "Findet zu einem ruhigen, unabhängigen Zeitpunkt gemeinsam heraus, was die Schlafenszeit so schwer macht, und löst es zusammen. Lass den Bilderstreifen dort hängen, wo die Routine beginnt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_04",
+        "title": "Klettern soll aufhören, und schon geht's wieder hoch",
+        "scenario": "Dein Kind klettert immer wieder auf die Rückenlehne des Sofas, um herunterzuspringen. Du hast schon oft genug „runter da\" gesagt, und jede Minute ist es wieder oben.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Hör auf, dich zu wiederholen, sag stattdessen, was du tun wirst: „Ich hab oft genug gefragt, und dieses Klettern ist nicht sicher, also helfe ich dir jetzt runter. Und danach suchen wir dir eine echte Kletterstelle.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Hat „aufhören\" schon zweimal nicht gewirkt, handle beim dritten Mal, statt es noch einmal zu sagen: Heb dein Kind ruhig runter\n- Verändere die Umgebung: Schieb einen Stapel Bodenkissen heran, eine Stelle, wo Springen ausdrücklich erlaubt ist\n- Gib dem Kletterdrang ein Zuhause, statt ihn nur einzumauern\n- Bleib sachlich und warm im Ton; die Handlung ist die Grenze, nicht die Worte"
+          },
+          {
+            "title": "Danach",
+            "content": "Was eine Grenze überhaupt erst zu einer echten Grenze macht (eine, die nicht von der Zustimmung deines Kindes abhängt), steht in den Trotz-Leitfäden. Wie du den Drang umlenkst, steht in den Disziplin-Leitfäden. Beides passt direkt auf diesen Moment."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Beaufsichtige das Klettern und sichere Möbel, die kippen können. Beschränke körperliches Eingreifen darauf, dein Kind sanft in Sicherheit zu bringen. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_05",
+        "title": "„Nur eine Minute\" während deines Arbeitsblocks",
+        "scenario": "Du hast noch dreißig Minuten Arbeit am Küchentisch vor dir. Dein Kind kommt alle paar Minuten wieder rüber: eine Frage, ein Snack-Wunsch, etwas zum Zeigen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Verbind dich zuerst und richte es im Voraus ein: „Ich hab jetzt Erwachsenenarbeit für zwei Timer-Runden. Hier ist deine eigene Arbeitskiste, direkt neben mir. Wenn der Timer klingelt, gehör ich dir ganz, mit einer Riesenumarmung.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Zahl zuerst echte Aufmerksamkeit ein, vor dem Arbeitsblock, nicht nur danach\n- Richte eine Parallelbeschäftigung in Sichtweite ein, damit dein Kind in deiner Nähe ist, nicht ausgeschlossen\n- Nutz einen sichtbaren Timer, damit das Warten eine Form bekommt, die dein Kind sehen kann\n- Benenn das Wiedersehen klar, und halt dieses Versprechen in der Sekunde, in der der Timer klingelt"
+          },
+          {
+            "title": "Danach",
+            "content": "Fang mit kurzen Blöcken an und verlängere sie, wenn es klappt. Verbindung vor dem Block aufzufüllen verhindert die meisten Unterbrechungen währenddessen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_06",
+        "title": "Die stille Mauer, wenn der Bildschirm ausgeht",
+        "scenario": "Die Tablet-Sendung geht zu Ende, und dein Kind verstummt, kein „Nein\", nur eine Mauer. Jede Erinnerung perlt ab. Es bewegt sich nicht, widerspricht nicht, hört nicht auf.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Leg das Ende fest, bevor es losgeht: „Noch zwei Folgen, dann geht das Tablet schlafen, und du darfst den Timer starten.\"\n\nBei der Übergabe, spielerisch: „Uh oh, das Tablet gähnt schon. Es ist wirklich sehr müde. Sag ihm gute Nacht.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Entscheide und kündige das Ende von vornherein an: Der Kampf dreht sich fast immer ums Ende, nicht um die Mitte\n- Lass dein Kind den Timer starten, damit ein Stück Kontrolle bei ihm liegt\n- Bring Humor ins Abschalten, statt einer Countdown-Kette aus Warnungen\n- Behandle die stille Mauer als Überforderung, nicht als Trotz: Mach das „Aus\" zu einem Schritt, den ihr gemeinsam geht"
+          },
+          {
+            "title": "Danach",
+            "content": "Legt die Bildschirm-Ende-Routine zu einem ruhigen Zeitpunkt gemeinsam fest. Taucht die Mauer immer wieder auf, ist das ein Zeichen, dass das Ende einen Plan braucht, keine weiteren Erinnerungen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_07",
+        "title": "Alles muss sofort sein",
+        "scenario": "In dem Moment, in dem dein Kind etwas will, einen Snack, eine Runde, deine Aufmerksamkeit, muss es sofort sein, und selbst „eine Minute\" kippt es direkt in einen Wutanfall.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Benenn es als Übung und bestätige den schweren Teil: „Du willst das genau jetzt, und Warten fühlt sich furchtbar an. Lass uns den Warte-Muskel trainieren, zähl mit mir bis fünf, dann gehört es dir.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bau kleine, bewusste Wartezeiten in ruhigen Momenten ohne Druck ein, nicht nur, wenn Warten gerade unvermeidbar ist\n- Begleite und bestätige das Warten jedes Mal mit Worten, „Warten ist schwer\", damit es sich nie wie eine Strafe anfühlt\n- Fang winzig an (bis drei zählen) und dehn es aus, sobald die Geduld wächst\n- Halt dein Versprechen in dem Moment, in dem die Wartezeit vorbei ist, damit die Übung vertrauenswürdig bleibt"
+          },
+          {
+            "title": "Danach",
+            "content": "Der Muskel muss aufgebaut sein, bevor er gebraucht wird. Ein Kind, das beim Snack schon Warten geübt hat, hat etwas, worauf es zurückgreifen kann, wenn die Wartezeit echt ist."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_08",
+        "title": "Hört auf einen von euch, auf den anderen nicht",
+        "scenario": "Dein Kind kooperiert bei einer Bezugsperson mühelos und wehrt sich bei der anderen gegen fast alles, und wer weniger gehört wird, fängt an, sich wie der Buhmann zu fühlen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Unter den Erwachsenen, ohne Schuldzuweisung: „Es liegt nicht an dir, und es ist keine Bevorzugung. Lass uns zwei langweilige Dinge prüfen: Sind meine Grenzen genauso klar und konkret wie deine, und braucht die Zeit zu zweit mit dem Kind gerade eine Auffrischung?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Lass die Schuldfrage komplett weg: Das sind zwei veränderbare Stellschrauben, keine Rangliste der Eltern\n- Prüf die Klarheit der Grenzen: Vage Zeitangaben („gleich\") kommen als unklare Grenze an, konkret und greifbar kommt besser an\n- Prüf die Alltagsverbindung mit der weniger gehörten Bezugsperson, und bau sie gezielt aus\n- Passt beides gemeinsam an, statt dass sich eine Person im Moment mehr anstrengt"
+          },
+          {
+            "title": "Danach",
+            "content": "Meistens sind es Klarheit und Verbindung, nicht Liebe oder Bevorzugung. Prüft es nach ein paar Wochen mit klareren Grenzen und mehr Zeit zu zweit noch einmal nach."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_09",
+        "title": "„Mein Körper gehört mir\" gegen die Sonnencreme",
+        "scenario": "Du hast deinem Kind beigebracht, dass sein Körper ihm gehört und es immer Stopp sagen darf, wichtig und richtig, und jetzt benutzt es genau diese Worte, um die Sonnencreme vor dem Schwimmbad zu verweigern.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Würdige die Worte und mach mit der Aufgabe weiter: „Du hast recht, dein Körper gehört dir, und du darfst mir immer Stopp sagen. Sonnencreme ist keine Wahl, weil sie deine Haut vor Schaden schützt. Ich helfe dir jetzt, schnell und sanft. Du suchst aus: erst die Arme oder erst die Beine?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Würdige die Zustimmungs-Worte wirklich: Geh nicht kalt darüber hinweg und tu nicht so, als wären sie nicht gefallen\n- Halt die notwendige Pflege am Laufen: Eine Gesundheits- und Sicherheitsaufgabe steht nicht zur Verhandlung\n- Biete eine echte Wahl übers Wie oder die Reihenfolge, nie übers Ob\n- Bleib warm und schnell; das Ziel heißt erledigt und sanft, keine Diskussion"
+          },
+          {
+            "title": "Danach",
+            "content": "Bring die „mein Körper\"-Sprache weiter für wirklich freiwillige Berührung bei. Eine ruhig benannte Ausnahme für notwendige Pflege hebt das nicht auf."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Das gilt ausschließlich für nicht verhandelbare Gesundheits- und Sicherheitsaufgaben. Deutet die Körperautonomie-Sprache deines Kindes je auf etwas hin, das es ängstigt oder verwirrt, nimm das ernst und such professionelle Beratung. Beschränke körperliches Eingreifen auf das nötige Minimum an sanfter Hilfe."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_10",
+        "title": "Fünf Minuten bis zum Aufbruch, null Kooperation",
+        "scenario": "Du musst in fünf Minuten aus der Tür, für eine Abholung, bei der Zuspätkommen keine Option ist, und dein Kind wehrt sich mit Händen und Füßen gegen Stiefel und Jacke.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst: „Zuspätkommen ist lästig, kein Notfall. Meine eigene Panik ist hier das eigentliche Problem.\"\n\nZu deinem Kind, fest und warm, ein Schritt: „Wir gehen in fünf Minuten, und ich helf deinem Körper dabei. Erst die Stiefel, willst du sie auf die schnelle Art anziehen oder auf die alberne?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beruhig zuerst dein eigenes, selbstgemachtes Notfallgefühl; genau das zerstört deine Geduld\n- Beschränk dich auf einen Schritt nach dem anderen, nicht die ganze Abfolge des Rausgehens\n- Sei fest und warm zugleich: Die Grenze hält, dein Ton bleibt freundlich\n- Verlangt die Uhr es wirklich, hilf deinem Kind ruhig hinein, statt eine Diskussion zu gewinnen"
+          },
+          {
+            "title": "Danach",
+            "content": "Ist pünktliches Losgehen ein wiederkehrender Kampf, plant die Aufbruchsroutine zu einem ruhigen Zeitpunkt gemeinsam. Das repariert mehr, als jeder gehetzte Morgen es je könnte."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_11",
+        "title": "Der Wutanfall mit Publikum",
+        "scenario": "In der Bücherei lässt sich dein Kind zu Boden fallen und weigert sich zu gehen, als es Zeit wird, und jetzt schauen ein paar andere Eltern zu, wie du damit umgehst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst: „Das schaffe ich. Der Raum spielt keine Rolle, und ich schulde ihm keine Vorstellung.\"\n\nZu deinem Kind, warm und klar: „Hier ist es gerade so gemütlich, da wegzugehen ist schwer. Wir gehen trotzdem, du kannst neben mir laufen, oder ich trage dich. Du entscheidest.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beruhig zuerst deine eigene Publikums-Panik, bevor du dich der Situation zuwendest; genau diese Panik kippt dich ins zu Harte oder zu Weiche\n- Geh davon aus, dass die Zuschauenden an ihre eigenen schwierigen Tage denken; das ist nicht unwahrscheinlicher als Verurteilung, und deutlich freundlicher zu dir\n- Bleib fest und warm zugleich; biete eine Wahl übers Wie des Gehens an, nicht übers Ob\n- Geh damit um wie zu Hause, denn das Publikum verändert dich, nicht dein Kind"
+          },
+          {
+            "title": "Danach",
+            "content": "Üb die Kombination aus fest und warm zu Hause, wo es leicht ist. Unter Beobachtung ist Improvisieren schwerer, also hilft es, sie schon parat zu haben."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "listening_script_12",
+        "title": "Du hast wegen der Schuhe geschrien",
+        "scenario": "Du hast fünfmal gebeten, die Schuhe anzuziehen, dann hast du geschrien, laut genug, dass dein Kind verstummt ist und Tränen in den Augen hatte. Jetzt willst du das wieder ins Lot bringen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst zu dir selbst: „Ein lauter Moment ist nicht die ganze Geschichte. Ich kann das wieder geraderücken.\"\n\nZu deinem Kind, sobald du ruhig bist: „Ich hab wegen der Schuhe geschrien. Das war zu viel, und es war nicht deine Schuld. Ich arbeite an meiner Lautstärke. Willst du eine Neustart-Umarmung?\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beruhig zuerst dein eigenes Nervensystem, bevor du auf dein Kind zugehst; eine Reparatur mitten in der Überflutung gelingt selten\n- Halt es kurz und konkret: Benenn den Mitmach-Moment, der dich laut werden ließ\n- Steh zu deinem Anteil, ohne deinem Kind irgendeine Schuld aufzuladen\n- Lass die Reparatur mehr zählen als den Bruch; das Zurückkommen baut Vertrauen auf, das größer ist als vorher"
+          },
+          {
+            "title": "Danach",
+            "content": "Die Reparatur-Leitfäden führen ausführlich durch das Wie eines Reparaturgesprächs. Was hier speziell dazukommt: Es passierte übers Zuhören, also benennt die Reparatur genau das."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn nötig, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      }
+    ]
   }
 }

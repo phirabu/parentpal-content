@@ -108,6 +108,201 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "play_script_01",
+        "title": "When Your Kid Says 'Play With Me' and You Freeze",
+        "scenario": "Your child holds out a toy and asks you to play, and you feel yourself go stiff — no idea what to do, faintly silly, itching to tidy something instead. You weren't played with much growing up, and it shows.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself, before you sit down: \"Stiff is what NEW feels like, not what failing feels like. Ninety seconds. I'm allowed to be a beginner.\"\n\nTo your child, honest and warm: \"I'm rusty at this — you'll have to show me how. What am I? What do I say?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Let the child direct — being handed a role solves the 'what do I even do' problem\n- Start with a tiny window, a minute or two, not an open-ended afternoon you'll dread\n- Copy what they're doing instead of inventing — mirror a second toy alongside theirs; it counts as play and asks nothing of you\n- Notice the awkwardness and keep going; it's rust, not a verdict on you or the bond"
+          },
+          {
+            "title": "Follow-up",
+            "content": "It gets less clumsy with reps — the ease follows the doing, not the other way around. If you feel persistently flat or joyless well beyond play itself, that's worth a word with your own doctor."
+          }
+        ]
+      },
+      {
+        "id": "play_script_02",
+        "title": "You Keep Meaning to Play and the Day Keeps Winning",
+        "scenario": "You mean to make time to play, but the day fills up — and the one evening you carved out a big chunk, it felt long, forced, and a little boring. So you haven't tried since.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself: \"Shorter than feels impressive. I can always keep going.\"\n\nFolding it into what's already happening: \"Race you to the car — but we have to move like robots the whole way. BEEP. BOOP.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Slash the length: pick a window shorter than you think you can manage, then halve it. Ninety reliable seconds beat a resented half hour\n- Fold play into moments already in the day — a silly voice at bath, ten seconds of dancing while dinner cooks, narrating the walk like a nature documentary\n- Put the phone in another room, not just on silent — a nearby phone still tugs at you, and half-there reads to a kid as not-there\n- Stop while it's still fun; leaving them wanting more is the goal, not squeezing out every last minute"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Consistency comes from small-and-doable, not big-and-rare. Two-minute moments stacked daily add up faster than a monthly grand gesture — and they're the ones you'll actually keep."
+          }
+        ]
+      },
+      {
+        "id": "play_script_03",
+        "title": "You Sat Down to Follow and Started Steering Within a Minute",
+        "scenario": "You join your child, already deep in their own game, meaning to just follow along — and within a minute you're asking questions and suggesting what happens next. You can feel yourself taking over without meaning to.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Instead of a question ('what's that? where's it going?'), narrate: \"The digger is heading for the big hill. Slowly. Verrry slowly.\"\n\nOr say nothing and copy them: \"I'm building one right next to yours. Mine's a bit wobbly.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Zip the questions — a question is a quiet grab at the wheel; it steers the play toward your idea of it\n- Narrate what you see, plainly and without praise, or mirror their action in your own parallel version\n- Expect it to feel oddly slow or boring, especially if your day runs fast — that's a normal feature of child-led play, not a sign you're doing it wrong\n- Let them lead even the dull stretches; the whole point is that it's theirs"
+          },
+          {
+            "title": "Follow-up",
+            "content": "A few unsteered minutes is genuinely hard at first, and it gets easier. If following your child's lead reliably ends in a meltdown neither of you understands, mention it to your pediatrician."
+          }
+        ]
+      },
+      {
+        "id": "play_script_04",
+        "title": "Your Kid Wants Make-Believe and You're a Board-Games Person",
+        "scenario": "Your child keeps pulling you into open-ended, no-rules pretend — floppy, plotless, invented as they go — and you quietly dread it. Give you a game with rules and a winner and you're happy; this shapeless stuff leaves you lost.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "To yourself: \"Preferring rules isn't a defect. Stretching toward their kind sometimes is the gift.\"\n\nTo your child: \"You be the director. Tell me who I am and what I say — I'm bad at making it up, so boss me around.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Name it as a style difference, not a deficiency — most adults lean toward structured, one-right-answer play; it doesn't mean you 'can't play'\n- Ask the child to assign you a role and a few lines; a starting frame rescues you from the blank-page feeling\n- Keep your structured games in the mix too — trade off, so you each get a turn at your preferred kind\n- Stretch toward the open-ended sometimes precisely because that's where this child most wants you"
+          },
+          {
+            "title": "Follow-up",
+            "content": "You don't have to love make-believe to do it well. A few minutes of their preferred kind, offered warmly, lands more than an hour of grudging yours."
+          }
+        ]
+      },
+      {
+        "id": "play_script_05",
+        "title": "The Meltdown the Second Play Is Over",
+        "scenario": "Play was going beautifully — and the instant you say it's time to stop, your child wails like it's a catastrophe. Nothing else went wrong; the ending itself is the whole problem.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Pick ONE, don't stack all of them:\nPlain: \"You wish we could keep going. Me too. That was a good one.\"\nPlus a plan: \"All done for now — and first thing after lunch tomorrow, we pick it right back up.\"\nThe handoff: \"I'm off to start dinner. You're brilliant at building on your own — show me the tower when it's enormous.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Meet the feeling first; the protest is a compliment to the play, not defiance\n- Choose a single response — plain validation, validation plus a concrete next time, validation plus 'of course it's hard, it was fun,' or validation plus confidence they can carry on alone\n- Use the same closing signal every time (a phrase, a chime, a 'last one') so the ending stays predictable\n- Don't reopen play to stop the crying — meet the feeling, keep the ending; endless 'one mores' teach that wailing reopens the door"
+          },
+          {
+            "title": "Follow-up",
+            "content": "The confidence version is the bridge into happy solo play — frame leaving as a promotion, not a loss. If every ending detonates far past what the moment holds, for months, mention it to your pediatrician."
+          }
+        ]
+      },
+      {
+        "id": "play_script_06",
+        "title": "Stuck on the Same Move That Isn't Working",
+        "scenario": "Your child keeps jamming the same block onto the same wobbly tower, it keeps crashing, and every 'try a different way' from you makes them dig in harder and angrier.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Stop coaching them. Build your OWN tower nearby and narrate yourself: \"Ugh, mine keeps toppling. Okay — I'll quit forcing the big one and try a flat piece instead. Stuck means switch.\"\n\nThen actually do it, out loud, where they can see."
+          },
+          {
+            "title": "What to do",
+            "content": "- Drop the direct instruction — being told to switch mid-frustration usually cements the dig-in\n- Run a parallel version of the task yourself and model getting stuck, then choosing a new approach, thinking aloud the whole way\n- Pin it to a tiny repeatable phrase ('stuck means switch') and use it every time yours goes wrong — the phrase becomes the handle they'll grab later\n- Let them keep failing at theirs; the power is in witnessing your switch, not being made to copy it"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Weeks later you'll hear your own phrase come out of them in a completely different jam — that's it working. If a child can't tolerate any frustration at all without a full meltdown, raise it with your pediatrician."
+          }
+        ]
+      },
+      {
+        "id": "play_script_07",
+        "title": "You Must Play It EXACTLY Right (or Else)",
+        "scenario": "Your child casts you as the same character every time — say, the little sister who's always in trouble — hands you an exact line, and comes apart if you improvise even slightly. It feels bossy and a bit much.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Mirror first, no pushback: \"Got it — I'm the little sister, I knocked the blocks over, and I say 'It wasn't me!' Like that?\"\n\nThen curious, IN character: \"Does the little sister ever get a turn to explain? What would she say if someone actually listened?\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Read the tight direction as communication, not defiance — a child running something on their mind through a script where they finally hold the power\n- Mirror their instruction back in their own words; following without a power struggle keeps the door open\n- Get curious in character — ask the role's questions rather than breaking out to redirect or analyze\n- Keep it a game, not an interview; don't step out to ask 'are you upset about getting in trouble at school?'"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If a role gets genuinely uncomfortable, you can stop — \"I'm going to be me for a minute,\" or \"the little sister needs a nap now.\" Naming your limit doesn't undo the value; unlimited compliance was never the deal. If the same distressing scene repeats compulsively for weeks with rising distress, talk with your pediatrician or a child therapist."
+          },
+          {
+            "title": "Safety note",
+            "content": "If scripted play repeatedly centers on frightening or adult material a young child shouldn't have access to, seek professional guidance rather than relying on technique alone."
+          }
+        ]
+      },
+      {
+        "id": "play_script_08",
+        "title": "Getting Two Kids Ready Without a Race War",
+        "scenario": "Both kids need shoes and coats on to leave, one is much faster, and the second they finish they crow about winning — which sends the slower one into a furious heap. Every departure becomes a contest with a loser.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Put them on the SAME team against a silly shared mission: \"New job for the team — can you BOTH turn into penguins and waddle all the way to the front door? Flippers up. Go.\"\n\nNot 'who's first.' 'Can we all.'"
+          },
+          {
+            "title": "What to do",
+            "content": "- Structure the transition as the kids versus a shared, silly challenge — never kid versus kid\n- Drop speed-comparisons entirely; pitting one child's pace against a sibling's just breeds a winner and a resenter\n- Give the faster one a cooperative role ('you're the penguin coach — cheer your brother's flippers on') so their speed helps instead of gloats\n- Celebrate the whole team arriving, not who got there first"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Same-team framing builds cooperation between siblings over time; head-to-head racing quietly trains rivalry. If sibling conflict is constant and bruising across the whole day, the siblings guides go deeper."
+          }
+        ]
+      },
+      {
+        "id": "play_script_09",
+        "title": "She Won't Talk About It — but She'll Play Nearby",
+        "scenario": "Something's clearly bothering your child, but the moment you ask about it head-on she goes quiet, says 'nothing,' or asks to be left alone — while still happily playing right beside you. Pushing gets you less.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Swap the question for a no-words signal, side by side, not face to face: \"Show me today's weather — sunny, cloudy, or stormy?\" Sunny is a flat hand, cloudy is wiggly fingers, stormy is a fist.\n\nWhen she answers: \"…Cloudy. Thanks for telling me. That's all I need.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Don't force the direct conversation — a child who can't answer 'what's wrong?' can often still answer a game\n- Offer a gesture, not a sentence, and drop the eye-contact demand; less eye contact makes closeness easier to bear\n- Stay shoulder-to-shoulder in the play — the nearness itself is the opening, even with no words\n- Treat a single signal as a full success; never fish for a second answer"
+          },
+          {
+            "title": "Follow-up",
+            "content": "If words want to come, they will; if not, you've built a channel for next time. Keep offering it lightly. If a child stays walled off from every gentle attempt to connect over long stretches, mention it to your pediatrician."
+          }
+        ]
+      },
+      {
+        "id": "play_script_10",
+        "title": "Your Big Kid Outgrew Toys — Not You",
+        "scenario": "Your older child doesn't want forts or pretend anymore, and you're honestly not sure what 'playing together' even means at this age. But they still light up when you're genuinely in their world.",
+        "steps": [
+          {
+            "title": "What to say",
+            "content": "Aim for their turf, low-key: \"Teach me that game you're obsessed with — I'll be hilariously bad. Roast me when I mess up.\"\n\nOr just: \"Rate my slang out of ten. Be brutal.\""
+          },
+          {
+            "title": "What to do",
+            "content": "- Expect the form to change — from toys to banter, inside jokes, humor at your expense, and low-stakes things done side by side\n- Let them be the expert: ask them to teach you their game, their music, their world, and be a cheerfully terrible student\n- Keep it no-pressure and shoulder-to-shoulder — a shared task (cooking, a long drive, a big puzzle with phones away) beats a sit-down 'let's connect'\n- Take the teasing as connection; being allowed to roast you a little is a big kid's love language"
+          },
+          {
+            "title": "Follow-up",
+            "content": "Playful connection never expires — only its shape changes. Small, regular, and low-key beats a rare big outing. If an older child pulls away from everyone and everything they used to enjoy, that withdrawal is worth a word with your pediatrician."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -150,6 +150,313 @@
       }
     ],
     "media": [],
-    "scripts": []
+    "scripts": [
+      {
+        "id": "lifeevents_script_01",
+        "title": "Den Kindern erzählen: Das gemeinsame Gespräch",
+        "scenario": "Du und das andere Elternteil habt euch entschieden, euch zu trennen, und jetzt kommt das Gespräch, vor dem du dich gefürchtet hast: dein Kind hinsetzen und das Wort laut aussprechen. Du willst, dass es ruhig, ehrlich und ohne Schuldzuweisung abläuft.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Einleitung, beide anwesend, wenn es sicher und machbar ist: „Wir müssen dir als Familie etwas Großes und Wichtiges erzählen. Es kann große Gefühle auslösen, und das ist in Ordnung.\"\n\nDie Tatsache, ganz klar: „Wir haben uns entschieden, uns scheiden zu lassen. Das heißt, wir sind nicht mehr verheiratet, und wir werden in zwei Zuhause leben.\"\n\nWas bleibt: „Und das ändert sich nicht: Wir sind beide immer deine Eltern, wir lieben dich beide vollkommen und für immer, und das war eine Entscheidung von uns Erwachsenen, die nichts mit dir zu tun hat.\"\n\nDie offene Tür: „Du darfst uns alles fragen, jetzt, heute Abend oder nächste Woche. Wir sagen dir immer die Wahrheit.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Ist es sicher und machbar, erzählt es gemeinsam, nach einem abgestimmten Plan: Wer sagt welchen Teil, und wie bleibt jeder von euch ruhig, wenn Tränen oder Wut kommen\n- Halt jede Schuldzuweisung oder Beschwerde übereinander komplett aus dem Raum heraus\n- Sag das klare Wort, dann halt inne und lass dein Kind reagieren, bevor du Logistik hinzufügst\n- Wiederhol den Nicht-deine-Schuld-Satz mehr als einmal, Kinder suchen die Schuld automatisch bei sich selbst"
+          },
+          {
+            "title": "Danach",
+            "content": "Rechne mit den echten Fragen später, nach und nach, beim Zubettgehen oder im Auto. Antworte weiter einfach und ehrlich, und heb dir Zeitplan-Details auf, bis die Gefühle sich gesetzt haben."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Erzählt es den Kindern nur gemeinsam, wenn das sicher ist. Sicherheit hat Vorrang; bei Unsicherheit professionelle Unterstützung suchen. Sorgerechts- und rechtliche Fragen gehören zu einer Familienrechtsanwältin oder einem Familienrechtsanwalt, nicht in diesen Leitfaden."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_02",
+        "title": "Das Vorgespräch unter Erwachsenen",
+        "scenario": "Bevor ihr es den Kindern erzählt, müsst du und das andere Elternteil euch auf eine gemeinsame Linie einigen, auch wenn ihr euch gerade über fast alles uneinig seid. Dieses Gespräch findet unter Erwachsenen statt, ohne Kind im Raum.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Das gemeinsame Ziel benennen: „Wir sind uns gerade über wenig einig. Aber ich glaube, wir wollen beide, dass die Kinder sich dabei sicher und geliebt fühlen. Können wir das Gespräch genau darauf ausrichten?\"\n\nDie Aufteilung: „Lass uns festlegen, wer das Wort ausspricht, wer erklärt, was bleibt, und wie jeder von uns ruhig bleibt, wenn Tränen kommen, damit sie uns zehn Minuten lang gemeinsam und stabil erleben.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Verankert den Plan in dem einen, das euch noch verbindet, wie euer Kind diesen Moment erlebt, nicht in der Einigkeit über die Trennung selbst\n- Legt die genauen Worte für die klare Tatsache und die Nicht-deine-Schuld-Botschaft vorab fest\n- Vereinbart ein einfaches Zeichen zum Innehalten oder Aussteigen, falls einer von euch während des Gesprächs überfordert wird\n- Haltet dieses Gespräch strikt unter Erwachsenen; klärt eure eigenen Reibereien, bevor die Kinder im Raum sind"
+          },
+          {
+            "title": "Danach",
+            "content": "Ist ein ruhiges gemeinsames Gespräch wirklich nicht möglich, schützt eine einheitliche Botschaft, getrennt erzählt, mit demselben klaren Wort und denselben Beruhigungen, euer Kind trotzdem. Eine Familientherapeutin bzw. ein Familientherapeut oder eine Mediatorin bzw. ein Mediator kann euch helfen, dieses gemeinsame Skript zu entwickeln."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Bei Situationen mit hohem Konflikt oder Unsicherheit Unterstützung von einer Familientherapeutin bzw. einem Familientherapeuten oder einer Mediatorin bzw. einem Mediator suchen. Sicherheit hat Vorrang; dieser Leitfaden ersetzt keine Rechtsberatung."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_03",
+        "title": "„Aber bei Papa darf ich das!\" Zwischen zwei Zuhause",
+        "scenario": "Dein Kind kommt vom anderen Zuhause zurück und liefert den Klassiker: Dort gibt es jeden Abend Nachtisch, oder eine spätere Schlafenszeit, oder mehr Bildschirmzeit. Dein Instinkt will auf das andere Elternteil reagieren. Dein Kind braucht, dass du auf es selbst reagierst.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Richte dich auf sein Erleben, nicht auf deine Meinung zum anderen Zuhause: „Klingt, als wären die Regeln in deinem anderen Zuhause anders, und ständig zu wechseln ist eine Menge zu merken. Erzähl mir, wie sich das für dich anfühlt.\"\n\nHalt deine Grenze, ohne ein Urteil über das andere Elternteil: „Hier bei uns gilt: Bildschirme aus nach dem Abendessen. In jedem Haus läuft es anders, und du merkst wirklich gut, wo welche Regel gilt.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Richte deine Aufmerksamkeit auf die Anpassungsleistung deines Kindes zwischen zwei Haushalten, nicht auf ein Urteil über die Entscheidung des anderen Elternteils\n- Bestätige die Ungerechtigkeit, die dein Kind fühlt, ohne zu verteidigen, warum deine Regel die richtige ist\n- Behalt deine Meinung über das andere Elternteil für dich, wenn du mit deinem Kind sprichst, auch wenn du eine hast\n- Halt die Grenze in deinem eigenen Zuhause ruhig; Beständigkeit bei dir zählt mehr, als das andere Zuhause zu spiegeln"
+          },
+          {
+            "title": "Danach",
+            "content": "Sprich einen Regelunterschied nur dann direkt mit dem anderen Elternteil an, wenn er die Sicherheit berührt, nicht bei gewöhnlicher Abweichung. Im Alltag kommen Kinder mit zwei Regelwerken gut zurecht, solange keiner von euch beiden sie zur Botin oder zum Boten macht."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_04",
+        "title": "Das erste Treffen mit einer neuen Person",
+        "scenario": "Du bist in einer Beziehung, die ernst geworden ist, und es ist Zeit, dass dein Kind deine Partnerin oder deinen Partner kennenlernt. Du willst die Anspannung herausnehmen, damit daraus ein sanftes erstes Hallo wird, kein aufgeladenes Ereignis.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Zuerst eine mündliche Ankündigung, einige Tage vorher: „Ich habe eine gute Freundin, sie heißt Sam, ich möchte, dass du sie dieses Wochenende kennenlernst. Wir gehen zusammen kurz Enten füttern.\"\n\nErlaubnis für jede Reaktion: „Du darfst dich freuen, schüchtern sein oder unsicher, alles davon ist in Ordnung. Du musst dabei nichts Bestimmtes fühlen.\"\n\nBeim Treffen, leicht und gemeinsam: „Lasst uns alle versuchen, diese gierige Ente dazu zu bringen, etwas Brot zu nehmen.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Warte mit jeder Vorstellung, bis die Beziehung ernst ist und wahrscheinlich hält\n- Kündige das Treffen mündlich an, mit ein paar Tagen Vorlauf\n- Mach das erste Treffen kurz und Seite an Seite, eine gemeinsame Aktivität, kein langes Gegenübersitzen\n- Lass die Ambivalenz deines Kindes einfach da sein, ohne sie ihm auszureden; behalt deine eigene Freude, ohne sie deinem Kind aufzubürden"
+          },
+          {
+            "title": "Danach",
+            "content": "Jeder neue Schritt, das erste Abendessen zu Hause, die erste Übernachtung, verdient seine eigene sanfte Vorwarnung. Geh nicht davon aus, dass ein gutes erstes Treffen alles abdeckt, was danach kommt."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn es nötig ist, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_05",
+        "title": "Wenn du sagen musst, dass jemand gestorben ist",
+        "scenario": "Jemand, den dein Kind liebt, ist gestorben, und du musst es ihm sagen. Jeder Teil von dir will es abmildern. Das Freundlichste ist das wahre, klare Wort, langsam gesagt, die Arme um dein Kind gelegt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Einleitung: „Ich habe eine sehr traurige Nachricht, und sie wird große Gefühle auslösen. Komm, setz dich zu mir.\"\n\nDie klare Tatsache, mit dem echten Namen und dem Wort gestorben: „Onkel Theo ist heute gestorben. Sein Körper hat aufgehört zu funktionieren, und er wird nicht wieder anfangen. Er kann nicht zurückkommen, und das ist das Traurigste daran.\"\n\nPause. Lass es ankommen. Eine Hand zum Halten. Dann: „Das ist nicht deine Schuld, nicht mal ein bisschen. Und ich gehe nirgendwohin, ich bin genau hier.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Nutze „gestorben\", nicht „verloren\", „eingeschlafen\" oder „weggegangen\": weiche Worte verwirren jetzt und ängstigen später\n- Sag die klare Tatsache, dann halt inne; lass Stille und Tränen zu, bevor mehr Details folgen\n- Sag ausdrücklich, dass es nicht seine Schuld war, und dass du gesund bist und bleibst\n- Richte dich nach ihm: Will es danach gleich spielen oder nach einem Snack fragen, ist das normale Verarbeitung, keine Kälte"
+          },
+          {
+            "title": "Danach",
+            "content": "Trauer bei Kindern kommt in Wellen, eine schwere Frage Wochen später, ein plötzliches Schluchzen, dann wieder Spielen. Antworte weiter klar und einfach. Ein Abschiedsritual, das dein Kind mitgestaltet, kann helfen. Bleibt die Trauer über Wochen festgefahren, können eine Trauerbegleiterin bzw. ein Trauerbegleiter oder eine Kindertherapeutin bzw. ein Kindertherapeut euch beide unterstützen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Die emotionale Sicherheit des Kindes hat Vorrang. Sucht eine Trauerbegleiterin bzw. einen Trauerbegleiter, eine Kindertherapeutin bzw. einen Kindertherapeuten oder eure Kinderärztin/euren Kinderarzt auf, wenn die Trauer intensiv oder langanhaltend bleibt."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_06",
+        "title": "„Stirbst du auch?\"",
+        "scenario": "Nach einem Todesfall, oder aus heiterem Himmel beim Zubettgehen, stellt dein Kind die Frage, die dir den Atem stocken lässt: Stirbst du? Sterbe ich? Der Instinkt will „Nie\" versprechen. Die stabilere Antwort ist ehrlich und warm.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Ehrlich, nicht falsch absolut: „Die wahre Antwort ist: Jeder stirbt irgendwann, ganz weit in der Zukunft. Und ich bin gesund, ich sorge gut für mich, und ich plane, noch sehr, sehr lange hier zu sein, lange genug, um mit dir zusammen alt und grau zu werden.\"\n\nDann eine Pause und eine Umarmung: „Du bist sicher. Ich bin heute Nacht genau hier, und ich bin auch morgen früh noch da.\"\n\nFragt es nach sich selbst: „Du hast noch ein langes, langes Leben vor dir, Jahre und Jahre und Jahre. Deine einzige Aufgabe gerade ist, ein Kind zu sein.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Antworte ehrlich, statt „Nie\" zu versprechen: Ein Versprechen, das dein Kind später als unwahr entlarvt, kostet deine Glaubwürdigkeit\n- Verbinde die ehrliche Antwort mit sofortigem körperlichem Trost und einer Sicherheitserinnerung im Hier und Jetzt\n- Halt es kurz; du beruhigst eine Angst, du hältst keine Biologiestunde\n- Rechne damit, dass die Frage mehr als einmal zurückkommt, und beantworte sie jedes Mal genauso ruhig"
+          },
+          {
+            "title": "Danach",
+            "content": "Hinter wiederholtem, ängstlichem Nachfragen steckt ein Kind, das daran arbeitet, sich sicher zu fühlen, nichts Morbides. Halt Antworten kurz, warm und beständig. Wächst die Angst über Wochen groß und körperlich, sprich mit eurer Kinderärztin, eurem Kinderarzt oder einer Kindertherapeutin bzw. einem Kindertherapeuten."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sucht professionelle Unterstützung, wenn die Angst vor dem Tod intensiv oder anhaltend wird. Sicherheit hat Vorrang; bei Unsicherheit Hilfe suchen."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_07",
+        "title": "Einem Kind sagen, dass jemand ernsthaft krank ist",
+        "scenario": "Ein Familienmitglied hat eine ernste Krankheit, und dein Kind spürt die Sorge im Haus. Es klar zu benennen, mit dem echten Namen und deutlichen Worten dazu, ob man sich anstecken kann, schlägt ein vages „jemandem geht es nicht so gut\".",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Der echte Name, abgegrenzt vom gewöhnlichen Kranksein: „Opa hat eine ernste Krankheit mit einem echten Namen. Das ist ganz anders als ein Husten oder eine Erkältung, die du mal bekommst, das ist eine große, erwachsene Art von Krankheit, bei der Ärztinnen und Ärzte helfen.\"\n\nKlarstellen, ob man sich ansteckt, wo es stimmt: „Du kannst dich nicht anstecken. Nicht durch eine Umarmung, nicht durch Nähe, nicht dadurch, dass du seinen Becher benutzt. So funktioniert das einfach nicht.\"\n\nBekanntes, Unbekanntes und was bleibt: „Die Ärztinnen und Ärzte wissen schon viel, und sie arbeiten hart daran. Manches wissen wir noch nicht. Was ich sicher weiß: Ich sage dir immer die Wahrheit, und ich bin hier, direkt bei dir.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Nutze den echten Namen der Krankheit, damit sie nicht mit gewöhnlichem Kranksein verschwimmt\n- Sprich das Anstecken direkt an: Kinder fürchten oft still eine Ansteckung, oder unterschätzen im Gegenteil, wie ernst es ist\n- Sei ehrlich darüber, was unbekannt ist, statt es mit falscher Fröhlichkeit zu überdecken\n- Lade zu weiteren Fragen ein; das ist das erste von vielen Gesprächen, keine einmalige Ansage"
+          },
+          {
+            "title": "Danach",
+            "content": "Halt Neuigkeiten einfach und ehrlich, während sich die Lage ändert, und achte auf stille Sorgen: „Kann ich mich anstecken\", „Bin ich schuld daran\". Alles zum Verlauf der Krankheit ist eine Frage für das medizinische Team; eine Kindertherapeutin bzw. ein Kindertherapeut kann helfen, wenn dein Kind damit kämpft."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Dieser Leitfaden ersetzt keine medizinische Beratung; richte medizinische Fragen an das Behandlungsteam. Sucht eine Kindertherapeutin bzw. einen Kindertherapeuten auf, wenn dein Kind Mühe hat, damit zurechtzukommen."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_08",
+        "title": "Vor dem Krankenhausbesuch: Erst das Zimmer beschreiben",
+        "scenario": "Dein Kind besucht eine schwer kranke verwandte Person im Krankenhaus. Was Kindern am meisten Angst macht, ist nicht der Besuch selbst, es ist, in eine Szene hineinzulaufen, die niemand vorher beschrieben hat. Also zeichnest du sie vorab, klar und deutlich.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Die Szene vorab beschreiben: „Bevor wir hingehen, erzähl ich dir genau, wie es aussehen wird. Tante Lisa liegt in einem hohen Bett mit Gittern. In ihrem Arm steckt ein Schlauch, der ihr Medizin gibt, und Maschinen piepsen und blinken. Sie sieht dünner und müder aus als letztes Mal.\"\n\nWas es tun kann: „Du kannst ihre Hand halten, ihr von deinem Tag erzählen, oder einfach nah bei ihr sitzen. Du musst nichts tun, was du nicht willst.\"\n\nErlaubnis zum Rausgehen: „Wird es dir zu viel, sag mir Bescheid, und wir machen eine Pause draußen. Ich bin die ganze Zeit direkt neben dir.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Beschreib die Geräte, die Geräusche und das veränderte Aussehen der Person wörtlich, bevor ihr ankommt\n- Gib deinem Kind konkrete Dinge, die es tun darf, und die Erlaubnis, einfach nur da zu sein\n- Biete einen klaren Ausstiegsplan, damit sich der Besuch nie wie eine Falle anfühlt\n- Richte dich nach dem Tempo deines Kindes; ein kurzer Besuch ist ein guter Besuch"
+          },
+          {
+            "title": "Danach",
+            "content": "Lass danach Raum für Fragen und Gefühle; manche Kinder verarbeiten das im Spiel. Will dein Kind nicht mitkommen, ist das erlaubt; eine Karte oder ein Bild, das es macht, kann seine Liebe stattdessen überbringen."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Sicherheit hat Vorrang. Körperliches Festhalten nur, wenn es nötig ist, um unmittelbaren Schaden zu verhindern. Folge lokalen Empfehlungen; bei Unsicherheit professionelle Unterstützung suchen."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_09",
+        "title": "Den Umzug ankündigen, und der Countdown danach",
+        "scenario": "Ihr zieht in ein neues Zuhause, und es ist Zeit, es deinem Kind zu erzählen. Die Ankündigung soll ruhig ankommen und ihm Werkzeuge in die Hand geben, die das Unbekannte schrumpfen lassen, nicht nur ein „Wir ziehen um, das wird toll\".",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Die Form, Vorwarnung, klare Tatsache, was bleibt: „Wir haben Neuigkeiten, und man darf dabei ganz unterschiedlich fühlen. Im Sommer ziehen wir in ein neues Haus auf der anderen Seite der Stadt. Das Haus ist neu. Unsere Familie ist genau gleich.\"\n\nEin Werkzeug in die Hand geben: „Schau, hier sind Fotos von deinem neuen Zimmer und dem Park zwei Straßen weiter. Und siehst du dieses Glas? Jeden Morgen legst du einen Stein rein. Ist es voll, ist Umzugstag.\"\n\nRaum für gemischte Gefühle, konkret: „Du darfst weinen, weil du diese Küche verlässt, und dich gleichzeitig über den großen Garten freuen, manchmal in derselben Stunde. Das ist erlaubt.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Kündige es in einer Form an: Vorwarnung, dass Gefühle unterschiedlich ausfallen dürfen, das klare Ziel, und was gleich bleibt, bevor du fragst, wie es sich anfühlt\n- Mach das Fremde früh vertraut: Fotos, ein Besuch, wenn möglich, die Wahl, etwas fürs neue Zimmer auszusuchen\n- Gib ihm einen handfesten Countdown, den es selbst pflegt, damit „bald\" zu etwas Sichtbarem wird\n- Lass es eine beschriftete Kiste mit Lieblingsstücken packen, die es selbst ins neue Haus trägt"
+          },
+          {
+            "title": "Danach",
+            "content": "Macht gemeinsam Fotos vom alten Zuhause, den guten Ecken, den Verstecken, damit es Teil seiner Geschichte bleibt. Preis den Umzug nicht so stark an, dass du ihm einen echten Abschied wegargumentierst."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_10",
+        "title": "Wenn die Umzugshelfer kommen und dein Kind nicht da ist",
+        "scenario": "Am Umzugstag ist dein Kind bei Verwandten oder Freunden, während das Haus gepackt und abtransportiert wird. Es sieht davon nichts, und das kann sich anfühlen, als wäre seine ganze Welt hinter seinem Rücken verschwunden.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Den unsichtbaren Ablauf erzählen: „Während du bei Oma Spaß hast, passiert genau das: Starke Helferinnen und Helfer packen unser Sofa, die Betten und dein Spielzeugregal in einen Lastwagen, fahren sie zum neuen Haus und stellen alles auf. Dann holen wir dich ab und bringen dich zum neuen Zuhause.\"\n\nMach ein Spiel daraus: „Willst du raten, was zuerst in den Lastwagen kommt, dein Bett oder der Küchentisch? Lass uns beide wetten.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Erzähl den mechanischen Ablauf dessen, was in seiner Abwesenheit passiert, von Anfang bis Ende, damit keine Lücke für Sorgen bleibt\n- Versichere, dass seine Sachen mitkommen, nichts wird zurückgelassen oder ohne Rücksprache weggeworfen\n- Mach aus dem Ablauf ein leichtes Ratespiel, damit er nachvollziehbar und stressarm bleibt\n- Gib ein vertrautes Trostobjekt für den Tag mit, statt es in den Lastwagen zu packen"
+          },
+          {
+            "title": "Danach",
+            "content": "Wenn du es abholst, geh mit ihm Zimmer für Zimmer durchs neue Zuhause und zeig, wo seine Sachen gelandet sind. Seine eigene beschriftete Kiste, die es selbst getragen hat, ist ein guter erster gemeinsamer Auspack-Moment."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_11",
+        "title": "Eine Katastrophe in der Nähe: dein Kind ruhig halten",
+        "scenario": "Ein Waldbrand, eine Überschwemmung oder ein schwerer Sturm ist in eurer Nähe. Vielleicht seid ihr evakuiert, vielleicht seid ihr einfach nah genug dran, um den Rauch zu riechen und die Angst im Haus zu spüren. Dein junges Kind braucht weniger Information und mehr von deinem ruhigen Körper.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Körperlich zuerst, in akuter Angst: „Ich halte dich. Spürst du, wie ich atme? Schön langsam. Wir sind gerade sicher, genau hier, zusammen.\"\n\nEinfache wahre Worte, dann aufhören: „Es gibt ein großes Feuer, weit weg von dort, wo wir heute Nacht schlafen. Feuerwehrleute, deren ganzer Job das ist, kümmern sich darum. Unsere Familie ist sicher.\"\n\nDie Überraschung benennen: „Niemand wusste, dass das passieren würde, das macht es gerade so seltsam. Es hat auch die Erwachsenen überrascht.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Halt die Nachrichten und ihre Wiederholungsbilder fern, solange dein Kind in der Nähe ist: Wiederholungen sagen einem jungen Kind, dass es gerade wieder passiert\n- Co-reguliere zuerst in akuter Angst: Halt es, verlangsame deinen eigenen Atem, wiederhol einen kurzen Sicherheitssatz; erklär später\n- Beruhige mit konkreten Details, wer es beschützt, wo es heute Nacht schläft, dass du in seiner Nähe bleibst\n- Rechne mit Rückfällen und lass sie zu, Klammern, unruhiger Schlaf, wählerischeres Essen, als vorübergehenden Versuch, Kontrolle zurückzugewinnen"
+          },
+          {
+            "title": "Danach",
+            "content": "Spiel das Ereignis bei einem Kleinkind im Kleinen mit Spielfiguren nach, das hilft, es mit den Händen zu verarbeiten. Die meisten Kinder beruhigen sich innerhalb weniger Wochen durch Ruhe und Routine; halten Angst, Albträume oder Nachspielen an, sucht eine Kindertherapeutin bzw. einen Kindertherapeuten oder eure Kinderärztin/euren Kinderarzt auf."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Befolgt zuerst alle offiziellen Sicherheits- und Evakuierungsanweisungen. Sucht professionelle Unterstützung, wenn Traumareaktionen anhalten."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_12",
+        "title": "„Wie entstehen Babys?\" Die Bilderbuch-Antwort",
+        "scenario": "Aus heiterem Himmel, im Auto, am Abendbrottisch, fragt dein junges Kind, wie Babys entstehen. Du erstarrst. Der richtige Zug ist eine ruhige, wahre Antwort in einer Schicht, mit Raum für die nächste Frage, wann immer sie kommt.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Bilderbuch-Tiefe: „Gute Frage. Ein Baby entsteht, wenn eine winzige Zelle von einem Erwachsenen sich mit einer winzigen Zelle von einem anderen Erwachsenen verbindet. Diese verbundene Zelle wächst, ganz langsam, in einem Körper, bis sie groß genug ist, um als Baby geboren zu werden.\"\n\nFür viele Familien offen: „Manchmal braucht eine Familie die Hilfe einer Ärztin oder eines Arztes, oder eine hilfsbereite Person, um diese Zellen zusammenzubringen, und jeder dieser Wege ist aus Liebe gemacht.\"\n\nDie Tür offen lassen: „Das ist erst mal die ganze Antwort. Fällt dir noch mehr ein, erzähl ich dir gerne den nächsten Teil.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Antworte auf Bilderbuch-Tiefe, zwei Zellen verbinden sich und wachsen, ohne im selben Zug die Mechanik von Sex zu erklären\n- Behandle eine Nachfrage als normales Stichwort für eine kleine weitere Schicht, nicht als Zeichen, dass du falsch geantwortet hast\n- Nutze eine schlichte, sachliche Stimme, dieselbe, die du auch bei „Wie entsteht Regen\" hättest\n- Halt das Thema Familiengründung inklusiv und einfach, ohne jede Methode aufzuzählen"
+          },
+          {
+            "title": "Danach",
+            "content": "Kinder fragen über Monate verteilt, in Raten. Beantworte jedes Mal genau die gestellte Frage, dann hör auf. Ruhige, ehrliche Antworten jetzt machen die größeren Gespräche in einigen Jahren sehr viel leichter."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_13",
+        "title": "Private Körperteile berühren: die freundliche, klare Grenze",
+        "scenario": "Du hast bemerkt, dass dein Kind seine privaten Körperteile berührt, vielleicht auf dem Sofa, vielleicht vor anderen. Du willst eine Grenze setzen, wo das passiert, ohne auch nur einen Funken Scham über seinen Körper zu säen.",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Erst bestätigen, dann die Kontext-Grenze setzen: „Das ist ein Teil deines Körpers, der dir gehört und privat ist. Es ist völlig okay, dass es sich beim Anfassen auf eine bestimmte Art anfühlt. Bei der Regel geht es nicht ums Aufhören, es geht ums Wo. Das ist etwas für dich allein, an einem privaten Ort wie deinem Zimmer, nicht dort, wo andere Menschen sind.\"\n\nPrivat konkret machen: „Privat heißt: nur für dich, wie dein eigenes Zimmer mit geschlossener Tür, nicht das Wohnzimmer oder der Spielplatz.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Bestätige zuerst, ohne jede Scham, dass das normal ist und sein Körper ihm selbst gehört\n- Setz die Grenze beim Kontext, allein und privat, nicht bei der Neugier oder dem Gefühl selbst, als wäre daran etwas falsch\n- Benenne konkret, wo „privat\" ist, junge Kinder brauchen den bestimmten Ort, nicht die Idee dahinter\n- Halt deinen Ton so ruhig und sachlich wie bei jeder anderen Alltagsregel"
+          },
+          {
+            "title": "Danach",
+            "content": "Du musst die Wo-Regel vielleicht mehrmals ruhig wiederholen, das ist gewöhnliches Lernen, kein Trotz. Verbinde sie mit der größeren Körperregel: Niemand berührt den Körper eines anderen ohne ein Ja."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Gewöhnliche Selbstberührung ist entwicklungsbedingt normal. Sprich mit eurer Kinderärztin oder eurem Kinderarzt, wenn das Verhalten über das Alter des Kindes hinauszugehen scheint oder auf möglichen unangemessenen Kontakt hindeutet."
+          }
+        ]
+      },
+      {
+        "id": "lifeevents_script_14",
+        "title": "Fremdensicherheit ohne Albträume",
+        "scenario": "Du willst, dass dein Kind bei unbekannten Erwachsenen sicher ist, ohne ihm beizubringen, dass die ganze Welt gefährlich ist. Die ehrliche Version ist genauer, und weniger beängstigend, als „Alle Fremden sind böse\".",
+        "steps": [
+          {
+            "title": "Was du sagen kannst",
+            "content": "Der zutreffende Rahmen: „Die meisten Erwachsenen, die du nicht kennst, sind völlig freundlich. Aber jetzt kommt das Knifflige: Man sieht den wenigen, die es nicht sind, das nicht einfach an. Die Regel ist deshalb einfach: Du gehst mit keinem Erwachsenen mit, den du nicht kennst, und nimmst nichts von ihm an, außer eine Vertrauensperson von dir sagt, dass es okay ist.\"\n\nGib eine konkrete Handlung: „Versucht dich ein Erwachsener, den du nicht kennst, mitzunehmen, wirst du laut. Du rufst so laut du kannst: ‚Nein! Ich kenne dich nicht!' und rennst zu mir oder einer anderen sicheren Person.\""
+          },
+          {
+            "title": "Was du tun kannst",
+            "content": "- Ordne es richtig ein: Die meisten Fremden sind unbedenklich, das Problem ist, dass man nicht erkennt, wer es nicht ist, die Regel schützt genau deshalb\n- Vermeide es, eine pauschale Angst vor allen unbekannten Menschen zu lehren, das ist sowohl unwahr als auch angstmachend\n- Gib eine konkrete Handlung, die man üben kann, und einen kurzen, lauten Satz zum Rufen\n- Weise auf sichere Hilfspersonen hin (ein Elternteil mit Kindern, eine Verkäuferin oder ein Verkäufer), statt „Jeder Erwachsene ist eine Gefahr\" zu vermitteln"
+          },
+          {
+            "title": "Danach",
+            "content": "Übt es locker als Was-würdest-du-tun-Spiel, nicht als beängstigende Übung. Halt es sachlich; das Ziel ist ein fähiges, aufmerksames Kind, kein ängstliches."
+          },
+          {
+            "title": "Sicherheitshinweis",
+            "content": "Betone, dass die Erlaubnis einer Vertrauensperson den Ausschlag gibt. Pass es an den Kontext eurer Familie an."
+          }
+        ]
+      }
+    ]
   }
 }
