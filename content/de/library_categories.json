@@ -164,6 +164,127 @@
       "description": "Sanfter, kindgeführter Ansatz zum Töpfchenlernen",
       "color": "#FFF9E6",
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/potty_training.jpg"
+    },
+    {
+      "title": "Selbstvertrauen",
+      "id": "confidence",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 33,
+      "resourceCount": 6,
+      "description": "Hilf deinem Kind, echtes Selbstvertrauen von innen aufzubauen",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/confidence.jpg"
+    },
+    {
+      "title": "Willensstarke Kinder & Trotz",
+      "id": "defiance",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 34,
+      "resourceCount": 7,
+      "description": "Versteh dein willensstarkes Kind und steig aus Machtkämpfen aus",
+      "color": "#FFF3E0",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/defiance.jpg"
+    },
+    {
+      "title": "Widerworte & Respektlosigkeit",
+      "id": "rudeness",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 35,
+      "resourceCount": 8,
+      "description": "Reagiere auf Widerworte, harte Worte und Austesten, ohne zu eskalieren",
+      "color": "#FBE9E7",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/rudeness.jpg"
+    },
+    {
+      "title": "Kooperation & Zuhören",
+      "id": "listening",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 36,
+      "resourceCount": 7,
+      "description": "Baue Kooperation auf, damit du dich nicht wiederholen oder schreien musst",
+      "color": "#E0F7FA",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/listening.jpg"
+    },
+    {
+      "title": "Spielen & selbstständiges Spielen",
+      "id": "play",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 37,
+      "resourceCount": 7,
+      "description": "Warum Spielen zählt und wie es für euch beide funktioniert",
+      "color": "#FFFDE7",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/play.jpg"
+    },
+    {
+      "title": "Dankbarkeit & Anspruchsdenken",
+      "id": "entitlement",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 38,
+      "resourceCount": 5,
+      "description": "Lass Dankbarkeit wachsen und meistere Habenwollen-Momente ohne Vorträge",
+      "color": "#F1F8E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/entitlement.jpg"
+    },
+    {
+      "title": "Große Veränderungen",
+      "id": "lifeevents",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 39,
+      "resourceCount": 10,
+      "description": "Begleite dein Kind durch Trennung, Verlust, Umzug und andere große Veränderungen",
+      "color": "#EDE7F6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/lifeevents.jpg"
+    },
+    {
+      "title": "Intensiv fühlende Kinder",
+      "id": "emotional_intensity",
+      "type": "special",
+      "subtitle": "3-7 Jahre",
+      "sortOrder": 40,
+      "resourceCount": 5,
+      "description": "Unterstütze ein Kind, das alles stärker fühlt",
+      "color": "#FCE4EC",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/emotional_intensity.jpg"
+    },
+    {
+      "title": "Der Schulstart",
+      "id": "kindergartenprep",
+      "type": "special",
+      "subtitle": "4-6 Jahre",
+      "sortOrder": 41,
+      "resourceCount": 8,
+      "description": "Mach dein Kind (und dich) bereit für den Schulstart",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/kindergartenprep.jpg"
+    },
+    {
+      "title": "Herausforderungen in der Schule",
+      "id": "schoolchallenges",
+      "type": "special",
+      "subtitle": "6-13 Jahre",
+      "sortOrder": 42,
+      "resourceCount": 7,
+      "description": "Schulverweigerung, Hausaufgaben-Kämpfe und Freundschaftsprobleme im Schulalter",
+      "color": "#E8EAF6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/schoolchallenges.jpg"
+    },
+    {
+      "title": "Dein Baby: die ersten Jahre",
+      "id": "baby",
+      "type": "special",
+      "subtitle": "0-2 Jahre",
+      "sortOrder": 43,
+      "resourceCount": 6,
+      "description": "Finde deine Ruhe und lies die Bedürfnisse deines Babys in den ersten zwei Jahren",
+      "color": "#FFF8E1",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
     }
   ]
 }

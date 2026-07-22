@@ -164,6 +164,127 @@
       "description": "Gentle, child-led approach to potty learning",
       "color": "#FFF9E6",
       "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/potty_training.jpg"
+    },
+    {
+      "title": "Confidence & Self-Trust",
+      "id": "confidence",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 33,
+      "resourceCount": 6,
+      "description": "Help your child build real confidence from the inside out",
+      "color": "#E8F5E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/confidence.jpg"
+    },
+    {
+      "title": "Strong-Willed Kids & Defiance",
+      "id": "defiance",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 34,
+      "resourceCount": 7,
+      "description": "Understand your strong-willed child and step out of power struggles",
+      "color": "#FFF3E0",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/defiance.jpg"
+    },
+    {
+      "title": "Backtalk & Rudeness",
+      "id": "rudeness",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 35,
+      "resourceCount": 8,
+      "description": "Respond to backtalk, harsh words and testing without escalating",
+      "color": "#FBE9E7",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/rudeness.jpg"
+    },
+    {
+      "title": "Cooperation & Listening",
+      "id": "listening",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 36,
+      "resourceCount": 7,
+      "description": "Build cooperation so you don't have to repeat yourself or shout",
+      "color": "#E0F7FA",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/listening.jpg"
+    },
+    {
+      "title": "Play & Independent Play",
+      "id": "play",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 37,
+      "resourceCount": 7,
+      "description": "Why play matters and how to make it work for both of you",
+      "color": "#FFFDE7",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/play.jpg"
+    },
+    {
+      "title": "Gratitude & Entitlement",
+      "id": "entitlement",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 38,
+      "resourceCount": 5,
+      "description": "Grow gratitude and handle gimme-moments without lectures",
+      "color": "#F1F8E9",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/entitlement.jpg"
+    },
+    {
+      "title": "Big Life Changes",
+      "id": "lifeevents",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 39,
+      "resourceCount": 10,
+      "description": "Guide your child through divorce, loss, moving and other big changes",
+      "color": "#EDE7F6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/lifeevents.jpg"
+    },
+    {
+      "title": "Intensely Feeling Kids",
+      "id": "emotional_intensity",
+      "type": "special",
+      "subtitle": "Ages 3-7",
+      "sortOrder": 40,
+      "resourceCount": 5,
+      "description": "Support a child who feels everything more strongly",
+      "color": "#FCE4EC",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/emotional_intensity.jpg"
+    },
+    {
+      "title": "Starting School",
+      "id": "kindergartenprep",
+      "type": "special",
+      "subtitle": "Ages 4-6",
+      "sortOrder": 41,
+      "resourceCount": 8,
+      "description": "Get your child (and yourself) ready for the school start",
+      "color": "#E3F2FD",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/kindergartenprep.jpg"
+    },
+    {
+      "title": "School Challenges",
+      "id": "schoolchallenges",
+      "type": "special",
+      "subtitle": "Ages 6-13",
+      "sortOrder": 42,
+      "resourceCount": 7,
+      "description": "School refusal, homework battles and friendship troubles for school-age kids",
+      "color": "#E8EAF6",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/schoolchallenges.jpg"
+    },
+    {
+      "title": "Your Baby: The First Years",
+      "id": "baby",
+      "type": "special",
+      "subtitle": "Ages 0-2",
+      "sortOrder": 43,
+      "resourceCount": 6,
+      "description": "Steady yourself and read your baby's needs in the first two years",
+      "color": "#FFF8E1",
+      "imageUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/images/categories/baby.jpg"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2026-07-17T00:00:00Z",
+  "lastUpdated": "2026-07-22T10:00:00Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
@@ -13,7 +13,7 @@
       "filename": "library_categories.json",
       "path": "content/en/library_categories.json",
       "required": true,
-      "sha256Checksum": "9691610240f17cb44b823bd87a90842edd956e75c0083f78163a43bc2c31ad37"
+      "sha256Checksum": "c0e5db0c4c8e01ddb273ff2da8f5292edce5c96ef9221b484d8dd9140786fa6b"
     },
     "meditationCategories_en": {
       "filename": "meditation_categories.json",
@@ -55,7 +55,18 @@
         "content/en/library_topics/screen_time.json",
         "content/en/library_topics/change.json",
         "content/en/library_topics/discipline.json",
-        "content/en/library_topics/potty_training.json"
+        "content/en/library_topics/potty_training.json",
+        "content/en/library_topics/confidence.json",
+        "content/en/library_topics/defiance.json",
+        "content/en/library_topics/rudeness.json",
+        "content/en/library_topics/listening.json",
+        "content/en/library_topics/play.json",
+        "content/en/library_topics/entitlement.json",
+        "content/en/library_topics/lifeevents.json",
+        "content/en/library_topics/emotional_intensity.json",
+        "content/en/library_topics/kindergartenprep.json",
+        "content/en/library_topics/schoolchallenges.json",
+        "content/en/library_topics/baby.json"
       ],
       "required": true,
       "description": "Library topic files for EN",
@@ -73,7 +84,18 @@
         "content/en/library_topics/screen_time.json": "5b62f35f8b392e48512e0d6fbc520fa100ae234a3091a22a93907e1f6de38fd0",
         "content/en/library_topics/change.json": "3e961dc88de42d774cbed28131061dca3869aff523a77b4248212575a599b20c",
         "content/en/library_topics/discipline.json": "5a77140d7092d43e93f6756354d69d7820f839bd846299b45f53859006ab1c9c",
-        "content/en/library_topics/potty_training.json": "aa3dc15f080196a316cb13cfb9c01394a4dff616e28a109fa1fc11d387e7c009"
+        "content/en/library_topics/potty_training.json": "aa3dc15f080196a316cb13cfb9c01394a4dff616e28a109fa1fc11d387e7c009",
+        "content/en/library_topics/confidence.json": "7827954460b1a1129fd31c7dc17872ec69028651bc6714b223f22007e8413b0e",
+        "content/en/library_topics/defiance.json": "d43ca606b51b81be3d6726ca7cbca0ab7c79f049e50de94d4f6ff4f6d49d6ddf",
+        "content/en/library_topics/rudeness.json": "767a92b9815bad31c5da19849f090640b965c14900d731287b2d30046326722b",
+        "content/en/library_topics/listening.json": "5c5a1b2880b35dceab367d4cd3bef59da583c51ef6e3dc2134cdb948921726cc",
+        "content/en/library_topics/play.json": "4a108e3f10d46abe5c82cea61465dc65f834403ec2568aec289dd76de75a4d9d",
+        "content/en/library_topics/entitlement.json": "68550e9b4b41a13a17b797be9ed348181faa30812e19cc62899f0134e5337c57",
+        "content/en/library_topics/lifeevents.json": "f0b928e46b0b7b887797d93ad32568c6ebb899d5272810a5c6b0cce4b5cef047",
+        "content/en/library_topics/emotional_intensity.json": "5094abaa0645785fc1b8c27c9f86b4a88b1b2313489d07f2532312d33c9e3a0d",
+        "content/en/library_topics/kindergartenprep.json": "b13c903c2a468afce76109c95349e9d354ec31868543df6dc086babb1336e4cb",
+        "content/en/library_topics/schoolchallenges.json": "ea186607e7ff3610d49db9e164caad60f19021f8d2ac8693623335bef3d7a35b",
+        "content/en/library_topics/baby.json": "c7699567ab6809ecf329180c2c619d963c1e4f9cec0df9fd688253b72d820057"
       }
     },
     "emergencyCoachScripts_es": {
@@ -86,7 +108,7 @@
       "filename": "library_categories.json",
       "path": "content/es/library_categories.json",
       "required": true,
-      "sha256Checksum": "d2615e7b93bb84a7f6c03ae15fdd8246aa0cda06fc29e5b1d3bca1deb296419c"
+      "sha256Checksum": "0dfbcf0b80f81e1daaf7599ab60a6d116e8bcafff5a41bf7e3316f4f517af968"
     },
     "meditationCategories_es": {
       "filename": "meditation_categories.json",
@@ -122,7 +144,18 @@
         "content/es/library_topics/screen_time.json",
         "content/es/library_topics/change.json",
         "content/es/library_topics/discipline.json",
-        "content/es/library_topics/potty_training.json"
+        "content/es/library_topics/potty_training.json",
+        "content/es/library_topics/confidence.json",
+        "content/es/library_topics/defiance.json",
+        "content/es/library_topics/rudeness.json",
+        "content/es/library_topics/listening.json",
+        "content/es/library_topics/play.json",
+        "content/es/library_topics/entitlement.json",
+        "content/es/library_topics/lifeevents.json",
+        "content/es/library_topics/emotional_intensity.json",
+        "content/es/library_topics/kindergartenprep.json",
+        "content/es/library_topics/schoolchallenges.json",
+        "content/es/library_topics/baby.json"
       ],
       "required": true,
       "description": "Library topic files for ES",
@@ -140,7 +173,18 @@
         "content/es/library_topics/screen_time.json": "7217cc308f4901004cfe343b5892a21ed335a62e916061dfb5990ea95615c39c",
         "content/es/library_topics/change.json": "060818fd836a88576eca8b3dcda0559cf585255bfb3e472e0e50cbfd83278a3c",
         "content/es/library_topics/discipline.json": "e8327d801677cf5ce5e3fdd47dcb1f7fd7bc5410d0269c6e6761dfdf63540706",
-        "content/es/library_topics/potty_training.json": "9d089ef888f17273ccb8c500b74eb3df0b884e90f92f100575c64ffd16631ccd"
+        "content/es/library_topics/potty_training.json": "9d089ef888f17273ccb8c500b74eb3df0b884e90f92f100575c64ffd16631ccd",
+        "content/es/library_topics/confidence.json": "54cc05c8126984fe6a9a75f521a65ad487320112a26f3b6d6828b7b74ace4b47",
+        "content/es/library_topics/defiance.json": "5cd8db768478b9e0060b2afbdb377fce7a193a47f117fa8c75678c91df65d4f3",
+        "content/es/library_topics/rudeness.json": "a29418eebd32c661d000cde2192c69e3f241afff9a9e322be537253dd0cda1c7",
+        "content/es/library_topics/listening.json": "9c7a0710325b0240d4ae1b30bd97a2b9831789fae12f0cd9be0fc5a4629e0613",
+        "content/es/library_topics/play.json": "2cb71f36f1674edf6f6e6b886841c4dcca4a191ef1bdcc68b69421c41d5ee940",
+        "content/es/library_topics/entitlement.json": "c683a489255e2a92d59a8d34a3c7bb5fa4945e82a05aca92ce57865c5bc1ccb2",
+        "content/es/library_topics/lifeevents.json": "f61f4f66a4ec2f3032fc765d7903b2af502bd521c19ce250247165482b2a1a30",
+        "content/es/library_topics/emotional_intensity.json": "60a84114834926f76ecaa36150db7ca6bf981e7d51157527a4c1b5aa16557fc5",
+        "content/es/library_topics/kindergartenprep.json": "1fd770824592d530096bb2c3bf23480e0a1b9bbe163f6386c7d4272f14f4f05c",
+        "content/es/library_topics/schoolchallenges.json": "6da2d135d36589dfc0584cf53c5d5b80b491d535086726bfe97420bcb62d9ad1",
+        "content/es/library_topics/baby.json": "ed10095f850d4ad62e1cebb4b2aa83a16effaa4ff1f64baffa5d7e283b02fa0d"
       }
     },
     "emergencyCoachScripts_de": {
@@ -153,7 +197,7 @@
       "filename": "library_categories.json",
       "path": "content/de/library_categories.json",
       "required": true,
-      "sha256Checksum": "0902e5848f446f49254df4cd9f6e6c9f4d2126275285f739e0bf9717dccd804b"
+      "sha256Checksum": "957d3c1b9354bdfb7cf61695e3678a3e3aec6e131d6a653c23d1e5fc25d91f83"
     },
     "meditationCategories_de": {
       "filename": "meditation_categories.json",
@@ -189,7 +233,18 @@
         "content/de/library_topics/screen_time.json",
         "content/de/library_topics/change.json",
         "content/de/library_topics/discipline.json",
-        "content/de/library_topics/potty_training.json"
+        "content/de/library_topics/potty_training.json",
+        "content/de/library_topics/confidence.json",
+        "content/de/library_topics/defiance.json",
+        "content/de/library_topics/rudeness.json",
+        "content/de/library_topics/listening.json",
+        "content/de/library_topics/play.json",
+        "content/de/library_topics/entitlement.json",
+        "content/de/library_topics/lifeevents.json",
+        "content/de/library_topics/emotional_intensity.json",
+        "content/de/library_topics/kindergartenprep.json",
+        "content/de/library_topics/schoolchallenges.json",
+        "content/de/library_topics/baby.json"
       ],
       "required": true,
       "description": "Library topic files for DE",
@@ -207,7 +262,18 @@
         "content/de/library_topics/screen_time.json": "a04c67fb8b79623978ae420e15186beed8fe3a21d6dfddfa4586e8f8bfb1c9c5",
         "content/de/library_topics/change.json": "4ac45ae0993c6c9431fd6603628db73db13bbc15faac43cc0939b682cbfc655d",
         "content/de/library_topics/discipline.json": "16c6ed1b18c6c68ee0ee15100241d64be5f2e3d6819f07b80fb777288ce881b5",
-        "content/de/library_topics/potty_training.json": "41446bf947658537f2f2db1db05d4cea14699fe17c41fd73f71fc1fa9ba55658"
+        "content/de/library_topics/potty_training.json": "41446bf947658537f2f2db1db05d4cea14699fe17c41fd73f71fc1fa9ba55658",
+        "content/de/library_topics/confidence.json": "0dd73499c1addd58f1f68258b89c0b95506dae9a08f10048c91165c43b826868",
+        "content/de/library_topics/defiance.json": "edf34bc2d59eb6a31324e2b48e70ae126efd90f66a828caf69d101ae1940c814",
+        "content/de/library_topics/rudeness.json": "87c1df00ecc49967699edc86ec6a5378752dc1de7ea20be5eaa39b775944c8f0",
+        "content/de/library_topics/listening.json": "faedd007e888919477fc67193cfb2c3745ba5910c794d56e39eebae128c4bc3a",
+        "content/de/library_topics/play.json": "6396cd03af943369975ebfe252856d5f2745d8d5cda9ca0860ac62afba1f6e69",
+        "content/de/library_topics/entitlement.json": "11ae1debaf58f3f3bfe79dbd707728231c61f2ab0fb64df0952eae2148599b66",
+        "content/de/library_topics/lifeevents.json": "ce674d88c3a3caeaf7a38e6795cfbf11f05dfe263cb8f038d99f0402a940ce09",
+        "content/de/library_topics/emotional_intensity.json": "161f2fb1e1dd97ef2566d224133d99aaaf75690b6828f05193268daf5e09deaa",
+        "content/de/library_topics/kindergartenprep.json": "da19469d5edabbb748e1aa9516c886559b28dcc9ad99deaff7ab3a5b2f5937bc",
+        "content/de/library_topics/schoolchallenges.json": "3e95a67166bc13ac93c479e2dac9090fa4d98c031e0b29d95b6996085eedddc7",
+        "content/de/library_topics/baby.json": "b0b01cde41558cfb14ef7403836e38bcae692e2e7fa23d3f56f334c32248a180"
       }
     }
   },
