@@ -746,8 +746,8 @@
           "why_it_works": "Resistance often masks fear or anxiety. Acknowledging feelings helps children feel understood and reduces the emotional charge around potty learning.",
           "script": [
             "You seem worried about the potty. What feels hard about it?",
-            "Trying new things can feel uncertain. That makes sense.",
-            "You like diapers because they're familiar. I get that.",
+            "Trying new things can feel scary. That makes sense.",
+            "You like diapers because you already know them. I get that.",
             "When you're ready to talk about the potty, I'm here to listen."
           ],
           "mantra": "Their resistance is communication, not defiance. I can stay curious about what they need."
@@ -789,7 +789,7 @@
           "timeRequired": "immediate",
           "why_it_works": "Shame interferes with learning and damages the parent-child relationship. De-shaming language keeps their self-worth intact while they master this skill.",
           "script": [
-            "You're still learning. This is part of the process.",
+            "You're still learning. This is what learning looks like.",
             "Next time you'll catch that feeling a little sooner.",
             "Your body is getting better at recognizing that feeling.",
             "Everyone has accidents when they're learning something new."
@@ -835,7 +835,7 @@
           "script": [
             "Your body is so smart! It takes what it needs from food and gets rid of extra.",
             "Poop is the extra stuff your body doesn't need. Your body stays whole and safe.",
-            "It's kind of like a gas station - your body takes the energy and lets go of what's left.",
+            "It's kind of like a snack - your body keeps the part it needs, and lets the rest go as poop.",
             "After poop comes out, we say bye to it! It's done its job helping your body."
           ],
           "mantra": "This anxiety is developmental and normal. Education reduces fear more than pressure ever could."
@@ -867,6 +867,1239 @@
             "This is temporary. They will not be withholding poop when they're 10."
           ],
           "mantra": "Yes, they're struggling, AND yes, they will figure this out. My confidence helps theirs grow."
+        }
+      ]
+    },
+    {
+      "id": "losing_at_games_meltdown",
+      "title": "Losing at Games Meltdown",
+      "scenario": "Child screams, throws pieces, or refuses to keep playing after losing a game",
+      "icon": "🎲",
+      "ageRange": "3-8 years",
+      "prevention_tips": [
+        "Talk about winning and losing during calm moments, not mid-game",
+        "Before playing, ask what could help if the game starts to feel frustrating",
+        "Choose some games based on chance so losing isn't about being \"not good enough\"",
+        "Praise effort and persistence more than the final score",
+        "Normalize disappointment as something everyone feels, including you",
+        "Model losing gracefully yourself during family game nights"
+      ],
+      "strategies": [
+        {
+          "id": "name_the_feeling",
+          "name": "Name the Feeling First",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Naming the disappointment out loud helps a flooded child feel understood instead of corrected, which lowers the intensity faster than logic or a lecture about sportsmanship. It also hands them the words to use next time, which is the real skill being built.",
+          "script": [
+            "You really wanted to win that game. Losing it feels terrible right now.",
+            "I can see you're angry and disappointed. Those are big feelings.",
+            "It's okay to feel upset about losing. It's not okay to throw the pieces.",
+            "I'm going to keep these safe for a second. I'm right here with you."
+          ],
+          "mantra": "Losing hurts them right now. That's not bad sportsmanship, it's how much they cared."
+        },
+        {
+          "id": "pause_before_teaching",
+          "name": "Pause Before Teaching",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "A dysregulated child can't absorb a lesson about gracious losing yet because the thinking part of their brain is offline. Giving space and waiting for the storm to pass means any conversation afterward actually lands instead of bouncing off.",
+          "script": [
+            "You don't have to talk right now. I'll sit close by.",
+            "Take whatever time you need to feel better.",
+            "I'm not upset with you. I'm just going to wait here.",
+            "When you're ready, we can talk about what happened."
+          ],
+          "mantra": "Losing hurts them right now. That's not bad sportsmanship, it's how much they cared."
+        },
+        {
+          "id": "rematch_and_reframe",
+          "name": "Rematch and Reframe",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Framing losing as one round in an ongoing relationship, rather than a verdict, builds resilience faster than being told to just get over it. Offering a real rematch turns the lesson into practice instead of a talk.",
+          "script": [
+            "Sometimes we win, sometimes we lose. That's how games work, for everyone.",
+            "Losing today doesn't mean losing always. Want to play again?",
+            "Try telling me \"I'm really disappointed I didn't win\" instead of throwing.",
+            "I'm proud of you for staying at the table, even when it was hard."
+          ],
+          "mantra": "Losing hurts them right now. That's not bad sportsmanship, it's how much they cared."
+        }
+      ]
+    },
+    {
+      "id": "dropoff_separation_panic",
+      "title": "Drop-off Separation Panic",
+      "scenario": "Child sobs, clings, and refuses to let go at the classroom door during drop-off",
+      "icon": "🚪",
+      "ageRange": "3-6 years",
+      "prevention_tips": [
+        "Put the morning routine on the wall as pictures, not spoken minutes",
+        "Rehearse the goodbye in play with toys before the first day",
+        "Build a countdown they can touch and move themselves",
+        "Keep the goodbye short and identical every single day",
+        "Tuck a comfort object or small photo of you into their bag",
+        "Ask the teacher how long the crying actually lasts once you leave"
+      ],
+      "strategies": [
+        {
+          "id": "short_certain_goodbye",
+          "name": "Short, Certain Goodbye",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A child's body reads a parent leaving as danger even when they know the room is safe, and a drawn-out or repeated goodbye confirms that doubt instead of settling it. A brief, identical goodbye followed by actually leaving is what teaches their body this is safe.",
+          "script": [
+            "Big squeeze, our two words, and I'll see you after snack.",
+            "I know you want me to stay. I can't, and you are going to be okay.",
+            "Ms. Bianchi is right here with you. You can do hard things.",
+            "I'll see you soon. I always come back."
+          ],
+          "mantra": "My calm is the message. Some kids just need longer, not a new plan."
+        },
+        {
+          "id": "validate_then_go",
+          "name": "Validate, Then Go",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Naming the resistance as a real feeling instead of arguing with it lowers the temperature without inviting a debate you can't win at the door. Pairing validation with a held boundary teaches that both can be true, they can be upset and it can still be a school day.",
+          "script": [
+            "You really don't want me to go today. That's allowed.",
+            "It's still a school day. My job is to keep you safe, and today that means you stay and play.",
+            "You can be sad about goodbye. I'll still be back at pickup.",
+            "I love you. I'll see you very soon."
+          ],
+          "mantra": "My calm is the message. Some kids just need longer, not a new plan."
+        },
+        {
+          "id": "countdown_rehearsal",
+          "name": "Countdown and Rehearsal",
+          "difficulty": "intermediate",
+          "timeRequired": "days to weeks",
+          "why_it_works": "Making the unknown familiar ahead of time, with a practiced goodbye and a visible countdown, shrinks the panic before it starts because the moment stops being a surprise. Rehearsing on a stuffed animal lets a child try the hard part out in a low-stakes way first.",
+          "script": [
+            "See these beads? One comes off each morning until it's a school day.",
+            "Let's practice our goodbye on Rabbit first, big squeeze, two words, all done.",
+            "Your teacher's name is Ms. Bianchi. I heard she keeps dinosaur books in her reading corner.",
+            "We're going to do the exact same goodbye every day, so it stops feeling scary."
+          ],
+          "mantra": "My calm is the message. Some kids just need longer, not a new plan."
+        }
+      ]
+    },
+    {
+      "id": "gift_disappointment_public",
+      "title": "Gift Disappointment in Public",
+      "scenario": "Child opens a gift in front of family, visibly deflates, and says out loud they wanted something else",
+      "icon": "🎁",
+      "ageRange": "3-9 years",
+      "prevention_tips": [
+        "Talk with your child ahead of big gift occasions about how disappointment can feel",
+        "Never squeeze out a \"thank you\" while the room is still watching",
+        "Practice gracious reactions in low-stakes moments, like games at home",
+        "Model handling your own small letdowns calmly in front of your child",
+        "Have a private phrase ready that means \"let's step away for a second\"",
+        "Save the manners conversation for later, never mid-table"
+      ],
+      "strategies": [
+        {
+          "id": "feeling_before_manners",
+          "name": "Feeling Before Manners",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A letdown that gets acknowledged starts to shrink, while one that gets corrected in front of an audience digs in and piles shame on top. Going for the feeling first, and buying a quiet exit if the room is too hot, gets you both through the moment without a scene.",
+          "script": [
+            "Not the one you were hoping for. I saw that land.",
+            "That's allowed. You can feel disappointed for a second.",
+            "Let's get some water. Come with me for a minute.",
+            "We don't have to figure out what to say to Aunt Mara right this second."
+          ],
+          "mantra": "The hot face in the room is mine. Handle their feeling first, my embarrassment can wait."
+        },
+        {
+          "id": "both_feelings_can_be_true",
+          "name": "Both Feelings Can Be True",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Being let down about a gift doesn't erase noticing that someone made an effort, and the two feelings can sit side by side instead of fighting each other. Letting them coexist, without demanding one replace the other, teaches real emotional honesty instead of a performed one.",
+          "script": [
+            "You wanted the other kind. I know that's true.",
+            "And Grandma drove a long way to pick something just for you. That's also true.",
+            "You can feel both of those at the same time. They don't cancel each other out.",
+            "You don't have to pretend you love it right now."
+          ],
+          "mantra": "The hot face in the room is mine. Handle their feeling first, my embarrassment can wait."
+        },
+        {
+          "id": "repair_later_privately",
+          "name": "Repair Later, Privately",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Doing the repair once everyone is calm, instead of squeezing out a performance in the moment, is what actually grows genuine gratitude over time. A specific, true thing to say works better than a generic forced thank-you because it's something the child actually means.",
+          "script": [
+            "Earlier was a hard moment, and you handled the big feeling well.",
+            "What's one true thing we could tell Aunt Mara about her gift?",
+            "You don't have to say you loved it. You can say something real instead.",
+            "I'm proud of you for working through that."
+          ],
+          "mantra": "The hot face in the room is mine. Handle their feeling first, my embarrassment can wait."
+        }
+      ]
+    },
+    {
+      "id": "i_want_other_parent",
+      "title": "\"I Want Papa, Not You!\" Moment",
+      "scenario": "Child suddenly rejects one parent, screaming \"I want Papa, not you!\" right in front of both of you",
+      "icon": "💔",
+      "ageRange": "2-6 years",
+      "prevention_tips": [
+        "Expect preference phases to come and go; they are not a verdict on either parent",
+        "Talk with your co-parent about the toll before resentment builds",
+        "Keep showing up warmly without demanding to be chosen",
+        "Let the preferred parent set their own limits too, needing a break is allowed",
+        "Rotate who does bedtime, bath, and drop-off so roles don't calcify",
+        "Remember it usually spikes during stress, tiredness, or big transitions"
+      ],
+      "strategies": [
+        {
+          "id": "stay_warm_dont_take_bait",
+          "name": "Stay Warm, Don't Take the Bait",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A young child unleashing this on one parent is usually felt-safety collapsing onto a single person during a stressful stretch, not a ranking of who parents better. Staying available without pulling back hurt is what actually shortens the phase.",
+          "script": [
+            "I hear you want Papa right now. That's okay.",
+            "I'm still here, and I still love you just the same.",
+            "Papa's going to help you with this one. I'll see you in a few minutes.",
+            "You don't have to want me back right now. I still want you."
+          ],
+          "mantra": "They only fall apart this freely with people they trust. It isn't about me, it's a phase with a favorite."
+        },
+        {
+          "id": "preferred_parent_sets_limits",
+          "name": "The Preferred Parent Sets a Limit",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Being the chosen parent doesn't mean being available every second, and a child can protest a short break and still come through it fine. Naming the limit calmly, without guilt, models that needs on both sides matter.",
+          "script": [
+            "I hear you want me. I'm going to take a five-minute shower first.",
+            "Mama's got you while I'm gone, and I always come back.",
+            "You can be upset about waiting. The waiting is still happening.",
+            "Thank you for waiting. I'm all yours now."
+          ],
+          "mantra": "They only fall apart this freely with people they trust. It isn't about me, it's a phase with a favorite."
+        },
+        {
+          "id": "team_talk_after",
+          "name": "Team Talk, Away From the Moment",
+          "difficulty": "easy",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Processing the toll together, as co-parents, before resentment sets in keeps the rejected parent from quietly withdrawing, which is the one move that tends to prolong the phase. A short debrief turns a hurt feeling into a shared plan instead of a private wound.",
+          "script": [
+            "That was a hard one for me today. Can we talk for a minute?",
+            "I know it's not personal, and it still stings sometimes.",
+            "Should we swap who does bedtime this week, just to keep it balanced?",
+            "I've got bedtime covered tomorrow if it happens again."
+          ],
+          "mantra": "They only fall apart this freely with people they trust. It isn't about me, it's a phase with a favorite."
+        }
+      ]
+    },
+    {
+      "id": "night_fears_monsters",
+      "title": "Night Fears of Monsters",
+      "scenario": "Child insists a monster is in the room or under the bed and refuses to settle at bedtime",
+      "icon": "👹",
+      "ageRange": "3-8 years",
+      "prevention_tips": [
+        "Keep a consistent, calming wind-down routine before lights-out",
+        "Avoid scary shows, stories, or images close to bedtime",
+        "Let a nightlight or an ajar door stay on if it genuinely helps",
+        "Talk about fears during the day, not just when they surface at night",
+        "Give them a \"job,\" like a flashlight or a stuffed guard, to feel some control",
+        "Practice a brief \"I can't see you but I can hear you\" game during calm daytime moments"
+      ],
+      "strategies": [
+        {
+          "id": "validate_the_fear",
+          "name": "Validate the Fear",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Fear is a normal, protective emotion, and dismissing it with \"there's nothing there\" tends to make a child argue harder or hide the fear instead of managing it. Naming it as real and normal, without reasoning it away, is what actually helps their body settle.",
+          "script": [
+            "You're feeling really scared that something is in your room.",
+            "Fear is one of the feelings that helps keep us safe. Everyone feels scared sometimes.",
+            "I believe that it feels very real to you right now.",
+            "I'm right here, and I'm not going anywhere."
+          ],
+          "mantra": "I can't take their fear away, but I can help them learn what helps them when it shows up."
+        },
+        {
+          "id": "check_and_reassure",
+          "name": "Check Together and Reassure",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Walking through the room together turns an abstract dread into something concrete and checkable, which is easier for a young child's brain to file away as safe. Doing the check with them, instead of for them, also hands them a tool to use on their own later.",
+          "script": [
+            "Let's look together. You point to where it feels scary.",
+            "See? Just your books and your chair. Nothing else is in here.",
+            "Your room is the same safe room it always is.",
+            "I'll leave the door open a little so you can hear me nearby."
+          ],
+          "mantra": "I can't take their fear away, but I can help them learn what helps them when it shows up."
+        },
+        {
+          "id": "build_a_coping_tool",
+          "name": "Build a Coping Tool",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Children build real resilience when they get an active role in managing a fear, rather than depending entirely on a parent's reassurance to feel safe. A tangible tool, like a spray bottle or a guard toy, gives them something to do with the fear instead of just feeling it.",
+          "script": [
+            "Let's make monster spray together, water in this bottle, just for the doorway.",
+            "Your job is to spray the door before bed. You're in charge of keeping it safe.",
+            "Your teddy is on guard duty tonight too. He's a good helper.",
+            "Tomorrow you can tell me how your spray worked."
+          ],
+          "mantra": "I can't take their fear away, but I can help them learn what helps them when it shows up."
+        }
+      ]
+    },
+    {
+      "id": "new_sibling_jealousy",
+      "title": "New Sibling Jealousy Outburst",
+      "scenario": "Older child suddenly lashes out at or tries to push away the new baby in a jealous outburst",
+      "icon": "👶",
+      "ageRange": "2-6 years",
+      "prevention_tips": [
+        "Connect with your older child first at every reunion, before turning to the baby",
+        "Say out loud that your love for them stays whole, nobody can take their share",
+        "Protect short, predictable one-on-one time with just the older child",
+        "Give specific, doable ways to be involved instead of vague warnings",
+        "Let mixed feelings exist without demanding enthusiasm about the baby",
+        "Expect some regression and meet it with calm, not comparison"
+      ],
+      "strategies": [
+        {
+          "id": "block_and_name",
+          "name": "Block Calmly and Name the Wish",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Stepping in calmly to keep the baby safe, without shaming the older child, addresses the safety issue and the feeling underneath it in the same moment. Naming the wish behind the outburst turns \"the baby is a threat\" into something you can work with together.",
+          "script": [
+            "I won't let you push him. I'm right here.",
+            "You want things to go back to how they were before. That makes sense.",
+            "It's hard sharing me right now. That feeling is allowed here.",
+            "You can tell me \"I don't like this\" with words instead."
+          ],
+          "mantra": "This is a normal response to a big disruption, not a warning sign. Met with calm, it passes sooner."
+        },
+        {
+          "id": "love_is_not_juice",
+          "name": "Love Isn't Something That Runs Out",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Young children quietly assume love works like a fixed amount that gets divided between siblings, and that belief, not wickedness, drives a lot of this behavior. Saying plainly that your love for them stays whole addresses the actual fear underneath the outburst.",
+          "script": [
+            "This baby is lucky, they get you as a big sibling.",
+            "My love for you stays all yours. Nobody can take your share.",
+            "Some kids feel excited about a baby, some feel grumpy, and lots feel both. All of that is allowed.",
+            "I see you. You still matter just as much as you always did."
+          ],
+          "mantra": "This is a normal response to a big disruption, not a warning sign. Met with calm, it passes sooner."
+        },
+        {
+          "id": "protected_one_on_one",
+          "name": "Protect the One-on-One Time",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Reliable, exclusive time answers the scarcity fear directly instead of just talking about it, since a child who trusts that their turn is coming has less reason to compete with the baby for attention. Naming it as an institution makes the promise feel solid.",
+          "script": [
+            "I'm settling the baby into her nap, and I see you waiting for me. Two more minutes, then I'm all yours.",
+            "Saturday morning is ours, just you and me. That's not going to change.",
+            "You can stroke her arm gently with one finger, like this, if you want to be near her.",
+            "Want to play baby for five minutes? Sometimes being the little one looks cozy."
+          ],
+          "mantra": "This is a normal response to a big disruption, not a warning sign. Met with calm, it passes sooner."
+        }
+      ]
+    },
+    {
+      "id": "caught_lying_moment",
+      "title": "Caught in a Lie, Red-Handed",
+      "scenario": "Child flatly denies doing something despite clear evidence right in front of them",
+      "icon": "🤥",
+      "ageRange": "4-9 years",
+      "prevention_tips": [
+        "Respond to honesty warmly so telling the truth stays safe, not scary",
+        "Avoid interrogating or setting traps to \"catch\" the lie",
+        "Notice patterns in when lying happens, like stress, transitions, or fear of trouble",
+        "Model owning your own small mistakes out loud",
+        "Keep consequences focused on repair, not shame",
+        "Reassure regularly that mistakes are normal and always safe to admit"
+      ],
+      "strategies": [
+        {
+          "id": "state_facts_calmly",
+          "name": "State the Facts, Skip the Trap",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Naming what you actually see, instead of quizzing them to force a confession, lowers the pressure that makes lying feel necessary in the first place. A calm, factual opening keeps the moment from turning into a standoff neither of you can win.",
+          "script": [
+            "I see the vase is broken, and you told me the dog did it.",
+            "I'm not trying to get you in trouble. I want to understand what happened.",
+            "It's okay to make mistakes. Everyone breaks things sometimes.",
+            "I'd rather hear what really happened than a made-up story."
+          ],
+          "mantra": "This is emotional communication, not a character flaw. My job is to make the truth feel safe."
+        },
+        {
+          "id": "name_the_worry_underneath",
+          "name": "Name the Worry Underneath",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Lying at this age is often a child's best attempt to avoid disappointing you or dodge a feared consequence, not deliberate deception. Naming that worry out loud shows them you understand the feeling, which makes the truth easier to hand over.",
+          "script": [
+            "I think you're worried about what will happen if you tell me the truth.",
+            "You really didn't want to get in trouble. That makes sense.",
+            "It's always safe to tell me, even when it's hard.",
+            "Thank you for telling me. That took courage."
+          ],
+          "mantra": "This is emotional communication, not a character flaw. My job is to make the truth feel safe."
+        },
+        {
+          "id": "repair_together",
+          "name": "Repair It Together",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Fixing the actual problem together, instead of dispensing a punishment, teaches that honesty leads somewhere useful rather than somewhere painful. When repair is the response, telling the truth stops being the riskier choice.",
+          "script": [
+            "Breaks happen. Let's clean this up together, as a team.",
+            "Next time something like this happens, you can just tell me. I promise I'll stay calm.",
+            "Try telling me \"I'm worried you'll be upset\" instead of making up a story.",
+            "I love you no matter what. We can always figure out a problem together."
+          ],
+          "mantra": "This is emotional communication, not a character flaw. My job is to make the truth feel safe."
+        }
+      ]
+    },
+    {
+      "id": "whining_spiral",
+      "title": "The Whining Spiral",
+      "scenario": "Child's whining escalates and repeats even after you've already answered, explained, or given what they asked for",
+      "icon": "🔁",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Notice patterns - whining often clusters around tiredness, hunger, or transitions, so you can address the root cause before it starts",
+        "Practice using a 'regular voice' as a playful game during calm moments, so the skill is already familiar before frustration hits",
+        "Celebrate it right away when they switch to a regular voice, so the calmer choice feels worth repeating",
+        "Stay calm and consistent - if whining sometimes gets a faster yes than asking normally, it quietly teaches that escalating works",
+        "Keep your own reaction steady - a big sigh or a snapped 'stop whining' becomes fuel, since your reaction is often what a spiraling whine is chasing"
+      ],
+      "strategies": [
+        {
+          "id": "name_and_pause",
+          "name": "Name It and Pause",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Narrating what you hear makes your child aware of their communication choice without shaming them, and a strategic pause gives them room to reset instead of reacting to your frustration.",
+          "script": [
+            "I hear your whining. Can you hear it too?",
+            "Tell me again in your regular voice - I want to understand what you need.",
+            "Take your time. I'm listening.",
+            "There it is - thank you for using your regular voice."
+          ],
+          "mantra": "Their whine is a communication style, not an attack on me. I can stay calm and wait it out."
+        },
+        {
+          "id": "ride_out_the_repeat",
+          "name": "Ride Out the Repeat",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Removing your attention from the whining behavior, while staying warm and present, lets a spiral run its course without the fuel of a bigger reaction - most kids de-escalate faster once the loop stops getting a rise out of you.",
+          "script": [
+            "I can tell you still need to whine. Let me know when you're done.",
+            "I'm here when you're ready to use your regular voice.",
+            "I'm not changing my answer, and I'm not going anywhere either.",
+            "I believe you can use your regular voice when you're ready.",
+            "Thank you for using your regular voice. That was hard work, and I know it."
+          ],
+          "mantra": "I don't have to fix this whine or win it. I just have to stay steady until it passes."
+        },
+        {
+          "id": "check_the_tank_first",
+          "name": "Check the Tank First",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Whining that won't quit even after a clear answer is often less about the request and more about an empty tank - tiredness or hunger make everything feel harder and voices whinier.",
+          "script": [
+            "I hear a LOT of whining right now. I wonder if your body is tired or hungry.",
+            "Tired feelings can make everything feel harder, even little things.",
+            "Let's get you a snack and a quiet minute before we talk more.",
+            "I'm here to help once your body feels a bit more like itself."
+          ],
+          "mantra": "A spiraling whine is sometimes a tired body asking for help, not a battle to win."
+        }
+      ]
+    },
+    {
+      "id": "public_meltdown_big_feelings",
+      "title": "Public Meltdown: When Feelings Flood",
+      "scenario": "Child dissolves into a full flood of tears, bolting, or shutting down in a public or social setting - a party, a family gathering, a crowded place - overwhelmed by big feelings",
+      "icon": "🌊",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Pre-agree the plan in a calm moment: tell your child that when feelings get huge, you stay close and never send them away. Most kids quietly welcome hearing this before it's tested",
+        "Before any event with a spotlight moment - a birthday song, an award, a big cheer - give advance notice and offer a choice about how much of it they're in for",
+        "Watch for buildup before a public outing - hunger, heat, crowd noise - which all raise the odds of a flood",
+        "Know your quiet exit route in any public space you're heading into, so you're not searching for one mid-flood",
+        "Offer a buffer option ahead of time, like sitting on your lap or watching from the side, instead of assuming they want to be front and center"
+      ],
+      "strategies": [
+        {
+          "id": "go_quiet_stay_close",
+          "name": "Go Quiet, Stay Close",
+          "difficulty": "intermediate",
+          "timeRequired": "immediate",
+          "why_it_works": "At the peak of a flood, fewer words and less direct eye contact help - a hard, steady gaze can read as threat in a high-alarm state. Staying close and calm without trying to talk them down proves the thing they fear most wrong: their feelings didn't overwhelm you.",
+          "script": [
+            "I'm here. I'm not going anywhere.",
+            "You don't have to do anything right now.",
+            "Take whatever time you need.",
+            "I'll give you a little space - I'm right here, not far.",
+            "Here I am. I never went far."
+          ],
+          "mantra": "Staying calm and close through the peak proves I can hold this. That matters more than any words."
+        },
+        {
+          "id": "shrink_the_spotlight",
+          "name": "Shrink the Spotlight",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Even warm, positive attention can overwhelm a child having a big-feelings moment. Reading the flinch as normal, not rude or ungrateful, and offering a smaller version of the moment helps them stay regulated without missing out entirely.",
+          "script": [
+            "All those eyes at once is a lot, huh.",
+            "You're not being rude - it just feels like too much right now.",
+            "Want to watch from my lap, or step to the side with me for a minute?",
+            "You don't have to love being the center of attention. We can always do it small."
+          ],
+          "mantra": "This isn't ingratitude. It's a nervous system that needed a smaller version of the moment."
+        },
+        {
+          "id": "repair_sideways_later",
+          "name": "Repair Sideways, Later",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "A face-to-face 'let's talk about what happened' can reopen the shame of a big public moment. Revisiting sideways - hands busy, no eye contact, or planning ahead instead of relitigating - rebuilds the memory without restaging it.",
+          "script": [
+            "That party was a lot today, huh.",
+            "Want to invent a secret signal for next time feelings get big? You pick it, I'll follow it.",
+            "That was a hard one. We're okay.",
+            "We can always do the next one your size."
+          ],
+          "mantra": "Revisiting sideways, not face-to-face, is what actually helps this child feel safe again."
+        }
+      ]
+    },
+    {
+      "id": "death_question_ambush",
+      "title": "The Death Question, Out of Nowhere",
+      "scenario": "Child suddenly asks about death or dying, often at bedtime or in the car, catching you off guard",
+      "icon": "🕯️",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Decide your honest, plain-language answer before you need it - 'died' means the body stopped working and won't start again - so you're not improvising in the moment",
+        "Treat questions about death like any other big curiosity, the same drive that asks why the sky goes dark, not a topic to steer away from",
+        "Avoid soft stand-ins like 'lost', 'sleeping', or 'gone away' even in casual conversation, so those ordinary words stay safe and don't get tied to permanent loss later",
+        "Remember most of a child's fear comes from not understanding, not from the facts themselves - a clear, honest answer is calmer than the guess they'd make on their own",
+        "This script is for the ordinary out-of-nowhere question. If your child's fear of death becomes intense or doesn't ease over several weeks, or they talk about not wanting to be here, check in with your pediatrician or a child therapist"
+      ],
+      "strategies": [
+        {
+          "id": "answer_it_plainly",
+          "name": "Answer It Plainly",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "A concrete, literal definition gives a child something solid to reason from, where a dreamy or vague one leaves them guessing something scarier. Direct language, paired with your closeness, is what lets them exhale.",
+          "script": [
+            "That's a really good question. Can I tell you the true answer?",
+            "When someone dies, their body completely stops working - no breathing, no heartbeat - and it won't start again.",
+            "It's really sad, and it's okay to have big feelings about it.",
+            "I'm right here with you."
+          ],
+          "mantra": "Plain and honest, paired with closeness, is what actually settles this - not a perfect sentence."
+        },
+        {
+          "id": "the_scary_follow_up",
+          "name": "The Scary Follow-Up",
+          "difficulty": "intermediate",
+          "timeRequired": "immediate",
+          "why_it_works": "A flat 'never' is a promise a child eventually catches as untrue, which costs your trustworthiness. An honest answer paired with an immediate, present-tense reassurance settles the fear without the risk of a broken promise.",
+          "script": [
+            "Here's the true answer: everybody dies someday, way far in the future.",
+            "I'm healthy, I take good care of myself, and I plan to be here for a very, very long time.",
+            "You are safe. I am right here tonight.",
+            "Your only job right now is being a kid."
+          ],
+          "mantra": "Honest and warm beats a perfect promise. The truth, held closely, is what they can trust."
+        },
+        {
+          "id": "keep_the_door_open",
+          "name": "Keep the Door Open",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "This is the first of many talks, not the whole job. Kids remember whether their questions were welcomed far longer than they remember the exact words - ending every talk with a real invitation to come back is what makes the next question easier to ask.",
+          "script": [
+            "That's such a good question. You can ask me anything, anytime.",
+            "I don't know everything about it, and that's okay - I'll always tell you the truth.",
+            "If you think of more questions tomorrow, or next week, I'm right here.",
+            "It's okay to feel sad, and it's also okay to go back to playing. Both are fine."
+          ],
+          "mantra": "One honest, open conversation is a success, even if it wasn't perfectly worded."
+        }
+      ]
+    },
+    {
+      "id": "phone_handover_battle",
+      "title": "The Phone Handover Battle",
+      "scenario": "Child refuses to hand over the tablet or phone when it's time - clutching it, running off, or negotiating for 'just one more minute' long after the timer is done",
+      "icon": "📴",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Give every screen a home - a basket or shelf where it lives when it's not in use - so 'time to put it away' is a routine, not a daily negotiation",
+        "Use a scheduled-unavailability setting so 'off' lives inside the device itself, instead of being something you have to enforce by hand every time",
+        "Close every session the same way - a stand-up, a stretch, 'tell me the best part' - so stopping has a familiar ritual instead of feeling like a cliff",
+        "Model it yourself: tuck your own phone into the same basket at the same time, so the rule is something everyone follows, not just a kid rule",
+        "If you're about to change the rules because the current setup isn't working, decide the new plan calmly in advance rather than announcing it mid-battle"
+      ],
+      "strategies": [
+        {
+          "id": "warn_then_close_ritual",
+          "name": "Warn, Then Close the Ritual",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A session that ends the same way every time - a stand-up, a stretch, naming the best part - turns stopping into a familiar ritual instead of a cliff edge, which makes the actual handover far less of a fight.",
+          "script": [
+            "One more song, then we're done for now.",
+            "Big stretch - shake it all out!",
+            "Tell me the best part you just watched.",
+            "Now it's time for the tablet to go in its basket."
+          ],
+          "mantra": "A predictable ending is what makes the handover easy, not a bigger warning voice."
+        },
+        {
+          "id": "hold_the_line_calmly",
+          "name": "Hold the Line, Calmly",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Delivering the handover as a decision you've already made, not a request for buy-in, closes the door on negotiation. Pushback is a sign the limit landed, not that you got it wrong.",
+          "script": [
+            "I know that's a change you didn't want. The tablet goes in the basket now.",
+            "You're allowed to be upset about this. I'm not mad at you, and this isn't a punishment.",
+            "The basket is where it sleeps - that's true for my phone too.",
+            "I'm not asking you to agree. I'm just letting you know what's happening.",
+            "I'll help you with the hard part - here, let's do it together."
+          ],
+          "mantra": "Pushback means the limit landed, not that I got it wrong. I don't need their agreement to hold it."
+        },
+        {
+          "id": "let_the_device_be_the_rule",
+          "name": "Let the Device Be the Rule",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A firm, scheduled 'off' built into the device itself is a decision you make once instead of re-litigating every day, and it means the limit comes from the system, not from you personally, which takes some heat out of the handover.",
+          "script": [
+            "It's not me being mean - the tablet's set to go to sleep now, same as every day.",
+            "See? It's already locking up for the night. That's not a surprise, that's just how it works.",
+            "I'll get a little note if you want a new app, and I always think about it before I say yes.",
+            "The settings code stays with the grown-ups, like the medicine-cabinet key. That's just how our house works."
+          ],
+          "mantra": "A rule the device holds is a rule I don't have to fight for every single time."
+        }
+      ]
+    },
+    {
+      "id": "stealing_from_friend",
+      "title": "Caught With a Friend's Toy in Their Pocket",
+      "scenario": "You discover your child has pocketed a small toy from a friend's house or a playdate, without asking",
+      "icon": "🪀",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Before playdates, name the rule in advance: things at a friend's house stay at the friend's house, and if something's really loved, you can ask about getting one",
+        "Watch for patterns - does this tend to happen after visiting a specific friend, or around toys that feel special or admired? Patterns point to the real driver",
+        "Model naming your own wants for things you can't have, out loud, so your child hears the words instead of just feeling the impulse",
+        "Keep your own reaction calm and curious rather than alarmed - a big reaction to a small pocketed toy can make hiding feel safer than telling next time",
+        "Praise honesty warmly whenever it shows up, even about small things, so telling the truth stays the easier choice"
+      ],
+      "strategies": [
+        {
+          "id": "name_it_without_shame",
+          "name": "Name It Without Shame",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Calmly stating the fact and labeling the behavior, without accusation or a lecture about trust, keeps your child from having to defend a lie on top of the original slip. Understanding what drove it matters more than treating every incident the same.",
+          "script": [
+            "I found this toy in your pocket. I think this belongs to Maya.",
+            "You really liked playing with this at Maya's house.",
+            "When we take something that belongs to someone else without asking, that's called stealing.",
+            "We need to return this to Maya. How do you think we should do that?"
+          ],
+          "mantra": "This is about a want they didn't know how to voice, not proof my child is dishonest."
+        },
+        {
+          "id": "redirect_the_want",
+          "name": "Redirect the Want Into Words",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Giving your child the exact words for the wish underneath the action teaches them a workable alternative, instead of just naming what not to do.",
+          "script": [
+            "It's normal to want something you really like.",
+            "Next time, you can tell me 'I really want one of these' instead of putting it in your pocket.",
+            "Sometimes I'll say yes to getting something similar, sometimes no - but asking is always the right move.",
+            "I'm proud of you for telling me the truth now."
+          ],
+          "mantra": "Every 'you can tell me instead' is a tool they'll actually have next time."
+        },
+        {
+          "id": "make_it_right_together",
+          "name": "Make It Right, Together",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Involving your child in the actual return builds the repair skill directly, and doing it together, rather than as a solo punishment, keeps the lesson about honesty and repair, not about shame.",
+          "script": [
+            "Let's go give this back to Maya together.",
+            "You can say, 'I took this without asking. Sorry - here it is back.'",
+            "Taking things without permission can hurt a friendship, even by accident.",
+            "That took courage. I'm glad you made it right."
+          ],
+          "mantra": "Repair done together teaches more than punishment done alone."
+        }
+      ]
+    },
+    {
+      "id": "backtalk_in_public",
+      "title": "Backtalk With an Audience",
+      "scenario": "Child sasses, refuses, or talks back defiantly in front of other people - other parents, family, a checkout line - and you feel the stares",
+      "icon": "🗣️",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Before a known-hard public moment, prime it in advance: 'In a few minutes it's time to go. Your body might yell NO - that's allowed. We'll go anyway.'",
+        "Decide ahead of time that the nearest stranger is rooting for you, not scoring you - it's easier to remember before you're in the moment than during it",
+        "Treat public moments as get-through-it-safely; save the actual teaching for later, in private, once everyone's calm",
+        "Practice a big-feeling redo in calm, playful moments at home, so the skill is available mid-standoff, not just discussed after",
+        "Notice your own urge to react harder because people are watching - that urge is about the audience, not about what your child actually needs"
+      ],
+      "strategies": [
+        {
+          "id": "slow_down_get_curious",
+          "name": "Slow Down, Get Curious",
+          "difficulty": "intermediate",
+          "timeRequired": "immediate",
+          "why_it_works": "A flat refusal is usually a grab for control, not a genuine debate, so out-arguing it just hands your child something to push against. Reflecting it back with real curiosity removes the wall to push on.",
+          "script": [
+            "You really don't want to. Tell me the worst part.",
+            "You wish this didn't have to happen right now. I get it.",
+            "That part's still happening. You pick - do we walk to the car, or do I carry you like a sack of potatoes?",
+            "That was a big feeling, and it came out unkind. Try it again - I'm listening."
+          ],
+          "mantra": "I don't have to win this. I only have to hold it - the audience doesn't get a vote."
+        },
+        {
+          "id": "answer_the_audience_in_your_head",
+          "name": "Answer the Audience in Your Head",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "An audience cranks up a parent's fear of being judged, which pushes toward a harsher, faster reaction than the same moment would get at home. Naming that pull silently is what frees you to answer your child instead of the onlookers.",
+          "script": [
+            "I'm not on trial here. My kid needs me, not a show for the aisle.",
+            "You wish we could stay. It's SO hard to stop having fun.",
+            "This part's decided. You pick how we get there - hop like a frog, or ride on my shoulders?",
+            "We'll talk more about it once we're in the car."
+          ],
+          "mantra": "The strangers leave. The pattern I set with my child is what stays."
+        },
+        {
+          "id": "save_the_lesson_for_later",
+          "name": "Save the Lesson for Later",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Treating the public moment as get-through-it-safely, and moving the actual teaching to a calm, private moment afterward, means neither of you is trying to learn or teach while flooded and watched.",
+          "script": [
+            "Let's just get through this bit - we can talk more once we're home.",
+            "I'm not going to fix this here. I'm just going to keep us moving.",
+            "Earlier was a hard moment. Want to try that again, just the words this time?",
+            "You're allowed to be upset in front of people. I'm not embarrassed by you."
+          ],
+          "mantra": "Teaching happens later, in private. Right now my only job is getting us through safely."
+        }
+      ]
+    },
+    {
+      "id": "toddler_hitting_baby",
+      "title": "When the Big Sibling Hits or Squeezes the Baby",
+      "scenario": "Your older child hits, squeezes too hard, or lashes out at the new baby - sometimes affection turned rough, sometimes clear frustration",
+      "icon": "👶",
+      "ageRange": "3-7 years",
+      "prevention_tips": [
+        "Sort belongings visibly ahead of time - protected treasures up high, shared toys in a basket both kids can reach - so there's less to guard in the moment",
+        "Give your older child words for 'no' and 'mine' so their hands don't have to do the talking when the baby gets close to something they care about",
+        "Say out loud, more than once, that your love for them stays whole - a new baby doesn't split it",
+        "If this keeps happening the same way, treat it as a skill gap rather than defiance, and plan your own response in advance instead of reacting fresh each time",
+        "Stay within arm's reach whenever your older child is near the baby during this stretch, so you can block before contact instead of after"
+      ],
+      "strategies": [
+        {
+          "id": "block_first_talk_later",
+          "name": "Block First, Talk Later",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A child mid-lash-out is running on an overwhelmed system, not executing a plan - language barely gets in. Stepping in with your calm body and very few words delivers the one message that matters: I've got this, everyone's safe.",
+          "script": [
+            "Stop. I'm here. No hitting the baby - I'll help you both.",
+            "I won't let you hurt him. I'm keeping everyone safe.",
+            "I'm right here with you.",
+            "We'll talk once everyone's calm."
+          ],
+          "mantra": "Safety first, feelings second, talking last. I don't need words to keep everyone safe."
+        },
+        {
+          "id": "name_the_worry_underneath",
+          "name": "Name the Worry Underneath",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Aggression toward a new baby is usually worry about being replaced, not real dislike of the baby. Naming that fear directly, and saying your love stays whole, addresses what's actually driving the behavior.",
+          "script": [
+            "I think it feels wobbly watching the baby get close to your things, and to me.",
+            "This baby is lucky - they get you as a big sibling. And my love for you stays all yours. Nobody can take your share.",
+            "You can tell me 'mine' or 'not now' with words. I'll help the baby wait.",
+            "Sometimes being the little one looks kind of cozy, huh. Want to play baby for five minutes with me?"
+          ],
+          "mantra": "This is worry wearing the costume of aggression. My job is to answer the worry."
+        },
+        {
+          "id": "build_the_standing_plan",
+          "name": "Build the Standing Plan",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "When the same thing keeps happening despite calm handling each time, it's a missing skill, not a behavior to punish harder. Giving the grab-or-hit urge one standing, practiced outlet, decided together in a calm moment, is what actually starts to change it.",
+          "script": [
+            "When the baby gets close to your things, your body gets a big push to grab or hit. That push is okay - hitting isn't. Let's give the push somewhere to go.",
+            "What could your hands do instead - squeeze this pillow tight, or come find me?",
+            "I'm going to stay close by when you two are together, so I can help before it gets big.",
+            "This keeps happening because something's missing, not because you're being bad. We're figuring it out together."
+          ],
+          "mantra": "This keeps coming back because a skill is still missing, not because my child is bad. I can keep hunting for the gap."
+        }
+      ]
+    },
+    {
+      "id": "homework_perfectionism_shutdown",
+      "title": "Homework Perfectionism Shutdown",
+      "scenario": "Child rips up their worksheet and insists \"I can't do it\" after a single mistake",
+      "icon": "📝",
+      "ageRange": "6-12 years",
+      "prevention_tips": [
+        "Praise the sticking-with-it, not just the correct answers, so one mistake doesn't feel like the whole grade",
+        "Let your child watch you make a small mistake and move on without a big reaction",
+        "Practice tolerating \"good enough\" on low-stakes tasks before it matters, so it isn't new in the moment that counts",
+        "Keep a spare copy of any worksheet on hand so one torn page isn't a crisis",
+        "Save handwriting or accuracy feedback for a calm moment, never mid-meltdown",
+        "Say out loud when something has no real deadline, so the pressure has one less source"
+      ],
+      "strategies": [
+        {
+          "id": "finish_it_together",
+          "name": "Finish It, Don't Fix It",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "In the heat of the moment, correcting the mistake only adds pressure. The skill worth building isn't a clean page — it's staying with an imperfect one until it's done.",
+          "script": [
+            "You got one answer wrong, and right now the whole page feels ruined to you.",
+            "We're not erasing anything or starting over. We're finishing this exact page.",
+            "Your hand on the pencil. I'm right here next to you.",
+            "Look at that — done, mistake and all. It still counts as finished."
+          ],
+          "mantra": "Finishing beats fixing. The correction can wait for a calmer day."
+        },
+        {
+          "id": "ask_about_the_rule",
+          "name": "Ask About Their Rule",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Letting a child explain their own rule, rather than being told it's wrong, lets them run into their own inconsistency out loud — something no amount of reassurance from you would land as well.",
+          "script": [
+            "So walk me through your rule here. What tips a page from fine into ruined?",
+            "Is it any mistake at all, or just this one?",
+            "Huh — so one wrong answer erases everything else that's right on the page?",
+            "You don't have to answer. I just wanted to hear how the rule works."
+          ],
+          "mantra": "I don't need to win this. Curiosity does the work for me."
+        },
+        {
+          "id": "name_the_effort",
+          "name": "Name the Effort, Not the Score",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Reflecting back the persistence instead of the result teaches a child that trying hard counts on its own, so a perfect outcome slowly loses some of its grip as the only thing that matters.",
+          "script": [
+            "You stayed with this for twenty minutes even when it got hard. That's what I noticed.",
+            "I'm not checking whether it's right. I'm watching how you keep going.",
+            "Getting stuck and staying in your seat anyway — that's the actual skill.",
+            "This worksheet won't matter next week. Not giving up on it will."
+          ],
+          "mantra": "Effort is what I'm coaching for. The score isn't mine to fix."
+        }
+      ]
+    },
+    {
+      "id": "bath_refusal",
+      "title": "Bath Refusal",
+      "scenario": "Child cries, hides, or bolts the moment you announce it's bath time",
+      "icon": "🛁",
+      "ageRange": "2-7 years",
+      "prevention_tips": [
+        "Give a warning a few minutes before bath time starts, not out of nowhere",
+        "Let your child help pick a bath toy or towel ahead of time",
+        "Start running the water only after they're already in the bathroom, not before",
+        "Build a short, predictable pre-bath routine, like a song or a timer, that's the same every night",
+        "Ask what part of bath time feels bad on a calm day, not mid-refusal",
+        "Offer a quick shower or a sponge-off as an alternative some nights"
+      ],
+      "strategies": [
+        {
+          "id": "name_the_no",
+          "name": "Name the No, Keep the Plan",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Acknowledging the refusal fully before repeating the requirement lowers the fight. A child who feels heard has less to push against, even when the answer doesn't change.",
+          "script": [
+            "You really don't want a bath tonight. I hear you.",
+            "It's still happening — bath time doesn't skip just because you don't want it.",
+            "You can walk in on your own two feet, or I'll carry you. Your choice.",
+            "I'm not asking if you want a bath. I'm asking how you want to get there."
+          ],
+          "mantra": "Their no is real. My answer can still stand next to it."
+        },
+        {
+          "id": "hand_over_the_order",
+          "name": "Hand Over the Order",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Offering real choices over the parts that don't matter gives a child a genuine sense of control inside a requirement that isn't actually negotiable.",
+          "script": [
+            "Bath is happening. You get to run the rest of it.",
+            "Rubber duck first or bubbles first — you decide.",
+            "Do you want to wash your hair at the start or right at the end?",
+            "You're in charge of the order. I'm just in charge of making sure it happens."
+          ],
+          "mantra": "The bath isn't optional. Almost everything about it can be."
+        },
+        {
+          "id": "get_curious_not_convincing",
+          "name": "Get Curious, Not Convincing",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Many bath refusals trace back to a specific sensory or fear trigger, like water on the face or the sound of the drain. Naming that plainly gets further than trying to reassure it away.",
+          "script": [
+            "Something about bath time feels bad to you, and I'm not going to argue you out of it.",
+            "Is it the water on your face, or something else?",
+            "I'll keep the water out of your eyes tonight. Let's try that first.",
+            "You don't have to enjoy this part. I just need you to let me help."
+          ],
+          "mantra": "There's usually a real reason under the refusal. My job is to find it, not out-argue it."
+        }
+      ]
+    },
+    {
+      "id": "teeth_brushing_fight",
+      "title": "Teeth Brushing Fight",
+      "scenario": "Child clamps their mouth shut, twists away, or runs from the toothbrush every night",
+      "icon": "🪥",
+      "ageRange": "2-7 years",
+      "prevention_tips": [
+        "Brush at the same point in the routine every night so it's never a surprise",
+        "Let your child hold the toothbrush and go first before you take a turn",
+        "Try a softer brush or a different toothpaste flavor if the sensation seems to be the real problem",
+        "Keep brushing short and matter-of-fact — skip the lecture about cavities",
+        "Take turns counting teeth together so it's a shared job, not something done to them",
+        "Brush your own teeth next to them without asking anything of them at all"
+      ],
+      "strategies": [
+        {
+          "id": "name_it_plainly",
+          "name": "Name It Plainly, Hold the Line",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Naming exactly what's uncomfortable about brushing, without trying to talk them out of the feeling, lowers resistance more than explaining why teeth need brushing ever does.",
+          "script": [
+            "The toothbrush bugs you — the bristles, the taste, the whole feeling of it. I know.",
+            "It's happening anyway. Teeth need this every single night.",
+            "Do you want to hold it, or should I?",
+            "Two minutes and it's done. Then we're free."
+          ],
+          "mantra": "Understanding the discomfort and still following through aren't opposites."
+        },
+        {
+          "id": "hand_over_one_piece",
+          "name": "Hand Over One Real Piece",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Giving a small, genuine piece of control, like who holds the brush or which teeth go first, turns a task done to a child into one done with them, which lowers the urge to fight it.",
+          "script": [
+            "You pick — top teeth first or bottom teeth first?",
+            "You hold it and go first. I'll finish up after.",
+            "Want to count how many teeth we get to today?",
+            "You're doing the hard part. I'm just helping at the end."
+          ],
+          "mantra": "A little real control now buys a lot less fighting later."
+        },
+        {
+          "id": "make_it_silly",
+          "name": "Make It Silly",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Playfulness shifts a child out of a defensive, dug-in state. A shared laugh often opens a mouth that no amount of insisting could.",
+          "script": [
+            "I bet there's a piece of broccoli hiding way back there. Let's go hunt for it.",
+            "Open wide — I need to check if any sugar bugs moved in today.",
+            "Should we brush like a lion or a dinosaur tonight?",
+            "Found one! Two more swipes and the sugar bugs are all gone."
+          ],
+          "mantra": "Silly gets further than serious most nights. I can let this be easy."
+        }
+      ]
+    },
+    {
+      "id": "getting_dressed_standoff",
+      "title": "Getting Dressed Standoff",
+      "scenario": "Child refuses every outfit, strips back off what you put on, or plants themselves half-dressed and won't move",
+      "icon": "👕",
+      "ageRange": "3-8 years",
+      "prevention_tips": [
+        "Lay out two acceptable outfit choices together the night before",
+        "Build a real time buffer into the morning so dressing isn't racing the clock",
+        "Let your child dress in whatever order they want, even if it's backward",
+        "Cut out scratchy tags or switch to softer fabrics if texture seems to be the trigger",
+        "Settle your own urgency first — a rushed voice tends to make the standoff worse, not faster",
+        "Put the hardest dressing step earliest in the routine, before screens or breakfast compete for attention"
+      ],
+      "strategies": [
+        {
+          "id": "how_not_whether",
+          "name": "Choose How, Not Whether",
+          "difficulty": "easy",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Offering a real choice about the order or manner of dressing, never about whether it happens, gives them a small, genuine say without reopening the one thing that isn't up for negotiation.",
+          "script": [
+            "You don't have to want this. Getting dressed is happening either way.",
+            "You choose which shirt — the striped one or the plain one.",
+            "Want to get dressed on the bed, or race me to the rug?",
+            "Socks or shirt first — you're driving that part."
+          ],
+          "mantra": "The whether is mine to hold. Almost everything else is theirs to decide."
+        },
+        {
+          "id": "settle_your_own_body",
+          "name": "Settle Your Body First",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Children pick up on a parent's rush and often push back harder against it. Slowing your own voice and movement removes some of the fuel the standoff is running on.",
+          "script": [
+            "I'm going to slow down for a second, even though we're behind.",
+            "I'm not going to chase you around the room for this shirt.",
+            "I'll wait right here until you're ready to try again.",
+            "We have a few minutes. Let's use them instead of losing them."
+          ],
+          "mantra": "My calm isn't a reward for their cooperation. It comes first, not after."
+        },
+        {
+          "id": "gentle_follow_through",
+          "name": "Gentle Follow-Through",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "When a stall goes past a fair amount of waiting, finishing the task with your child instead of to them keeps the boundary standing without turning it into a bigger battle.",
+          "script": [
+            "You've had a few minutes to choose, and that's okay. I'll help now.",
+            "Arm through here, now this side — we're doing it together.",
+            "We're not fighting about this. It's just happening now, gently.",
+            "There. Done. That was the hard part, and you got through it."
+          ],
+          "mantra": "Following through calmly is still kind. Firm doesn't have to mean a fight."
+        }
+      ]
+    },
+    {
+      "id": "playground_leaving_refusal",
+      "title": "Playground Leaving Refusal",
+      "scenario": "Child sprints back to the climbing structure, goes limp, or melts down as soon as you say it's time to go",
+      "icon": "🛝",
+      "ageRange": "2-8 years",
+      "prevention_tips": [
+        "Give a concrete warning, like \"one more turn, then we're leaving,\" instead of a vague one",
+        "Walk over and close the distance before giving the leaving instruction — don't call it across the playground",
+        "Build a small leaving ritual, like waving goodbye to the slide, into the good days",
+        "Avoid promising a return trip unless it's genuinely certain",
+        "Plan arrival time with a buffer so leaving doesn't collide with another deadline",
+        "Talk about the fun on the way to the car instead of the fact that it's over"
+      ],
+      "strategies": [
+        {
+          "id": "walk_over_before_you_call_out",
+          "name": "Walk Over Before You Call Out",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "An instruction shouted across a playground tends to start a chase. Walking over and speaking at their level before naming the limit keeps the moment from turning into catch-me-if-you-can.",
+          "script": [
+            "I'm coming over to tell you this, not yelling it from the bench.",
+            "Playtime is ending now. That part isn't changing.",
+            "Want to zoom to the car like a rocket, or walk it slow with me?",
+            "I'm staying right beside you either way."
+          ],
+          "mantra": "Other parents aren't grading this moment. My kid needs me close, not loud."
+        },
+        {
+          "id": "validate_the_want_first",
+          "name": "Validate the Want, Then the Limit",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "Naming how much they wanted to keep playing, fully and before anything else, tends to shrink the protest that follows — a child who feels understood has less left to push against.",
+          "script": [
+            "You wish you could stay on that climber all afternoon.",
+            "Leaving something this fun is genuinely hard. I'm not surprised you're upset.",
+            "And we still have to go right now. Both things are true.",
+            "Tell me the best part while we walk, so I don't forget it either."
+          ],
+          "mantra": "Their disappointment is real. It doesn't mean the boundary is wrong."
+        },
+        {
+          "id": "calm_carry_teach_later",
+          "name": "Calm Carry, Teach Later",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Once a child has gone limp or is mid-meltdown, explanations stop landing. Picking them up calmly and saving the conversation for afterward keeps everyone safer and ends the standoff faster than more words would.",
+          "script": [
+            "You can't hear me right now, so I'm going to carry you.",
+            "You don't have to walk. I've got you.",
+            "We'll talk about all of this once we're both calm.",
+            "I'm not angry. Big feelings about leaving fun places make total sense."
+          ],
+          "mantra": "When words stop working, a calm action can still be kind."
+        }
+      ]
+    },
+    {
+      "id": "swear_word_shock",
+      "title": "Swear Word Shock",
+      "scenario": "Child drops a swear word or shock word out loud, sometimes in front of other people",
+      "icon": "🤭",
+      "ageRange": "3-9 years",
+      "prevention_tips": [
+        "Notice your own reaction to strong language before it happens, so a big flinch doesn't teach the word is powerful",
+        "Talk about which words are okay where on a calm day, before the next slip",
+        "Give your child a few silly alternative words they're free to use when they want to feel big or shocking",
+        "Avoid repeating the word back loudly or asking who taught it to them in the moment",
+        "Keep your response short and similar every time so it isn't an exciting reaction worth chasing"
+      ],
+      "strategies": [
+        {
+          "id": "stay_flat_dont_feed_it",
+          "name": "Stay Flat, Don't Feed It",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "A strong reaction is often exactly what makes a shock word worth repeating. Responding calmly and briefly removes the payoff without shaming the curiosity behind it.",
+          "script": [
+            "Sounds like you found a word that gets a big reaction.",
+            "That word doesn't get used here. That's not changing.",
+            "You're not in trouble for learning a new word.",
+            "Let's find one that does the same job without the trouble."
+          ],
+          "mantra": "My calm face is the least interesting response I can give this."
+        },
+        {
+          "id": "name_what_it_felt_like",
+          "name": "Name What It Felt Like",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "Acknowledging that the word probably felt exciting or grown-up to say helps a child feel understood rather than caught, which makes them more willing to accept where the line actually is.",
+          "script": [
+            "I bet that word felt big to say, like a grown-up word.",
+            "Wanting to feel big and bold is okay. That particular word just isn't how we do it here.",
+            "What's a word that could feel just as strong, without the trouble it causes?",
+            "There are lots of ways to be loud and bold that don't get you in trouble."
+          ],
+          "mantra": "The urge behind the word is fine. Only the word itself needs a new home."
+        },
+        {
+          "id": "repair_in_front_of_others",
+          "name": "Repair in Front of Others",
+          "difficulty": "intermediate",
+          "timeRequired": "immediate",
+          "why_it_works": "When the word lands in front of other people, a brief, light acknowledgment protects your child from public embarrassment while staying honest that it wasn't the right moment — the real conversation happens later, in private.",
+          "script": [
+            "That's a word we're still learning about. We'll talk about it at home.",
+            "Sorry about that — we're working on it.",
+            "Let's go find something else to do right now.",
+            "We'll talk more about that word later, just us."
+          ],
+          "mantra": "The real conversation happens in private, not in front of an audience."
+        }
+      ]
+    },
+    {
+      "id": "refuses_to_apologize",
+      "title": "Refuses to Apologize",
+      "scenario": "Child hurt someone — a sibling, a friend — and goes silent, stiff, or defiant rather than say sorry",
+      "icon": "🤐",
+      "ageRange": "3-8 years",
+      "prevention_tips": [
+        "Model your own apologies openly, including to your child, so they see what repair looks like",
+        "Avoid demanding \"say sorry\" in front of an audience — it tends to backfire",
+        "Talk about mistakes as things everyone makes, on calm days, not just in the moment",
+        "Keep your own reaction calm when they hurt someone, so shame doesn't lock the door before repair can start",
+        "Give repair a low-pressure shape beyond the word \"sorry,\" like drawing a picture or checking if the other person is okay"
+      ],
+      "strategies": [
+        {
+          "id": "lower_the_shame_first",
+          "name": "Lower the Shame First",
+          "difficulty": "intermediate",
+          "timeRequired": "5-10 minutes",
+          "why_it_works": "A stuck apology is rarely missing remorse — it's usually shame locking the moment shut. Making clear that one unkind moment doesn't define them brings the temperature down enough for repair to become possible again.",
+          "script": [
+            "You're not a bad kid. What just happened was unkind — those are two different things.",
+            "You don't have to have the words ready right this second.",
+            "We're going to fix this together. You're not doing it alone.",
+            "Take a breath with me before we go back over there."
+          ],
+          "mantra": "Shame blocks repair. My job is to lower it, not add to it."
+        },
+        {
+          "id": "model_it_then_let_it_stand",
+          "name": "Model It, Then Let It Stand",
+          "difficulty": "easy",
+          "timeRequired": "immediate",
+          "why_it_works": "When the words genuinely won't come, saying them yourself on your child's behalf mends things for the person who got hurt and quietly hands your child language they can borrow next time, without forcing a performance.",
+          "script": [
+            "I'm going to say this part for you, since it's stuck right now.",
+            "He didn't mean for that to happen — we're going to make it right together.",
+            "Let's go check that you're really okay.",
+            "Thank you for staying with me through this instead of running off."
+          ],
+          "mantra": "A repair I model still counts. My child doesn't have to perform the words today."
+        },
+        {
+          "id": "the_private_debrief_later",
+          "name": "The Private Debrief, Later",
+          "difficulty": "intermediate",
+          "timeRequired": "10-15 minutes",
+          "why_it_works": "Correcting a child in front of the person they hurt tends to trigger more shutdown, not learning. A calm, one-on-one conversation once everyone has settled gives them room to actually reflect instead of just defend.",
+          "script": [
+            "Let's go over what happened earlier, just the two of us.",
+            "You looked like something was already bothering you before that happened. What was it?",
+            "Words can land harder than we plan for them to. How do you want to handle it now?",
+            "Next time that feeling shows up, what's something else you could do with it?"
+          ],
+          "mantra": "The real learning happens later, in private, not in front of anyone else."
         }
       ]
     }

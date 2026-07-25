@@ -1,13 +1,13 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2026-07-24T11:21:34Z",
+  "lastUpdated": "2026-07-25T15:35:07Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
       "path": "content/en/emergencycoachscripts.json",
       "required": true,
-      "sha256Checksum": "f2c2738fd06f503d1ee50ee23ccb685f2c9d606d750840e1e50b524496e69eef"
+      "sha256Checksum": "20e6f966deb2355c7921a82adb1b798777f02262b1147b653a4e9837bf4c1f12"
     },
     "libraryCategories_en": {
       "filename": "library_categories.json",
@@ -102,7 +102,7 @@
       "filename": "emergencycoachscripts.json",
       "path": "content/es/emergencycoachscripts.json",
       "required": true,
-      "sha256Checksum": "df3378f6c345a8b940c4b7769cba8eda54dfeaf9ad77df9eba878eb965f670a9"
+      "sha256Checksum": "57b7dd4194e94184f39aa4234c6c8b236bfb49f2f80e4f7b1527a149f763c18a"
     },
     "libraryCategories_es": {
       "filename": "library_categories.json",
@@ -191,7 +191,7 @@
       "filename": "emergencycoachscripts.json",
       "path": "content/de/emergencycoachscripts.json",
       "required": true,
-      "sha256Checksum": "0b23db5f2fe215bdeb88b76a97b916fd147f9438d969e36106d2c52769cb3ba9"
+      "sha256Checksum": "dbf93fda36a59920e91cae59781e2cce9864ce9f7c52fc07fe503811e4bfa685"
     },
     "libraryCategories_de": {
       "filename": "library_categories.json",

@@ -2,16 +2,16 @@
   "parenting_scripts": [
     {
       "id": "bedtime_meltdown",
-      "title": "Crisis a la Hora de Dormir",
-      "scenario": "El niño está gritando, llorando o teniendo una rabieta completa cuando es hora de ir a la cama",
+      "title": "Colapso a la Hora de Dormir",
+      "scenario": "El niño grita, llora o tiene un colapso total cuando llega la hora de dormir",
       "icon": "🌙",
       "ageRange": "2-8 años",
       "prevention_tips": [
-        "Mantener una rutina consistente antes de dormir",
-        "Comenzar actividades relajantes 30 minutos antes de acostarse",
-        "Asegurarse de que el niño no esté demasiado cansado - observar señales tempranas de sueño",
-        "Mantener la habitación fresca, oscura y cómoda",
-        "Evitar actividades estimulantes cerca de la hora de dormir"
+        "Mantener una rutina constante antes de dormir",
+        "Empezar con actividades tranquilas 30 minutos antes de acostarlo",
+        "Vigilar que no esté sobrecansado, atento a las señales tempranas de sueño",
+        "Mantener el cuarto fresco, oscuro y acogedor",
+        "Evitar actividades que activen mucho cerca de la hora de dormir"
       ],
       "strategies": [
         {
@@ -19,14 +19,14 @@
           "name": "Validación + Límite",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Reconocer las emociones del niño mientras mantienes el límite les muestra que sus sentimientos son válidos, pero la expectativa permanece. Ofrecer opciones les da control dentro de tu estructura.",
+          "why_it_works": "Reconocer las emociones del niño mientras mantienes el límite le muestra que sus sentimientos son válidos, pero la expectativa sigue en pie. Ofrecerle opciones le da control dentro de tu estructura.",
           "script": [
-            "Estás muy molesto por ir a dormir. Veo que es difícil para ti.",
-            "Y aún así es hora de dormir. Necesitas descansar para estar bien mañana.",
-            "¿Quieres ir caminando a tu cuarto o prefieres que te lleve?",
-            "Aquí estoy contigo mientras sientes todo esto."
+            "Estás muy alterado por la hora de dormir. Veo que esto te está costando.",
+            "Y aun así, es hora de dormir. Necesitas descansar para estar bien mañana.",
+            "¿Quieres caminar tú solo a tu cuarto o prefieres que te lleve?",
+            "Aquí estoy, contigo, mientras sientes todo esto."
           ],
-          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
+          "mantra": "Esto es temporal. Que se desborde no significa que yo esté haciendo algo mal. La constancia es un acto de amor."
         },
         {
           "id": "playful_approach",
@@ -35,49 +35,49 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "El juego puede cambiar el estado emocional y hacer que la cooperación sea más probable. Mantiene el límite mientras reduce las luchas de poder a través de la conexión.",
           "script": [
-            "¡Oh no! ¡Te atrapó el monstruo de dormir! ¡Hace que los niños se enojen mucho con la hora de dormir!",
-            "A ver... ¿marchamos a la cama como soldados o saltamos como conejitos?",
-            "Tus peluches te están esperando. ¿Vamos a darles las buenas noches?",
+            "¡Oh no! ¿Te atrapó el monstruo del sueño? ¡Ese monstruo hace que los niños se pongan furiosos con la hora de dormir!",
+            "¿Marchamos a la cama como soldaditos o saltamos como conejitos?",
+            "Tus peluches ya te están esperando. ¿Vamos a darles las buenas noches?",
             "Aunque estés enojado, te quiero muchísimo. Ven, vamos a prepararte para dormir."
           ],
-          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
+          "mantra": "Esto es temporal. Que se desborde no significa que yo esté haciendo algo mal. La constancia es un acto de amor."
         },
         {
           "id": "limited_choices",
           "name": "Opciones Limitadas",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Ofrecer opciones dentro del límite no negociable les da a los niños una sensación de autonomía y control, haciéndolos más propensos a cooperar.",
+          "why_it_works": "Ofrecer opciones dentro del límite no negociable da a los niños una sensación de autonomía y control, y los hace más propensos a cooperar.",
           "script": [
-            "Sé que la hora de dormir te parece demasiado ahora.",
-            "Tú decides: ¿pijama primero o lavarse los dientes primero?",
+            "Sé que ahora mismo la hora de dormir se siente como demasiado.",
+            "Tú decides: ¿primero el pijama o primero los dientes?",
             "¿Quieres la puerta un poquito abierta o cerrada?",
             "Es hora de dormir, y tú decides si lo hacemos por las buenas o por las malas."
           ],
-          "mantra": "Esto es temporal. Que se desborde no significa que estoy haciendo algo mal. La constancia es un acto de amor."
+          "mantra": "Esto es temporal. Que se desborde no significa que yo esté haciendo algo mal. La constancia es un acto de amor."
         }
       ]
     },
     {
       "id": "sibling_toy_fight",
-      "title": "Pelea Entre Hermanos por Juguetes",
+      "title": "Pelea Entre Hermanos por un Juguete",
       "scenario": "Dos niños están peleando, agarrando o gritando por el mismo juguete",
       "icon": "🧸",
       "ageRange": "2-10 años",
       "prevention_tips": [
         "Enseñar a turnarse antes de que surjan conflictos",
-        "Tener múltiples juguetes similares disponibles",
-        "Crear expectativas claras sobre compartir",
-        "Establecer ambientes de juego que reduzcan la competencia",
-        "Practicar resolución de problemas cuando todos estén calmados"
+        "Tener varios juguetes iguales o parecidos",
+        "Dejar claro, de antemano, cómo se comparte",
+        "Organizar el espacio de juego para que compitan menos",
+        "Practicar cómo resolver problemas cuando todos estén tranquilos"
       ],
       "strategies": [
         {
           "id": "sportscaster_approach",
-          "name": "Enfoque de Comentarista Deportivo",
+          "name": "Como Comentarista Deportivo",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Negarse a tomar partido te previene de convertirte en el árbitro y enseña a los niños a trabajar juntos. Quitar el juguete elimina el detonante inmediato mientras se regulan.",
+          "why_it_works": "No tomar partido evita que te conviertas en árbitro, y les enseña a trabajar juntos. Quitar el juguete de en medio elimina el detonante mientras se calman.",
           "script": [
             "Veo dos niños que quieren el mismo juguete. ¡Qué frustrante!",
             "No voy a decidir quién se lo queda. Los dos lo quieren, lo entiendo.",
@@ -91,7 +91,7 @@
           "name": "Empatía para Ambos",
           "difficulty": "avanzado",
           "timeRequired": "10-15 minutos",
-          "why_it_works": "Validar las perspectivas de ambos niños los ayuda a sentirse escuchados y reduce la intensidad del conflicto. Darles tiempo para pensar promueve habilidades de resolución de problemas.",
+          "why_it_works": "Validar lo que sienten los dos los ayuda a sentirse escuchados y baja la intensidad del conflicto. Darles tiempo para pensar les ayuda a aprender a resolver problemas.",
           "script": [
             "Sara, estás molesta porque quieres la muñeca. Jake, estás molesto porque la tenías primero.",
             "Ambos sentimientos tienen total sentido para mí.",
@@ -105,9 +105,9 @@
           "name": "Seguridad Inmediata",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "La separación física previene la escalada y les da a ambos niños espacio para regular sus emociones antes de intentar resolver problemas.",
+          "why_it_works": "Separarlos físicamente evita que la cosa escale y les da a los dos espacio para calmarse antes de intentar resolver el problema.",
           "script": [
-            "Veo manos que agarran y voces que gritan. Necesito mantenerlos seguros.",
+            "Veo manos que agarran y voces que gritan. Necesito mantenerlos a salvo.",
             "Sara, ven conmigo a la cocina. Jake, quédate aquí por favor.",
             "Cuando estén tranquilos, hablamos del juguete.",
             "Ahora mismo me aseguro de que todos estén bien."
@@ -118,16 +118,16 @@
     },
     {
       "id": "school_morning_refusal",
-      "title": "Negativa Matutina a la Escuela",
-      "scenario": "El niño se niega a vestirse, se esconde o tiene una crisis sobre ir a la escuela",
+      "title": "Negativa a Ir a la Escuela por la Mañana",
+      "scenario": "El niño se niega a vestirse, se esconde o se derrumba a la hora de ir a la escuela",
       "icon": "🎒",
       "ageRange": "3-12 años",
       "prevention_tips": [
         "Preparar ropa y mochila la noche anterior",
-        "Asegurar sueño adecuado (hora de dormir temprana)",
-        "Incluir tiempo extra para la rutina matutina",
-        "Abordar cualquier ansiedad escolar durante momentos calmados",
-        "Crear gráficos visuales de rutina matutina"
+        "Cuidar que duerma lo suficiente (acostarlo temprano)",
+        "Dejar tiempo extra para la rutina de la mañana",
+        "Hablar de sus miedos sobre la escuela cuando esté tranquilo",
+        "Hacer un cuadro visual con los pasos de la mañana"
       ],
       "strategies": [
         {
@@ -135,42 +135,42 @@
           "name": "Reconocer + Acción",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Validar sus sentimientos mientras sigues adelante con el plan les muestra que puedes manejar sus emociones más intensas y aún mantenerlos seguros con rutinas.",
+          "why_it_works": "Validar lo que siente mientras sigues con el plan le muestra que puedes con sus emociones más grandes, y aun así mantenerlo a salvo con las rutinas.",
           "script": [
             "Noto que hoy algo de la escuela se te hace difícil.",
-            "Y a la escuela sí vamos. Vamos a prepararte para salir.",
-            "Puedes vestirte solo, o puedo ayudarte a vestirte. Tú eliges.",
+            "Y hoy sí vamos a la escuela. Vamos a prepararte para salir.",
+            "Puedes vestirte tú solo, o te ayudo yo. Tú decides.",
             "Nos vamos en 5 minutos. Creo que puedes hacerlo."
           ],
-          "mantra": "Su resistencia no significa que debo ceder. La estructura se siente segura incluso cuando luchan contra ella."
+          "mantra": "Su resistencia no significa que yo deba ceder. La estructura se siente segura, incluso cuando la pelea."
         },
         {
           "id": "connect_first",
           "name": "Conectar Primero",
           "difficulty": "avanzado",
           "timeRequired": "10-15 minutos",
-          "why_it_works": "La conexión antes de la dirección ayuda a los niños a sentirse entendidos y apoyados, haciéndolos más dispuestos a cooperar con tareas necesarias.",
+          "why_it_works": "La conexión antes de la dirección ayuda a los niños a sentirse entendidos y apoyados, y así están más dispuestos a cooperar con lo que hay que hacer.",
           "script": [
-            "Ven aquí, pequeño. Puedo ver que esta mañana se siente grande y difícil.",
-            "Cuéntame qué está pasando en tu cerebro sobre la escuela hoy.",
+            "Ven aquí, cariño. Veo que esta mañana se siente grande y pesada.",
+            "Cuéntame qué te está pasando por la cabeza con lo de la escuela hoy.",
             "Eso suena realmente [difícil/aterrador/frustrante]. Lo entiendo.",
             "Incluso cuando la escuela se siente difícil, sé que puedes manejarla. Vamos a prepararnos juntos."
           ],
-          "mantra": "Su resistencia no significa que debo ceder. La estructura se siente segura incluso cuando luchan contra ella."
+          "mantra": "Su resistencia no significa que yo deba ceder. La estructura se siente segura, incluso cuando la pelea."
         },
         {
           "id": "playful_power",
           "name": "Poder Lúdico",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "El juego puede transformar la resistencia en cooperación haciendo que las tareas necesarias se sientan como un juego en lugar de una obligación.",
+          "why_it_works": "El juego puede transformar la resistencia en cooperación. Hace que las tareas necesarias se sientan como un juego, no como una obligación.",
           "script": [
             "¡Oh no! ¡Parece que tu ropa está tratando de esconderse de ti!",
             "¿Deberíamos atrapar esa camisa traviesa? ¡Creo que se fue detrás de la puerta!",
             "Me pregunto si tu mochila está lista para una aventura hoy...",
             "Hoy vas a la escuela, y cuando regreses, aquí estaré."
           ],
-          "mantra": "Su resistencia no significa que debo ceder. La estructura se siente segura incluso cuando luchan contra ella."
+          "mantra": "Su resistencia no significa que yo deba ceder. La estructura se siente segura, incluso cuando la pelea."
         }
       ]
     },
@@ -181,26 +181,26 @@
       "icon": "😡",
       "ageRange": "3-10 años",
       "prevention_tips": [
-        "Modelar regulación emocional durante tus propias frustraciones",
-        "Enseñar palabras de sentimientos cuando el niño esté calmado",
-        "Validar emociones regularmente antes de que escalen",
-        "Crear espacios seguros para expresar sentimientos difíciles",
-        "Mantener conexión fuerte a través de tiempo individual diario"
+        "Mostrarle con el ejemplo cómo manejas tú misma tus frustraciones",
+        "Enseñarle palabras para los sentimientos cuando esté tranquilo",
+        "Validar sus emociones a menudo, antes de que suban de tono",
+        "Crear espacios seguros donde pueda expresar sentimientos difíciles",
+        "Mantener una conexión fuerte con tiempo a solas cada día"
       ],
       "strategies": [
         {
           "id": "stay_calm_reflect",
-          "name": "Mantente Calmado + Reflexiona",
+          "name": "Mantente Calmada + Reflexiona",
           "difficulty": "intermedio",
           "timeRequired": "inmediato",
-          "why_it_works": "Mantenerse calmado ante palabras hirientes modela regulación emocional y les muestra que sus grandes sentimientos no pueden alejarte o cambiar tus límites.",
+          "why_it_works": "Mantenerte calmada frente a las palabras que duelen modela la regulación emocional, y le muestra que sus grandes sentimientos no pueden alejarte ni cambiar tus límites.",
           "script": [
-            "Estás muy enojado conmigo ahora. Quisieras que cambiara de opinión.",
+            "Estás muy enojado conmigo ahora mismo. Te gustaría que yo cambiara de opinión.",
             "Está perfectamente bien estar enojado conmigo. Puedo con eso.",
             "Aunque estés enojado, te quiero muchísimo.",
             "Cuando estés listo, aquí estoy. Mi respuesta sigue siendo [límite]."
           ],
-          "mantra": "Realmente no me odian. Este es su cerebro inmaduro tratando de obtener control. Puedo mantenerme firme."
+          "mantra": "Realmente no me odia. Es su cerebro inmaduro, que todavía busca tener el control. Puedo mantenerme firme."
         },
         {
           "id": "name_the_feeling",
@@ -210,11 +210,11 @@
           "why_it_works": "Nombrar emociones ayuda a los niños a entender lo que están sintiendo y les enseña que todos los sentimientos son aceptables, incluso cuando se expresan imperfectamente.",
           "script": [
             "Vaya, estás muy, muy enojado ahora mismo.",
-            "Estás tan frustrado que quieres que lo sepa con tus palabras más grandes.",
+            "Estás muy frustrado. Por eso usas tus palabras más fuertes.",
             "Te escucho. Deseas que las cosas fueran diferentes ahora mismo.",
             "Te amo incluso cuando estás enojado. Incluso cuando usas esas palabras."
           ],
-          "mantra": "Realmente no me odian. Este es su cerebro inmaduro tratando de obtener control. Puedo mantenerme firme."
+          "mantra": "Realmente no me odia. Es su cerebro inmaduro, que todavía busca tener el control. Puedo mantenerme firme."
         },
         {
           "id": "empathy_bridge",
@@ -224,26 +224,26 @@
           "why_it_works": "Compartir tu propia experiencia con sentimientos similares ayuda a los niños a sentirse menos solos y les muestra que las emociones fuertes son normales y manejables.",
           "script": [
             "¿Sabes qué? Yo también me frustro con las personas que quiero.",
-            "Cuando dices que me odias, creo que odias lo que te estoy pidiendo.",
-            "Lo entiendo totalmente. Esta regla te parece super injusta.",
-            "Y te quiero un montón. Y la regla sigue en pie."
+            "Dices que me odias. Pero creo que odias lo que te pido, no a mí.",
+            "Lo entiendo totalmente. Esta regla te parece súper injusta.",
+            "Y te quiero un montón. Y la regla no cambia."
           ],
-          "mantra": "Realmente no me odian. Este es su cerebro inmaduro tratando de obtener control. Puedo mantenerme firme."
+          "mantra": "Realmente no me odia. Es su cerebro inmaduro, que todavía busca tener el control. Puedo mantenerme firme."
         }
       ]
     },
     {
       "id": "doctor_visit_anxiety",
-      "title": "Ansiedad por Visita al Doctor",
-      "scenario": "El niño está llorando, aferrándose o negándose a cooperar en una cita médica",
+      "title": "Ansiedad por la Visita al Pediatra",
+      "scenario": "El niño llora, se aferra a ti o se niega a cooperar en una cita con el pediatra",
       "icon": "🩺",
       "ageRange": "2-10 años",
       "prevention_tips": [
-        "Leer libros sobre visitas al doctor de antemano",
-        "Jugar roles de citas médicas con juguetes",
-        "Traer objetos de consuelo (peluche favorito)",
-        "Programar citas cuando el niño esté bien descansado",
-        "Preparar al niño con explicaciones apropiadas para su edad"
+        "Leer con antelación libros sobre ir al pediatra",
+        "Jugar a la consulta médica con sus juguetes antes de la cita",
+        "Llevar objetos de consuelo (su peluche favorito)",
+        "Programar las citas cuando el niño esté bien descansado",
+        "Explicarle lo que va a pasar con palabras que entienda según su edad"
       ],
       "strategies": [
         {
@@ -251,12 +251,12 @@
           "name": "Validación + Colaboración",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Proporcionar información reduce la ansiedad haciendo que lo desconocido sea conocido. Mantenerse físicamente cerca activa su sistema de apego y los ayuda a sentirse seguros.",
+          "why_it_works": "Darle información reduce su ansiedad porque convierte lo desconocido en algo conocido. Mantenerte físicamente cerca activa su sistema de apego y lo ayuda a sentirse seguro.",
           "script": [
-            "Tienes miedo de estar aquí. Ir al médico puede dar mucho susto.",
+            "Tienes miedo de estar aquí. Ir al pediatra puede dar mucho susto.",
             "Me voy a quedar justo a tu lado todo el tiempo.",
-            "Somos un equipo. No tienes que ser valiente solo.",
-            "Después de esto, vamos a [plan específico]. Puedes esperar eso con ganas."
+            "Somos un equipo. No tienes que ser valiente tú solo.",
+            "Después de esto, vamos a [plan específico]. Puedes ir pensando en eso con ganas."
           ],
           "mantra": "Su miedo es real y válido. Puedo ser su calma en esta tormenta."
         },
@@ -265,26 +265,26 @@
           "name": "Control + Información",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La información detallada ayuda a reducir la ansiedad eliminando incógnitas. Ofrecer opciones les da algo de control en una situación donde se sienten impotentes.",
+          "why_it_works": "La información detallada ayuda a reducir la ansiedad porque elimina lo desconocido. Ofrecerle opciones le da algo de control en una situación donde se siente impotente.",
           "script": [
-            "Déjame contarte exactamente qué va a pasar para que tu cerebro pueda prepararse.",
-            "Primero [paso 1], luego [paso 2]. Estaré sosteniendo tu mano.",
-            "Puedes elegir: ¿quieres sentarte en mis piernas o en la mesa?",
-            "Si necesitas llorar o apretar mi mano, está totalmente bien."
+            "Déjame contarte exactamente qué va a pasar, para que tu cerebro se prepare.",
+            "Primero [paso 1], luego [paso 2]. Yo te voy a estar sujetando la mano.",
+            "Tú decides: ¿te sientas en mis piernas o en la camilla?",
+            "Si necesitas llorar o apretarme la mano, está perfectamente bien."
           ],
           "mantra": "Su miedo es real y válido. Puedo ser su calma en esta tormenta."
         },
         {
           "id": "coping_tools",
-          "name": "Herramientas de Afrontamiento",
+          "name": "Herramientas para Calmarse",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Enseñar estrategias específicas de afrontamiento les da a los niños herramientas que pueden usar para manejar la ansiedad en esta y futuras situaciones.",
+          "why_it_works": "Enseñarle estrategias concretas para calmarse le da herramientas que podrá usar ante esta ansiedad, tanto ahora como en el futuro.",
           "script": [
             "Tomemos tres respiraciones profundas juntos. Entra por tu nariz, sale por tu boca.",
             "Quiero que me mires y pienses en [objeto/memoria de consuelo favorito].",
-            "Puedes sostener mi mano tan fuerte como necesites.",
-            "Esto terminará pronto, y entonces [actividad de consuelo]."
+            "Puedes apretarme la mano tan fuerte como necesites.",
+            "Esto se va a acabar pronto, y después [actividad de consuelo]."
           ],
           "mantra": "Su miedo es real y válido. Puedo ser su calma en esta tormenta."
         }
@@ -292,16 +292,16 @@
     },
     {
       "id": "transition_defiance",
-      "title": "Desafío en Transiciones",
-      "scenario": "El niño se niega a parar la actividad actual para transición (salir del parque, apagar TV, terminar tiempo de juego)",
+      "title": "Desafío ante las Transiciones",
+      "scenario": "El niño se niega a dejar lo que está haciendo para pasar a otra cosa (salir del parque, apagar la tele, terminar de jugar)",
       "icon": "⏰",
       "ageRange": "2-10 años",
       "prevention_tips": [
-        "Dar advertencias de 10 y 5 minutos antes de transiciones",
-        "Usar temporizadores visuales que los niños puedan ver",
+        "Avisar con 10 y 5 minutos de anticipación antes de cada cambio",
+        "Usar temporizadores visuales que el niño pueda ver bien",
         "Crear rutinas diarias predecibles",
-        "Reconocer qué tan divertida es la actividad actual",
-        "Planear actividades siguientes atractivas para esperar con ganas"
+        "Tener en cuenta lo divertido que le resulta lo que está haciendo",
+        "Tener pensada la siguiente actividad, algo que le haga ilusión"
       ],
       "strategies": [
         {
@@ -309,42 +309,42 @@
           "name": "Tiempo + Opción",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Reconocer su decepción mientras mantienes el límite les enseña que los sentimientos son válidos pero no controlan las acciones. El aviso ayuda a su cerebro a prepararse.",
+          "why_it_works": "Reconocer su decepción mientras mantienes el límite le enseña que los sentimientos son válidos, pero no mandan sobre lo que hacemos. El aviso ayuda a que su cerebro se prepare.",
           "script": [
             "Puedo ver que no estás listo para parar todavía. Esta actividad es realmente divertida para ti.",
             "Tenemos 2 minutos más. Puedes usar ese tiempo como quieras.",
-            "Cuando suene el temporizador, nos vamos. Puedes caminar al carro o puedo cargarte.",
-            "Es difícil parar cosas divertidas. Y aún vamos a parar."
+            "Cuando suene el temporizador, nos vamos. Puedes caminar hasta el coche o puedo cargarte.",
+            "Es difícil parar algo que te divierte tanto. Y aun así, vamos a parar."
           ],
-          "mantra": "Las transiciones son difíciles para los niños. Mantenerse consistente los ayuda a confiar en la estructura."
+          "mantra": "Las transiciones son difíciles para los niños. Ser constante los ayuda a confiar en la estructura."
         },
         {
           "id": "emotional_validation",
           "name": "Validación Emocional",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Validar la decepción ayuda a los niños a sentirse entendidos mientras aprenden que pueden sentir lo que sienten y aún así hacer lo que hay que hacer.",
+          "why_it_works": "Validar la decepción ayuda a los niños a sentirse comprendidos, y así aprenden que pueden sentir lo que sienten y aun así hacer lo que toca.",
           "script": [
             "Deseas poder jugar para siempre. Eso tiene total sentido para mí.",
             "Es decepcionante cuando las cosas divertidas tienen que terminar.",
-            "Puedes estar triste por irnos Y aún nos vamos ahora.",
+            "Puedes estar triste por irnos, Y aun así nos vamos ahora.",
             "Recordaré cuánto amaste esto para la próxima vez."
           ],
-          "mantra": "Las transiciones son difíciles para los niños. Mantenerse consistente los ayuda a confiar en la estructura."
+          "mantra": "Las transiciones son difíciles para los niños. Ser constante los ayuda a confiar en la estructura."
         },
         {
           "id": "future_focus",
           "name": "Enfoque en el Futuro",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Enfocarse en lo que viene después ayuda a cambiar su atención de lo que están perdiendo a lo que están ganando, haciendo las transiciones más fáciles.",
+          "why_it_works": "Enfocarse en lo que viene después ayuda a que deje de fijarse en lo que pierde y mire lo que gana, y así las transiciones se hacen más fáciles.",
           "script": [
             "Sé que es difícil irse. Hablemos sobre lo que vamos a hacer después.",
             "Después de que nos vayamos de aquí, vamos a [siguiente actividad].",
             "Y mañana/más tarde podemos [plan para regresar/actividad similar].",
             "Ahora tienes que venir conmigo, aunque todavía no estés listo por dentro."
           ],
-          "mantra": "Las transiciones son difíciles para los niños. Mantenerse consistente los ayuda a confiar en la estructura."
+          "mantra": "Las transiciones son difíciles para los niños. Ser constante los ayuda a confiar en la estructura."
         }
       ]
     },
@@ -355,11 +355,11 @@
       "icon": "✋",
       "ageRange": "2-8 años",
       "prevention_tips": [
-        "Enseñar formas de liberar emociones intensas antes de que se necesiten",
-        "Identificar detonantes que llevan a comportamiento agresivo",
-        "Asegurar que el niño tenga suficiente actividad física diaria",
-        "Modelar resolución calmada de conflictos en tus propias interacciones",
-        "Abordar necesidades subyacentes (hambre, cansancio, sobreestimulación)"
+        "Enseñarle formas de soltar las emociones intensas antes de que las necesite",
+        "Identificar qué detona el comportamiento agresivo",
+        "Asegurarse de que se mueva y haga ejercicio todos los días",
+        "Mostrarle con tu ejemplo cómo resolver conflictos con calma",
+        "Revisar si hay necesidades de fondo (hambre, cansancio, demasiados estímulos)"
       ],
       "strategies": [
         {
@@ -367,14 +367,14 @@
           "name": "Seguridad Inmediata",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Detener el comportamiento inmediatamente mientras validas la emoción les enseña que todos los sentimientos están bien, pero no todas las acciones están bien. Ofrecer alternativas les da formas apropiadas de expresarse.",
+          "why_it_works": "Detener el comportamiento al momento, mientras validas la emoción, le enseña que todos los sentimientos están bien, pero no todas las acciones. Ofrecerle alternativas le da formas adecuadas de expresarse.",
           "script": [
-            "No te voy a dejar golpear. Los cuerpos necesitan estar seguros.",
-            "Voy a mover tu cuerpo/alejarme para que todos estén seguros.",
-            "Estás muy alterado Y golpear no está bien.",
+            "No te voy a dejar pegar. Necesito mantener a todos a salvo.",
+            "Te voy a alejar, o me voy a alejar yo, para que nadie salga lastimado.",
+            "Estás muy alterado, y pegar no está bien.",
             "Cuando tu cuerpo esté calmado, podemos hablar sobre lo que pasó."
           ],
-          "mantra": "Este comportamiento es comunicación, no manipulación. Necesitan mi ayuda aprendiendo mejores formas de expresarse."
+          "mantra": "Este comportamiento es comunicación, no manipulación. Necesita mi ayuda para aprender mejores formas de expresarse."
         },
         {
           "id": "feeling_boundary",
@@ -383,41 +383,41 @@
           "timeRequired": "inmediato",
           "why_it_works": "Separar sentimientos de acciones ayuda a los niños a entender que las emociones siempre son aceptables, pero los comportamientos tienen límites y consecuencias.",
           "script": [
-            "Estás tan enojado que tu cuerpo quiere golpear. Entiendo eso.",
-            "Y no voy a dejarte lastimarme a mí o a cualquier otra persona.",
-            "Tus sentimientos de enojo están bien. Golpear no está bien.",
+            "Estás tan enojado que tu cuerpo quiere pegar. Te entiendo.",
+            "Y no voy a dejar que me lastimes a mí ni a nadie más.",
+            "Sentir enojo está bien. Pegar no está bien.",
             "Encontremos una forma segura de sacar toda esa energía que tienes por dentro."
           ],
-          "mantra": "Este comportamiento es comunicación, no manipulación. Necesitan mi ayuda aprendiendo mejores formas de expresarse."
+          "mantra": "Este comportamiento es comunicación, no manipulación. Necesita mi ayuda para aprender mejores formas de expresarse."
         },
         {
           "id": "redirect_energy",
           "name": "Redirigir Energía",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Ofrecer formas físicas de liberar emociones intensas ayuda a los niños a aprender maneras apropiadas de sacar esos sentimientos mientras todos se mantienen seguros.",
+          "why_it_works": "Ofrecer formas físicas de liberar emociones intensas ayuda a los niños a aprender maneras adecuadas de soltar esos sentimientos sin que nadie salga lastimado.",
           "script": [
             "Veo que tienes mucha energía dentro que necesita salir.",
-            "Puedes golpear esta almohada, pisotear tus pies, o apretar tus manos muy fuerte.",
-            "Tus sentimientos son importantes Y los cuerpos de las personas necesitan estar seguros.",
+            "Puedes darle golpes a esta almohada, patalear, o apretar los puños con fuerza.",
+            "Tus sentimientos importan, y el cuerpo de los demás necesita estar a salvo.",
             "Te voy a ayudar a encontrar una forma de sacar esos sentimientos de manera segura."
           ],
-          "mantra": "Este comportamiento es comunicación, no manipulación. Necesitan mi ayuda aprendiendo mejores formas de expresarse."
+          "mantra": "Este comportamiento es comunicación, no manipulación. Necesita mi ayuda para aprender mejores formas de expresarse."
         }
       ]
     },
     {
       "id": "grocery_store_meltdown",
-      "title": "Crisis en el Supermercado",
-      "scenario": "El niño tiene una rabieta en público, atrayendo miradas y haciendo imposible las compras",
+      "title": "Colapso en el Supermercado",
+      "scenario": "El niño tiene una rabieta en público, atrae miradas y hace imposible seguir comprando",
       "icon": "🛒",
       "ageRange": "2-8 años",
       "prevention_tips": [
         "Comprar cuando el niño esté bien descansado y alimentado",
-        "Traer bocadillos y pequeñas actividades/juguetes",
-        "Establecer expectativas claras antes de entrar a la tienda",
-        "Mantener viajes de compras cortos para niños más pequeños",
-        "Considerar recogida de compras en línea para períodos desafiantes"
+        "Llevar algo de comer y algún juguete o actividad pequeña",
+        "Explicarle qué esperar antes de entrar a la tienda",
+        "Hacer compras cortas si el niño es pequeño",
+        "Considerar comprar en línea y solo recoger el pedido en las temporadas difíciles"
       ],
       "strategies": [
         {
@@ -425,39 +425,39 @@
           "name": "Salida Estratégica",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Remover estímulos abrumadores ayuda a los niños a regularse. Los espacios públicos pueden ser sobreestimulantes, y un cambio de ambiente a menudo ayuda a reiniciar su sistema nervioso.",
+          "why_it_works": "Alejar al niño de estímulos abrumadores lo ayuda a regularse. Los espacios públicos pueden sobreestimular, y cambiar de ambiente muchas veces ayuda a reiniciar su sistema nervioso.",
           "script": [
-            "Puedo ver que esto es realmente abrumador para ti ahora.",
-            "Vamos a tomar un descanso afuera donde está más silencioso.",
-            "Puedes tener tus sentimientos, y necesitamos mantener a todos seguros.",
-            "Cuando estés listo, podemos decidir juntos si continuamos comprando o regresamos más tarde."
+            "Veo que esto te está abrumando mucho ahora mismo.",
+            "Vamos a salir un momento, afuera se está más tranquilo.",
+            "Puedes sentir lo que sientas, y necesitamos que todos estén a salvo.",
+            "Cuando estés listo, decidimos juntos si seguimos comprando o volvemos más tarde."
           ],
-          "mantra": "Las opiniones de otras personas no importan. Mi hijo necesita mi presencia calmada ahora mismo."
+          "mantra": "Lo que piensen los demás no importa. Mi hijo necesita mi calma ahora mismo."
         },
         {
           "id": "stay_and_support",
           "name": "Quedarse y Apoyar",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Mantenerse presente muestra al niño que no está solo cuando se desborda. Modela que los sentimientos son manejables y temporales.",
+          "why_it_works": "Quedarte presente le muestra al niño que no está solo cuando se desborda. Le modela que los sentimientos son manejables y pasan.",
           "script": [
             "Estás muy desbordado ahora mismo. Estoy aquí contigo.",
-            "Puedo ver que realmente querías [artículo]. Es decepcionante cuando no podemos tener lo que queremos.",
+            "Veo que de verdad querías [artículo]. Es una decepción cuando no podemos tener lo que queremos.",
             "Me voy a quedar cerca mientras tienes estos sentimientos.",
             "Cuando estés listo, podemos terminar nuestras compras juntos."
           ],
-          "mantra": "Esto es temporal. Les estoy enseñando que pueden desbordarse conmigo y seguir estando seguros."
+          "mantra": "Esto es temporal. Le estoy enseñando que puede desbordarse conmigo y seguir estando a salvo."
         },
         {
           "id": "distraction_redirect",
           "name": "Distracción + Redirección",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Redirigir a una tarea útil puede cambiar el enfoque del malestar a sentirse útil e importante, mientras valida sus emociones.",
+          "why_it_works": "Redirigir su atención hacia una tarea útil puede llevarlo del malestar a sentirse útil e importante, sin dejar de validar lo que siente.",
           "script": [
-            "¡Vaya! Tienes un montón de energía ahora mismo, ¿verdad?",
+            "¡Vaya, cuánta energía tienes ahora mismo!",
             "Me pregunto... ¿puedes ayudarme a encontrar las manzanas rojas? Necesito a alguien con buenos ojos.",
-            "Aún estás molesto Y puedes ayudarme con este trabajo importante.",
+            "Sigues molesto, y aun así puedes ayudarme con este trabajo tan importante.",
             "Gracias por ayudarme incluso cuando tus sentimientos son grandes."
           ],
           "mantra": "A veces darles un trabajo los ayuda a sentirse importantes y cambia su enfoque."
@@ -466,16 +466,16 @@
     },
     {
       "id": "car_seat_refusal",
-      "title": "Negativa al Asiento del Carro",
-      "scenario": "El niño se niega a entrar al asiento del carro, arquea la espalda o lucha contra las correas de seguridad",
+      "title": "Negativa al Asiento del Coche",
+      "scenario": "El niño se niega a subir al asiento del coche, arquea la espalda o forcejea con las correas",
       "icon": "🚗",
       "ageRange": "1-6 años",
       "prevention_tips": [
-        "Asegurar que el asiento del carro esté bien ajustado y cómodo",
-        "Traer juguetes especiales o música solo para viajes en carro",
-        "Practicar abrocharse con peluches en casa",
-        "Permitir tiempo extra para no sentirse apurado",
-        "Abordar cualquier problema de incomodidad (temperatura, correas, etc.)"
+        "Asegurarse de que el asiento del coche esté bien ajustado y sea cómodo",
+        "Llevar juguetes o música especiales solo para los viajes en coche",
+        "Practicar en casa a abrochar a los peluches",
+        "Calcular tiempo de más para no ir con prisa",
+        "Revisar posibles molestias (temperatura, correas, etc.)"
       ],
       "strategies": [
         {
@@ -483,40 +483,40 @@
           "name": "Seguridad Primero",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Límites claros sobre seguridad mientras reconoces sus sentimientos les muestra que algunas cosas no son negociables, pero aún te importan sus emociones.",
+          "why_it_works": "Poner límites claros sobre la seguridad mientras reconoces sus sentimientos le muestra que hay cosas no negociables, aunque sus emociones sí te importan.",
           "script": [
-            "Veo que no quieres meterte al asiento del carro. Te escucho.",
-            "Y mi trabajo es mantenerte seguro. Los asientos del carro mantienen los cuerpos seguros en los carros.",
-            "Te voy a ayudar a abrocharte. Puedes estar molesto mientras hago mi trabajo.",
-            "Tan pronto como estés seguro, podemos hablar sobre qué hace esto difícil."
+            "Tu cuerpo está diciendo que no al asiento del coche. Te escucho.",
+            "Y mi trabajo es mantenerte a salvo. El asiento del coche protege tu cuerpo cuando vamos en coche.",
+            "Te voy a ayudar a abrocharte el cinturón. Puedes estar enojado mientras hago mi trabajo.",
+            "En cuanto estés bien sujeto, hablamos de qué hace esto tan difícil para ti."
           ],
-          "mantra": "La seguridad no es negociable. Puedo ser firme Y amorosa."
+          "mantra": "La seguridad no es negociable. Puedo ser firme y cariñosa al mismo tiempo."
         },
         {
           "id": "choice_within_safety",
           "name": "Opción Dentro de la Seguridad",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Ofrecer opciones dentro del requisito de seguridad les da algo de control mientras mantienes el límite. Los ayuda a sentirse menos impotentes.",
+          "why_it_works": "Ofrecerle opciones dentro de lo que la seguridad exige le da algo de control mientras mantienes el límite. Lo ayuda a sentirse menos impotente.",
           "script": [
-            "El asiento del carro va a suceder porque necesito mantenerte seguro.",
-            "Puedes elegir: ¿Te gustaría subir solo o te gustaría que te ayude?",
-            "¿Te gustaría sostener [objeto de consuelo] o elegir nuestra música para manejar?",
-            "Tu cuerpo va en el asiento, y puedes elegir cómo hacerlo más cómodo."
+            "Vamos a usar el asiento del coche porque necesito mantenerte a salvo.",
+            "Tú decides: ¿subes solo o te ayudo?",
+            "¿Quieres sostener [objeto de consuelo] o elegir la música para el viaje?",
+            "Tu cuerpo va en el asiento, y tú decides cómo hacerlo más cómodo."
           ],
-          "mantra": "Puedo dar opciones dentro del límite no negociable."
+          "mantra": "Puedo ofrecer opciones dentro de un límite que no se negocia."
         },
         {
           "id": "connection_first",
           "name": "Conexión Primero",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Tomarse tiempo para entender su resistencia a menudo revela preocupaciones específicas (incomodidad, querer independencia) que pueden abordarse mientras mantienes la seguridad.",
+          "why_it_works": "Tomarte tiempo para entender su resistencia muchas veces revela preocupaciones concretas (incomodidad, ganas de independencia) que puedes atender sin dejar de lado la seguridad.",
           "script": [
-            "Ven aquí primero. Puedo ver que realmente no quieres entrar en tu asiento.",
-            "Cuéntame qué es difícil sobre el asiento del carro hoy.",
+            "Ven aquí un momento. Veo que de verdad no quieres subir a tu asiento.",
+            "Cuéntame qué es lo difícil del asiento del coche hoy.",
             "Eso tiene sentido. [Valida su preocupación].",
-            "Aún necesito mantenerte seguro, y ahora entiendo mejor cómo te sientes."
+            "Aun así necesito mantenerte a salvo, y ahora entiendo mejor cómo te sientes."
           ],
           "mantra": "Entender su perspectiva no significa cambiar el límite."
         }
@@ -525,15 +525,15 @@
     {
       "id": "homework_battles",
       "title": "Batallas de Tarea",
-      "scenario": "El niño tiene crisis, se niega a empezar o tiene explosiones emocionales sobre la tarea",
+      "scenario": "El niño se derrumba, se niega a empezar o tiene explosiones emocionales con la tarea",
       "icon": "📚",
       "ageRange": "5-12 años",
       "prevention_tips": [
-        "Establecer tiempo y espacio consistente para tarea",
-        "Asegurar que el niño haya tenido bocadillo y movimiento antes de empezar",
-        "Dividir tareas grandes en pedazos más pequeños",
-        "Comunicarse con maestros sobre carga apropiada de tarea",
-        "Crear un espacio de trabajo calmado y organizado libre de distracciones"
+        "Tener un horario y un lugar fijos para hacer la tarea",
+        "Asegurarse de que haya comido algo y se haya movido antes de empezar",
+        "Dividir las tareas grandes en partes más pequeñas",
+        "Hablar con los maestros si la carga de tarea no es la adecuada",
+        "Crear un espacio de trabajo tranquilo, ordenado y sin distracciones"
       ],
       "strategies": [
         {
@@ -562,36 +562,36 @@
             "A veces nuestros cerebros necesitan un descanso antes de poder aprender cosas nuevas.",
             "Cuando te sientas más calmado, tu cerebro estará listo para trabajar."
           ],
-          "mantra": "El aprendizaje no puede suceder cuando están emocionalmente inundados. Sentimientos primero, luego académicos."
+          "mantra": "El aprendizaje no puede pasar cuando las emociones lo desbordan. Primero los sentimientos, después lo académico."
         },
         {
           "id": "partnership_approach",
           "name": "Enfoque de Colaboración",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Tomar control de la tarea les roba a los niños la oportunidad de desarrollar resiliencia y habilidades de resolución de problemas. El apoyo sin rescate desarrolla confianza.",
+          "why_it_works": "Hacerles la tarea les quita a los niños la oportunidad de desarrollar resiliencia y habilidades para resolver problemas. Apoyar sin hacerlo por ellos desarrolla su confianza.",
           "script": [
             "Esta tarea es tu trabajo, y estoy aquí para apoyarte.",
             "¿Qué parte se siente más difícil para ti? Empecemos con algo más fácil.",
             "No voy a hacerla por ti, pero me sentaré cerca mientras trabajas.",
             "Eres capaz de resolver esto. Estoy aquí si necesitas ayuda."
           ],
-          "mantra": "Soy su entrenador, no su reemplazo. Necesitan desarrollar confianza en sus propias habilidades."
+          "mantra": "Soy su entrenadora, no su reemplazo. Necesitan desarrollar confianza en sus propias habilidades."
         }
       ]
     },
     {
       "id": "morning_routine_chaos",
-      "title": "Caos de Rutina Matutina",
-      "scenario": "El niño está lento, distraído o teniendo crisis durante la rutina matutina",
+      "title": "Caos en la Rutina Matutina",
+      "scenario": "El niño va despacio, se distrae o se derrumba durante la rutina de la mañana",
       "icon": "🌅",
       "ageRange": "3-12 años",
       "prevention_tips": [
         "Preparar todo lo posible la noche anterior",
-        "Levantarse 15 minutos más temprano para reducir presión de tiempo",
-        "Crear gráficos visuales de rutina matutina",
-        "Asegurar que el niño tenga sueño adecuado (ajustar hora de dormir si es necesario)",
-        "Incluir tiempo de amortiguación para retrasos inesperados"
+        "Levantarse 15 minutos antes para tener menos prisa",
+        "Hacer un cuadro visual con los pasos de la mañana",
+        "Asegurarse de que duerma lo suficiente (ajustar la hora de dormir si hace falta)",
+        "Dejar un margen de tiempo por si surge algún imprevisto"
       ],
       "strategies": [
         {
@@ -599,12 +599,12 @@
           "name": "Urgencia Calmada",
           "difficulty": "intermedio",
           "timeRequired": "inmediato",
-          "why_it_works": "Modelar urgencia calmada en lugar de prisa frenética ayuda a los niños a enfocarse mejor y reduce el estrés matutino para todos.",
+          "why_it_works": "Mostrar calma con urgencia, en lugar de prisa frenética, ayuda a los niños a concentrarse mejor y baja el estrés de la mañana para todos.",
           "script": [
-            "Puedo ver que te mueves lentamente esta mañana. A veces nuestros cuerpos se sienten lentos.",
-            "Necesitamos irnos en 10 minutos. Eso es suficiente tiempo si nos enfocamos.",
+            "Veo que hoy te mueves despacio. A veces el cuerpo amanece más lento.",
+            "Necesitamos salir en 10 minutos. Es tiempo de sobra si nos enfocamos.",
             "¿Cuál es la cosa más importante que necesitas hacer ahora mismo?",
-            "Te voy a ayudar a mantenerte en el camino sin apurar tu cuerpo."
+            "Te voy a ayudar a seguir avanzando, sin meterle prisa a tu cuerpo."
           ],
           "mantra": "Puedo estar calmada Y mantenernos en movimiento. El pánico hace todo más difícil."
         },
@@ -613,23 +613,23 @@
           "name": "Secuencia de Opciones",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Los niños resisten ser controlados pero responden bien a tener opciones. La secuenciación les da autonomía dentro de las tareas necesarias.",
+          "why_it_works": "A los niños no les gusta que los controlen, pero responden bien cuando tienen opciones. Elegir el orden les da autonomía dentro de lo que igual hay que hacer.",
           "script": [
-            "Tienes tres cosas que quedan: vestirte, desayunar y cepillarte los dientes.",
+            "Te quedan tres cosas por hacer: vestirte, desayunar y cepillarte los dientes.",
             "¿Cuál quieres hacer primero?",
             "Buena elección. Después de eso, puedes elegir qué sigue.",
-            "Estás a cargo del orden, y las tres necesitan pasar antes de que nos vayamos."
+            "Tú decides el orden, y las tres cosas tienen que pasar antes de irnos."
           ],
-          "mantra": "Darles control sobre la secuencia los ayuda a sentirse capaces y con más confianza, mientras todo aún se hace."
+          "mantra": "Dejarlos elegir el orden los ayuda a sentirse capaces y seguros de sí mismos, y aun así todo se hace."
         },
         {
           "id": "reset_and_reconnect",
           "name": "Reiniciar y Reconectar",
           "difficulty": "avanzado",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Cuando las mañanas van mal, tomar un momento para reconectar puede cambiar toda la dinámica y realmente ahorrar tiempo reduciendo la resistencia.",
+          "why_it_works": "Cuando la mañana se tuerce, parar un momento para reconectar puede cambiar toda la dinámica, y de verdad ahorra tiempo porque baja la resistencia.",
           "script": [
-            "Esta mañana se siente difícil para ambos. Tomemos un reinicio rápido.",
+            "Esta mañana está siendo dura para los dos. Paremos un momento y reiniciemos.",
             "Dame un abrazo. Vamos a resolver esto juntos.",
             "¿Qué ayudaría a tu cuerpo a sentirse más listo para el día?",
             "Tenemos unos minutos para hacer que esta mañana se sienta mejor antes de irnos."
@@ -641,23 +641,23 @@
     {
       "id": "screen_time_battles",
       "title": "Batallas de Tiempo de Pantalla",
-      "scenario": "El niño se niega a apagar dispositivos, tiene crisis cuando termina el tiempo de pantalla",
+      "scenario": "El niño se niega a apagar los dispositivos y se derrumba cuando se acaba el tiempo de pantalla",
       "icon": "📱",
       "ageRange": "3-12 años",
       "prevention_tips": [
         "Establecer límites claros de tiempo de pantalla antes de empezar",
         "Usar temporizadores visuales que cuenten hacia atrás",
-        "Planear actividades atractivas para hacer transición",
-        "Crear tiempos libres de pantalla (comidas, rutina de dormir)",
-        "Modelar uso saludable de pantalla tú mismo"
+        "Tener pensada una actividad atractiva para después",
+        "Crear momentos sin pantallas (comidas, antes de dormir)",
+        "Dar tú misma el ejemplo de un buen uso de las pantallas"
       ],
       "strategies": [
         {
           "id": "advance_warning",
-          "name": "Advertencia Anticipada",
+          "name": "Avisar con Tiempo",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Las transiciones repentinas desde actividades preferidas desencadenan emociones intensas. El aviso previo le da al cerebro tiempo para prepararse mentalmente para el cambio.",
+          "why_it_works": "Las transiciones repentinas desde actividades preferidas desencadenan emociones intensas. Avisar antes le da tiempo al cerebro para prepararse para el cambio.",
           "script": [
             "Tienes 5 minutos más de tiempo de pantalla, luego es hora de apagarla.",
             "Sé que es difícil parar cuando te estás divirtiendo. Pongamos un temporizador juntos.",
@@ -671,7 +671,7 @@
           "name": "Validar y Redirigir",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Validar su decepción mientras ofreces alternativas atractivas ayuda a cambiar su enfoque de lo que están perdiendo a lo que están ganando.",
+          "why_it_works": "Validar su decepción mientras le ofreces alternativas atractivas ayuda a que deje de fijarse en lo que pierde y mire lo que gana.",
           "script": [
             "Estás tan decepcionado de que el tiempo de pantalla se acabó. Eso tiene total sentido.",
             "Es difícil cuando las cosas divertidas tienen que terminar. Deseas poder seguir jugando.",
@@ -685,56 +685,56 @@
           "name": "Solución Colaborativa",
           "difficulty": "avanzado",
           "timeRequired": "10-15 minutos",
-          "why_it_works": "Cuando los niños participan en crear soluciones, sienten propiedad y son más propensos a cooperar. También desarrolla habilidades de resolución de problemas.",
+          "why_it_works": "Cuando los niños ayudan a crear las soluciones, sienten que también son suyas y cooperan más. Además, así van aprendiendo a resolver problemas.",
           "script": [
             "Las batallas de tiempo de pantalla son difíciles para ambos. Resolvamos esto juntos.",
             "¿Qué te ayudaría a recordar cuando el tiempo de pantalla está casi terminando?",
             "¿Cómo podemos hacer que apagar las pantallas se sienta menos terrible?",
             "Hagamos un plan que funcione para ambos."
           ],
-          "mantra": "Los niños son más propensos a seguir reglas que ayudan a crear. Incluirlos en la resolución de problemas construye cooperación."
+          "mantra": "Los niños siguen mejor las reglas que ellos mismos ayudan a crear. Incluirlos cuando hay que resolver un problema construye cooperación."
         }
       ]
     },
     {
       "id": "potty_training_refusal",
-      "title": "Rechazo del Entrenamiento del Orinal",
-      "scenario": "El niño se niega a intentar el orinal, quiere quedarse en pañales o resiste el aprendizaje del orinal",
+      "title": "Rechazo al Aprendizaje del Orinal",
+      "scenario": "El niño se niega a intentar el orinal, quiere seguir en pañales o se resiste a aprender a usarlo",
       "icon": "🚽",
       "ageRange": "2-4 años",
       "prevention_tips": [
-        "Espera señales genuinas de preparación antes de comenzar",
-        "Haz el orinal visible y accesible sin presión",
-        "Lee libros sobre el orinal juntos casualmente",
-        "Deja que el niño observe a los miembros de la familia usar el baño",
-        "Evita comparar con otros niños o establecer líneas de tiempo arbitrarias"
+        "Esperar señales genuinas de que está listo antes de empezar",
+        "Tener el orinal a la vista y accesible, sin presión",
+        "Leer juntos libros sobre el orinal, sin darle importancia",
+        "Dejar que vea a otros miembros de la familia usar el baño",
+        "Evitar comparar con otros niños o poner plazos arbitrarios"
       ],
       "strategies": [
         {
           "id": "follow_their_lead",
-          "name": "Sigue su Liderazgo",
+          "name": "Sigue su Ritmo",
           "difficulty": "fácil",
           "timeRequired": "continuo",
-          "why_it_works": "El aprendizaje del orinal se trata de soberanía corporal. La presión crea luchas de poder y retrasa el éxito. Cuando los niños se sienten en control de su propio cuerpo, están más motivados para aprender.",
+          "why_it_works": "Aprender a usar el orinal tiene que ver con sentir que su cuerpo es suyo. La presión genera luchas de poder y retrasa el momento. Cuando el niño siente que controla su propio cuerpo, tiene más ganas de aprender.",
           "script": [
             "Tu cuerpo es tuyo. Tú decides cuándo estás listo para el orinal.",
-            "Algunos niños usan el orinal, algunos niños usan pañales. Cuando estés listo, puedes decidir.",
-            "No voy a obligarte a intentarlo. Esta es tu elección sobre tu cuerpo.",
+            "Unos niños usan el orinal, otros usan pañales. Cuando estés listo, tú decides.",
+            "No te voy a obligar a intentarlo. Esto lo decides tú, es tu cuerpo.",
             "Creo que descubrirás esto cuando tu cuerpo esté listo."
           ],
-          "mantra": "Mi hijo descubrirá esto. La presión no ayuda al aprendizaje, crea resistencia."
+          "mantra": "Mi hijo va a descubrir esto solo. La presión no ayuda a aprender, genera resistencia."
         },
         {
           "id": "curiosity_without_pressure",
           "name": "Curiosidad sin Presión",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Normalizar el orinal a través de la exploración elimina el miedo y construye familiaridad. Cuando es solo otro objeto interesante, los niños son más propensos a intentarlo.",
+          "why_it_works": "Explorar el orinal sin presión quita el miedo y genera familiaridad. Cuando es solo un objeto interesante más, el niño tiene más ganas de probarlo.",
           "script": [
             "¿Quieres revisar el orinal conmigo? Sin usarlo, solo mirando.",
             "Tu osito podría querer intentar sentarse en el orinal. Ayudémoslo.",
             "Voy a usar el baño. ¿Quieres venir a ver cómo funciona?",
-            "El orinal está aquí cuando sientas curiosidad por él."
+            "El orinal está aquí. Cuando quieras, lo pruebas."
           ],
           "mantra": "La familiaridad reduce la resistencia. Puedo crear curiosidad sin crear presión."
         },
@@ -743,53 +743,53 @@
           "name": "Reconoce sus Sentimientos",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "La resistencia a menudo enmascara miedo o ansiedad. Reconocer los sentimientos ayuda a los niños a sentirse comprendidos y reduce la carga emocional alrededor del aprendizaje del orinal.",
+          "why_it_works": "Su resistencia muchas veces esconde miedo o ansiedad. Reconocer lo que siente ayuda al niño a sentirse comprendido y hace que aprender a usar el orinal pese menos emocionalmente.",
           "script": [
-            "Pareces preocupado por el orinal. ¿Qué se siente difícil al respecto?",
-            "Intentar cosas nuevas puede sentirse incierto. Eso tiene sentido.",
-            "Te gustan los pañales porque son familiares. Lo entiendo.",
+            "Pareces preocupado por el orinal. ¿Qué es lo que más te cuesta?",
+            "Intentar cosas nuevas puede dar un poco de miedo. Eso tiene sentido.",
+            "Te gustan los pañales porque los conoces bien. Lo entiendo.",
             "Cuando estés listo para hablar sobre el orinal, estoy aquí para escuchar."
           ],
-          "mantra": "Su resistencia es comunicación, no desafío. Puedo mantenerme curioso sobre lo que necesitan."
+          "mantra": "Su resistencia es comunicación, no desafío. Puedo mantenerme curiosa sobre lo que necesita."
         }
       ]
     },
     {
       "id": "potty_training_accidents",
-      "title": "Accidentes en el Entrenamiento del Orinal",
-      "scenario": "El niño tiene un accidente del orinal y está molesto, avergonzado o mostrando vergüenza",
+      "title": "Accidentes con el Orinal",
+      "scenario": "El niño tiene un accidente y se pone triste, avergonzado o con mucha vergüenza",
       "icon": "💧",
       "ageRange": "2-5 años",
       "prevention_tips": [
-        "Normaliza que los accidentes son parte del aprendizaje",
-        "Mantén ropa de repuesto fácilmente accesible en todas partes",
-        "Evita elogiar excesivamente el éxito del orinal (reduce la vergüenza sobre accidentes)",
-        "Observa señales tempranas y ofrece recordatorios gentiles",
-        "Asegúrate de que el niño esté realmente listo en su desarrollo para el aprendizaje del orinal"
+        "Recordarle que los accidentes son parte de aprender",
+        "Tener ropa de repuesto siempre a mano",
+        "Evitar exagerar los elogios cuando lo logra (así no da vergüenza cuando falla)",
+        "Estar atento a las señales y dar recordatorios suaves",
+        "Asegurarse de que esté realmente listo, en su desarrollo, para el orinal"
       ],
       "strategies": [
         {
           "id": "matter_of_fact",
-          "name": "Respuesta Objetiva",
+          "name": "Reacción Tranquila",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Mantenerse neutral previene que se forme vergüenza. Los accidentes son puntos de datos, no fracasos. Tu reacción calmada les enseña que los errores son seguros y normales.",
+          "why_it_works": "Mantenerte neutral evita que se forme vergüenza. Los accidentes son parte de aprender, no fracasos. Tu reacción tranquila le enseña que equivocarse es normal y seguro.",
           "script": [
             "Tus pantalones están mojados. Vamos a conseguirte ropa seca.",
             "Salió pipí. Eso pasa cuando los cuerpos están aprendiendo.",
             "No es gran cosa. Limpiemos esto juntos.",
-            "Los cuerpos están descubriendo qué significa esa sensación antes de que salga el pipí. Estás aprendiendo."
+            "Tu cuerpo todavía está aprendiendo a sentir cuándo viene el pipí."
           ],
-          "mantra": "Los accidentes no son fracasos. Son oportunidades de aprendizaje. Mi calma importa más que el desorden."
+          "mantra": "Los accidentes no son fracasos. Son ocasiones para aprender. Mi calma importa más que el desorden."
         },
         {
           "id": "no_shame_language",
           "name": "Lenguaje Sin Vergüenza",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "La vergüenza interfiere con el aprendizaje y daña la relación padre-hijo. El lenguaje sin vergüenza mantiene intacta su autoestima mientras dominan esta habilidad.",
+          "why_it_works": "La vergüenza interfiere con el aprendizaje y daña la relación padre-hijo. El lenguaje sin vergüenza mantiene intacta su autoestima mientras aprende esta habilidad.",
           "script": [
-            "Todavía estás aprendiendo. Esto es parte del proceso.",
+            "Todavía estás aprendiendo. Así se aprende, poquito a poco.",
             "La próxima vez atraparás esa sensación un poco antes.",
             "Tu cuerpo está mejorando en reconocer esa sensación.",
             "Todos tienen accidentes cuando están aprendiendo algo nuevo."
@@ -801,58 +801,58 @@
           "name": "Resolver Problemas Juntos",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Involucrar a los niños en las soluciones les ayuda a sentirse capaces y construye habilidades de resolución de problemas. Cambia de fracaso a oportunidad de aprendizaje.",
+          "why_it_works": "Involucrar a los niños en las soluciones los ayuda a sentirse capaces y desarrolla su habilidad para resolver problemas. Convierte el fracaso en una oportunidad para aprender.",
           "script": [
             "Tuviste un accidente. ¿Qué crees que deberíamos hacer?",
             "¿Puedes ayudarme a descubrir cómo limpiar esto?",
             "¿Qué estaba pasando antes de que saliera el pipí? Seamos detectives.",
             "La próxima vez que sientas esa sensación, ¿qué podrías hacer diferente?"
           ],
-          "mantra": "Puedo ayudarlos a aprender de esto sin hacer que se sientan mal consigo mismos."
+          "mantra": "Puedo ayudarlo a aprender de esto sin que se sienta mal consigo mismo."
         }
       ]
     },
     {
       "id": "poop_withholding",
-      "title": "Ansiedad por Retención de Popó",
-      "scenario": "El niño tiene miedo de hacer popó en el orinal, retiene popó por días o muestra ansiedad sobre hacer popó",
+      "title": "Ansiedad por Aguantarse el Popó",
+      "scenario": "El niño tiene miedo de hacer popó en el orinal, se aguanta el popó por días o muestra ansiedad por hacer popó",
       "icon": "😰",
       "ageRange": "2-5 años",
       "prevention_tips": [
-        "Separa el aprendizaje de pipí y popó (pipí primero, popó después)",
-        "Enseña sobre continuidad corporal (el popó es extra, no una parte del cuerpo)",
-        "Evita mostrar disgusto o reacciones negativas al popó",
-        "Asegura que la dieta apoye evacuaciones fáciles",
-        "Modela actitudes casuales y positivas sobre hacer popó tú mismo"
+        "Separar el aprendizaje de pipí y popó (primero el pipí, después el popó)",
+        "Enseñarle que el popó es algo aparte, no una parte del cuerpo",
+        "Evitar mostrar asco o reacciones negativas ante el popó",
+        "Cuidar que la dieta ayude a hacer popó con facilidad",
+        "Mostrarle con tu propia actitud que hacer popó es algo normal y sin drama"
       ],
       "strategies": [
         {
           "id": "body_continuity_education",
-          "name": "Educación sobre Continuidad Corporal",
+          "name": "El Cuerpo Sigue Completo",
           "difficulty": "fácil",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Los niños pequeños se preocupan por las partes del cuerpo que se separan. Entender que el popó es 'comida extra' no una parte del cuerpo reduce la ansiedad existencial sobre hacer popó.",
+          "why_it_works": "A los niños pequeños les preocupa que partes de su cuerpo se separen. Entender que el popó es 'comida de más', no una parte del cuerpo, calma esa ansiedad existencial sobre hacer popó.",
           "script": [
             "¡Tu cuerpo es tan inteligente! Toma lo que necesita de la comida y se deshace de lo extra.",
-            "El popó es la cosa extra que tu cuerpo no necesita. Tu cuerpo permanece completo y seguro.",
-            "Es como una estación de gasolina - tu cuerpo toma la energía y deja ir lo que sobra.",
+            "El popó es lo que tu cuerpo no necesita. Tu cuerpo sigue completo y a salvo.",
+            "Tu pancita se queda con lo bueno de la comida, y suelta lo que le sobra.",
             "¡Después de que sale el popó, le decimos adiós! Ha terminado su trabajo ayudando a tu cuerpo."
           ],
-          "mantra": "Esta ansiedad es del desarrollo y normal. La educación reduce el miedo más de lo que la presión jamás podría."
+          "mantra": "Esta ansiedad es normal, parte del desarrollo. Explicar las cosas baja el miedo mucho más de lo que la presión podría lograr jamás."
         },
         {
           "id": "gradual_desensitization",
-          "name": "Desensibilización Gradual",
+          "name": "Paso a Paso, Sin Presión",
           "difficulty": "intermedio",
           "timeRequired": "días a semanas",
-          "why_it_works": "Forzar crea trauma. La exposición gradual les permite construir comodidad a su propio ritmo. Cada pequeño paso construye confianza para el siguiente.",
+          "why_it_works": "Forzarlo genera trauma. Ir exponiéndolo poco a poco le permite sentirse cómodo a su propio ritmo. Cada pequeño paso le da confianza para el siguiente.",
           "script": [
             "Puedes hacer popó en tu pañal en tu habitación. Sin prisa.",
             "¿Quieres intentar hacer popó en tu pañal mientras estás en el baño? Solo para sentirte cómodo.",
             "¿Qué tal sentarte en el orinal con tu pañal puesto? Solo practicando.",
-            "Te estás acercando. Tu cuerpo está descubriendo esto a tu velocidad."
+            "Te estás acercando. Tu cuerpo va aprendiendo esto poquito a poco."
           ],
-          "mantra": "Lento es rápido. Forzar crea trauma. Los pasos graduales construyen éxito duradero."
+          "mantra": "Lento es rápido. Forzar genera trauma. Los pasos pequeños construyen un éxito que dura."
         },
         {
           "id": "manage_your_anxiety",
@@ -861,12 +861,1245 @@
           "timeRequired": "continuo",
           "why_it_works": "Los niños absorben la ansiedad parental. Tu creencia en su capacidad se convierte en su creencia. Tu calma es contagiosa.",
           "script": [
-            "Noto que estoy preocupado por esto, y ese es mi sentimiento, no tu problema.",
-            "Las luchas de mi hijo hoy no predicen luchas meses en el futuro.",
+            "Noto que estoy preocupada por esto, y ese es mi sentimiento, no tu problema.",
+            "Las luchas de mi hijo hoy no predicen luchas dentro de unos meses.",
             "Puedo ser paciente mientras su cuerpo descubre esto.",
-            "Esto es temporal. No estarán reteniendo popó cuando tengan 10 años."
+            "Esto es temporal. No se van a aguantar el popó cuando tengan 10 años."
           ],
-          "mantra": "Sí, están luchando, Y sí, descubrirán esto. Mi confianza ayuda a que crezca la suya."
+          "mantra": "Sí, están luchando, Y sí, van a descubrir esto. Mi confianza ayuda a que crezca la suya."
+        }
+      ]
+    },
+    {
+      "id": "losing_at_games_meltdown",
+      "title": "Crisis al Perder en un Juego",
+      "scenario": "El niño grita, lanza las fichas o se niega a seguir jugando después de perder una partida",
+      "icon": "🎲",
+      "ageRange": "3-8 años",
+      "prevention_tips": [
+        "Hablar de ganar y perder en momentos de calma, nunca en plena partida",
+        "Antes de empezar, preguntar qué podría ayudar si el juego se pone frustrante",
+        "Elegir algunos juegos de puro azar, para que perder no dependa de \"ser lo bastante bueno\"",
+        "Elogiar el esfuerzo y la constancia más que el marcador final",
+        "Normalizar la decepción como algo que sentimos todos, tú incluido",
+        "Dar el ejemplo perdiendo con deportividad en las noches de juegos en familia"
+      ],
+      "strategies": [
+        {
+          "id": "name_the_feeling",
+          "name": "Nombrar el Sentimiento Primero",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Poner en palabras la decepción ayuda a un niño desbordado a sentirse comprendido en vez de corregido, y eso baja la intensidad mucho más rápido que la lógica o un sermón sobre deportividad. Además le regala las palabras que va a necesitar la próxima vez, que es la verdadera destreza que se está construyendo.",
+          "script": [
+            "Querías ganar con todas tus ganas. Ahora mismo perder se siente horrible.",
+            "Veo que estás enojado y decepcionado. Son sentimientos grandes.",
+            "Está bien sentirte mal por perder. No está bien lanzar las fichas.",
+            "Las voy a guardar un segundo, a salvo. Aquí estoy contigo."
+          ],
+          "mantra": "Perder les duele de verdad ahora mismo. Eso no es mala deportividad, es lo mucho que les importaba."
+        },
+        {
+          "id": "pause_before_teaching",
+          "name": "Pausa Antes de Enseñar",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Un niño desregulado todavía no puede absorber una lección sobre perder con elegancia, porque la parte pensante de su cerebro está desconectada. Darle espacio y esperar a que pase la tormenta hace que cualquier conversación después sí cale, en vez de rebotar.",
+          "script": [
+            "No tienes que hablar ahora mismo. Me siento aquí cerca.",
+            "Tómate el tiempo que necesites para sentirte mejor.",
+            "No estoy enojado contigo. Solo voy a esperar aquí.",
+            "Cuando estés listo, hablamos de lo que pasó."
+          ],
+          "mantra": "Perder les duele de verdad ahora mismo. Eso no es mala deportividad, es lo mucho que les importaba."
+        },
+        {
+          "id": "rematch_and_reframe",
+          "name": "Revancha y Nueva Mirada",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Presentar la derrota como una ronda más dentro de una relación que sigue, y no como un veredicto, construye resiliencia mucho más rápido que decirle que simplemente lo supere. Ofrecerle una revancha real convierte la lección en práctica, no en un discurso.",
+          "script": [
+            "A veces ganamos, a veces perdemos. Así son los juegos, para todos.",
+            "Perder hoy no significa perder siempre. ¿Quieres que juguemos otra vez?",
+            "Prueba decirme \"Estoy muy decepcionado por no haber ganado\" en lugar de lanzar las fichas.",
+            "Estoy orgulloso de que te quedaras en la mesa, aunque fuera difícil."
+          ],
+          "mantra": "Perder les duele de verdad ahora mismo. Eso no es mala deportividad, es lo mucho que les importaba."
+        }
+      ]
+    },
+    {
+      "id": "dropoff_separation_panic",
+      "title": "Pánico de Separación en la Puerta del Aula",
+      "scenario": "El niño llora, se aferra a ti y no te suelta en la puerta del aula a la hora de la despedida",
+      "icon": "🚪",
+      "ageRange": "3-6 años",
+      "prevention_tips": [
+        "Poner la rutina de la mañana en la pared con dibujos, no explicada solo en palabras",
+        "Ensayar la despedida jugando con muñecos antes del primer día",
+        "Armar una cuenta regresiva que pueda tocar y mover con sus propias manos",
+        "Mantener la despedida corta e idéntica todos los días",
+        "Meter en su mochila un objeto que lo reconforte o una foto pequeña tuya",
+        "Preguntarle a la maestra cuánto dura en realidad el llanto después de que te vas"
+      ],
+      "strategies": [
+        {
+          "id": "short_certain_goodbye",
+          "name": "Despedida Breve y Segura",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "El cuerpo de un niño interpreta que te vayas como un peligro, aunque sepa que el aula es un lugar seguro, y una despedida larga o repetida confirma esa duda en lugar de calmarla. Una despedida breve e idéntica, seguida de irte de verdad, es lo que le enseña a su cuerpo que esto es seguro.",
+          "script": [
+            "Abrazo fuerte, nuestras dos palabras, y nos vemos después de la merienda.",
+            "Sé que quieres que me quede. No puedo, y vas a estar bien.",
+            "La seño Ana está aquí contigo. Tú puedes con las cosas difíciles.",
+            "Nos vemos pronto. Siempre vuelvo."
+          ],
+          "mantra": "Mi calma es el mensaje. Algunos niños solo necesitan más tiempo, no un plan distinto."
+        },
+        {
+          "id": "validate_then_go",
+          "name": "Validar y Después Irte",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Nombrar la resistencia como un sentimiento real, en vez de discutir con ella, baja la temperatura sin abrir un debate que no vas a ganar en la puerta. Combinar la validación con un límite firme le enseña que las dos cosas pueden ser ciertas a la vez, puede estar disgustado y aun así es día de escuela.",
+          "script": [
+            "Hoy de verdad no quieres que me vaya. Eso está permitido.",
+            "Y sigue siendo día de escuela. Mi trabajo es mantenerte a salvo, y hoy eso significa que te quedas a jugar.",
+            "Puedes estar triste por la despedida. Igual voy a volver a buscarte.",
+            "Te quiero. Nos vemos muy pronto."
+          ],
+          "mantra": "Mi calma es el mensaje. Algunos niños solo necesitan más tiempo, no un plan distinto."
+        },
+        {
+          "id": "countdown_rehearsal",
+          "name": "Cuenta Regresiva y Ensayo",
+          "difficulty": "intermedio",
+          "timeRequired": "días a semanas",
+          "why_it_works": "Convertir lo desconocido en algo familiar de antemano, con una despedida ensayada y una cuenta regresiva visible, reduce el pánico antes de que empiece, porque el momento deja de ser una sorpresa. Ensayar con un peluche le permite probar la parte difícil primero, sin nada en juego.",
+          "script": [
+            "¿Ves estas cuentas? Cada mañana quitamos una, hasta que sea día de escuela.",
+            "Vamos a ensayar nuestra despedida con Conejo primero, abrazo fuerte, dos palabras, y listo.",
+            "Tu maestra se llama seño Ana. Me contaron que tiene libros de dinosaurios en su rincón de lectura.",
+            "Vamos a hacer exactamente la misma despedida todos los días, para que deje de dar miedo."
+          ],
+          "mantra": "Mi calma es el mensaje. Algunos niños solo necesitan más tiempo, no un plan distinto."
+        }
+      ]
+    },
+    {
+      "id": "gift_disappointment_public",
+      "title": "Decepción con un Regalo en Público",
+      "scenario": "El niño abre un regalo delante de la familia, se le cae la cara y dice en voz alta que quería otra cosa",
+      "icon": "🎁",
+      "ageRange": "3-9 años",
+      "prevention_tips": [
+        "Hablar con tu hijo antes de ocasiones con regalos sobre cómo se puede sentir la decepción",
+        "Nunca exigir un \"gracias\" mientras toda la sala sigue mirando",
+        "Practicar reacciones con gracia en momentos sin presión, como los juegos en casa",
+        "Mostrarle con el ejemplo cómo manejas tus propias pequeñas decepciones con calma",
+        "Tener lista una frase privada que signifique algo como \"vamos a alejarnos un segundo\"",
+        "Guardar la conversación sobre modales para después, nunca en plena mesa"
+      ],
+      "strategies": [
+        {
+          "id": "feeling_before_manners",
+          "name": "El Sentimiento Antes que los Modales",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Una decepción reconocida empieza a achicarse, mientras que una corregida delante de público se entierra más hondo y le suma vergüenza encima. Ir primero al sentimiento, y ganar una salida discreta si el ambiente está demasiado caliente, los saca a los dos del momento sin hacer una escena.",
+          "script": [
+            "No era el que esperabas. Vi cómo te cayó.",
+            "Eso está permitido. Puedes sentirte decepcionado un momento.",
+            "Vamos por agua. Ven conmigo un minuto.",
+            "No hace falta que pensemos ahora mismo qué le decimos a la tía Mara."
+          ],
+          "mantra": "La cara caliente en la sala es mía. Primero atiendo su sentimiento, mi vergüenza puede esperar."
+        },
+        {
+          "id": "both_feelings_can_be_true",
+          "name": "Las Dos Cosas Pueden Ser Ciertas",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Sentirse decepcionado por un regalo no borra el hecho de notar que alguien se esforzó, y los dos sentimientos pueden convivir en vez de pelearse. Dejar que coexistan, sin exigir que uno reemplace al otro, enseña una honestidad emocional real, no una actuada.",
+          "script": [
+            "Querías el otro. Sé que es verdad.",
+            "Y la abuela condujo un buen rato para elegir algo pensando solo en ti. Eso también es verdad.",
+            "Puedes sentir las dos cosas al mismo tiempo. Una no borra la otra.",
+            "No tienes que actuar que estás agradecido ahora mismo."
+          ],
+          "mantra": "La cara caliente en la sala es mía. Primero atiendo su sentimiento, mi vergüenza puede esperar."
+        },
+        {
+          "id": "repair_later_privately",
+          "name": "Reparar Después, en Privado",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Hacer la reparación cuando todos están tranquilos, en vez de exigir una actuación en el momento, es lo que de verdad hace crecer la gratitud genuina con el tiempo. Decir algo concreto y cierto funciona mejor que un \"gracias\" forzado y genérico, porque es algo que el niño realmente siente.",
+          "script": [
+            "Antes fue un momento difícil, y manejaste bien ese sentimiento tan grande.",
+            "¿Qué cosa cierta se te ocurre para decirle a la tía Mara sobre su regalo?",
+            "No tienes que decir que te encantó. Puedes decir algo real en su lugar.",
+            "Estoy orgulloso de cómo lo resolviste."
+          ],
+          "mantra": "La cara caliente en la sala es mía. Primero atiendo su sentimiento, mi vergüenza puede esperar."
+        }
+      ]
+    },
+    {
+      "id": "i_want_other_parent",
+      "title": "El Momento \"¡Quiero a Papá, No a Ti!\"",
+      "scenario": "El niño rechaza de golpe a uno de los padres, gritando \"¡Quiero a papá, no a ti!\" delante de los dos",
+      "icon": "💔",
+      "ageRange": "2-6 años",
+      "prevention_tips": [
+        "Esperar que las fases de preferencia vayan y vengan; no son un veredicto sobre ningún padre",
+        "Hablar con quien compartes la crianza sobre el desgaste antes de que crezca el resentimiento",
+        "Seguir presente con calidez, sin exigir que te elijan",
+        "Dejar que el padre preferido también ponga sus límites, necesitar un descanso está permitido",
+        "Alternar quién hace la hora de dormir, el baño y la despedida en la escuela, para que los roles no se fijen",
+        "Recordar que esto suele dispararse con el estrés, el cansancio o los grandes cambios"
+      ],
+      "strategies": [
+        {
+          "id": "stay_warm_dont_take_bait",
+          "name": "Mantente Cálido, No Muerdas el Anzuelo",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Cuando un niño pequeño descarga esto sobre un solo padre, casi siempre es que su sensación de seguridad se concentra en una sola persona durante una racha de estrés, no un ranking de quién cría mejor. Seguir disponible, sin retirarte dolido, es lo que de verdad acorta esta etapa.",
+          "script": [
+            "Escucho que ahora quieres a papá. Está bien.",
+            "Yo sigo aquí, y te quiero exactamente igual.",
+            "Con esto te va a ayudar papá. Nos vemos en unos minutos.",
+            "No hace falta que me quieras ahora mismo. Yo te quiero de todas formas."
+          ],
+          "mantra": "Solo se desarman así de libremente con las personas en las que confían. Esto no es sobre mí, es una etapa con un favorito."
+        },
+        {
+          "id": "preferred_parent_sets_limits",
+          "name": "El Padre Preferido Pone un Límite",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Ser el padre elegido no significa estar disponible cada segundo, y un niño puede protestar por una pausa corta y aun así salir bien de eso. Nombrar el límite con calma, sin culpa, modela que las necesidades de los dos lados importan.",
+          "script": [
+            "Escucho que me quieres a mí. Primero me voy a duchar cinco minutos.",
+            "Mamá te cuida mientras no estoy, y yo siempre vuelvo.",
+            "Puedes estar disgustado por esperar. Y aun así, tienes que esperar.",
+            "Gracias por esperar. Ahora soy todo tuyo."
+          ],
+          "mantra": "Solo se desarman así de libremente con las personas en las que confían. Esto no es sobre mí, es una etapa con un favorito."
+        },
+        {
+          "id": "team_talk_after",
+          "name": "Charla de Equipo, Lejos del Momento",
+          "difficulty": "fácil",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Procesar juntos el desgaste, como equipo de crianza, antes de que se instale el resentimiento evita que el padre rechazado se retraiga en silencio, que es justo lo que suele alargar esta etapa. Una charla breve convierte un sentimiento herido en un plan compartido, en vez de una herida privada.",
+          "script": [
+            "Hoy ese momento me costó. ¿Hablamos un minuto?",
+            "Sé que no es personal, y aun así a veces duele.",
+            "¿Turnamos quién hace la hora de dormir esta semana, para equilibrar un poco?",
+            "Mañana me encargo yo de la hora de dormir, si vuelve a pasar esto."
+          ],
+          "mantra": "Solo se desarman así de libremente con las personas en las que confían. Esto no es sobre mí, es una etapa con un favorito."
+        }
+      ]
+    },
+    {
+      "id": "night_fears_monsters",
+      "title": "Miedo Nocturno a los Monstruos",
+      "scenario": "El niño insiste en que hay un monstruo en el cuarto o debajo de la cama y no logra calmarse para dormir",
+      "icon": "👹",
+      "ageRange": "3-8 años",
+      "prevention_tips": [
+        "Mantener una rutina calmante y constante antes de apagar la luz",
+        "Evitar programas, cuentos o imágenes que den miedo cerca de la hora de dormir",
+        "Dejar una luz nocturna encendida o la puerta entreabierta si de verdad ayuda",
+        "Hablar de los miedos durante el día, no solo cuando aparecen de noche",
+        "Darle una \"misión\", como sostener una linterna o un peluche guardián, para que sienta algo de control",
+        "Practicar de día, en calma, un juego breve de \"no te veo pero te escucho\""
+      ],
+      "strategies": [
+        {
+          "id": "validate_the_fear",
+          "name": "Validar el Miedo",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "El miedo es una emoción normal y protectora, y descartarlo con un \"ahí no hay nada\" suele hacer que el niño discuta más fuerte o esconda el miedo en vez de manejarlo. Nombrarlo como real y normal, sin razonarlo hasta que desaparezca, es lo que de verdad ayuda a que su cuerpo se calme.",
+          "script": [
+            "Sientes mucho miedo de que haya algo en tu cuarto.",
+            "El miedo es uno de los sentimientos que nos ayudan a mantenernos seguros. Todos sentimos miedo alguna vez.",
+            "Te creo que ahora mismo se siente muy real.",
+            "Aquí estoy, y no me voy a ninguna parte."
+          ],
+          "mantra": "No puedo quitarles el miedo, pero puedo ayudarlos a aprender qué les sirve cuando aparece."
+        },
+        {
+          "id": "check_and_reassure",
+          "name": "Revisar Juntos y Dar Confianza",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Recorrer el cuarto juntos convierte un temor abstracto en algo concreto y comprobable, más fácil de archivar como seguro para el cerebro de un niño pequeño. Hacer la revisión con él, y no por él, además le entrega una herramienta que podrá usar solo más adelante.",
+          "script": [
+            "Vamos a mirar juntos. Tú señalas dónde da miedo.",
+            "¿Ves? Solo tus libros y tu silla. No hay nada más aquí.",
+            "Tu cuarto es el mismo cuarto seguro de siempre.",
+            "Voy a dejar la puerta un poco abierta para que me escuches cerca."
+          ],
+          "mantra": "No puedo quitarles el miedo, pero puedo ayudarlos a aprender qué les sirve cuando aparece."
+        },
+        {
+          "id": "build_a_coping_tool",
+          "name": "Construir una Herramienta",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Los niños construyen resiliencia real cuando tienen un papel activo en manejar un miedo, en lugar de depender por completo de que el padre los tranquilice. Una herramienta tangible, como un rociador o un peluche guardián, les da algo que hacer con el miedo, en vez de solo sentirlo.",
+          "script": [
+            "Vamos a hacer spray antimonstruos juntos, agua en esta botella, solo para la puerta.",
+            "Tu misión es rociar la puerta antes de dormir. Tú estás a cargo de mantenerla segura.",
+            "Tu osito también hace guardia esta noche. Es un buen ayudante.",
+            "Mañana me cuentas cómo funcionó tu spray."
+          ],
+          "mantra": "No puedo quitarles el miedo, pero puedo ayudarlos a aprender qué les sirve cuando aparece."
+        }
+      ]
+    },
+    {
+      "id": "new_sibling_jealousy",
+      "title": "Explosión de Celos por el Bebé Nuevo",
+      "scenario": "De pronto, el hermano mayor le pega o intenta apartar al bebé recién llegado, en un arranque de celos",
+      "icon": "👶",
+      "ageRange": "2-6 años",
+      "prevention_tips": [
+        "Conectar primero con el hermano mayor en cada reencuentro, antes de ir hacia el bebé",
+        "Decirle en voz alta que tu amor por él sigue completo, que nadie puede quitarle su parte",
+        "Proteger momentos cortos y predecibles a solas con el hermano mayor",
+        "Darle formas concretas y realizables de participar, en vez de advertencias vagas",
+        "Permitir que existan sentimientos encontrados, sin exigir entusiasmo por el bebé",
+        "Esperar algo de retroceso y recibirlo con calma, no con comparaciones"
+      ],
+      "strategies": [
+        {
+          "id": "block_and_name",
+          "name": "Frenar con Calma y Nombrar el Deseo",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Intervenir con calma para proteger al bebé, sin avergonzar al hermano mayor, resuelve el tema de seguridad y el sentimiento de fondo en el mismo momento. Nombrar el deseo detrás del arranque convierte \"el bebé es una amenaza\" en algo que pueden trabajar juntos.",
+          "script": [
+            "No voy a dejar que lo empujes. Aquí estoy.",
+            "Quieres que todo vuelva a ser como antes. Tiene sentido.",
+            "Ahora mismo es difícil compartirme. Ese sentimiento está permitido aquí.",
+            "Puedes decirme \"esto no me gusta\" con palabras, en cambio."
+          ],
+          "mantra": "Esta es una reacción normal ante un cambio enorme, no una señal de alarma. Recibida con calma, pasa más rápido."
+        },
+        {
+          "id": "love_is_not_juice",
+          "name": "El Amor No Es Algo que Se Agota",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Los niños pequeños suelen asumir, en silencio, que el amor funciona como una cantidad fija que se reparte entre hermanos, y es esa creencia, no la maldad, lo que impulsa buena parte de esta conducta. Decir con claridad que tu amor por él sigue completo va directo al miedo real detrás del arranque.",
+          "script": [
+            "Este bebé tiene suerte, te tiene a ti como hermano mayor.",
+            "Mi amor por ti sigue siendo todo tuyo. Nadie puede quitarte tu parte.",
+            "Algunos niños se emocionan con un bebé, otros se ponen de mal humor, y muchos sienten las dos cosas. Todo eso está permitido.",
+            "Te veo. Sigues importando tanto como siempre."
+          ],
+          "mantra": "Esta es una reacción normal ante un cambio enorme, no una señal de alarma. Recibida con calma, pasa más rápido."
+        },
+        {
+          "id": "protected_one_on_one",
+          "name": "Proteger el Tiempo a Solas",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Un tiempo exclusivo y confiable responde al miedo a la escasez de forma directa, no solo hablando de él, porque un niño que confía en que le va a tocar su turno tiene menos razones para competir con el bebé por la atención. Convertirlo en una costumbre fija hace que la promesa se sienta sólida.",
+          "script": [
+            "Estoy acostando al bebé para su siesta, y veo que me esperas. Dos minutos más, y soy todo tuyo.",
+            "El sábado por la mañana es nuestro, solo tú y yo. Está en el calendario. Pase lo que pase esa semana.",
+            "Puedes acariciarle el bracito con un dedo, así, si quieres estar cerca de ella.",
+            "¿Quieres jugar a que eres el bebé por cinco minutos? A veces ser el pequeño se ve bien acogedor."
+          ],
+          "mantra": "Esta es una reacción normal ante un cambio enorme, no una señal de alarma. Recibida con calma, pasa más rápido."
+        }
+      ]
+    },
+    {
+      "id": "caught_lying_moment",
+      "title": "Atrapado en una Mentira, con las Manos en la Masa",
+      "scenario": "El niño niega rotundamente haber hecho algo, aunque la prueba está justo delante de sus ojos",
+      "icon": "🤥",
+      "ageRange": "4-9 años",
+      "prevention_tips": [
+        "Responder con calidez a la honestidad, para que decir la verdad siga siendo seguro y no algo que dé miedo",
+        "Evitar interrogarlo o tenderle trampas para \"cazar\" la mentira",
+        "Fijarte en cuándo aparece la mentira, con el estrés, los cambios, el miedo a meterse en problemas",
+        "Mostrar con el ejemplo cómo asumes en voz alta tus propios pequeños errores",
+        "Enfocar las consecuencias en reparar, no en avergonzar",
+        "Recordarle seguido que los errores son normales y que siempre es seguro admitirlos"
+      ],
+      "strategies": [
+        {
+          "id": "state_facts_calmly",
+          "name": "Decir los Hechos con Calma, Sin Trampas",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Nombrar lo que de verdad ves, en lugar de interrogarlo para forzar una confesión, baja la presión que hace que mentir parezca necesario en primer lugar. Empezar con calma y con hechos evita que el momento se convierta en un pulso que ninguno de los dos puede ganar.",
+          "script": [
+            "Veo que el jarrón está roto, y me dijiste que fue el perro.",
+            "No estoy tratando de meterte en problemas. Quiero entender qué pasó.",
+            "Está bien equivocarse. Todos rompemos algo alguna vez.",
+            "Prefiero escuchar lo que de verdad pasó, en vez de una historia inventada."
+          ],
+          "mantra": "Esto es comunicación emocional, no un defecto de carácter. Mi trabajo es hacer que la verdad se sienta segura."
+        },
+        {
+          "id": "name_the_worry_underneath",
+          "name": "Nombrar la Preocupación de Fondo",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "A esta edad, mentir suele ser el mejor intento del niño de no decepcionarte o de esquivar una consecuencia que teme, no un engaño deliberado. Nombrar esa preocupación en voz alta le muestra que entiendes el sentimiento, y eso hace que soltar la verdad sea más fácil.",
+          "script": [
+            "Creo que te preocupa lo que pueda pasar si me dices la verdad.",
+            "De verdad no querías meterte en problemas. Tiene sentido.",
+            "Siempre es seguro contarme, aunque sea difícil.",
+            "Gracias por decírmelo. Eso costó valentía."
+          ],
+          "mantra": "Esto es comunicación emocional, no un defecto de carácter. Mi trabajo es hacer que la verdad se sienta segura."
+        },
+        {
+          "id": "repair_together",
+          "name": "Reparar Juntos",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Arreglar el problema real juntos, en lugar de repartir un castigo, enseña que la honestidad lleva a algo útil y no a algo doloroso. Cuando la reparación es la respuesta, decir la verdad deja de ser la opción más arriesgada.",
+          "script": [
+            "Las cosas se rompen. Vamos a limpiar esto juntos, en equipo.",
+            "La próxima vez que pase algo así, puedes simplemente contarme. Prometo que voy a mantener la calma.",
+            "Prueba decirme \"me preocupa que te enojes\" en lugar de inventar una historia.",
+            "Te quiero pase lo que pase. Un problema siempre lo podemos resolver juntos."
+          ],
+          "mantra": "Esto es comunicación emocional, no un defecto de carácter. Mi trabajo es hacer que la verdad se sienta segura."
+        }
+      ]
+    },
+    {
+      "id": "whining_spiral",
+      "title": "La Espiral del Lloriqueo",
+      "scenario": "El lloriqueo del niño escala y se repite, incluso después de que ya respondiste, explicaste o le diste lo que pedía",
+      "icon": "🔁",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Fíjate en los patrones, el lloriqueo suele agruparse alrededor del cansancio, el hambre o los cambios de actividad, así puedes atender la causa antes de que empiece",
+        "Practicar la \"voz normal\" como un juego, en momentos de calma, para que la destreza ya sea conocida antes de que llegue la frustración",
+        "Celebrar de inmediato cuando cambia a su voz normal, para que esa opción más calmada valga la pena repetir",
+        "Mantente calmado y constante, si el lloriqueo a veces consigue un sí más rápido que pedir con calma, eso enseña en silencio que escalar funciona",
+        "Mantén tu propia reacción estable, un suspiro grande o un \"deja de lloriquear\" cortante se vuelve combustible, porque tu reacción es a menudo lo que persigue un lloriqueo en espiral"
+      ],
+      "strategies": [
+        {
+          "id": "name_and_pause",
+          "name": "Nombrarlo y Hacer una Pausa",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Describir lo que escuchas hace que el niño note su propia forma de comunicarse, sin avergonzarlo, y una pausa estratégica le da espacio para reiniciar en vez de reaccionar a tu frustración.",
+          "script": [
+            "Escucho tu lloriqueo. ¿Tú también lo escuchas?",
+            "Dímelo otra vez con tu voz normal. Quiero entender qué necesitas.",
+            "Tómate tu tiempo. Te estoy escuchando.",
+            "Ahí está. Gracias por usar tu voz normal."
+          ],
+          "mantra": "Su lloriqueo es una forma de comunicarse, no un ataque hacia mí. Puedo mantenerme calmado y esperar a que pase."
+        },
+        {
+          "id": "ride_out_the_repeat",
+          "name": "Dejar Pasar la Repetición",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Retirar tu atención de la conducta de lloriqueo, sin dejar de estar cálido y presente, permite que la espiral siga su curso sin el combustible de una reacción más grande. La mayoría de los niños se calma más rápido en cuanto el ciclo deja de sacarte de tus casillas.",
+          "script": [
+            "Veo que todavía necesitas lloriquear. Avísame cuando termines.",
+            "Aquí estoy cuando quieras usar tu voz normal.",
+            "No voy a cambiar mi respuesta, y tampoco me voy a ir a ningún lado.",
+            "Confío en que puedes usar tu voz normal cuando estés listo.",
+            "Gracias por usar tu voz normal. Sé que costó trabajo."
+          ],
+          "mantra": "No tengo que arreglar este lloriqueo ni ganarlo. Solo tengo que mantenerme firme hasta que pase."
+        },
+        {
+          "id": "check_the_tank_first",
+          "name": "Revisar Primero el Tanque",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Un lloriqueo que no se detiene ni con una respuesta clara suele tener menos que ver con el pedido y más con un tanque vacío, el cansancio o el hambre hacen que todo se sienta más difícil y las voces suenen más lloronas.",
+          "script": [
+            "Escucho MUCHO lloriqueo ahora mismo. Me pregunto si tu cuerpo está cansado o con hambre.",
+            "El cansancio puede hacer que todo se sienta más difícil, hasta las cosas pequeñas.",
+            "Vamos por una merienda y un minuto de calma antes de seguir hablando.",
+            "Estoy aquí para ayudarte en cuanto tu cuerpo se sienta un poco más como el de siempre."
+          ],
+          "mantra": "Un lloriqueo en espiral a veces es un cuerpo cansado pidiendo ayuda, no una batalla para ganar."
+        }
+      ]
+    },
+    {
+      "id": "public_meltdown_big_feelings",
+      "title": "Crisis en Público: Cuando los Sentimientos Desbordan",
+      "scenario": "El niño se deshace en llanto, sale corriendo o se bloquea por completo en un lugar público o social — una fiesta, una reunión familiar, un sitio lleno de gente — desbordado por sentimientos enormes",
+      "icon": "🌊",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Acordar el plan de antemano, en un momento de calma: dile a tu hijo que cuando los sentimientos se hacen enormes, te quedas cerca y nunca lo vas a alejar. La mayoría de los niños agradece en silencio escuchar esto antes de que se ponga a prueba",
+        "Antes de cualquier evento con un momento bajo los reflectores (una canción de cumpleaños, un premio, una ovación), avisar con anticipación y ofrecer una opción sobre cuánto quiere participar",
+        "Vigilar la acumulación antes de una salida pública (hambre, calor, ruido de la multitud), que aumentan las probabilidades de un desborde",
+        "Ubicar de antemano una salida discreta en cualquier espacio público al que vayas, para no tener que buscarla en medio del desborde",
+        "Ofrecer de antemano una opción intermedia, como sentarse en tu regazo o mirar desde un costado, en lugar de asumir que quiere estar en el centro de todo"
+      ],
+      "strategies": [
+        {
+          "id": "go_quiet_stay_close",
+          "name": "Bajar la Voz y Quedarte Cerca",
+          "difficulty": "intermedio",
+          "timeRequired": "inmediato",
+          "why_it_works": "En el pico del desborde ayudan menos palabras y menos contacto visual directo: una mirada fija y sostenida puede leerse como una amenaza cuando el sistema de alarma está tan activado. Quedarte cerca y en calma, sin intentar convencerlo con palabras, demuestra que lo que más teme es falso, sus sentimientos no te desbordaron a ti.",
+          "script": [
+            "Aquí estoy. No me voy a ninguna parte.",
+            "No tienes que hacer nada ahora mismo.",
+            "Tómate el tiempo que necesites.",
+            "Te doy un poco de espacio, aquí sigo, cerca, no lejos.",
+            "Aquí estoy. Nunca me fui lejos."
+          ],
+          "mantra": "Mantenerme calmado y cerca durante el pico demuestra que puedo sostener esto. Eso importa más que cualquier palabra."
+        },
+        {
+          "id": "shrink_the_spotlight",
+          "name": "Achicar los Reflectores",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Incluso una atención cálida y positiva puede desbordar a un niño en un momento de sentimientos grandes. Leer ese respingo como algo normal, no como grosería ni ingratitud, y ofrecer una versión más pequeña del momento lo ayuda a mantenerse regulado sin perderse todo por completo.",
+          "script": [
+            "Todos esos ojos mirando de golpe son muchos, ¿verdad?",
+            "No estás siendo grosero, es que ahora mismo se siente como demasiado.",
+            "¿Quieres mirar desde mi regazo, o te vienes conmigo a un costado un minuto?",
+            "No tienes que amar ser el centro de atención. Siempre podemos hacerlo en pequeño."
+          ],
+          "mantra": "Esto no es ingratitud. Es un sistema nervioso que necesitaba una versión más pequeña del momento."
+        },
+        {
+          "id": "repair_sideways_later",
+          "name": "Reparar de Costado, Más Tarde",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Un \"hablemos de lo que pasó\" cara a cara puede reabrir la vergüenza de un momento grande en público. Volver sobre el tema de costado (con las manos ocupadas, sin contacto visual, o planeando lo que sigue en vez de repasar lo ocurrido) reconstruye el recuerdo sin volver a montar la escena.",
+          "script": [
+            "Esa fiesta fue mucho hoy, ¿eh?",
+            "¿Quieres inventar una señal secreta para la próxima vez que los sentimientos se hagan grandes? Tú la eliges, yo la sigo.",
+            "Esa fue difícil. Estamos bien.",
+            "La próxima siempre la podemos hacer a tu medida."
+          ],
+          "mantra": "Volver sobre el tema de costado, no cara a cara, es lo que de verdad ayuda a este niño a sentirse seguro otra vez."
+        }
+      ]
+    },
+    {
+      "id": "death_question_ambush",
+      "title": "La Pregunta sobre la Muerte, de la Nada",
+      "scenario": "El niño pregunta de pronto sobre la muerte, muchas veces a la hora de dormir o en el coche, y te agarra desprevenido",
+      "icon": "🕯️",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Decidir de antemano tu respuesta honesta y en lenguaje simple — \"murió\" significa que el cuerpo dejó de funcionar y no va a volver a funcionar — para no improvisar en el momento",
+        "Tratar las preguntas sobre la muerte como cualquier otra gran curiosidad, la misma que pregunta por qué el cielo se oscurece, y no como un tema del que hay que huir",
+        "Evitar sustitutos suaves como \"se perdió\", \"se durmió\" o \"se fue\", incluso en charlas casuales, para que esas palabras cotidianas sigan siendo seguras y no queden ligadas a una pérdida permanente",
+        "Recordar que la mayor parte del miedo de un niño viene de no entender, no de los hechos en sí, una respuesta clara y honesta calma más que lo que él mismo imaginaría",
+        "Este guion es para la pregunta común que surge de la nada. Si el miedo a la muerte de tu hijo se vuelve intenso o no cede después de varias semanas, o habla de no querer seguir aquí, consúltalo con su pediatra o con un terapeuta infantil"
+      ],
+      "strategies": [
+        {
+          "id": "answer_it_plainly",
+          "name": "Responderla con Claridad",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Una definición concreta y literal le da al niño algo sólido para razonar, mientras que una vaga o poética lo deja imaginando algo todavía más aterrador. El lenguaje directo, junto con tu cercanía, es lo que le permite exhalar.",
+          "script": [
+            "Es una pregunta muy buena. ¿Te cuento la respuesta verdadera?",
+            "Cuando alguien muere, su cuerpo deja de funcionar por completo, no respira, no late el corazón, y no va a volver a funcionar.",
+            "Es muy triste, y está bien tener sentimientos grandes sobre esto.",
+            "Aquí estoy, contigo."
+          ],
+          "mantra": "Ser claro y honesto, junto con tu cercanía, es lo que de verdad calma esto, no una frase perfecta."
+        },
+        {
+          "id": "the_scary_follow_up",
+          "name": "La Pregunta que Sigue, la que Asusta",
+          "difficulty": "intermedio",
+          "timeRequired": "inmediato",
+          "why_it_works": "Un \"nunca\" rotundo es una promesa que el niño tarde o temprano descubre que no es cierta, y eso cuesta tu credibilidad. Una respuesta honesta, junto con una tranquilidad inmediata y en presente, calma el miedo sin el riesgo de romper una promesa.",
+          "script": [
+            "Esta es la respuesta verdadera: todos nos morimos algún día, muy lejos en el futuro.",
+            "Estoy sano, me cuido mucho, y pienso estar aquí muchísimo, muchísimo tiempo.",
+            "Estás a salvo. Esta noche estoy aquí mismo.",
+            "Tu único trabajo ahora mismo es ser un niño."
+          ],
+          "mantra": "Honesto y cálido gana a una promesa perfecta. La verdad, sostenida de cerca, es lo que de verdad les da seguridad."
+        },
+        {
+          "id": "keep_the_door_open",
+          "name": "Dejar la Puerta Abierta",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Esta es la primera de muchas conversaciones, no el trabajo completo. Los niños recuerdan si sus preguntas fueron bienvenidas mucho más tiempo del que recuerdan las palabras exactas, terminar cada charla con una invitación real a volver es lo que hace más fácil la próxima pregunta.",
+          "script": [
+            "Qué buena pregunta. Puedes preguntarme lo que sea, cuando sea.",
+            "No lo sé todo sobre esto, y está bien, siempre te voy a decir la verdad.",
+            "Si se te ocurren más preguntas mañana, o la próxima semana, aquí estoy.",
+            "Está bien sentirse triste, y también está bien volver a jugar. Las dos cosas están bien."
+          ],
+          "mantra": "Una conversación honesta y abierta ya es un éxito, aunque no haya salido con las palabras perfectas."
+        }
+      ]
+    },
+    {
+      "id": "phone_handover_battle",
+      "title": "La Batalla por Entregar la Pantalla",
+      "scenario": "El niño se niega a entregar la tablet o el celular cuando llega la hora: la aprieta contra el pecho, sale corriendo o negocia \"un minuto más\" mucho después de que sonó la alarma",
+      "icon": "📴",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Darle a cada pantalla un lugar fijo — una canasta o un estante donde vive cuando no se usa — para que \"hora de guardarla\" sea una rutina y no una negociación diaria",
+        "Usar una configuración de apagado automático, para que el \"no disponible\" viva dentro del dispositivo mismo, en vez de algo que tengas que hacer cumplir a mano cada vez",
+        "Cerrar cada sesión siempre igual — pararse, estirarse, \"cuéntame la mejor parte\" — para que detenerse tenga un ritual conocido, en vez de sentirse como un precipicio",
+        "Dar el ejemplo: meter tu propio celular en la misma canasta a la misma hora, para que la regla la siga toda la familia, no solo los niños",
+        "Si estás por cambiar las reglas porque lo que tienes ahora no está funcionando, decide el nuevo plan con calma y de antemano, en lugar de anunciarlo en plena batalla"
+      ],
+      "strategies": [
+        {
+          "id": "warn_then_close_ritual",
+          "name": "Avisar y Cerrar con un Ritual",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Una sesión que termina siempre de la misma forma, pararse, estirarse, contar la mejor parte, convierte el final en un ritual conocido, en vez de un precipicio, y eso hace que la entrega real sea mucho menos pelea.",
+          "script": [
+            "Una canción más, y terminamos por ahora.",
+            "Gran estirón, ¡sacúdete entero!",
+            "Cuéntame la mejor parte de lo que acabas de ver.",
+            "Ahora la tablet va a su canasta."
+          ],
+          "mantra": "Un final predecible es lo que hace fácil la entrega, no una voz de advertencia más fuerte."
+        },
+        {
+          "id": "hold_the_line_calmly",
+          "name": "Sostener el Límite con Calma",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Presentar la entrega como una decisión ya tomada, no como un pedido de aprobación, cierra la puerta a la negociación. Que proteste es señal de que el límite llegó, no de que te equivocaste.",
+          "script": [
+            "Sé que este es un cambio que no querías. La tablet va a la canasta ahora.",
+            "Puedes estar molesto por esto. No estoy enojado contigo, y esto no es un castigo.",
+            "La canasta es donde duerme: eso también vale para mi celular.",
+            "No te estoy pidiendo que estés de acuerdo. Solo te aviso lo que va a pasar.",
+            "Te ayudo con la parte difícil, ven, lo hacemos juntos."
+          ],
+          "mantra": "Que proteste significa que el límite llegó, no que me equivoqué. No necesito su acuerdo para sostenerlo."
+        },
+        {
+          "id": "let_the_device_be_the_rule",
+          "name": "Dejar que el Dispositivo Sea la Regla",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Un \"apagado\" firme y programado dentro del dispositivo mismo es una decisión que tomas una sola vez, en vez de discutirla cada día, y hace que el límite venga del sistema y no de ti en persona, lo cual le quita algo de tensión a la entrega.",
+          "script": [
+            "No es que yo sea malo, la tablet está programada para dormirse ahora, igual que todos los días.",
+            "¿Ves? Ya se está bloqueando para la noche. No es una sorpresa, así funciona.",
+            "Si quieres una app nueva, me llega un aviso, y siempre lo pienso antes de decir que sí.",
+            "El código de los ajustes se queda con los adultos, como la llave del botiquín. No es un tema de confianza, es solo cómo funciona nuestra casa."
+          ],
+          "mantra": "Una regla que sostiene el dispositivo es una regla que no tengo que pelear cada vez."
+        }
+      ]
+    },
+    {
+      "id": "stealing_from_friend",
+      "title": "Con el Juguete de un Amigo en el Bolsillo",
+      "scenario": "Descubres que tu hijo o hija se guardó, sin pedirlo, un juguete pequeño de la casa de un amigo o de un plan para jugar",
+      "icon": "🪀",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Antes de un plan para jugar, deja clara la regla de antemano — lo que es de un amigo se queda en casa del amigo, y si algo le encantó de verdad, siempre puede pedir tener uno igual",
+        "Fíjate si hay un patrón — ¿pasa más después de ver a un amigo en concreto, o con juguetes que le parecen especiales o admirados? El patrón señala la verdadera causa",
+        "Nombra en voz alta tus propios deseos por cosas que no puedes tener, para que tu hijo escuche las palabras en lugar de quedarse solo con el impulso",
+        "Mantén tu reacción calmada y curiosa, no alarmada — una reacción enorme por un juguete pequeño puede enseñarle que esconder es más seguro que contar la próxima vez",
+        "Celebra la honestidad con calidez cada vez que aparezca, incluso en cosas pequeñas, para que decir la verdad siga siendo el camino más fácil"
+      ],
+      "strategies": [
+        {
+          "id": "name_it_without_shame",
+          "name": "Nómbralo sin Vergüenza",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Decir el hecho con calma y nombrar la conducta, sin acusar ni sermonear sobre la confianza, evita que tu hijo tenga que defender una mentira además del primer desliz. Entender qué lo empujó a hacerlo importa más que tratar cada caso igual.",
+          "script": [
+            "Encontré este juguete en tu bolsillo. Creo que es de Maya.",
+            "Te encantó jugar con esto en casa de Maya, ¿verdad?",
+            "Cuando tomamos algo de otra persona sin preguntar, eso se llama robar.",
+            "Tenemos que devolvérselo a Maya. ¿Cómo crees que deberíamos hacerlo?"
+          ],
+          "mantra": "Esto habla de un deseo que no supo poner en palabras, no de que mi hijo sea deshonesto."
+        },
+        {
+          "id": "redirect_the_want",
+          "name": "Convierte el Deseo en Palabras",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Darle a tu hijo las palabras exactas para el deseo que hay detrás de la acción le enseña una alternativa que sí funciona, en lugar de solo decirle qué no hacer.",
+          "script": [
+            "Es normal querer algo que te gusta muchísimo.",
+            "La próxima vez, puedes decirme 'quiero uno de estos' en lugar de guardarlo en el bolsillo.",
+            "A veces te diré que sí a conseguir algo parecido, a veces que no — pero preguntar siempre es lo correcto.",
+            "Estoy orgullosa de que ahora me hayas dicho la verdad."
+          ],
+          "mantra": "Cada 'puedes decírmelo' es una herramienta que de verdad va a tener la próxima vez."
+        },
+        {
+          "id": "make_it_right_together",
+          "name": "Repararlo, Juntos",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Involucrar a tu hijo en la devolución construye directamente la habilidad de reparar, y hacerlo juntos, en vez de como un castigo en solitario, mantiene la lección centrada en la honestidad y la reparación, no en la vergüenza.",
+          "script": [
+            "Vamos juntos a devolvérselo a Maya.",
+            "Puedes decirle 'lo tomé sin preguntar, perdón, aquí lo tienes'.",
+            "Tomar cosas sin permiso puede dañar una amistad, incluso sin querer.",
+            "Eso te costó valentía. Me alegra que lo hayas arreglado."
+          ],
+          "mantra": "Reparar juntos enseña más que castigar en soledad."
+        }
+      ]
+    },
+    {
+      "id": "backtalk_in_public",
+      "title": "Contestar Mal, con Todo el Mundo Mirando",
+      "scenario": "Tu hijo o hija te contesta con insolencia, se niega o habla de forma desafiante delante de otras personas — otros padres, familiares, la fila de la caja — y sientes todas las miradas encima",
+      "icon": "🗣️",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Antes de un momento público que sabes que suele ser difícil, avisa con tiempo — 'en unos minutos nos vamos. Tu cuerpo puede querer gritar que NO, está permitido. Nos vamos igual.'",
+        "Decide de antemano que la persona desconocida más cercana está de tu lado, no evaluándote — es más fácil recordarlo antes del momento que en medio de él",
+        "Trata los momentos en público como algo que solo hay que atravesar sin sobresaltos — guarda la enseñanza de verdad para después, en privado, cuando todos estén en calma",
+        "Practica en casa, en momentos tranquilos y de juego, cómo repetir un sentimiento grande con mejor tono — así la habilidad está disponible en pleno enfrentamiento, no solo comentada después",
+        "Fíjate en tu propio impulso de reaccionar más fuerte porque hay gente mirando — ese impulso habla del público, no de lo que tu hijo realmente necesita"
+      ],
+      "strategies": [
+        {
+          "id": "slow_down_get_curious",
+          "name": "Baja el Ritmo, Ponte Curiosa",
+          "difficulty": "intermedio",
+          "timeRequired": "inmediato",
+          "why_it_works": "Un no rotundo casi siempre busca recuperar el control, no abrir un debate de verdad — así que discutírselo solo le da algo contra qué empujar. Devolvérselo con curiosidad genuina le quita esa pared.",
+          "script": [
+            "De verdad no quieres. Cuéntame qué es lo peor de esto.",
+            "Ojalá esto no tuviera que pasar ahora mismo. Te entiendo.",
+            "Eso no cambia. Tú eliges — ¿caminamos al coche, o te llevo cargado como un saco de papas?",
+            "Eso fue un sentimiento grande con muy mal tono. Dilo otra vez — te escucho."
+          ],
+          "mantra": "No tengo que ganar esto. Solo tengo que sostenerlo — el público no tiene voto aquí."
+        },
+        {
+          "id": "answer_the_audience_in_your_head",
+          "name": "Respóndele al Público, Solo en tu Cabeza",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Tener público dispara el miedo a ser juzgada, y eso empuja hacia una reacción más dura y más rápida de la que tendrías en casa. Nombrar ese tirón en silencio es lo que te libera para responderle a tu hijo y no a quienes miran.",
+          "script": [
+            "Aquí no me están juzgando. Mi hijo me necesita a mí, no un espectáculo para el pasillo.",
+            "Ojalá pudiéramos quedarnos. Es DIFICILÍSIMO dejar de divertirse.",
+            "Eso ya no cambia. Tú eliges cómo llegamos — ¿saltando como una rana, o subido a mis hombros?",
+            "Hablamos más de esto en el coche."
+          ],
+          "mantra": "Los desconocidos se van. Lo que se queda es la manera en que trato a mi hijo."
+        },
+        {
+          "id": "save_the_lesson_for_later",
+          "name": "Guarda la Lección para Después",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Tratar el momento público como algo que solo hay que atravesar, y dejar la enseñanza real para un momento tranquilo y privado después, evita que ninguno de los dos intente aprender o enseñar mientras está desbordado y observado.",
+          "script": [
+            "Vamos a pasar esta parte y ya — hablamos más en casa.",
+            "No voy a arreglar esto aquí. Solo voy a seguir avanzando con los dos.",
+            "Antes fue un momento difícil. ¿Quieres intentarlo de nuevo, solo con las palabras esta vez?",
+            "Puedes estar molesto delante de la gente. Tú no me avergüenzas."
+          ],
+          "mantra": "La enseñanza llega después, en privado. Ahora mi único trabajo es sacarnos de esta a salvo."
+        }
+      ]
+    },
+    {
+      "id": "toddler_hitting_baby",
+      "title": "Cuando el Hermano Mayor Golpea o Aprieta al Bebé",
+      "scenario": "Tu hijo o hija mayor golpea, aprieta demasiado fuerte o arremete contra el bebé — a veces es cariño que se volvió brusco, a veces es frustración pura",
+      "icon": "👶",
+      "ageRange": "3-7 años",
+      "prevention_tips": [
+        "Organiza las pertenencias a la vista de antemano — los tesoros protegidos arriba, los juguetes compartidos en una cesta al alcance de los dos — para que haya menos que defender en el momento",
+        "Dale a tu hijo mayor las palabras para 'no' y 'mío', para que sus manos no tengan que hablar por él cuando el bebé se acerque a algo que le importa",
+        "Dile en voz alta, más de una vez, que tu amor por él sigue entero — un bebé nuevo no lo reparte",
+        "Si esto se repite siempre de la misma forma, trátalo como una habilidad que falta y no como desafío, y planea tu propia respuesta de antemano en lugar de improvisar cada vez",
+        "Quédate a un brazo de distancia siempre que tu hijo mayor esté cerca del bebé durante esta etapa, para poder frenarlo antes del contacto, no después"
+      ],
+      "strategies": [
+        {
+          "id": "block_first_talk_later",
+          "name": "Primero Frena, Después Habla",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Un niño en pleno arrebato tiene el sistema desbordado, no está ejecutando un plan — las palabras casi no entran. Interponer tu cuerpo tranquilo y decir muy poco entrega el único mensaje que importa — esto lo tengo yo, todos están a salvo.",
+          "script": [
+            "Para. Estoy aquí. Al bebé no se le golpea — los voy a ayudar a los dos.",
+            "No voy a dejar que le hagas daño. Estoy manteniendo a todos a salvo.",
+            "Aquí estoy, contigo.",
+            "Hablamos cuando todos estemos en calma."
+          ],
+          "mantra": "Primero la seguridad, después los sentimientos, al final las palabras. No necesito palabras para mantener a todos a salvo."
+        },
+        {
+          "id": "name_the_worry_underneath",
+          "name": "Nombra la Preocupación de Fondo",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "La agresión hacia un bebé nuevo suele ser miedo a quedar reemplazado, no un rechazo real al bebé. Nombrar ese miedo directamente, y decir que tu amor sigue entero, se dirige a lo que de verdad empuja la conducta.",
+          "script": [
+            "Creo que se siente raro ver al bebé acercarse a tus cosas, y a mí.",
+            "Este bebé tiene suerte — te tiene a ti como hermano mayor. Y mi amor por ti sigue siendo todo tuyo. Nadie puede quitarte tu parte.",
+            "Puedes decirme 'mío' o 'ahora no' con palabras. Yo ayudo al bebé a esperar.",
+            "A veces ser el más pequeño parece hasta agradable, ¿no crees? ¿Jugamos a que tú eres el bebé cinco minutos, tú y yo?"
+          ],
+          "mantra": "Esto es miedo disfrazado de agresión. Mi trabajo es responder al miedo."
+        },
+        {
+          "id": "build_the_standing_plan",
+          "name": "Crea un Plan Fijo",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Cuando lo mismo se repite a pesar de manejarlo con calma cada vez, es una habilidad que falta, no una conducta que haya que castigar más duro. Darle al impulso de agarrar o golpear una salida fija y ensayada, decidida juntos en un momento tranquilo, es lo que de verdad empieza a cambiarlo.",
+          "script": [
+            "Cuando el bebé se acerca a tus cosas, tu cuerpo siente un impulso grande de agarrar o golpear. Ese impulso está bien — golpear, no. Vamos a darle otro sitio adonde ir.",
+            "¿Qué podrían hacer tus manos en su lugar — apretar fuerte este cojín, o venir a buscarme?",
+            "Me voy a quedar cerca cuando estén juntos, así puedo ayudar antes de que se haga grande.",
+            "Esto se repite porque falta algo, no porque seas malo. Lo estamos resolviendo juntos."
+          ],
+          "mantra": "Esto vuelve porque todavía falta una habilidad, no porque mi hijo sea malo. Puedo seguir buscando qué falta."
+        }
+      ]
+    },
+    {
+      "id": "homework_perfectionism_shutdown",
+      "title": "Rompe la Hoja Porque un Error lo Arruinó Todo",
+      "scenario": "Tu hijo o hija rompe la hoja de ejercicios e insiste en que 'no puede' después de un solo error",
+      "icon": "📝",
+      "ageRange": "6-12 años",
+      "prevention_tips": [
+        "Elogia el seguir intentándolo, no solo las respuestas correctas, para que un error no se sienta como la nota entera",
+        "Deja que tu peque te vea cometer un pequeño error y seguir adelante sin hacer un drama",
+        "Practica tolerar lo 'suficientemente bueno' en tareas sin importancia, antes de que de verdad cuente, para que no sea nuevo justo cuando importa",
+        "Ten siempre una copia de repuesto de cada hoja, para que una página rota no se convierta en una crisis",
+        "Guarda los comentarios sobre la letra o la precisión para un momento tranquilo, nunca en medio de un colapso",
+        "Di en voz alta cuando algo no tiene una fecha límite real, para quitarle al menos una fuente de presión"
+      ],
+      "strategies": [
+        {
+          "id": "finish_it_together",
+          "name": "Termínalo, No lo Arregles",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "En pleno calor del momento, corregir el error solo suma presión. La habilidad que vale la pena construir no es una hoja perfecta — es quedarse con una imperfecta hasta terminarla.",
+          "script": [
+            "Tuviste una respuesta mal, y ahora mismo sientes que toda la hoja se arruinó.",
+            "No vamos a borrar nada ni a empezar de nuevo. Vamos a terminar esta misma hoja.",
+            "Tu mano en el lápiz. Yo aquí, a tu lado.",
+            "Mira eso — terminada, con error y todo. Igual cuenta como terminada."
+          ],
+          "mantra": "Terminar gana a corregir. La corrección puede esperar a un día más tranquilo."
+        },
+        {
+          "id": "ask_about_the_rule",
+          "name": "Pregúntale por su Propia Regla",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Dejar que tu hijo explique su propia regla, en lugar de decirle que está equivocada, hace que se tope él solo, en voz alta, con su propia inconsistencia — algo que ningún intento tuyo de tranquilizarlo lograría igual.",
+          "script": [
+            "Explícame tu regla aquí. ¿Qué hace que una hoja pase de estar bien a estar arruinada?",
+            "¿Es cualquier error, o solo este?",
+            "Ah — ¿o sea que una respuesta mal borra todo lo demás que está bien en la hoja?",
+            "No tienes que contestar. Solo quería entender cómo funciona esa regla."
+          ],
+          "mantra": "No necesito ganar esto. La curiosidad se encarga de todo."
+        },
+        {
+          "id": "name_the_effort",
+          "name": "Nombra el Esfuerzo, No la Nota",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Reflejarle la constancia en vez del resultado le enseña que esforzarse cuenta por sí mismo, y así el resultado perfecto va perdiendo, poco a poco, su control sobre lo que importa.",
+          "script": [
+            "Estuviste con esto veinte minutos, incluso cuando se puso difícil. Eso es lo que noté.",
+            "No estoy revisando si está bien. Estoy viendo cómo sigues adelante.",
+            "Atascarte y quedarte en tu silla de todos modos — esa es la verdadera habilidad.",
+            "Esta hoja no va a importar la próxima semana. No haberte rendido, sí."
+          ],
+          "mantra": "El esfuerzo es lo que quiero impulsar. La nota no es mía para arreglar."
+        }
+      ]
+    },
+    {
+      "id": "bath_refusal",
+      "title": "Se Resiste a la Hora del Baño",
+      "scenario": "Tu hijo o hija llora, se esconde o sale corriendo en cuanto anuncias que es hora del baño",
+      "icon": "🛁",
+      "ageRange": "2-7 años",
+      "prevention_tips": [
+        "Avisa unos minutos antes de que empiece el baño, nunca de sorpresa",
+        "Deja que tu hijo elija de antemano un juguete de baño o una toalla",
+        "Abre el agua solo cuando ya esté dentro del baño, nunca antes",
+        "Crea una rutina corta y predecible antes del baño, como una canción o un temporizador, siempre igual cada noche",
+        "Pregúntale a tu peque qué parte del baño se siente mal en un día tranquilo, no en medio de la negativa",
+        "Ofrece una ducha rápida o un repaso con esponja como alternativa algunas noches"
+      ],
+      "strategies": [
+        {
+          "id": "name_the_no",
+          "name": "Nombra el No, Mantén el Plan",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Reconocer la negativa por completo antes de repetir lo que toca hacer baja la pelea. Un niño que se siente escuchado tiene menos contra qué empujar, aunque la respuesta no cambie.",
+          "script": [
+            "De verdad no quieres bañarte esta noche. Te escucho.",
+            "Igual va a pasar — el baño no se salta solo porque no te apetece.",
+            "Puedes entrar caminando con tus propios pies, o te cargo yo. Tú eliges.",
+            "No te estoy preguntando si quieres bañarte. Te pregunto cómo quieres llegar hasta ahí."
+          ],
+          "mantra": "Su no es real. Mi respuesta puede sostenerse igual, justo al lado."
+        },
+        {
+          "id": "hand_over_the_order",
+          "name": "Cédele el Orden",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Ofrecer opciones reales sobre las partes que no importan le da a tu hijo una sensación genuina de control dentro de algo que en realidad no es negociable.",
+          "script": [
+            "El baño va a pasar. Tú manejas todo lo demás.",
+            "¿Primero el patito de goma o primero la espuma? Tú decides.",
+            "¿Quieres lavarte el pelo al principio o al final?",
+            "Tú mandas en el orden. Yo solo me encargo de que pase."
+          ],
+          "mantra": "El baño no es opcional. Casi todo lo demás sí puede serlo."
+        },
+        {
+          "id": "get_curious_not_convincing",
+          "name": "Ponte Curiosa, No Convincente",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Muchas negativas al baño vienen de un detonante concreto, sensorial o de miedo, como el agua en la cara o el ruido del desagüe. Nombrarlo directamente llega más lejos que intentar tranquilizarlo a base de palabras.",
+          "script": [
+            "Algo del baño se siente mal para ti, y no voy a discutírtelo.",
+            "¿Es el agua en la cara, o es otra cosa?",
+            "Esta noche te mantengo el agua lejos de los ojos. Probemos eso primero.",
+            "No tienes que disfrutar esta parte. Solo necesito que me dejes ayudarte."
+          ],
+          "mantra": "Casi siempre hay una razón real debajo de la negativa. Mi trabajo es encontrarla, no discutirla."
+        }
+      ]
+    },
+    {
+      "id": "teeth_brushing_fight",
+      "title": "La Pelea por Cepillarse los Dientes",
+      "scenario": "Tu hijo o hija cierra la boca con fuerza, se retuerce para escapar o huye del cepillo de dientes cada noche",
+      "icon": "🪥",
+      "ageRange": "2-7 años",
+      "prevention_tips": [
+        "Cepilla los dientes siempre en el mismo momento de la rutina, para que nunca sea una sorpresa para tu peque",
+        "Deja que tu hijo sostenga el cepillo y vaya primero, antes de que tomes tú tu turno",
+        "Prueba un cepillo más suave o un sabor de pasta distinto, si la sensación parece ser el verdadero problema",
+        "Que el cepillado sea corto y sin rodeos — sáltate el sermón sobre las caries",
+        "Túrnense para contar los dientes juntos, para que sea una tarea compartida y no algo que se le hace",
+        "Cepíllate tus propios dientes a su lado sin pedirle nada a él"
+      ],
+      "strategies": [
+        {
+          "id": "name_it_plainly",
+          "name": "Nómbralo sin Rodeos, Mantente Firme",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Nombrar exactamente qué le incomoda del cepillado, sin intentar convencerlo de que no sienta eso, baja la resistencia mucho más que cualquier explicación sobre por qué hay que cepillarse.",
+          "script": [
+            "El cepillo te molesta — las cerdas, el sabor, toda la sensación. Lo sé.",
+            "Va a pasar de todos modos. Los dientes necesitan esto cada noche, sin falta.",
+            "¿Quieres sostenerlo tú, o lo sostengo yo?",
+            "Dos minutos y listo. Después somos libres."
+          ],
+          "mantra": "Entender la incomodidad y seguir adelante igual no son cosas opuestas."
+        },
+        {
+          "id": "hand_over_one_piece",
+          "name": "Cédele un Pedazo Real",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Darle un pedacito real de control, como quién sostiene el cepillo o qué dientes van primero, convierte una tarea que se le hace en una que se hace con él, y eso baja las ganas de pelear.",
+          "script": [
+            "Tú eliges — ¿arriba primero o abajo primero?",
+            "Lo sostienes tú y vas primero. Yo termino después.",
+            "¿Quieres contar a cuántos dientes llegamos hoy?",
+            "Tú haces la parte difícil. Yo solo ayudo al final."
+          ],
+          "mantra": "Un poco de control real ahora compra mucha menos pelea después."
+        },
+        {
+          "id": "make_it_silly",
+          "name": "Vuélvelo una Tontería Divertida",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "El juego saca a un niño de un estado defensivo y atrincherado. Una risa compartida abre una boca que ninguna insistencia lograría abrir.",
+          "script": [
+            "Apuesto a que hay un trocito de brócoli escondido bien al fondo. Vamos a cazarlo.",
+            "Abre bien grande — tengo que revisar si se mudaron bichitos de azúcar hoy.",
+            "¿Nos cepillamos como león o como dinosaurio esta noche?",
+            "¡Encontré uno! Dos pasadas más y los bichitos de azúcar desaparecen todos."
+          ],
+          "mantra": "Lo divertido llega más lejos que lo serio casi todas las noches. Puedo dejar que esto sea fácil."
+        }
+      ]
+    },
+    {
+      "id": "getting_dressed_standoff",
+      "title": "El Pulso por Vestirse",
+      "scenario": "Tu hijo o hija rechaza cada muda de ropa, se quita lo que le acabas de poner o se planta a medio vestir y no se mueve",
+      "icon": "👕",
+      "ageRange": "3-8 años",
+      "prevention_tips": [
+        "Preparen juntos dos mudas de ropa aceptables la noche anterior",
+        "Deja un margen real de tiempo en la mañana, para que vestirse no sea una carrera contra el reloj",
+        "Deja que tu hijo se vista en el orden que quiera, aunque sea al revés",
+        "Corta las etiquetas que rascan o cambia a telas más suaves, si la textura parece ser el detonante",
+        "Calma primero tu propia prisa — una voz apurada suele empeorar el enfrentamiento, no acelerarlo",
+        "Coloca el paso más difícil de vestirse al principio de la rutina, antes de que las pantallas o el desayuno compitan por su atención"
+      ],
+      "strategies": [
+        {
+          "id": "how_not_whether",
+          "name": "El Cómo lo Eliges Tú",
+          "difficulty": "fácil",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Ofrecer una elección real sobre el orden o la manera de vestirse, nunca sobre si sucede, le da una voz pequeña y genuina sin reabrir lo único que no está en negociación.",
+          "script": [
+            "No hace falta que te apetezca. Vestirte va a pasar de todas formas.",
+            "Tú eliges la camiseta — ¿la de rayas o la lisa?",
+            "¿Te vistes en la cama, o hacemos una carrera hasta la alfombra?",
+            "¿Calcetines o camiseta primero? Esa parte la manejas tú."
+          ],
+          "mantra": "El si es mío para sostener. Casi todo lo demás es suyo para decidir."
+        },
+        {
+          "id": "settle_your_own_body",
+          "name": "Calma tu Cuerpo Primero",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Los niños detectan la prisa de un padre y muchas veces se resisten con más fuerza contra ella. Bajar el ritmo de tu voz y tus movimientos le quita combustible al enfrentamiento.",
+          "script": [
+            "Voy a bajar el ritmo un segundo, aunque vamos tarde.",
+            "No te voy a perseguir por todo el cuarto por esta camiseta.",
+            "Espero aquí mismo hasta que estés listo para intentarlo de nuevo.",
+            "Tenemos unos minutos. Vamos a usarlos, no a perderlos."
+          ],
+          "mantra": "Mi calma no es un premio por su cooperación. Va primero, no después."
+        },
+        {
+          "id": "gentle_follow_through",
+          "name": "Firmeza Suave hasta el Final",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Cuando el estancamiento supera una espera razonable, terminar la tarea con tu hijo en vez de hacérsela a él mantiene el límite en pie sin convertirlo en una batalla más grande.",
+          "script": [
+            "Tuviste tus minutos para elegir, y está bien. Ahora te ayudo yo.",
+            "El brazo por aquí, ahora este lado — lo hacemos entre los dos.",
+            "No estamos peleando por esto. Ya está pasando, con calma.",
+            "Listo. Terminado. Esa era la parte difícil, y la superaste."
+          ],
+          "mantra": "Seguir adelante con calma sigue siendo cariñoso. Ser firme no tiene que significar pelear."
+        }
+      ]
+    },
+    {
+      "id": "playground_leaving_refusal",
+      "title": "No Quiere Irse del Parque",
+      "scenario": "Tu hijo o hija sale corriendo de vuelta a la estructura para trepar, se queda sin fuerzas o se derrumba en cuanto dices que es hora de irse",
+      "icon": "🛝",
+      "ageRange": "2-8 años",
+      "prevention_tips": [
+        "Da un aviso concreto, como 'un turno más y nos vamos', en lugar de uno vago",
+        "Acércate y acorta la distancia antes de avisar que toca irse — no lo grites de un extremo a otro del parque",
+        "Crea un pequeño ritual de despedida, como decirle adiós al tobogán con la mano, en los días buenos",
+        "Evita prometer que van a volver, a menos que sea de verdad seguro",
+        "Planea la hora de llegada con margen, para que la salida no choque con otro compromiso",
+        "De camino al coche, habla de lo divertido que fue, no de que ya se acabó"
+      ],
+      "strategies": [
+        {
+          "id": "walk_over_before_you_call_out",
+          "name": "Acércate Antes de Avisar",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Una instrucción gritada de un lado a otro del parque suele desatar una persecución. Acercarte y hablar a su altura antes de nombrar el límite evita que el momento se convierta en un 'atrápame si puedes'.",
+          "script": [
+            "Vengo a decírtelo de cerca, no a gritarlo desde la banca.",
+            "El tiempo de juego se acaba ahora. Esa parte no va a cambiar.",
+            "¿Quieres volar al coche como un cohete, o caminar despacio conmigo?",
+            "De cualquier forma, me quedo justo a tu lado."
+          ],
+          "mantra": "Los demás padres no están calificando este momento. Mi hijo me necesita cerca, no gritando."
+        },
+        {
+          "id": "validate_the_want_first",
+          "name": "Valida el Deseo, Después el Límite",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Nombrar por completo, antes que nada, cuánto quería seguir jugando suele achicar la protesta que viene después — un niño que se siente comprendido tiene menos contra qué empujar.",
+          "script": [
+            "Te quedarías en esa estructura toda la tarde si dependiera de ti.",
+            "Dejar algo tan divertido es difícil de verdad. No me sorprende que estés molesto.",
+            "Y aun así, nos tenemos que ir ahora mismo. Las dos cosas son ciertas.",
+            "Cuéntame cuál fue la mejor parte mientras caminamos, así tampoco se me olvida a mí."
+          ],
+          "mantra": "Su decepción es real. Eso no significa que el límite esté mal."
+        },
+        {
+          "id": "calm_carry_teach_later",
+          "name": "Cárgalo con Calma, Enseña Después",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Cuando un niño ya se quedó sin fuerzas o está en pleno colapso, las explicaciones dejan de llegar. Levantarlo con calma y guardar la conversación para después mantiene a todos más seguros y termina el enfrentamiento más rápido que seguir hablando.",
+          "script": [
+            "Hablar no te está llegando ahora mismo, así que te voy a cargar.",
+            "No tienes que caminar. Yo te sostengo.",
+            "Hablamos de todo esto en cuanto los dos estemos en calma.",
+            "No estoy enojada. Es normal tener sentimientos tan grandes cuando dejamos algo tan divertido."
+          ],
+          "mantra": "Cuando las palabras dejan de funcionar, una acción tranquila todavía puede ser cariñosa."
+        }
+      ]
+    },
+    {
+      "id": "swear_word_shock",
+      "title": "El Susto de la Mala Palabra",
+      "scenario": "Tu hijo o hija suelta una mala palabra o una palabra fuerte en voz alta, a veces delante de otras personas",
+      "icon": "🤭",
+      "ageRange": "3-9 años",
+      "prevention_tips": [
+        "Fíjate en cómo reaccionas tú a las palabras fuertes antes de que pase, para que un sobresalto tuyo no le enseñe que esa palabra tiene poder",
+        "Habla en un día tranquilo sobre qué palabras están bien y dónde, antes del próximo desliz",
+        "Dale a tu peque un par de palabras alternativas y divertidas que pueda usar libremente cuando quiera sentirse grande o impactante",
+        "Evita repetir la palabra en voz alta o preguntar quién se la enseñó justo en el momento",
+        "Mantén tu respuesta corta y parecida cada vez, para que no sea una reacción emocionante que valga la pena buscar de nuevo"
+      ],
+      "strategies": [
+        {
+          "id": "stay_flat_dont_feed_it",
+          "name": "Quédate Tranquila, No lo Alimentes",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Una reacción fuerte es, muchas veces, justo lo que hace que valga la pena repetir una palabra impactante. Responder con calma y en pocas palabras le quita el premio, sin avergonzar la curiosidad de fondo.",
+          "script": [
+            "Parece que encontraste una palabra que causa una reacción enorme.",
+            "Esa palabra no se usa aquí. Eso no va a cambiar.",
+            "No estás en problemas por haber aprendido una palabra nueva.",
+            "Busquemos una que haga el mismo trabajo, sin el lío."
+          ],
+          "mantra": "Mi cara tranquila es la respuesta menos interesante que le puedo dar a esto."
+        },
+        {
+          "id": "name_what_it_felt_like",
+          "name": "Nombra Cómo se Sintió",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Reconocer que decir esa palabra probablemente se sintió emocionante o de persona grande ayuda a tu hijo a sentirse comprendido en vez de atrapado, y eso lo hace más dispuesto a aceptar dónde está de verdad el límite.",
+          "script": [
+            "Apuesto a que decir esa palabra se sintió importante, como de persona grande.",
+            "Querer sentirte grande y atrevido está bien. Solo que esa palabra en concreto no es como lo hacemos aquí.",
+            "¿Qué palabra podría sentirse igual de fuerte, sin el lío que causa esta?",
+            "Hay muchas formas de ser ruidoso y atrevido que no te meten en problemas."
+          ],
+          "mantra": "El impulso detrás de la palabra está bien. Solo la palabra en sí necesita otro sitio adonde ir."
+        },
+        {
+          "id": "repair_in_front_of_others",
+          "name": "Repara Delante de los Demás",
+          "difficulty": "intermedio",
+          "timeRequired": "inmediato",
+          "why_it_works": "Cuando la palabra sale delante de otras personas, un reconocimiento breve y ligero protege a tu hijo de la vergüenza pública, sin dejar de ser honesta sobre que no era el momento — la conversación de verdad llega después, en privado.",
+          "script": [
+            "Esa es una palabra que todavía estamos aprendiendo a manejar. Lo hablamos en casa.",
+            "Disculpa eso — estamos trabajando en ello.",
+            "Vamos a buscar otra cosa que hacer ahora mismo.",
+            "Hablamos más de esa palabra después, solo nosotros dos."
+          ],
+          "mantra": "La conversación de verdad pasa en privado, no delante de público."
+        }
+      ]
+    },
+    {
+      "id": "refuses_to_apologize",
+      "title": "Se Bloquea y no Quiere Pedir Perdón",
+      "scenario": "Tu hijo o hija lastimó a alguien — un hermano, un amigo — y se queda callado, rígido o desafiante en vez de pedir perdón",
+      "icon": "🤐",
+      "ageRange": "3-8 años",
+      "prevention_tips": [
+        "Pide perdón tú misma abiertamente, también a tu hijo, para que vea cómo se ve una reparación de verdad",
+        "Evita exigir 'pide perdón' delante de público — suele salir al revés",
+        "Habla de los errores como algo que todos cometemos, en días tranquilos, no solo en el momento",
+        "Mantén tu reacción tranquila cuando lastime a alguien, para que la vergüenza no cierre la puerta antes de que la reparación pueda empezar",
+        "Dale a la reparación una forma sin presión más allá de la palabra 'perdón', como dibujar algo o preguntar si el otro está bien"
+      ],
+      "strategies": [
+        {
+          "id": "lower_the_shame_first",
+          "name": "Baja Primero la Vergüenza",
+          "difficulty": "intermedio",
+          "timeRequired": "5-10 minutos",
+          "why_it_works": "Una disculpa atascada casi nunca es falta de arrepentimiento — casi siempre es la vergüenza cerrando el momento por completo. Dejar claro que un momento poco amable no lo define baja la temperatura lo suficiente para que la reparación vuelva a ser posible.",
+          "script": [
+            "No eres un niño malo. Lo que pasó fue poco amable — son dos cosas distintas.",
+            "No necesitas tener las palabras listas ahora mismo.",
+            "Vamos a arreglar esto juntos. No lo haces solo.",
+            "Respira conmigo antes de que volvamos allá."
+          ],
+          "mantra": "La vergüenza bloquea la reparación. Mi trabajo es bajarla, no sumarle más."
+        },
+        {
+          "id": "model_it_then_let_it_stand",
+          "name": "Modélalo, Después Déjalo Así",
+          "difficulty": "fácil",
+          "timeRequired": "inmediato",
+          "why_it_works": "Cuando las palabras de verdad no salen, decirlas tú en nombre de tu hijo repara las cosas para quien salió herido, y de paso le presta un lenguaje que podrá usar la próxima vez, sin forzar una actuación.",
+          "script": [
+            "Voy a decir esta parte por ti, ya que ahora mismo se te quedó atascada.",
+            "Él no quería que pasara esto — vamos a arreglarlo juntos.",
+            "Vamos a comprobar que de verdad estás bien.",
+            "Gracias por quedarte conmigo en esto, en lugar de salir corriendo."
+          ],
+          "mantra": "Una reparación que yo modelo también cuenta. Mi hijo no tiene que actuar las palabras hoy."
+        },
+        {
+          "id": "the_private_debrief_later",
+          "name": "La Conversación Privada, Después",
+          "difficulty": "intermedio",
+          "timeRequired": "10-15 minutos",
+          "why_it_works": "Corregir a un niño delante de la persona que lastimó suele provocar más bloqueo, no aprendizaje. Una conversación tranquila y a solas, una vez que todos se calmaron, le da espacio para reflexionar de verdad en lugar de solo defenderse.",
+          "script": [
+            "Repasemos lo que pasó antes, solo tú y yo.",
+            "Se te notaba que algo ya te molestaba antes de eso. ¿Qué era?",
+            "A veces las palabras lastiman más de lo que queremos. ¿Cómo quieres arreglarlo ahora?",
+            "La próxima vez que aparezca ese sentimiento, ¿qué otra cosa podrías hacer con él?"
+          ],
+          "mantra": "El verdadero aprendizaje pasa después, en privado, no delante de nadie más."
         }
       ]
     }
