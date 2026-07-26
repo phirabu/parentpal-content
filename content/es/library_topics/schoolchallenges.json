@@ -11,6 +11,7 @@
       {
         "id": "school_refusal_sustained",
         "title": "Cuando no quiere ir al colegio: el porqué detrás del 'no voy",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/school_refusal_sustained_es.mp3",
         "description": "Un 'no voy' que se repite semana tras semana no es pereza: es una señal con una causa concreta, y encontrarla cambia la mañana entera.",
         "category": "Escolar",
         "readTime": 7,
@@ -25,6 +26,7 @@
       {
         "id": "i_dont_care_apathy",
         "title": "Cuando suena a 'no me importa",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/i_dont_care_apathy_es.mp3",
         "description": "El encogimiento de hombros y el 'da igual' casi nunca significan lo que parecen: son un vendaje, no la verdad.",
         "category": "Escolar",
         "readTime": 6,
@@ -39,6 +41,7 @@
       {
         "id": "homework_meltdowns_in_the_moment",
         "title": "Las crisis con la tarea y el 'no puedo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/homework_meltdowns_in_the_moment_es.mp3",
         "description": "Cuando el lápiz vuela y la hoja termina hecha una bola, no hace falta un discurso: hace falta otra cosa, mucho más simple.",
         "category": "Escolar",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "building_frustration_tolerance",
         "title": "Construir tolerancia a la frustración antes de necesitarla",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/building_frustration_tolerance_es.mp3",
         "description": "La tolerancia a la frustración no se enseña con un discurso: se construye, sin que se note, en los días tranquilos de antes.",
         "category": "Escolar",
         "readTime": 6,
@@ -67,6 +71,7 @@
       {
         "id": "perfectionism_good_enough",
         "title": "Perfeccionismo: cuando lo bueno no alcanza",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/perfectionism_good_enough_es.mp3",
         "description": "Detrás de las lágrimas por un 99% no hay un estándar alto: hay miedo, y el miedo no se calma solo con tranquilizarlo.",
         "category": "Escolar",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "parent_teacher_conferences",
         "title": "La reunión con la maestra y la relación con el profesorado",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/parent_teacher_conferences_es.mp3",
         "description": "El formato de una reunión escolar está pensado para señalar huecos, no logros — y prepararte para eso cambia todo lo que escuchas ahí dentro.",
         "category": "Escolar",
         "readTime": 6,
@@ -95,6 +101,7 @@
       {
         "id": "behavior_report_comes_home",
         "title": "Cuando llega a casa un reporte de conducta",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_schoolchallenges/behavior_report_comes_home_es.mp3",
         "description": "Cuando lo niega todo mirándote a los ojos, forzar la confesión es la manera más segura de perder — hay un rodeo que funciona mejor.",
         "category": "Escolar",
         "readTime": 6,

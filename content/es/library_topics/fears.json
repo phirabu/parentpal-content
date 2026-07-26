@@ -12,6 +12,7 @@
       {
         "id": "understanding_childhood_fears",
         "title": "Comprendiendo los Miedos Infantiles - La Base Primordial del Desarrollo Humano",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/understanding_childhood_fears_es.mp3",
         "description": "Descubre cómo el miedo sirve como un mecanismo fundamental de supervivencia y aprende a abordar los miedos de tu hijo como oportunidades para construir resiliencia",
         "category": "Ciencia",
         "readTime": 16,
@@ -28,6 +29,7 @@
       {
         "id": "anatomy_of_anxiety",
         "title": "La Anatomía de la Ansiedad - Cuando las Preocupaciones Se Apoderan de la Vida Diaria",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/anatomy_of_anxiety_es.mp3",
         "description": "Aprende a distinguir entre preocupaciones normales del desarrollo y ansiedad que requiere intervención mientras construyes las habilidades de regulación emocional de tu hijo",
         "category": "Ciencia",
         "readTime": 15,
@@ -44,6 +46,7 @@
       {
         "id": "fear_to_courage",
         "title": "Del Miedo al Valor - Construyendo Habilidades Prácticas de Afrontamiento y Resiliencia",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/fear_to_courage_es.mp3",
         "description": "Transforma la relación de tu hijo con el miedo de la evitación al dominio a través de habilidades específicas y práctica apoyada",
         "category": "Guía",
         "readTime": 17,
@@ -60,6 +63,7 @@
       {
         "id": "child_fear_anxiety_landscape_reflection",
         "title": "Comprendiendo el Panorama de Miedo y Ansiedad de Tu Hijo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/child_fear_anxiety_landscape_reflection_es.mp3",
         "description": "Un ejercicio reflexivo para desarrollar una comprensión más profunda de la relación de tu hijo con el miedo y la ansiedad",
         "category": "Reflexión",
         "readTime": 14,
@@ -76,6 +80,7 @@
       {
         "id": "family_courage_resilience_culture_reflection",
         "title": "Construyendo la Cultura de Valor y Resiliencia de Tu Familia",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/family_courage_resilience_culture_reflection_es.mp3",
         "description": "Examina e intencionalmente moldea cómo tu familia aborda la toma de riesgos, expresión emocional y construcción de resiliencia",
         "category": "Reflexión",
         "readTime": 16,

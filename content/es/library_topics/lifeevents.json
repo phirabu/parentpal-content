@@ -11,6 +11,7 @@
       {
         "id": "understanding_hard_conversations",
         "title": "Conversaciones difíciles, lo que de verdad se llevan los niños",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/understanding_hard_conversations_es.mp3",
         "description": "Lo que un niño recuerda de una charla difícil no son las frases exactas — es si sintió que podía volver a preguntar.",
         "category": "Cambios",
         "readTime": 5,
@@ -25,6 +26,7 @@
       {
         "id": "getting_your_own_footing",
         "title": "Encuentra tu equilibrio antes de hablar",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/getting_your_own_footing_es.mp3",
         "description": "La calma no aparece sola en el peor momento — se construye antes, en frío, para llegar puesta.",
         "category": "Cambios",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "delivering_hard_news",
         "title": "Cómo dar una noticia difícil",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/delivering_hard_news_es.mp3",
         "description": "Un aviso, la palabra real, y una pausa que se sostiene: la forma importa tanto como el contenido.",
         "category": "Cambios",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "telling_kids_about_divorce",
         "title": "Cómo contarles el divorcio a tus hijos",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/telling_kids_about_divorce_es.mp3",
         "description": "No es el divorcio lo que suele lastimar a un hijo, sino la tensión que nadie le explica.",
         "category": "Cambios",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "life_in_two_homes",
         "title": "La vida en dos casas",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/life_in_two_homes_es.mp3",
         "description": "Dos casas no necesitan las mismas reglas — necesitan que el niño se sienta entero en ambas.",
         "category": "Cambios",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "death_dying_serious_illness",
         "title": "La muerte y la enfermedad grave",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/death_dying_serious_illness_es.mp3",
         "description": "Lo claro sostiene a un niño; lo suave-pero-vago lo deja solo, adivinando.",
         "category": "Cambios",
         "readTime": 5,
@@ -95,6 +101,7 @@
       {
         "id": "moving_house",
         "title": "Mudarse de casa",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/moving_house_es.mp3",
         "description": "Cada incógnita que se vuelve familiar antes de tiempo es una cosa menos que cargar el día de la mudanza.",
         "category": "Cambios",
         "readTime": 5,
@@ -109,6 +116,7 @@
       {
         "id": "bodies_babies_boundaries",
         "title": "El cuerpo, los bebés y los límites",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/bodies_babies_boundaries_es.mp3",
         "description": "Un niño que sabe nombrar su cuerpo con precisión también sabe contarte con precisión cuando algo anda mal.",
         "category": "Cambios",
         "readTime": 5,
@@ -123,6 +131,7 @@
       {
         "id": "families_difference_hard_questions",
         "title": "Familias diferentes y preguntas difíciles",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/families_difference_hard_questions_es.mp3",
         "description": "Ninguna pregunta directa de un niño necesita un sermón — necesita una frase corta, cálida y verdadera.",
         "category": "Cambios",
         "readTime": 5,
@@ -137,6 +146,7 @@
       {
         "id": "when_something_scary_happens",
         "title": "Cuando pasa algo que da miedo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_lifeevents/when_something_scary_happens_es.mp3",
         "description": "Un niño asustado no necesita más información — necesita más de ti, y la pantalla apagada.",
         "category": "Cambios",
         "readTime": 5,

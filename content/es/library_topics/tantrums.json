@@ -12,6 +12,7 @@
       {
         "id": "tantrums_to_outbursts",
         "title": "De Rabietas a Explosiones - Entendiendo el Cerebro de 3 a 7 Años",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_tantrums/tantrums_to_outbursts_es.mp3",
         "description": "Descubre por qué los episodios emocionales de tu preescolar requieren un enfoque diferente al de las rabietas de los niños pequeños",
         "category": "Ciencia",
         "readTime": 14,
@@ -28,6 +29,7 @@
       {
         "id": "anatomy_outburst",
         "title": "La Anatomía de una Explosión - Qué Está Realmente Sucediendo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_tantrums/anatomy_outburst_es.mp3",
         "description": "Entiende los procesos neurológicos y emocionales que ocurren durante los episodios emocionales de tu hijo",
         "category": "Ciencia",
         "readTime": 12,
@@ -44,6 +46,7 @@
       {
         "id": "three_types_outbursts",
         "title": "Los Tres Tipos de Explosiones Desafiantes y Cómo Manejar Cada Una",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_tantrums/three_types_outbursts_es.mp3",
         "description": "Estrategias especializadas para gritos excesivos, expresión física y procesamiento prolongado",
         "category": "Guía",
         "readTime": 16,
@@ -60,6 +63,7 @@
       {
         "id": "outburst_patterns_reflection",
         "title": "Entendiendo los Patrones de Explosiones de Tu Hijo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_tantrums/outburst_patterns_reflection_es.mp3",
         "description": "Un ejercicio reflexivo para observar y entender los patrones emocionales específicos de tu hijo",
         "category": "Reflexión",
         "readTime": 12,
@@ -76,6 +80,7 @@
       {
         "id": "family_emotional_culture_reflection",
         "title": "La Cultura Emocional de Tu Familia",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_tantrums/family_emotional_culture_reflection_es.mp3",
         "description": "Examina y moldea intencionalmente cómo tu familia se acerca a las emociones y explosiones",
         "category": "Reflexión",
         "readTime": 14,

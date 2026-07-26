@@ -11,6 +11,7 @@
       {
         "id": "potty_learning_complete_guide",
         "title": "Guía completa del aprendizaje del orinal: el método sin estrés que funciona en 3-7 días",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_learning_complete_guide_es.mp3",
         "description": "Estrategias con base científica que ponen por delante la independencia y la soberanía corporal de tu hijo.\n  Aquí tienes todo lo necesario para que el aprendizaje del orinal deje de ser un estrés y se convierta en un éxito,\n  con expectativas realistas y un método de 3 días que funciona de verdad.",
         "category": "Guía",
         "readTime": 37,
@@ -33,6 +34,7 @@
       {
         "id": "2_year_old_potty_training",
         "title": "El orinal a los 2 años: por qué la preparación importa más que la edad",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/2_year_old_potty_training_es.mp3",
         "description": "¿Tu hijo de 2 años está de verdad listo para el orinal? Te contamos las 6 señales de desarrollo que importan más que la edad, por qué empezar antes de tiempo sale mal, y el enfoque que respeta el ritmo de tu peque.",
         "category": "Guía",
         "readTime": 17,
@@ -55,6 +57,7 @@
       {
         "id": "3_year_old_potty_training",
         "title": "El orinal a los 3 años: de la lucha de poder a la independencia",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/3_year_old_potty_training_es.mp3",
         "description": "¿Tu hijo de 3 años rechaza el orinal aunque parece estar \"listo\"? Descubre cómo convertir la resistencia en cooperación apoyándote en su instinto de independencia y control, con el enfoque de autonomía que de verdad funciona.",
         "category": "Guía",
         "readTime": 18,
@@ -77,6 +80,7 @@
       {
         "id": "4_year_old_not_potty_trained",
         "title": "Mi hijo de 4 años todavía no usa el orinal: guía sin vergüenza para quienes empiezan más tarde",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/4_year_old_not_potty_trained_es.mp3",
         "description": "¿Tu hijo de 4 años todavía no usa el orinal? No estás sola, y no estás fallando. Te contamos por qué algunos niños tardan más, cómo soltar la vergüenza, cuándo buscar ayuda, y cómo funciona un \"empezar de cero\" para quienes van a su propio ritmo.",
         "category": "Guía",
         "readTime": 18,
@@ -99,6 +103,7 @@
       {
         "id": "potty_training_accidents",
         "title": "Los accidentes del orinal: qué dice la ciencia del cerebro, y cómo responder sin vergüenza",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_accidents_es.mp3",
         "description": "Los accidentes no son un fracaso—son parte esencial de cómo el cerebro aprende habilidades nuevas. Te explicamos por qué pasan, cómo responder sin vergüenza, cuándo hay que preocuparse por un tema médico, y el enfoque de \"no pasa nada\" que de verdad ayuda a aprender.",
         "category": "Guía",
         "readTime": 18,
@@ -121,6 +126,7 @@
       {
         "id": "potty_training_boys",
         "title": "El orinal en los niños: estrategias con base científica, más allá de los estereotipos de género",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_boys_es.mp3",
         "description": "¿Te preguntas si a los niños de verdad les cuesta más el orinal? Te contamos qué es cierto y qué es mito, cuándo sentado y cuándo de pie, cómo mejorar la puntería sin dramas, los tiempos reales de desarrollo, y cómo funciona (o no) tener un referente masculino cerca.",
         "category": "Guía",
         "readTime": 18,
@@ -143,6 +149,7 @@
       {
         "id": "potty_training_new_baby",
         "title": "El orinal cuando llega un hermanito: cómo afrontar dos grandes transiciones a la vez",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_new_baby_es.mp3",
         "description": "¿No sabes si empezar con el orinal antes o después de que llegue el nuevo bebé? Te contamos cómo decidir el momento, cómo prevenir los retrocesos, y cómo mantener la conexión con tu hijo mayor durante este cambio tan importante en la familia.",
         "category": "Guía",
         "readTime": 19,
@@ -163,6 +170,7 @@
       {
         "id": "potty_training_regression",
         "title": "El retroceso en el aprendizaje del orinal: por qué pasa, y cómo responder con compasión",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_regression_es.mp3",
         "description": "¿Tu hijo, que ya usaba el orinal, ha empezado de repente a tener accidentes todos los días? El retroceso no es un fracaso—es información sobre el estrés que está viviendo. Te contamos los 7 detonantes más comunes, cuánto suele durar, y cómo responder con compasión de una forma que de verdad funciona.",
         "category": "Guía",
         "readTime": 18,
@@ -185,6 +193,7 @@
       {
         "id": "potty_training_travel",
         "title": "El orinal durante un viaje: ¿lo pausamos, o seguimos con normalidad?",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_travel_es.mp3",
         "description": "¿Tienes un viaje a la vista mientras tu hijo está aprendiendo a usar el orinal? Te contamos cuándo conviene pausar y cuándo seguir, qué llevar en la maleta, cómo afrontar los baños públicos, qué hacer en el coche o en el avión, y cómo mantener el progreso sin estrés.",
         "category": "Guía",
         "readTime": 15,
@@ -207,6 +216,7 @@
       {
         "id": "poop_withholding_anxiety",
         "title": "Miedo a hacer popó en el orinal: cómo entender y resolver la ansiedad del popó",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/poop_withholding_anxiety_es.mp3",
         "description": "¿Tu hijo hace pipí en el orinal pero aguanta el popó durante días? Es ansiedad del popó, un problema muy común y que tiene solución. Te explicamos por qué pasa, 6 estrategias que funcionan de verdad, cuándo hace falta ayuda médica, y el enfoque \"donde te sientas cómodo\" que acaba con la batalla.",
         "category": "Guía",
         "readTime": 19,
@@ -229,6 +239,7 @@
       {
         "id": "nighttime_potty_training",
         "title": "Estar seco por la noche: cuándo y cómo dar el paso",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/nighttime_potty_training_es.mp3",
         "description": "Dejar el pañal por la noche depende sobre todo de la biología, no de la conducta. Te explicamos cuándo tu hijo está de verdad listo y cómo evitar los tropiezos más comunes en este proceso que marca el propio desarrollo.",
         "category": "Guía",
         "readTime": 13,
@@ -247,6 +258,7 @@
       {
         "id": "daycare_potty_requirements",
         "title": "El orinal y los plazos de la guardería: cómo cumplirlos sin presión",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/daycare_potty_requirements_es.mp3",
         "description": "¿Tienes un plazo de la guardería para el orinal encima y sientes la presión? Te contamos cómo afrontar las exigencias del preescolar, defender el ritmo de tu hijo, y mantener la misma línea entre casa y guardería sin poner en juego su confianza.",
         "category": "Guía",
         "readTime": 20,

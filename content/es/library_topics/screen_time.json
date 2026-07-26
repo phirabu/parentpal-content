@@ -12,6 +12,7 @@
       {
         "id": "understanding_screen_time_modern_family",
         "title": "Entendiendo el Tiempo de Pantalla en la Familia Moderna - Más Allá de Bueno vs. Malo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/understanding_screen_time_modern_family_es.mp3",
         "description": "Ve más allá del pensamiento simple de bueno/malo para desarrollar un enfoque matizado y basado en valores hacia el tiempo de pantalla de tu familia",
         "category": "Ciencia",
         "readTime": 16,
@@ -28,6 +29,7 @@
       {
         "id": "setting_boundaries_that_stick",
         "title": "Estableciendo Límites que Perduran - El Arte de los Límites Confiados del Tiempo de Pantalla",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/setting_boundaries_that_stick_es.mp3",
         "description": "Domina la psicología del establecimiento efectivo de límites con confianza y consistencia para el éxito duradero del tiempo de pantalla",
         "category": "Guía",
         "readTime": 16,
@@ -44,6 +46,7 @@
       {
         "id": "navigating_screen_time_conflicts",
         "title": "Afrontando Conflictos de Tiempo de Pantalla - Cuando los Límites Llevan a Crisis",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/navigating_screen_time_conflicts_es.mp3",
         "description": "Aprende a responder de manera solidaria a las explosiones emocionales mientras mantienes los límites necesarios del tiempo de pantalla",
         "category": "Guía",
         "readTime": 16,
@@ -60,6 +63,7 @@
       {
         "id": "mapping_family_screen_time_reality_reflection",
         "title": "Reconociendo la Realidad del Tiempo de Pantalla de Tu Familia",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/mapping_family_screen_time_reality_reflection_es.mp3",
         "description": "Evalúa honestamente tus patrones actuales de tiempo de pantalla, beneficios y desafíos para tomar decisiones informadas",
         "category": "Reflexión",
         "readTime": 12,
@@ -76,6 +80,7 @@
       {
         "id": "understanding_child_individual_screen_time_needs_reflection",
         "title": "Entendiendo las Necesidades Individuales de Tiempo de Pantalla de Tu Hijo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/understanding_child_individual_screen_time_needs_reflection_es.mp3",
         "description": "Observa la relación única de tu hijo específico con las pantallas para tomar decisiones informadas que sirvan a su desarrollo",
         "category": "Reflexión",
         "readTime": 14,

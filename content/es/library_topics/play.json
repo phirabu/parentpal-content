@@ -11,6 +11,7 @@
       {
         "id": "why_play_feels_hard",
         "title": "Por qué jugar cuesta tanto (y por qué eso no dice nada de ti)",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/why_play_feels_hard_es.mp3",
         "description": "Torpe en el suelo, con un dinosaurio mudo en la mano: así se siente aprender una habilidad nueva, no fallar en el amor.",
         "category": "Juego",
         "readTime": 5,
@@ -25,6 +26,7 @@
       {
         "id": "what_play_is",
         "title": "Qué es el juego de verdad, y por qué importa",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/what_play_is_es.mp3",
         "description": "Dos minutos de rodillas junto a la torre de bloques pesan más que una hora entera con la cabeza en otra parte.",
         "category": "Juego",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "making_child_led_play_work",
         "title": "Cómo hacer que el juego que dirige tu hijo funcione en la vida real",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/making_child_led_play_work_es.mp3",
         "description": "El juego no muere por falta de tiempo — muere por exceso de ambición, y por un celular a medio apagar.",
         "category": "Juego",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "play_for_processing",
         "title": "Jugar para procesar: hacer concreto lo abrumador",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/play_for_processing_es.mp3",
         "description": "Dale el miedo al peluche, y de pronto tu hijo encuentra, sin darse cuenta, las palabras que a él le faltaban.",
         "category": "Juego",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "when_your_child_directs",
         "title": "Cuando tu hijo dirige el juego",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/when_your_child_directs_es.mp3",
         "description": "Cuando tu hijo te da un guion exacto y se derrumba si lo cambias, no está mandando: está contando algo.",
         "category": "Juego",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "ending_and_handing_off",
         "title": "Terminar bien y pasar el testigo al juego independiente",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/ending_and_handing_off_es.mp3",
         "description": "El llanto en el segundo en que el juego termina no es un cierre fallido — es un cumplido con lágrimas.",
         "category": "Juego",
         "readTime": 5,
@@ -95,6 +101,7 @@
       {
         "id": "building_skills_through_play",
         "title": "Construir habilidades concretas a través del juego",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/building_skills_through_play_es.mp3",
         "description": "Tu propia torre se tambalea a propósito: la habilidad que quieres enseñarle viaja mejor vista que explicada.",
         "category": "Juego",
         "readTime": 5,

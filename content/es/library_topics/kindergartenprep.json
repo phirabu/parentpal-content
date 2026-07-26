@@ -11,6 +11,7 @@
       {
         "id": "readiness_reframe",
         "title": "Redefinir la preparación",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/readiness_reframe_es.mp3",
         "description": "El verdadero examen del primer año no lo toma ninguna maestra: es si tu hijo encuentra solo el camino de vuelta.",
         "category": "Comienzo escolar",
         "readTime": 6,
@@ -25,6 +26,7 @@
       {
         "id": "preparation_timeline",
         "title": "El cronograma de preparación",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/preparation_timeline_es.mp3",
         "description": "Esta semana no es para inflar las ganas de ir: es para que lo desconocido pese menos.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "mornings_dropoff_first_weeks",
         "title": "Las mañanas, la despedida y las primeras semanas",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/mornings_dropoff_first_weeks_es.mp3",
         "description": "El cuerpo de tu hijo obedece una regla muy antigua en la puerta del salón, y no se convence con argumentos.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "after_school_reunion",
         "title": "El reencuentro después de la escuela",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/after_school_reunion_es.mp3",
         "description": "El derrumbe de la salida no es un mal día escapándose: es la señal de que tu hijo te tiene como su lugar más seguro.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "mindset_for_learning",
         "title": "Cambios de mentalidad para aprender a largo plazo",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/mindset_for_learning_es.mp3",
         "description": "Lo que aplaudes en estos primeros años arma, en silencio, la idea que tu hijo se hace de sí mismo.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "teacher_relationship_school_behavior",
         "title": "La relación con la maestra y el comportamiento en la escuela",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/teacher_relationship_school_behavior_es.mp3",
         "description": "Antes de reaccionar a algo que pasó en el salón, conviene saber si es peligro de verdad o solo una manera distinta de hacer las cosas.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -95,6 +101,7 @@
       {
         "id": "differently_wired_learners",
         "title": "Acompañar a los niños con un cableado distinto",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/differently_wired_learners_es.mp3",
         "description": "Cuando una buena estrategia falla una y otra vez, casi nunca es un fracaso tuyo: es una cuestión de encaje.",
         "category": "Comienzo escolar",
         "readTime": 5,
@@ -109,6 +116,7 @@
       {
         "id": "friendships_at_school",
         "title": "Amistades y dinámicas de grupo en la escuela",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/friendships_at_school_es.mp3",
         "description": "Ser el lugar seguro donde tu hijo trae lo que le pasa con sus amigos importa más que arreglárselo tú.",
         "category": "Comienzo escolar",
         "readTime": 5,

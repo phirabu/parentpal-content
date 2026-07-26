@@ -12,6 +12,7 @@
       {
         "id": "understanding_whining_voice",
         "title": "Comprendiendo la Voz Quejumbrosa - Por Qué los Niños se Comunican a Través de Quejas",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_whining/understanding_whining_voice_es.mp3",
         "description": "Descubre qué representan las quejas en el sistema de comunicación en desarrollo de tu hijo",
         "category": "Ciencia",
         "readTime": 14,
@@ -28,6 +29,7 @@
       {
         "id": "parent_emotional_journey_whining",
         "title": "El Viaje Emocional del Padre con las Quejas - Por Qué Nos Afectan y Cómo Responder",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_whining/parent_emotional_journey_whining_es.mp3",
         "description": "Entiende por qué las quejas afectan a los padres tan poderosamente y aprende a manejar tus respuestas emocionales",
         "category": "Guía",
         "readTime": 15,
@@ -44,6 +46,7 @@
       {
         "id": "whining_to_clear_communication",
         "title": "De las Quejas a la Comunicación Clara - Construyendo Habilidades de Diálogo de por Vida",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_whining/whining_to_clear_communication_es.mp3",
         "description": "Transforma las quejas de tu hijo en comunicación clara y efectiva que les servirá toda la vida",
         "category": "Guía",
         "readTime": 16,
@@ -60,6 +63,7 @@
       {
         "id": "whining_patterns_reflection",
         "title": "Comprendiendo los Patrones de Quejas de Tu Hijo y Tus Respuestas",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_whining/whining_patterns_reflection_es.mp3",
         "description": "Un ejercicio reflexivo para observar y analizar los patrones de quejas de tu hijo mientras examinas tus propias respuestas emocionales",
         "category": "Reflexión",
         "readTime": 12,
@@ -76,6 +80,7 @@
       {
         "id": "communication_values_reflection",
         "title": "Tus Valores de Comunicación y Enfoque de Enseñanza",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_whining/communication_values_reflection_es.mp3",
         "description": "Examina y forma intencionalmente cómo tu familia aborda la comunicación, expresión emocional, y manejo de conflictos",
         "category": "Reflexión",
         "readTime": 14,

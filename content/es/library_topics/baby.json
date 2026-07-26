@@ -11,6 +11,7 @@
       {
         "id": "steadying_yourself_first",
         "title": "Tu propia estabilidad, primero",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/steadying_yourself_first_es.mp3",
         "description": "El agobio de estos primeros meses no dice nada malo de ti — dice que la etapa, de verdad, pesa.",
         "category": "Bebé",
         "readTime": 6,
@@ -25,6 +26,7 @@
       {
         "id": "reading_the_need",
         "title": "Leer la necesidad, elegir tu respuesta",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/reading_the_need_es.mp3",
         "description": "Nombrar lo que tu bebé quiere ya es una respuesta real, incluso en los minutos en que no puedes resolverlo al instante.",
         "category": "Bebé",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "frustration_tolerance",
         "title": "Construir tolerancia a la frustración desde el principio",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/frustration_tolerance_es.mp3",
         "description": "Un bebé a salvo pero frustrado no está en peligro — esa pequeña lucha, con calma cerca, es donde se construye algo que dura años.",
         "category": "Bebé",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "night_wakings",
         "title": "Los despertares nocturnos y tu propia estabilidad",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/night_wakings_es.mp3",
         "description": "Tu propio agotamiento a medianoche merece la misma ternura que le ofreces a tu bebé.",
         "category": "Bebé",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "comfort_habit",
         "title": "Dejar atrás un hábito de consuelo, sin prisa",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/comfort_habit_es.mp3",
         "description": "Un chupete o un dedo no son un mal hábito que corregir: son una habilidad que tu hijo o hija ya encontró para calmarse.",
         "category": "Bebé",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "weaning",
         "title": "El destete y la culpa que lo acompaña",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/weaning_es.mp3",
         "description": "Querer parar ya es razón suficiente — no hace falta esperar ninguna señal de que tu hijo o hija está \"listo\".",
         "category": "Bebé",
         "readTime": 5,
