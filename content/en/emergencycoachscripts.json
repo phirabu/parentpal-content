@@ -874,7 +874,7 @@
       "id": "losing_at_games_meltdown",
       "title": "Losing at Games Meltdown",
       "scenario": "Child screams, throws pieces, or refuses to keep playing after losing a game",
-      "icon": "🎲",
+      "icon": "🎮",
       "ageRange": "3-8 years",
       "prevention_tips": [
         "Talk about winning and losing during calm moments, not mid-game",
@@ -933,7 +933,7 @@
       "id": "dropoff_separation_panic",
       "title": "Drop-off Separation Panic",
       "scenario": "Child sobs, clings, and refuses to let go at the classroom door during drop-off",
-      "icon": "🚪",
+      "icon": "🎒",
       "ageRange": "3-6 years",
       "prevention_tips": [
         "Put the morning routine on the wall as pictures, not spoken minutes",
@@ -992,7 +992,7 @@
       "id": "gift_disappointment_public",
       "title": "Gift Disappointment in Public",
       "scenario": "Child opens a gift in front of family, visibly deflates, and says out loud they wanted something else",
-      "icon": "🎁",
+      "icon": "🛍️",
       "ageRange": "3-9 years",
       "prevention_tips": [
         "Talk with your child ahead of big gift occasions about how disappointment can feel",
@@ -1051,7 +1051,7 @@
       "id": "i_want_other_parent",
       "title": "\"I Want Papa, Not You!\" Moment",
       "scenario": "Child suddenly rejects one parent, screaming \"I want Papa, not you!\" right in front of both of you",
-      "icon": "💔",
+      "icon": "👥",
       "ageRange": "2-6 years",
       "prevention_tips": [
         "Expect preference phases to come and go; they are not a verdict on either parent",
@@ -1110,7 +1110,7 @@
       "id": "night_fears_monsters",
       "title": "Night Fears of Monsters",
       "scenario": "Child insists a monster is in the room or under the bed and refuses to settle at bedtime",
-      "icon": "👹",
+      "icon": "😱",
       "ageRange": "3-8 years",
       "prevention_tips": [
         "Keep a consistent, calming wind-down routine before lights-out",
@@ -1228,7 +1228,7 @@
       "id": "caught_lying_moment",
       "title": "Caught in a Lie, Red-Handed",
       "scenario": "Child flatly denies doing something despite clear evidence right in front of them",
-      "icon": "🤥",
+      "icon": "🎭",
       "ageRange": "4-9 years",
       "prevention_tips": [
         "Respond to honesty warmly so telling the truth stays safe, not scary",
@@ -1287,7 +1287,7 @@
       "id": "whining_spiral",
       "title": "The Whining Spiral",
       "scenario": "Child's whining escalates and repeats even after you've already answered, explained, or given what they asked for",
-      "icon": "🔁",
+      "icon": "😰",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Notice patterns - whining often clusters around tiredness, hunger, or transitions, so you can address the root cause before it starts",
@@ -1346,7 +1346,7 @@
       "id": "public_meltdown_big_feelings",
       "title": "Public Meltdown: When Feelings Flood",
       "scenario": "Child dissolves into a full flood of tears, bolting, or shutting down in a public or social setting - a party, a family gathering, a crowded place - overwhelmed by big feelings",
-      "icon": "🌊",
+      "icon": "😡",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Pre-agree the plan in a calm moment: tell your child that when feelings get huge, you stay close and never send them away. Most kids quietly welcome hearing this before it's tested",
@@ -1405,7 +1405,7 @@
       "id": "death_question_ambush",
       "title": "The Death Question, Out of Nowhere",
       "scenario": "Child suddenly asks about death or dying, often at bedtime or in the car, catching you off guard",
-      "icon": "🕯️",
+      "icon": "💧",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Decide your honest, plain-language answer before you need it - 'died' means the body stopped working and won't start again - so you're not improvising in the moment",
@@ -1463,7 +1463,7 @@
       "id": "phone_handover_battle",
       "title": "The Phone Handover Battle",
       "scenario": "Child refuses to hand over the tablet or phone when it's time - clutching it, running off, or negotiating for 'just one more minute' long after the timer is done",
-      "icon": "📴",
+      "icon": "📱",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Give every screen a home - a basket or shelf where it lives when it's not in use - so 'time to put it away' is a routine, not a daily negotiation",
@@ -1522,7 +1522,7 @@
       "id": "stealing_from_friend",
       "title": "Caught With a Friend's Toy in Their Pocket",
       "scenario": "You discover your child has pocketed a small toy from a friend's house or a playdate, without asking",
-      "icon": "🪀",
+      "icon": "🧸",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Before playdates, name the rule in advance: things at a friend's house stay at the friend's house, and if something's really loved, you can ask about getting one",
@@ -1638,7 +1638,7 @@
       "id": "toddler_hitting_baby",
       "title": "When the Big Sibling Hits or Squeezes the Baby",
       "scenario": "Your older child hits, squeezes too hard, or lashes out at the new baby - sometimes affection turned rough, sometimes clear frustration",
-      "icon": "👶",
+      "icon": "✋",
       "ageRange": "3-7 years",
       "prevention_tips": [
         "Sort belongings visibly ahead of time - protected treasures up high, shared toys in a basket both kids can reach - so there's less to guard in the moment",
@@ -1696,7 +1696,7 @@
       "id": "homework_perfectionism_shutdown",
       "title": "Homework Perfectionism Shutdown",
       "scenario": "Child rips up their worksheet and insists \"I can't do it\" after a single mistake",
-      "icon": "📝",
+      "icon": "📚",
       "ageRange": "6-12 years",
       "prevention_tips": [
         "Praise the sticking-with-it, not just the correct answers, so one mistake doesn't feel like the whole grade",
@@ -1755,7 +1755,7 @@
       "id": "bath_refusal",
       "title": "Bath Refusal",
       "scenario": "Child cries, hides, or bolts the moment you announce it's bath time",
-      "icon": "🛁",
+      "icon": "🚿",
       "ageRange": "2-7 years",
       "prevention_tips": [
         "Give a warning a few minutes before bath time starts, not out of nowhere",
@@ -1814,7 +1814,7 @@
       "id": "teeth_brushing_fight",
       "title": "Teeth Brushing Fight",
       "scenario": "Child clamps their mouth shut, twists away, or runs from the toothbrush every night",
-      "icon": "🪥",
+      "icon": "🧼",
       "ageRange": "2-7 years",
       "prevention_tips": [
         "Brush at the same point in the routine every night so it's never a surprise",
@@ -1873,7 +1873,7 @@
       "id": "getting_dressed_standoff",
       "title": "Getting Dressed Standoff",
       "scenario": "Child refuses every outfit, strips back off what you put on, or plants themselves half-dressed and won't move",
-      "icon": "👕",
+      "icon": "⏰",
       "ageRange": "3-8 years",
       "prevention_tips": [
         "Lay out two acceptable outfit choices together the night before",
@@ -1932,7 +1932,7 @@
       "id": "playground_leaving_refusal",
       "title": "Playground Leaving Refusal",
       "scenario": "Child sprints back to the climbing structure, goes limp, or melts down as soon as you say it's time to go",
-      "icon": "🛝",
+      "icon": "🏃",
       "ageRange": "2-8 years",
       "prevention_tips": [
         "Give a concrete warning, like \"one more turn, then we're leaving,\" instead of a vague one",
@@ -1991,7 +1991,7 @@
       "id": "swear_word_shock",
       "title": "Swear Word Shock",
       "scenario": "Child drops a swear word or shock word out loud, sometimes in front of other people",
-      "icon": "🤭",
+      "icon": "🧘",
       "ageRange": "3-9 years",
       "prevention_tips": [
         "Notice your own reaction to strong language before it happens, so a big flinch doesn't teach the word is powerful",
@@ -2049,7 +2049,7 @@
       "id": "refuses_to_apologize",
       "title": "Refuses to Apologize",
       "scenario": "Child hurt someone — a sibling, a friend — and goes silent, stiff, or defiant rather than say sorry",
-      "icon": "🤐",
+      "icon": "🤝",
       "ageRange": "3-8 years",
       "prevention_tips": [
         "Model your own apologies openly, including to your child, so they see what repair looks like",
