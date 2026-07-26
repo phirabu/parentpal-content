@@ -12,6 +12,7 @@
       {
         "id": "four_pillars_parenting",
         "title": "The Four Pillars of Confident Parenting",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/parenting_foundations/four_pillars_parenting_en.mp3",
         "description": "Master the foundational principles that will transform your approach to parenting",
         "category": "Guide",
         "readTime": 15,
@@ -28,6 +29,7 @@
       {
         "id": "child_developing_mind",
         "title": "Understanding Your 3-7 Year Old's Developing Mind",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/parenting_foundations/child_developing_mind_en.mp3",
         "description": "Decode what's happening in your child's brain and respond to their unique developmental needs",
         "category": "Science",
         "readTime": 12,
@@ -44,6 +46,7 @@
       {
         "id": "emotional_safety",
         "title": "Creating Emotional Safety: The Foundation of Everything",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/parenting_foundations/emotional_safety_en.mp3",
         "description": "Build the emotional safety that allows your child to develop healthy regulation and authentic communication",
         "category": "Guide",
         "readTime": 14,
@@ -60,6 +63,7 @@
       {
         "id": "parenting_triggers_reflection",
         "title": "Your Parenting Triggers and Patterns",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/parenting_foundations/parenting_triggers_reflection_en.mp3",
         "description": "A reflective exercise to understand your automatic responses and create space for more intentional parenting",
         "category": "Reflection",
         "readTime": 10,
@@ -76,6 +80,7 @@
       {
         "id": "child_temperament_reflection",
         "title": "Your Child's Unique Temperament and Needs",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/parenting_foundations/child_temperament_reflection_en.mp3",
         "description": "A guided reflection to help you attune to your specific child's individual characteristics and needs",
         "category": "Reflection",
         "readTime": 12,

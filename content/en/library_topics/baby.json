@@ -11,6 +11,7 @@
       {
         "id": "steadying_yourself_first",
         "title": "Steadying Yourself First",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/steadying_yourself_first_en.mp3",
         "description": "The steadiness you bring to a depleted, disorienting stretch of early parenthood matters more than any feeding plan or sleep routine you could optimize.",
         "category": "Baby",
         "readTime": 6,
@@ -25,6 +26,7 @@
       {
         "id": "reading_the_need",
         "title": "Reading the Need, Choosing Your Response",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/reading_the_need_en.mp3",
         "description": "A baby who hears their want named out loud is getting most of what an instant fix would have given them — proof that responsiveness was never all-or-nothing.",
         "category": "Baby",
         "readTime": 6,
@@ -39,6 +41,7 @@
       {
         "id": "frustration_tolerance",
         "title": "Building Frustration Tolerance from the Start",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/frustration_tolerance_en.mp3",
         "description": "A baby straining for an out-of-reach toy isn't in danger — it's tolerable frustration quietly building the exact capacity that will resurface years later in something else entirely.",
         "category": "Baby",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "night_wakings",
         "title": "Night Wakings and Your Own Steadiness",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/night_wakings_en.mp3",
         "description": "At three in the morning the hardest job is reading one particular baby correctly and staying steady yourself, not chasing a universal number of minutes that was never going to exist.",
         "category": "Baby",
         "readTime": 6,
@@ -67,6 +71,7 @@
       {
         "id": "comfort_habit",
         "title": "Easing Out of a Comfort Habit",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/comfort_habit_en.mp3",
         "description": "A thumb or a pacifier is a child's own working solution for calming their body, so retiring it well means relocating the comfort rather than simply removing it.",
         "category": "Baby",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "weaning",
         "title": "Weaning and the Guilt That Comes With It",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_baby/weaning_en.mp3",
         "description": "Choosing to stop nursing is allowed to start with what you want, and holding that decision steadily while guilt rides along — without ever taking the wheel — is the real work of it.",
         "category": "Baby",
         "readTime": 5,

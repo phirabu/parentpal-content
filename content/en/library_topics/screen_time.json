@@ -12,6 +12,7 @@
       {
         "id": "understanding_screen_time_modern_family",
         "title": "Understanding Screen Time in the Modern Family - Beyond Good vs. Bad",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/understanding_screen_time_modern_family_en.mp3",
         "description": "Move beyond simple good/bad thinking to develop a nuanced, values-based approach to your family's screen time",
         "category": "Science",
         "readTime": 16,
@@ -28,6 +29,7 @@
       {
         "id": "setting_boundaries_that_stick",
         "title": "Setting Boundaries That Stick - The Art of Confident Screen Time Limits",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/setting_boundaries_that_stick_en.mp3",
         "description": "Master the psychology of effective limit-setting with confidence and consistency for lasting screen time success",
         "category": "Guide",
         "readTime": 16,
@@ -44,6 +46,7 @@
       {
         "id": "navigating_screen_time_conflicts",
         "title": "Navigating Screen Time Conflicts - When Limits Lead to Meltdowns",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/navigating_screen_time_conflicts_en.mp3",
         "description": "Learn to respond supportively to emotional outbursts while maintaining necessary screen time boundaries",
         "category": "Guide",
         "readTime": 16,
@@ -60,6 +63,7 @@
       {
         "id": "mapping_family_screen_time_reality_reflection",
         "title": "Mapping Your Family's Screen Time Reality",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/mapping_family_screen_time_reality_reflection_en.mp3",
         "description": "Honestly assess your current screen time patterns, benefits, and challenges to make informed decisions",
         "category": "Reflection",
         "readTime": 12,
@@ -76,6 +80,7 @@
       {
         "id": "understanding_child_individual_screen_time_needs_reflection",
         "title": "Understanding Your Child's Individual Screen Time Needs",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_screen_time/understanding_child_individual_screen_time_needs_reflection_en.mp3",
         "description": "Observe your specific child's unique relationship with screens to make informed decisions that serve their development",
         "category": "Reflection",
         "readTime": 14,

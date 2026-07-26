@@ -12,6 +12,7 @@
       {
         "id": "understanding_childhood_fears",
         "title": "Understanding Childhood Fears - The Primal Foundation of Human Development",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/understanding_childhood_fears_en.mp3",
         "description": "Discover how fear serves as a fundamental survival mechanism and learn to approach your child's fears as opportunities for building resilience",
         "category": "Science",
         "readTime": 16,
@@ -28,6 +29,7 @@
       {
         "id": "anatomy_of_anxiety",
         "title": "The Anatomy of Anxiety - When Worries Take Over Daily Life",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/anatomy_of_anxiety_en.mp3",
         "description": "Learn to distinguish between normal developmental worries and anxiety that requires intervention while building your child's emotional regulation skills",
         "category": "Science",
         "readTime": 15,
@@ -44,6 +46,7 @@
       {
         "id": "fear_to_courage",
         "title": "From Fear to Courage - Building Practical Coping Skills and Resilience",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/fear_to_courage_en.mp3",
         "description": "Transform your child's relationship with fear from avoidance to mastery through specific skills and supported practice",
         "category": "Guide",
         "readTime": 17,
@@ -60,6 +63,7 @@
       {
         "id": "child_fear_anxiety_landscape_reflection",
         "title": "Understanding Your Child's Fear and Anxiety Landscape",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/child_fear_anxiety_landscape_reflection_en.mp3",
         "description": "A reflective exercise to develop deeper understanding of your child's relationship with fear and anxiety",
         "category": "Reflection",
         "readTime": 14,
@@ -76,6 +80,7 @@
       {
         "id": "family_courage_resilience_culture_reflection",
         "title": "Building Your Family's Courage and Resilience Culture",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_fears_anxiety/family_courage_resilience_culture_reflection_en.mp3",
         "description": "Examine and intentionally shape how your family approaches risk-taking, emotional expression, and building resilience",
         "category": "Reflection",
         "readTime": 16,

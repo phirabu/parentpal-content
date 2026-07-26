@@ -12,6 +12,7 @@
       {
         "id": "emotional_milestones",
         "title": "Emotional Development Milestones",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/child_development/emotional_milestones_en.mp3",
         "description": "Track your child's emotional growth and provide age-appropriate support",
         "category": "Science",
         "readTime": 11,
@@ -28,6 +29,7 @@
       {
         "id": "behavior_explained",
         "title": "Why Your Child Acts the Way They Do",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/child_development/behavior_explained_en.mp3",
         "description": "Understand the developmental reasons behind challenging behaviors",
         "category": "Guide",
         "readTime": 10,
