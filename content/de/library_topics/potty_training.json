@@ -11,6 +11,7 @@
       {
         "id": "potty_learning_complete_guide",
         "title": "Vollständiger Töpfchenlernen-Leitfaden: Stressfreie Methode für 2-4 Jahre (Funktioniert in 3-7 Tagen)",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_learning_complete_guide_de.mp3",
         "description": "Evidenzbasierte Strategien fürs Töpfchenlernen, die Unabhängigkeit und Körpersouveränität deines Kindes an erste Stelle setzen. Das komplette Toolkit, das aus stressigem Töpfchenlernen echten Erfolg macht – mit realistischen Erwartungen und dem bewährten 3-Tage-Ansatz.",
         "category": "Ratgeber",
         "readTime": 32,
@@ -33,6 +34,7 @@
       {
         "id": "2_year_old_potty_training",
         "title": "Töpfchentraining mit 2 Jahren: Wenn Bereitschaft wichtiger ist als das Alter",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/2_year_old_potty_training_de.mp3",
         "description": "Ist dein 2-Jähriges wirklich bereit fürs Töpfchentraining? Erfahre die 6 Entwicklungszeichen, die wichtiger sind als das Alter, warum voreiliges Starten nach hinten losgeht und welcher interessengeleitete Ansatz den Zeitplan deines Kleinkindes respektiert.",
         "category": "Ratgeber",
         "readTime": 14,
@@ -55,6 +57,7 @@
       {
         "id": "3_year_old_potty_training",
         "title": "Töpfchentraining für 3-Jährige: Machtkämpfe in Unabhängigkeit verwandeln",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/3_year_old_potty_training_de.mp3",
         "description": "Dein 3-Jähriges verweigert das Töpfchen trotz \"Bereitschaft\"? Du erfährst, wie du Widerstand in Kooperation verwandelst, indem du seinen natürlichen Drang nach Unabhängigkeit und Kontrolle für euch nutzt – der autonomiebasierte Ansatz, der wirklich funktioniert.",
         "category": "Ratgeber",
         "readTime": 17,
@@ -77,6 +80,7 @@
       {
         "id": "4_year_old_not_potty_trained",
         "title": "4-Jähriger noch nicht töpfchentrainiert: Ein schamfreier Leitfaden für Spätstarter",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/4_year_old_not_potty_trained_de.mp3",
         "description": "Dein 4-Jähriger ist noch nicht töpfchentrainiert? Du bist nicht allein – und du versagst nicht. Erfahre, warum manche Kinder länger brauchen, wie du Scham loslassen kannst, wann du Unterstützung suchen solltest, und den Neustart-Ansatz, der für Spätzünder funktioniert.",
         "category": "Ratgeber",
         "readTime": 15,
@@ -99,6 +103,7 @@
       {
         "id": "potty_training_accidents",
         "title": "Töpfchentraining-Missgeschicke: Die Neurowissenschaft des Lernens und schamfreie Reaktionen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_accidents_de.mp3",
         "description": "Missgeschicke sind kein Versagen – sie sind ein wesentlicher Teil davon, wie Gehirne neue Fähigkeiten lernen. Entdecke, warum Missgeschicke passieren, wie du ohne Scham reagierst, wann du dir über medizinische Probleme Sorgen machen solltest und wie das \"Kein großes Ding\"-Prinzip echtes Lernen unterstützt.",
         "category": "Ratgeber",
         "readTime": 14,
@@ -121,6 +126,7 @@
       {
         "id": "potty_training_boys",
         "title": "Töpfchentraining für Jungen: Evidenzbasierte Strategien jenseits von Geschlechterstereotypen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_boys_de.mp3",
         "description": "Fragst du dich, ob Jungen wirklich \"schwieriger\" beim Töpfchentraining sind? Erfahre, was tatsächlich anders ist (und was nur ein Mythos), Strategien für Sitzen vs. Stehen, Zieltechniken, Entwicklungszeitpläne und wie du ohne Druck ein Vorbild bist.",
         "category": "Ratgeber",
         "readTime": 16,
@@ -143,6 +149,7 @@
       {
         "id": "potty_training_new_baby",
         "title": "Töpfchentraining mit neuem Baby: Zwei große Übergänge meistern",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_new_baby_de.mp3",
         "description": "Fragst du dich, ob du vor oder nach der Ankunft deines neuen Babys mit dem Töpfchentraining beginnen sollst? Entdecke den Entscheidungsrahmen für das richtige Timing, Strategien gegen den Rückschritt und wie du die Verbindung zu deinem Kleinkind während dieses großen Familienübergangs hältst.",
         "category": "Ratgeber",
         "readTime": 17,
@@ -163,6 +170,7 @@
       {
         "id": "potty_training_regression",
         "title": "Töpfchentraining-Rückschritt: Warum es passiert und wie du mitfühlend reagierst",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_regression_de.mp3",
         "description": "Dein vorher töpfchentrainiertes Kind hat plötzlich täglich Missgeschicke? Ein Rückschritt ist kein Versagen – er ist Information über Stress im Leben deines Kindes. Lerne die 7 häufigsten Auslöser, wie lange es dauert und mitfühlende Reaktionen, die wirklich funktionieren.",
         "category": "Ratgeber",
         "readTime": 16,
@@ -185,6 +193,7 @@
       {
         "id": "potty_training_travel",
         "title": "Töpfchentraining während Reisen: Solltest du pausieren oder weitermachen?",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/potty_training_travel_de.mp3",
         "description": "Eine Reise steht an, mitten im Töpfchentraining? Hier erfährst du, wann du pausierst und wann du weitermachst, welche Reise-Ausrüstung wirklich zählt, wie du öffentliche Toiletten und Auto- oder Flugreisen meisterst und wie du Fortschritte ohne Stress hältst. Ein praktischer Leitfaden für jede Reisesituation.",
         "category": "Ratgeber",
         "readTime": 9,
@@ -207,6 +216,7 @@
       {
         "id": "poop_withholding_anxiety",
         "title": "Wenn dein Kind die Kacka zurückhält: Die Angst verstehen und lösen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/poop_withholding_anxiety_de.mp3",
         "description": "Dein Kind pinkelt problemlos aufs Töpfchen, hält Kacka aber tagelang zurück? Das ist Kacka-Angst – häufig, und gut behandelbar. Du erfährst, warum sie entsteht, welche 6 Strategien wirklich helfen, wann Medizin ins Spiel kommt – und wie der \"Wo du dich wohlfühlst\"-Ansatz den Machtkampf beendet.",
         "category": "Ratgeber",
         "readTime": 18,
@@ -229,6 +239,7 @@
       {
         "id": "nighttime_potty_training",
         "title": "Nächtliches Töpfchentraining: Warum Biologie mehr zählt als Verhalten",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/nighttime_potty_training_de.mp3",
         "description": "Dein Kind ist tagsüber trocken, aber nässt jede Nacht das Bett? Nächtliche Trockenheit geht nicht um Training – sondern um Biologie. Erfahre, warum nächtliche Bereitschaft separat ist, ADH-Hormon-Entwicklung, wann du Trockenheit erwarten kannst, und schamfreie Management-Strategien.",
         "category": "Ratgeber",
         "readTime": 15,
@@ -251,6 +262,7 @@
       {
         "id": "daycare_potty_requirements",
         "title": "Kita-Töpfchen-Anforderungen: Fristen erfüllen ohne Druck",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/potty_training/daycare_potty_requirements_de.mp3",
         "description": "Steht eine Kita-Frist fürs Töpfchentraining bevor, und der Druck wächst? Du erfährst, wie du mit Vorschulanforderungen umgehst, für die Bereitschaft deines Kindes einstehst und Zuhause und Kita aufeinander abstimmst – ohne sein Selbstvertrauen zu opfern.",
         "category": "Ratgeber",
         "readTime": 17,

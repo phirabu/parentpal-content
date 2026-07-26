@@ -12,6 +12,7 @@
       {
         "id": "why_children_lie",
         "title": "Warum Kinder lügen - Was hinter der Unehrlichkeit steckt",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/lying_and_stealing/why_children_lie_de.mp3",
         "description": "Entdecke die normalen entwicklungsbedingten Gründe hinter Kinderlügen und wie du mit Verständnis reagierst",
         "category": "Wissenschaft",
         "readTime": 5,
@@ -28,6 +29,7 @@
       {
         "id": "psychology_childhood_stealing",
         "title": "Die Psychologie des kindlichen Stehlens - Wenn \"Mein\" und \"Dein\" verschwimmen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/lying_and_stealing/psychology_childhood_stealing_de.mp3",
         "description": "Verstehe, warum Kinder Dinge nehmen, die ihnen nicht gehören, und wie du effektiv reagierst",
         "category": "Wissenschaft",
         "readTime": 6,
@@ -44,6 +46,7 @@
       {
         "id": "building_honesty_integrity",
         "title": "Ehrlichkeit und Integrität aufbauen - Über Bestrafung hinaus zur Charakterentwicklung",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/lying_and_stealing/building_honesty_integrity_de.mp3",
         "description": "Lerne, wie du echte Integrität und Charakterentwicklung in deinem Kind förderst",
         "category": "Leitfaden",
         "readTime": 6,
@@ -60,6 +63,7 @@
       {
         "id": "honesty_patterns_reflection",
         "title": "Die Ehrlichkeitsmuster deines Kindes verstehen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/lying_and_stealing/honesty_patterns_reflection_de.mp3",
         "description": "Eine reflektive Übung, um die Beziehung deines Kindes zur Ehrlichkeit zu beobachten und zu verstehen",
         "category": "Reflexion",
         "readTime": 4,
@@ -76,6 +80,7 @@
       {
         "id": "family_integrity_culture_reflection",
         "title": "Die Werte und Integritätskultur deiner Familie",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/lying_and_stealing/family_integrity_culture_reflection_de.mp3",
         "description": "Untersuche und gestalte bewusst, wie deine Familie an Ehrlichkeit, Integrität und den Umgang mit Fehlern herangeht",
         "category": "Reflexion",
         "readTime": 4,

@@ -11,6 +11,7 @@
       {
         "id": "why_play_feels_hard",
         "title": "Warum Spielen so schwerfällt (und warum das kein Urteil über dich ist)",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/why_play_feels_hard_de.mp3",
         "description": "Wer sich beim Spielen auf dem Boden steif fühlt, hat keinen Fehler, sondern nur keine Übung, und die lässt sich nachholen.",
         "category": "Spielen",
         "readTime": 5,
@@ -25,6 +26,7 @@
       {
         "id": "what_play_is",
         "title": "Was Spielen wirklich ist, und warum es zählt",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/what_play_is_de.mp3",
         "description": "Nicht Spielzeug oder Uhrzeit macht ein Spiel aus, sondern ob du wirklich ganz da bist.",
         "category": "Spielen",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "making_child_led_play_work",
         "title": "Wie kindgeführtes Spiel im Alltag gelingt",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/making_child_led_play_work_de.mp3",
         "description": "Kurz und handyfrei schlägt lang und lustlos, und wer beim Spielen nicht fragt, sondern folgt, gewinnt am meisten.",
         "category": "Spielen",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "play_for_processing",
         "title": "Verarbeiten durchs Spiel: Das Große fassbar machen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/play_for_processing_de.mp3",
         "description": "Ein Kuscheltier kann Angst tragen, die dein Kind noch nicht in Worte fassen kann.",
         "category": "Spielen",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "when_your_child_directs",
         "title": "Wenn dein Kind beim Spiel Regie führt",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/when_your_child_directs_de.mp3",
         "description": "Hinter der strengen Rolle, die dein Kind dir zuweist, steckt selten Sturheit, sondern eine Botschaft.",
         "category": "Spielen",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "ending_and_handing_off",
         "title": "Gut zu Ende bringen und ans selbstständige Spielen übergeben",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/ending_and_handing_off_de.mp3",
         "description": "Das Jammern beim Aufhören ist kein Fehlschlag, sondern der Beweis, dass das Spiel gut war.",
         "category": "Spielen",
         "readTime": 5,
@@ -95,6 +101,7 @@
       {
         "id": "building_skills_through_play",
         "title": "Durchs Spiel gezielt Fähigkeiten aufbauen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_play/building_skills_through_play_de.mp3",
         "description": "Manchmal hilft es einem Kind mehr, dich scheitern und neu ansetzen zu sehen, als jede Ermahnung.",
         "category": "Spielen",
         "readTime": 5,

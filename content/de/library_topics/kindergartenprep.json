@@ -11,6 +11,7 @@
       {
         "id": "readiness_reframe",
         "title": "Schulreife neu gedacht",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/readiness_reframe_de.mp3",
         "description": "Nicht der tränenfreie Morgen zeigt, wie bereit dein Kind wirklich ist, sondern wie schnell es sich aus einem Wackler wieder herausfindet.",
         "category": "Schulstart",
         "readTime": 5,
@@ -25,6 +26,7 @@
       {
         "id": "preparation_timeline",
         "title": "Der Countdown zum Schulstart",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/preparation_timeline_de.mp3",
         "description": "Ein Countdown zum Anfassen macht aus einem vagen Warten etwas, das dein Kind mit den eigenen Händen schrumpfen lassen kann.",
         "category": "Schulstart",
         "readTime": 5,
@@ -39,6 +41,7 @@
       {
         "id": "mornings_dropoff_first_weeks",
         "title": "Morgenroutine, Abschied und die ersten Schulwochen",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/mornings_dropoff_first_weeks_de.mp3",
         "description": "Zwischen Haustür und Klassenzimmer liegen nur ein paar Minuten, und genau darin stecken die schwersten Momente der ersten Schulwochen.",
         "category": "Schulstart",
         "readTime": 5,
@@ -53,6 +56,7 @@
       {
         "id": "after_school_reunion",
         "title": "Das Wiedersehen nach der Schule",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/after_school_reunion_de.mp3",
         "description": "Der Zusammenbruch beim Abholen ist kein schlechter Tag, der da ausläuft. Es ist der Moment, in dem dein Kind endlich loslassen darf.",
         "category": "Schulstart",
         "readTime": 5,
@@ -67,6 +71,7 @@
       {
         "id": "mindset_for_learning",
         "title": "Lernfreude statt Leistungsdruck",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/mindset_for_learning_de.mp3",
         "description": "Was du am Basteltisch lobst, entscheidet leise mit, ob dein Kind später Fehler fürchtet oder nach ihnen greift.",
         "category": "Schulstart",
         "readTime": 5,
@@ -81,6 +86,7 @@
       {
         "id": "teacher_relationship_school_behavior",
         "title": "Team mit der Lehrkraft und Vorfälle im Schulalltag",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/teacher_relationship_school_behavior_de.mp3",
         "description": "Eine Ampeltafel ist selten eine Gefahr. Zu wissen, was wirklich eine ist, macht dich zum besseren Anwalt deines Kindes.",
         "category": "Schulstart",
         "readTime": 5,
@@ -95,6 +101,7 @@
       {
         "id": "differently_wired_learners",
         "title": "Kinder unterstützen, die anders ticken",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/differently_wired_learners_de.mp3",
         "description": "Manche Kinder brauchen in der Überflutung weniger, nicht mehr. Herauszufinden, welches Kind du vor dir hast, ist die eigentliche Aufgabe.",
         "category": "Schulstart",
         "readTime": 5,
@@ -109,6 +116,7 @@
       {
         "id": "friendships_at_school",
         "title": "Freundschaften und das soziale Miteinander in der Schule",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/understanding_kindergartenprep/friendships_at_school_de.mp3",
         "description": "Freundschaften in diesem Alter kippen wöchentlich. Deine Aufgabe ist nicht, sie zu reparieren, sondern ein sicherer Ort für die Wackelmomente zu sein.",
         "category": "Schulstart",
         "readTime": 5,

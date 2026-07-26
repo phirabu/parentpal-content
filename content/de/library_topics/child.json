@@ -12,7 +12,7 @@
       {
         "id": "emotional_milestones",
         "title": "Meilensteine der emotionalen Entwicklung",
-        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/articles/de/child/emotional_milestones.m4a",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/child_development/emotional_milestones_de.mp3",
         "description": "Verfolge das emotionale Wachstum deines Kindes und biete altersgerechte Unterstützung",
         "category": "Wissenschaft",
         "readTime": 3,
@@ -29,7 +29,7 @@
       {
         "id": "behavior_explained",
         "title": "Warum dein Kind sich so verhält, wie es sich verhält",
-        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/articles/de/child/behavior_explained.m4a",
+        "audioUrl": "https://raw.githubusercontent.com/phirabu/parentpal-content/main/audio/library/child_development/behavior_explained_de.mp3",
         "description": "Verstehe die entwicklungsbedingten Gründe hinter herausfordernden Verhaltensweisen",
         "category": "Leitfaden",
         "readTime": 3,
