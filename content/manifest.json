@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "minimumAppVersion": "1.0.0",
-  "lastUpdated": "2026-07-26T20:00:36Z",
+  "lastUpdated": "2026-08-28T00:00:00Z",
   "contentFiles": {
     "emergencyCoachScripts_en": {
       "filename": "emergencycoachscripts.json",
@@ -191,7 +191,7 @@
       "filename": "emergencycoachscripts.json",
       "path": "content/de/emergencycoachscripts.json",
       "required": true,
-      "sha256Checksum": "0d4e939b383f3d1a588932b960c3511f427236183b62fb8812e9a715288b5248"
+      "sha256Checksum": "a6be91f70813ce0ecd2b53c9d134d7da23c30de85da270da53a3c19fd663de61"
     },
     "libraryCategories_de": {
       "filename": "library_categories.json",
