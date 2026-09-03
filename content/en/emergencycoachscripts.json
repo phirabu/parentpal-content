@@ -6,6 +6,7 @@
       "scenario": "Child is screaming, crying, or having a full tantrum when it's time for bed",
       "icon": "🌙",
       "ageRange": "2-8 years",
+      "moment": "bedtime",
       "prevention_tips": [
         "Maintain consistent bedtime routine",
         "Start wind-down activities 30 minutes before bed",
@@ -64,6 +65,7 @@
       "scenario": "Two children are fighting, grabbing, or screaming over the same toy",
       "icon": "🧸",
       "ageRange": "2-10 years",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Teach taking turns before conflicts arise",
         "Have multiple similar toys available",
@@ -122,6 +124,7 @@
       "scenario": "Child is refusing to get dressed, hiding, or melting down about going to school",
       "icon": "🎒",
       "ageRange": "3-12 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Prepare clothes and backpack the night before",
         "Ensure adequate sleep (early bedtime)",
@@ -180,6 +183,7 @@
       "scenario": "Child screams \"I hate you!\" or \"You're not my friend!\" during a conflict",
       "icon": "😡",
       "ageRange": "3-10 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Model emotional regulation during your own frustrations",
         "Teach feeling words when child is calm",
@@ -238,6 +242,7 @@
       "scenario": "Child is crying, clinging, or refusing to cooperate at a medical appointment",
       "icon": "🩺",
       "ageRange": "2-10 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Read books about doctor visits beforehand",
         "Role-play doctor appointments with toys",
@@ -296,6 +301,7 @@
       "scenario": "Child refuses to stop current activity for transition (leaving park, turning off TV, ending playtime)",
       "icon": "⏰",
       "ageRange": "2-10 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Give 10-minute and 5-minute warnings before transitions",
         "Use visual timers that children can see",
@@ -354,6 +360,7 @@
       "scenario": "Child hits, bites, kicks, or throws things when upset",
       "icon": "✋",
       "ageRange": "2-8 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Teach physical outlets for big emotions before they're needed",
         "Identify triggers that lead to aggressive behavior",
@@ -412,6 +419,7 @@
       "scenario": "Child has a tantrum in public, attracting stares and making shopping impossible",
       "icon": "🛒",
       "ageRange": "2-8 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Shop when child is well-rested and fed",
         "Bring snacks and small activities/toys",
@@ -470,6 +478,7 @@
       "scenario": "Child refuses to get in car seat, arches back, or fights the safety straps",
       "icon": "🚗",
       "ageRange": "1-6 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Ensure car seat is properly adjusted and comfortable",
         "Bring special car toys or music only for car rides",
@@ -528,6 +537,7 @@
       "scenario": "Child melts down, refuses to start, or has emotional outbursts about homework",
       "icon": "📚",
       "ageRange": "5-12 years",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Establish consistent homework time and space",
         "Ensure child has had snack and movement before starting",
@@ -586,6 +596,7 @@
       "scenario": "Child is slow, distracted, or melting down during morning routine",
       "icon": "🌅",
       "ageRange": "3-12 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Prepare everything possible the night before",
         "Wake up 15 minutes earlier to reduce time pressure",
@@ -644,6 +655,7 @@
       "scenario": "Child refuses to turn off devices, has meltdowns when screen time ends",
       "icon": "📱",
       "ageRange": "3-12 years",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Set clear screen time limits before starting",
         "Use visual timers that count down",
@@ -702,6 +714,7 @@
       "scenario": "Child refuses to try the potty, wants to stay in diapers, or resists potty learning",
       "icon": "🚽",
       "ageRange": "2-4 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Wait for genuine readiness signs before starting",
         "Make potty visible and accessible without pressure",
@@ -760,6 +773,7 @@
       "scenario": "Child has potty accident and is upset, embarrassed, or showing shame",
       "icon": "💧",
       "ageRange": "2-5 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Normalize that accidents are part of learning",
         "Keep spare clothes easily accessible everywhere",
@@ -818,6 +832,7 @@
       "scenario": "Child is afraid to poop on potty, holds poop for days, or shows anxiety about pooping",
       "icon": "😰",
       "ageRange": "2-5 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Separate pee and poop learning (pee first, poop later)",
         "Teach about body continuity (poop is extra, not a body part)",
@@ -876,6 +891,7 @@
       "scenario": "Child screams, throws pieces, or refuses to keep playing after losing a game",
       "icon": "🎮",
       "ageRange": "3-8 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Talk about winning and losing during calm moments, not mid-game",
         "Before playing, ask what could help if the game starts to feel frustrating",
@@ -935,6 +951,7 @@
       "scenario": "Child sobs, clings, and refuses to let go at the classroom door during drop-off",
       "icon": "🎒",
       "ageRange": "3-6 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Put the morning routine on the wall as pictures, not spoken minutes",
         "Rehearse the goodbye in play with toys before the first day",
@@ -994,6 +1011,7 @@
       "scenario": "Child opens a gift in front of family, visibly deflates, and says out loud they wanted something else",
       "icon": "🛍️",
       "ageRange": "3-9 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Talk with your child ahead of big gift occasions about how disappointment can feel",
         "Never squeeze out a \"thank you\" while the room is still watching",
@@ -1053,6 +1071,7 @@
       "scenario": "Child suddenly rejects one parent, screaming \"I want Papa, not you!\" right in front of both of you",
       "icon": "👥",
       "ageRange": "2-6 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Expect preference phases to come and go; they are not a verdict on either parent",
         "Talk with your co-parent about the toll before resentment builds",
@@ -1112,6 +1131,7 @@
       "scenario": "Child insists a monster is in the room or under the bed and refuses to settle at bedtime",
       "icon": "😱",
       "ageRange": "3-8 years",
+      "moment": "bedtime",
       "prevention_tips": [
         "Keep a consistent, calming wind-down routine before lights-out",
         "Avoid scary shows, stories, or images close to bedtime",
@@ -1171,6 +1191,7 @@
       "scenario": "Older child suddenly lashes out at or tries to push away the new baby in a jealous outburst",
       "icon": "👶",
       "ageRange": "2-6 years",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Connect with your older child first at every reunion, before turning to the baby",
         "Say out loud that your love for them stays whole, nobody can take their share",
@@ -1230,6 +1251,7 @@
       "scenario": "Child flatly denies doing something despite clear evidence right in front of them",
       "icon": "🎭",
       "ageRange": "4-9 years",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Respond to honesty warmly so telling the truth stays safe, not scary",
         "Avoid interrogating or setting traps to \"catch\" the lie",
@@ -1289,6 +1311,7 @@
       "scenario": "Child's whining escalates and repeats even after you've already answered, explained, or given what they asked for",
       "icon": "😰",
       "ageRange": "3-7 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Notice patterns - whining often clusters around tiredness, hunger, or transitions, so you can address the root cause before it starts",
         "Practice using a 'regular voice' as a playful game during calm moments, so the skill is already familiar before frustration hits",
@@ -1348,6 +1371,7 @@
       "scenario": "Child dissolves into a full flood of tears, bolting, or shutting down in a public or social setting - a party, a family gathering, a crowded place - overwhelmed by big feelings",
       "icon": "😡",
       "ageRange": "3-7 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Pre-agree the plan in a calm moment: tell your child that when feelings get huge, you stay close and never send them away. Most kids quietly welcome hearing this before it's tested",
         "Before any event with a spotlight moment - a birthday song, an award, a big cheer - give advance notice and offer a choice about how much of it they're in for",
@@ -1407,6 +1431,7 @@
       "scenario": "Child suddenly asks about death or dying, often at bedtime or in the car, catching you off guard",
       "icon": "💧",
       "ageRange": "3-7 years",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Decide your honest, plain-language answer before you need it - 'died' means the body stopped working and won't start again - so you're not improvising in the moment",
         "Treat questions about death like any other big curiosity, the same drive that asks why the sky goes dark, not a topic to steer away from",
@@ -1465,6 +1490,7 @@
       "scenario": "Child refuses to hand over the tablet or phone when it's time - clutching it, running off, or negotiating for 'just one more minute' long after the timer is done",
       "icon": "📱",
       "ageRange": "3-7 years",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Give every screen a home - a basket or shelf where it lives when it's not in use - so 'time to put it away' is a routine, not a daily negotiation",
         "Use a scheduled-unavailability setting so 'off' lives inside the device itself, instead of being something you have to enforce by hand every time",
@@ -1524,6 +1550,7 @@
       "scenario": "You discover your child has pocketed a small toy from a friend's house or a playdate, without asking",
       "icon": "🧸",
       "ageRange": "3-7 years",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Before playdates, name the rule in advance: things at a friend's house stay at the friend's house, and if something's really loved, you can ask about getting one",
         "Watch for patterns - does this tend to happen after visiting a specific friend, or around toys that feel special or admired? Patterns point to the real driver",
@@ -1582,6 +1609,7 @@
       "scenario": "Child sasses, refuses, or talks back defiantly in front of other people - other parents, family, a checkout line - and you feel the stares",
       "icon": "🗣️",
       "ageRange": "3-7 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Before a known-hard public moment, prime it in advance: 'In a few minutes it's time to go. Your body might yell NO - that's allowed. We'll go anyway.'",
         "Decide ahead of time that the nearest stranger is rooting for you, not scoring you - it's easier to remember before you're in the moment than during it",
@@ -1640,6 +1668,7 @@
       "scenario": "Your older child hits, squeezes too hard, or lashes out at the new baby - sometimes affection turned rough, sometimes clear frustration",
       "icon": "✋",
       "ageRange": "3-7 years",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Sort belongings visibly ahead of time - protected treasures up high, shared toys in a basket both kids can reach - so there's less to guard in the moment",
         "Give your older child words for 'no' and 'mine' so their hands don't have to do the talking when the baby gets close to something they care about",
@@ -1698,6 +1727,7 @@
       "scenario": "Child rips up their worksheet and insists \"I can't do it\" after a single mistake",
       "icon": "📚",
       "ageRange": "6-12 years",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Praise the sticking-with-it, not just the correct answers, so one mistake doesn't feel like the whole grade",
         "Let your child watch you make a small mistake and move on without a big reaction",
@@ -1757,6 +1787,7 @@
       "scenario": "Child cries, hides, or bolts the moment you announce it's bath time",
       "icon": "🚿",
       "ageRange": "2-7 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Give a warning a few minutes before bath time starts, not out of nowhere",
         "Let your child help pick a bath toy or towel ahead of time",
@@ -1816,6 +1847,7 @@
       "scenario": "Child clamps their mouth shut, twists away, or runs from the toothbrush every night",
       "icon": "🧼",
       "ageRange": "2-7 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Brush at the same point in the routine every night so it's never a surprise",
         "Let your child hold the toothbrush and go first before you take a turn",
@@ -1875,6 +1907,7 @@
       "scenario": "Child refuses every outfit, strips back off what you put on, or plants themselves half-dressed and won't move",
       "icon": "⏰",
       "ageRange": "3-8 years",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Lay out two acceptable outfit choices together the night before",
         "Build a real time buffer into the morning so dressing isn't racing the clock",
@@ -1934,6 +1967,7 @@
       "scenario": "Child sprints back to the climbing structure, goes limp, or melts down as soon as you say it's time to go",
       "icon": "🏃",
       "ageRange": "2-8 years",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Give a concrete warning, like \"one more turn, then we're leaving,\" instead of a vague one",
         "Walk over and close the distance before giving the leaving instruction — don't call it across the playground",
@@ -1993,6 +2027,7 @@
       "scenario": "Child drops a swear word or shock word out loud, sometimes in front of other people",
       "icon": "🧘",
       "ageRange": "3-9 years",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Notice your own reaction to strong language before it happens, so a big flinch doesn't teach the word is powerful",
         "Talk about which words are okay where on a calm day, before the next slip",
@@ -2051,6 +2086,7 @@
       "scenario": "Child hurt someone — a sibling, a friend — and goes silent, stiff, or defiant rather than say sorry",
       "icon": "🤝",
       "ageRange": "3-8 years",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Model your own apologies openly, including to your child, so they see what repair looks like",
         "Avoid demanding \"say sorry\" in front of an audience — it tends to backfire",

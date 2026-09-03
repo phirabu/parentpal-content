@@ -6,6 +6,7 @@
       "scenario": "Dein Kind schreit, weint oder hat einen kompletten Wutanfall, wenn es Zeit fürs Bett ist",
       "icon": "🌙",
       "ageRange": "2-8 Jahre",
+      "moment": "bedtime",
       "prevention_tips": [
         "Feste Abendroutine beibehalten",
         "Schon 30 Minuten vor dem Schlafengehen mit dem Runterkommen beginnen",
@@ -64,6 +65,7 @@
       "scenario": "Zwei Kinder streiten, greifen und schreien um dasselbe Spielzeug",
       "icon": "🧸",
       "ageRange": "2-10 Jahre",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Abwechseln üben, bevor Streit entsteht",
         "Mehrere ähnliche Spielsachen griffbereit haben",
@@ -122,6 +124,7 @@
       "scenario": "Dein Kind weigert sich, sich anzuziehen, versteckt sich oder rastet wegen der Schule aus",
       "icon": "🎒",
       "ageRange": "3-12 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Kleidung und Ranzen schon am Vorabend bereitlegen",
         "Für genug Schlaf sorgen (früher ins Bett)",
@@ -180,6 +183,7 @@
       "scenario": "Dein Kind schreit mitten im Streit \"Ich hasse dich!\" oder \"Du bist nicht mein Freund!\"",
       "icon": "😡",
       "ageRange": "3-10 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Bei den eigenen Frustrationen emotionale Regulierung vorleben",
         "Gefühlswörter lehren, wenn dein Kind ruhig ist",
@@ -238,6 +242,7 @@
       "scenario": "Dein Kind weint, klammert sich fest oder weigert sich, beim Arzttermin mitzumachen",
       "icon": "🩺",
       "ageRange": "2-10 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Vorher zusammen Bücher über Arztbesuche anschauen",
         "Arzttermine mit Spielzeug nachspielen",
@@ -296,6 +301,7 @@
       "scenario": "Dein Kind weigert sich, die aktuelle Aktivität für einen Übergang zu beenden (den Park verlassen, den Fernseher ausschalten, mit dem Spielen aufhören)",
       "icon": "⏰",
       "ageRange": "2-10 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "10-Minuten- und 5-Minuten-Vorwarnungen vor Übergängen geben",
         "Sichtbare Timer nutzen, die dein Kind selbst sehen kann",
@@ -354,6 +360,7 @@
       "scenario": "Dein Kind schlägt, beißt, tritt oder wirft Sachen, wenn es wütend ist",
       "icon": "✋",
       "ageRange": "2-8 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Körperliche Ventile für große Gefühle zeigen, bevor sie gebraucht werden",
         "Auslöser für aggressives Verhalten erkennen",
@@ -412,6 +419,7 @@
       "scenario": "Dein Kind hat mitten im Supermarkt einen Wutanfall. Alle starren. Ans Einkaufen ist gerade nicht zu denken.",
       "icon": "🛒",
       "ageRange": "2-8 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Einkaufen, wenn dein Kind ausgeruht und satt ist",
         "Snacks und kleine Beschäftigungen mitnehmen",
@@ -470,6 +478,7 @@
       "scenario": "Dein Kind weigert sich, in den Autositz zu steigen, macht einen Katzenbuckel oder kämpft gegen die Gurte",
       "icon": "🚗",
       "ageRange": "1-6 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Autositz richtig einstellen, damit er wirklich bequem sitzt",
         "Spezielles Auto-Spielzeug oder Musik nur fürs Auto reservieren",
@@ -528,6 +537,7 @@
       "scenario": "Dein Kind rastet aus, weigert sich anzufangen oder hat emotionale Ausbrüche wegen der Hausaufgaben",
       "icon": "📚",
       "ageRange": "5-12 Jahre",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Feste Hausaufgabenzeit und einen festen Platz einrichten",
         "Vor dem Start für Snack und Bewegung sorgen",
@@ -586,6 +596,7 @@
       "scenario": "Dein Kind trödelt, ist abgelenkt oder rastet mitten in der Morgenroutine aus",
       "icon": "🌅",
       "ageRange": "3-12 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Alles Mögliche schon am Vorabend vorbereiten",
         "15 Minuten früher aufstehen, damit weniger Zeitdruck entsteht",
@@ -644,6 +655,7 @@
       "scenario": "Dein Kind weigert sich, das Gerät auszuschalten, und rastet aus, sobald die Bildschirmzeit vorbei ist",
       "icon": "📱",
       "ageRange": "3-12 Jahre",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Klare Bildschirmzeit-Grenzen setzen, bevor es losgeht",
         "Sichtbare Timer nutzen, die runterzählen",
@@ -702,6 +714,7 @@
       "scenario": "Dein Kind weigert sich, das Töpfchen auch nur zu versuchen, will lieber in Windeln bleiben oder blockt beim Töpfchenlernen komplett ab",
       "icon": "🚽",
       "ageRange": "2-4 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Auf echte Bereitschaftszeichen warten, statt einfach loszulegen",
         "Das Töpfchen sichtbar und zugänglich hinstellen, ganz ohne Druck",
@@ -760,6 +773,7 @@
       "scenario": "Dein Kind hatte ein Missgeschick und ist verärgert, verlegen oder schämt sich sichtlich",
       "icon": "💧",
       "ageRange": "2-5 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Klarmachen, dass Missgeschicke zum Lernen dazugehören",
         "Wechselkleidung überall griffbereit haben",
@@ -818,6 +832,7 @@
       "scenario": "Dein Kind hat Angst, aufs Töpfchen zu kacken, hält die Kacka tagelang zurück oder zeigt deutliche Angst ums Kacken",
       "icon": "😰",
       "ageRange": "2-5 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Pipi- und Kacka-Lernen getrennt angehen (erst Pipi, Kacka später)",
         "Über Körperkontinuität aufklären (Kacka ist Extra, kein Körperteil)",
@@ -876,6 +891,7 @@
       "scenario": "Dein Kind schreit, wirft Spielfiguren durch die Gegend oder will nach einer Niederlage nicht weiterspielen",
       "icon": "🎮",
       "ageRange": "3-8 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Über Gewinnen und Verlieren reden, wenn gerade Ruhe ist, nicht mitten im Spiel",
         "Vor dem Spiel fragen, was helfen könnte, falls es frustrierend wird",
@@ -935,6 +951,7 @@
       "scenario": "Dein Kind weint, klammert sich an dich und lässt beim Abschied an der Kita-Tür einfach nicht los",
       "icon": "🎒",
       "ageRange": "3-6 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Die Morgenroutine als Bilderreihe an die Wand hängen, nicht als gesprochenen Minutenplan",
         "Den Abschied vorher mit Kuscheltieren durchspielen, schon vor dem ersten Tag",
@@ -994,6 +1011,7 @@
       "scenario": "Dein Kind packt vor der Familie ein Geschenk aus, das Gesicht fällt sichtbar, und es sagt laut, dass es sich etwas anderes gewünscht hat",
       "icon": "🛍️",
       "ageRange": "3-9 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Vor großen Geschenkanlässen schon mal mit deinem Kind darüber reden, wie sich Enttäuschung anfühlen kann",
         "Nie ein \"Danke\" herauspressen, während der ganze Raum noch zuschaut",
@@ -1053,6 +1071,7 @@
       "scenario": "Dein Kind lehnt plötzlich einen Elternteil ab und schreit \"Ich will Papa, nicht dich!\" direkt vor euch beiden",
       "icon": "👥",
       "ageRange": "2-6 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Vorlieben-Phasen kommen und gehen; sie sind kein Urteil über einen Elternteil",
         "Mit dem Co-Elternteil über die Belastung reden, bevor sich Groll aufbaut",
@@ -1112,6 +1131,7 @@
       "scenario": "Dein Kind ist überzeugt, dass ein Monster im Zimmer oder unter dem Bett ist, und will beim Einschlafen einfach nicht zur Ruhe kommen",
       "icon": "😱",
       "ageRange": "3-8 Jahre",
+      "moment": "bedtime",
       "prevention_tips": [
         "Vor dem Licht-aus eine feste, beruhigende Runterkommen-Routine einhalten",
         "Gruselige Sendungen, Geschichten oder Bilder kurz vor dem Schlafen vermeiden",
@@ -1171,6 +1191,7 @@
       "scenario": "Dein älteres Kind schlägt plötzlich nach dem neuen Baby oder versucht es in einem eifersüchtigen Ausbruch wegzuschieben",
       "icon": "👶",
       "ageRange": "2-6 Jahre",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Bei jedem Wiedersehen zuerst mit dem älteren Kind verbinden, bevor du dich dem Baby zuwendest",
         "Laut aussprechen, dass deine Liebe für es ganz bleibt, niemand kann ihm seinen Anteil wegnehmen",
@@ -1230,6 +1251,7 @@
       "scenario": "Dein Kind streitet trotz eindeutiger Beweise direkt vor seinen Augen glatt ab, etwas getan zu haben",
       "icon": "🎭",
       "ageRange": "4-9 Jahre",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Auf Ehrlichkeit warmherzig reagieren, damit die Wahrheit sagen sicher bleibt, nicht gefährlich",
         "Nicht verhören oder Fallen stellen, um eine Lüge zu \"überführen\"",
@@ -1289,6 +1311,7 @@
       "scenario": "Das Quengeln deines Kindes schaukelt sich hoch und wiederholt sich, obwohl du längst geantwortet, erklärt oder sogar gegeben hast, worum es ging",
       "icon": "😰",
       "ageRange": "3-7 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Muster erkennen - Quengeln häuft sich oft bei Müdigkeit, Hunger oder Übergängen, dann kannst du die eigentliche Ursache angehen, bevor es losgeht",
         "Die \"normale Stimme\" schon in ruhigen Momenten spielerisch üben, damit sie vertraut ist, bevor der Frust kommt",
@@ -1348,6 +1371,7 @@
       "scenario": "Dein Kind löst sich in Tränen auf, rennt weg oder macht dicht, mitten in einer Feier, einem Familientreffen oder an einem vollen Ort - überwältigt von zu großen Gefühlen",
       "icon": "😡",
       "ageRange": "3-7 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Den Plan schon in einem ruhigen Moment absprechen: sag deinem Kind, dass du bleibst, wenn Gefühle riesig werden, und es nie wegschickst. Die meisten Kinder hören das gern, bevor es überhaupt drauf ankommt",
         "Vor jedem Anlass mit einem Rampenlicht-Moment - Geburtstagslied, Auszeichnung, große Anfeuerung - vorher Bescheid geben und eine Wahl anbieten, wie viel davon dein Kind mitmachen will",
@@ -1407,6 +1431,7 @@
       "scenario": "Dein Kind fragt plötzlich nach dem Tod oder dem Sterben, oft beim Zubettgehen oder im Auto, und erwischt dich völlig unvorbereitet",
       "icon": "💧",
       "ageRange": "3-7 Jahre",
+      "moment": "big_feelings",
       "prevention_tips": [
         "Leg deine ehrliche, klare Antwort schon fest, bevor du sie brauchst: \"gestorben\" heißt, der Körper hat aufgehört zu arbeiten und fängt nicht wieder an - so improvisierst du nicht erst im Moment selbst",
         "Fragen über den Tod wie jede andere große Neugier behandeln, dieselbe Antriebskraft, die fragt, warum der Himmel dunkel wird, kein Thema, um das man einen Bogen macht",
@@ -1465,6 +1490,7 @@
       "scenario": "Dein Kind weigert sich, Tablet oder Handy herzugeben, wenn die Zeit um ist - klammert sich dran, rennt weg oder handelt noch lange nach Timer-Ende um \"nur eine Minute\"",
       "icon": "📱",
       "ageRange": "3-7 Jahre",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Jedem Bildschirm ein Zuhause geben - einen Korb oder ein Regal, wo er wohnt, wenn er nicht gebraucht wird -, damit \"Zeit zum Wegräumen\" Routine ist, keine tägliche Verhandlung",
         "Eine feste Bildschirmzeit-Sperre nutzen, damit \"aus\" im Gerät selbst steckt, statt etwas, das du jedes Mal von Hand durchsetzen musst",
@@ -1524,6 +1550,7 @@
       "scenario": "Du findest ein kleines Spielzeug in der Hosentasche deines Kindes — mitgenommen von einem Spielnachmittag bei einem Freund, ohne zu fragen.",
       "icon": "🧸",
       "ageRange": "3-7 Jahre",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Sprich die Regel schon vor dem Spielnachmittag an: Sachen bei einem Freund bleiben bei dem Freund, und wenn etwas richtig geliebt wird, kann man ja danach fragen, ob es sowas auch für zu Hause gibt.",
         "Achte auf Muster: Passiert das eher nach dem Besuch bei einem bestimmten Freund, oder bei Spielzeug, das dein Kind besonders bewundert? Das Muster zeigt dir, worum es wirklich geht.",
@@ -1582,6 +1609,7 @@
       "scenario": "Dein Kind motzt, verweigert sich oder wird frech vor anderen Leuten — anderen Eltern, Verwandten, an der Kasse — und du spürst die Blicke.",
       "icon": "🗣️",
       "ageRange": "3-7 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Bereite einen bekannt schwierigen öffentlichen Moment vorher vor: 'Gleich ist es Zeit zu gehen. Dein Körper darf NEIN schreien — das ist erlaubt. Wir gehen trotzdem.'",
         "Leg dir vorher zurecht: Die Fremden um dich rum sind nicht deine Jury, sie drücken dir die Daumen. Das erinnerst du dich leichter vorher als mittendrin.",
@@ -1640,6 +1668,7 @@
       "scenario": "Dein älteres Kind schlägt zu, drückt zu fest oder geht plötzlich auf das Baby los — mal kippt Zärtlichkeit ins Grobe, mal ist es einfach Frust pur.",
       "icon": "✋",
       "ageRange": "3-7 Jahre",
+      "moment": "siblings_friends",
       "prevention_tips": [
         "Sortier Besitz vorher sichtbar: kostbare Schätze weit oben, gemeinsames Spielzeug in einem Korb, den beide erreichen — dann gibt's im Moment selbst weniger zu verteidigen.",
         "Gib deinem älteren Kind Worte für 'nein' und 'meins', damit die Hände nicht sprechen müssen, wenn das Baby seinen Sachen zu nahekommt.",
@@ -1698,6 +1727,7 @@
       "scenario": "Dein Kind zerreißt sein Übungsblatt und beharrt auf 'Ich kann das nicht', nur weil ein einziger Fehler drin ist.",
       "icon": "📚",
       "ageRange": "6-12 Jahre",
+      "moment": "screens_homework",
       "prevention_tips": [
         "Lob das Dranbleiben, nicht nur die richtigen Antworten, dann fühlt sich ein Fehler nicht wie die ganze Note an.",
         "Lass dein Kind zusehen, wie du selbst mal einen kleinen Fehler machst und einfach weitermachst, ohne große Reaktion.",
@@ -1757,6 +1787,7 @@
       "scenario": "Dein Kind weint, versteckt sich oder rennt weg, sobald du ankündigst, dass Badezeit ist.",
       "icon": "🚿",
       "ageRange": "2-7 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Kündige die Badezeit ein paar Minuten vorher an, nicht aus dem Nichts.",
         "Lass dein Kind vorher mitentscheiden: welches Badespielzeug, welches Handtuch.",
@@ -1816,6 +1847,7 @@
       "scenario": "Dein Kind presst den Mund zu, dreht sich weg oder rennt vor der Zahnbürste weg, jeden Abend aufs Neue.",
       "icon": "🧼",
       "ageRange": "2-7 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Putz immer an derselben Stelle in der Abendroutine, dann ist es nie eine Überraschung.",
         "Lass dein Kind die Bürste halten und zuerst selbst ran, bevor du übernimmst.",
@@ -1875,6 +1907,7 @@
       "scenario": "Dein Kind lehnt jedes Outfit ab, zieht sich das Angezogene wieder aus oder verharrt halb angezogen und rührt sich nicht vom Fleck.",
       "icon": "⏰",
       "ageRange": "3-8 Jahre",
+      "moment": "mornings_routines",
       "prevention_tips": [
         "Leg am Vorabend gemeinsam mit deinem Kind zwei Outfits raus, die beide okay sind.",
         "Bau echten zeitlichen Puffer in den Morgen ein, damit Anziehen nicht gegen die Uhr rennt.",
@@ -1934,6 +1967,7 @@
       "scenario": "Dein Kind sprintet zurück zum Klettergerüst, wird schlaff oder dreht durch, sobald du sagst, dass es Zeit zum Gehen ist.",
       "icon": "🏃",
       "ageRange": "2-8 Jahre",
+      "moment": "out_and_about",
       "prevention_tips": [
         "Gib eine konkrete Vorwarnung, wie 'noch eine Runde, dann gehen wir', statt einer vagen.",
         "Geh erst hin und schließ die Distanz, bevor du die Geh-Ansage machst, ruf sie nicht quer über den Spielplatz.",
@@ -1993,6 +2027,7 @@
       "scenario": "Dein Kind lässt laut ein Schimpfwort oder ein Schockwort fallen, manchmal vor anderen Leuten.",
       "icon": "🧘",
       "ageRange": "3-9 Jahre",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Bemerk deine eigene Reaktion auf starke Wörter, bevor es so weit kommt, ein großes Zusammenzucken lehrt sonst, dass das Wort Macht hat.",
         "Sprich an einem ruhigen Tag darüber, welche Wörter wo okay sind, bevor der nächste Ausrutscher kommt.",
@@ -2051,6 +2086,7 @@
       "scenario": "Dein Kind hat jemandem wehgetan, einem Geschwister, einem Freund, und wird still, verhärtet sich oder stellt sich stur, statt sich zu entschuldigen.",
       "icon": "🤝",
       "ageRange": "3-8 Jahre",
+      "moment": "honesty_manners",
       "prevention_tips": [
         "Zeig deine eigenen Entschuldigungen offen, auch gegenüber deinem Kind, damit es sieht, wie Wiedergutmachung aussieht.",
         "Verlang kein 'Sag sorry' vor Publikum, das geht meistens nach hinten los.",
