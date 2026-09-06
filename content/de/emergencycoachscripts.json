@@ -1547,16 +1547,16 @@
     {
       "id": "stealing_from_friend",
       "title": "Das fremde Spielzeug in der Hosentasche",
-      "scenario": "Du findest ein kleines Spielzeug in der Hosentasche deines Kindes — mitgenommen von einem Spielnachmittag bei einem Freund, ohne zu fragen.",
+      "scenario": "Du findest ein kleines Spielzeug in der Hosentasche deines Kindes, mitgenommen von einem Spielnachmittag bei einem Freund, ohne zu fragen.",
       "icon": "🧸",
       "ageRange": "3-7 Jahre",
       "moment": "siblings_friends",
       "prevention_tips": [
         "Sprich die Regel schon vor dem Spielnachmittag an: Sachen bei einem Freund bleiben bei dem Freund, und wenn etwas richtig geliebt wird, kann man ja danach fragen, ob es sowas auch für zu Hause gibt.",
         "Achte auf Muster: Passiert das eher nach dem Besuch bei einem bestimmten Freund, oder bei Spielzeug, das dein Kind besonders bewundert? Das Muster zeigt dir, worum es wirklich geht.",
-        "Sprich deine eigenen Wünsche für Dinge, die du dir nicht leisten kannst, ruhig mal laut vor deinem Kind aus — dann hört es die Worte dafür, statt nur den Impuls zu spüren.",
+        "Sprich deine eigenen Wünsche für Dinge, die du dir nicht leisten kannst, ruhig mal laut vor deinem Kind aus. Dann hört es die Worte dafür, statt nur den Impuls zu spüren.",
         "Bleib selbst ruhig und neugierig statt alarmiert. Eine große Reaktion auf ein kleines eingestecktes Spielzeug macht Verstecken beim nächsten Mal nur attraktiver als Erzählen.",
-        "Lob Ehrlichkeit warmherzig, jedes Mal, auch bei Kleinigkeiten — dann bleibt die Wahrheit die einfachere Wahl."
+        "Lob Ehrlichkeit warmherzig, jedes Mal, auch bei Kleinigkeiten. Dann bleibt die Wahrheit die einfachere Wahl."
       ],
       "strategies": [
         {
@@ -1564,25 +1564,25 @@
           "name": "Klar benennen, nicht beschämen",
           "difficulty": "mittel",
           "timeRequired": "5-10 Minuten",
-          "why_it_works": "Ruhig zu sagen, was du gefunden hast, und das Verhalten zu benennen — ohne Vorwurf, ohne Vortrag über Vertrauen — nimmt deinem Kind den Druck, jetzt zusätzlich noch eine Lüge verteidigen zu müssen. Verstehen zählt hier mehr als jeden Vorfall gleich zu behandeln.",
+          "why_it_works": "Ruhig zu sagen, was du gefunden hast, und das Verhalten zu benennen. Ohne Vorwurf, ohne Vortrag über Vertrauen. Nimmt deinem Kind den Druck, jetzt zusätzlich noch eine Lüge verteidigen zu müssen. Verstehen zählt hier mehr als jeden Vorfall gleich zu behandeln.",
           "script": [
             "Ich hab das hier in deiner Hosentasche gefunden. Ich glaube, das gehört Maya.",
             "Du hast richtig gern damit gespielt, bei Maya zu Hause.",
             "Wenn wir uns einfach was nehmen, das jemand anderem gehört, ohne zu fragen, nennt man das Stehlen.",
             "Wir müssen das Maya zurückgeben. Was denkst du, wie machen wir das am besten?"
           ],
-          "mantra": "Das hier ist ein Wunsch, für den mein Kind noch keine Worte hatte — kein Beweis, dass es unehrlich ist."
+          "mantra": "Das hier ist ein Wunsch, für den mein Kind noch keine Worte hatte. Kein Beweis, dass es unehrlich ist."
         },
         {
           "id": "redirect_the_want",
           "name": "Den Wunsch in Worte fassen",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Gibst du deinem Kind die genauen Worte für den Wunsch dahinter, lernt es eine Alternative, die wirklich funktioniert — nicht nur, was es nicht tun soll.",
+          "why_it_works": "Gibst du deinem Kind die genauen Worte für den Wunsch dahinter, lernt es eine Alternative, die wirklich funktioniert. Nicht nur, was es nicht tun soll.",
           "script": [
             "Es ist ganz normal, sich etwas zu wünschen, das man richtig toll findet.",
-            "Nächstes Mal kannst du mir sagen 'Ich will sowas auch total gern' — statt es einzustecken.",
-            "Manchmal sag ich dann ja, manchmal nein — aber fragen ist immer der richtige Weg.",
+            "Nächstes Mal kannst du mir sagen 'Ich will sowas auch total gern', statt es einzustecken.",
+            "Manchmal sag ich dann ja, manchmal nein, aber fragen ist immer der richtige Weg.",
             "Ich bin stolz auf dich, dass du mir jetzt die Wahrheit sagst."
           ],
           "mantra": "Jedes 'du kannst es mir stattdessen sagen' ist ein Werkzeug, das mein Kind nächstes Mal wirklich hat."
@@ -1592,10 +1592,10 @@
           "name": "Es gemeinsam wiedergutmachen",
           "difficulty": "mittel",
           "timeRequired": "10-15 Minuten",
-          "why_it_works": "Dein Kind bei der Rückgabe direkt einzubeziehen baut die Fähigkeit zur Wiedergutmachung auf. Gemeinsam statt als Strafe im Alleingang bleibt die Lektion bei Ehrlichkeit und Reparatur — nicht bei Scham.",
+          "why_it_works": "Dein Kind bei der Rückgabe direkt einzubeziehen baut die Fähigkeit zur Wiedergutmachung auf. Gemeinsam statt als Strafe im Alleingang bleibt die Lektion bei Ehrlichkeit und Reparatur, nicht bei Scham.",
           "script": [
             "Komm, wir bringen das zusammen zu Maya zurück.",
-            "Du kannst sagen 'Ich hab das ohne zu fragen mitgenommen. Tut mir leid — hier hast du's wieder.'",
+            "Du kannst sagen 'Ich hab das ohne zu fragen mitgenommen. Tut mir leid. Hier hast du's wieder.'",
             "Sich Dinge ohne Erlaubnis zu nehmen kann einer Freundschaft wehtun, auch aus Versehen.",
             "Das hat Mut gebraucht. Ich bin froh, dass du es wieder in Ordnung gebracht hast."
           ],
@@ -1606,16 +1606,16 @@
     {
       "id": "backtalk_in_public",
       "title": "Widerworte mit Publikum",
-      "scenario": "Dein Kind motzt, verweigert sich oder wird frech vor anderen Leuten — anderen Eltern, Verwandten, an der Kasse — und du spürst die Blicke.",
+      "scenario": "Dein Kind motzt, verweigert sich oder wird frech vor anderen Leuten. Anderen Eltern, Verwandten, an der Kasse, und du spürst die Blicke.",
       "icon": "🗣️",
       "ageRange": "3-7 Jahre",
       "moment": "out_and_about",
       "prevention_tips": [
-        "Bereite einen bekannt schwierigen öffentlichen Moment vorher vor: 'Gleich ist es Zeit zu gehen. Dein Körper darf NEIN schreien — das ist erlaubt. Wir gehen trotzdem.'",
+        "Bereite einen bekannt schwierigen öffentlichen Moment vorher vor: 'Gleich ist es Zeit zu gehen. Dein Körper darf NEIN schreien. Das ist erlaubt. Wir gehen trotzdem.'",
         "Leg dir vorher zurecht: Die Fremden um dich rum sind nicht deine Jury, sie drücken dir die Daumen. Das erinnerst du dich leichter vorher als mittendrin.",
-        "Behandle öffentliche Momente als 'da kommen wir jetzt einfach durch' — das eigentliche Lehren hebst du dir für später auf, unter vier Augen, wenn alle ruhig sind.",
+        "Behandle öffentliche Momente als 'da kommen wir jetzt einfach durch'. Das eigentliche Lehren hebst du dir für später auf, unter vier Augen, wenn alle ruhig sind.",
         "Übe eine Wiederholung für große Gefühle in ruhigen, spielerischen Momenten zu Hause, dann steht die Fähigkeit mitten im Streit zur Verfügung, nicht erst danach in der Nachbesprechung.",
-        "Bemerk deinen eigenen Drang, härter zu reagieren, nur weil Leute zuschauen — der Drang gehört zum Publikum, nicht zu dem, was dein Kind gerade wirklich braucht."
+        "Bemerk deinen eigenen Drang, härter zu reagieren, nur weil Leute zuschauen. Der Drang gehört zum Publikum, nicht zu dem, was dein Kind gerade wirklich braucht."
       ],
       "strategies": [
         {
@@ -1623,14 +1623,14 @@
           "name": "Langsamer werden, neugierig bleiben",
           "difficulty": "mittel",
           "timeRequired": "sofort",
-          "why_it_works": "Eine knallharte Verweigerung ist meistens der Griff nach Kontrolle, keine echte Debatte — dagegen anzuargumentieren gibt deinem Kind nur etwas zum Dagegenstemmen. Spiegelst du sie stattdessen mit echter Neugier, fehlt plötzlich die Wand zum Anrennen.",
+          "why_it_works": "Eine knallharte Verweigerung ist meistens der Griff nach Kontrolle, keine echte Debatte , dagegen anzuargumentieren gibt deinem Kind nur etwas zum Dagegenstemmen. Spiegelst du sie stattdessen mit echter Neugier, fehlt plötzlich die Wand zum Anrennen.",
           "script": [
             "Du willst wirklich nicht. Sag mir, was daran am schlimmsten ist.",
             "Du wünschst dir, das müsste jetzt nicht passieren. Verstehe ich total.",
             "Der Teil bleibt trotzdem. Du entscheidest: Laufen wir zusammen zum Auto, oder trag ich dich wie einen Kartoffelsack?",
-            "Das war ein großes Gefühl, und es ist laut rausgekommen. Versuch's nochmal — ich hör zu."
+            "Das war ein großes Gefühl, und es ist laut rausgekommen. Versuch's nochmal. Ich hör zu."
           ],
-          "mantra": "Ich muss das nicht gewinnen. Ich muss es nur halten — das Publikum hat keine Stimme."
+          "mantra": "Ich muss das nicht gewinnen. Ich muss es nur halten. Das Publikum hat keine Stimme."
         },
         {
           "id": "answer_the_audience_in_your_head",
@@ -1641,7 +1641,7 @@
           "script": [
             "Ich steh hier nicht vor Gericht. Mein Kind braucht mich, nicht eine Vorstellung für den Gang.",
             "Du wünschst dir, wir könnten bleiben. Es ist SO schwer, aufzuhören, wenn's gerade Spaß macht.",
-            "Der Teil steht fest. Du entscheidest, wie wir hinkommen — wie ein Frosch hüpfen, oder auf meinen Schultern reiten?",
+            "Der Teil steht fest. Du entscheidest, wie wir hinkommen. Wie ein Frosch hüpfen, oder auf meinen Schultern reiten?",
             "Wir reden mehr darüber, sobald wir im Auto sitzen."
           ],
           "mantra": "Die Fremden gehen. Das Muster, das ich mit meinem Kind setze, bleibt."
@@ -1653,7 +1653,7 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Behandelst du den öffentlichen Moment als 'da kommen wir sicher durch' und verschiebst das eigentliche Lehren auf einen ruhigen, privaten Moment danach, muss keiner von euch beiden lernen oder lehren, während er überflutet ist und beobachtet wird.",
           "script": [
-            "Lass uns dieses Stück einfach durchstehen — mehr reden wir, sobald wir zu Hause sind.",
+            "Lass uns dieses Stück einfach durchstehen. Mehr reden wir, sobald wir zu Hause sind.",
             "Ich repariere das jetzt nicht hier. Ich sorg nur dafür, dass wir weiterkommen.",
             "Vorhin war ein schwerer Moment. Willst du das nochmal probieren, diesmal nur mit den Worten?",
             "Du darfst vor anderen Leuten aufgebracht sein. Ich schäme mich nicht für dich."
@@ -1665,14 +1665,14 @@
     {
       "id": "toddler_hitting_baby",
       "title": "Wenn das ältere Kind das Baby schlägt oder zu fest drückt",
-      "scenario": "Dein älteres Kind schlägt zu, drückt zu fest oder geht plötzlich auf das Baby los — mal kippt Zärtlichkeit ins Grobe, mal ist es einfach Frust pur.",
+      "scenario": "Dein älteres Kind schlägt zu, drückt zu fest oder geht plötzlich auf das Baby los, mal kippt Zärtlichkeit ins Grobe, mal ist es einfach Frust pur.",
       "icon": "✋",
       "ageRange": "3-7 Jahre",
       "moment": "siblings_friends",
       "prevention_tips": [
-        "Sortier Besitz vorher sichtbar: kostbare Schätze weit oben, gemeinsames Spielzeug in einem Korb, den beide erreichen — dann gibt's im Moment selbst weniger zu verteidigen.",
+        "Sortier Besitz vorher sichtbar: kostbare Schätze weit oben, gemeinsames Spielzeug in einem Korb, den beide erreichen. Dann gibt's im Moment selbst weniger zu verteidigen.",
         "Gib deinem älteren Kind Worte für 'nein' und 'meins', damit die Hände nicht sprechen müssen, wenn das Baby seinen Sachen zu nahekommt.",
-        "Sag mehr als einmal laut, dass deine Liebe zu ihm ganz bleibt — ein neues Baby teilt sie nicht auf.",
+        "Sag mehr als einmal laut, dass deine Liebe zu ihm ganz bleibt. Ein neues Baby teilt sie nicht auf.",
         "Passiert das immer wieder auf dieselbe Art, behandle es als fehlende Fähigkeit, nicht als Trotz, und plan deine eigene Reaktion im Voraus, statt jedes Mal neu zu improvisieren.",
         "Bleib in Armweite, solange dein älteres Kind in dieser Phase in der Nähe vom Baby ist, so kannst du blocken, bevor es zum Kontakt kommt, nicht erst danach."
       ],
@@ -1682,9 +1682,9 @@
           "name": "Erst stoppen, dann reden",
           "difficulty": "einfach",
           "timeRequired": "sofort",
-          "why_it_works": "Ein Kind mitten im Ausraster läuft auf einem überforderten Nervensystem, nicht nach Plan — Worte kommen kaum noch an. Gehst du mit ruhigem Körper und ganz wenigen Worten dazwischen, sendest du die eine Botschaft, die zählt: Ich hab das im Griff, alle sind sicher.",
+          "why_it_works": "Ein Kind mitten im Ausraster läuft auf einem überforderten Nervensystem, nicht nach Plan , Worte kommen kaum noch an. Gehst du mit ruhigem Körper und ganz wenigen Worten dazwischen, sendest du die eine Botschaft, die zählt: Ich hab das im Griff, alle sind sicher.",
           "script": [
-            "Stopp. Ich bin da. Das Baby schlägt man nicht — ich helf euch beiden.",
+            "Stopp. Ich bin da. Das Baby schlägt man nicht. Ich helf euch beiden.",
             "Ich lass nicht zu, dass du ihm wehtust. Ich sorge dafür, dass alle sicher sind.",
             "Ich bin ganz hier bei dir.",
             "Wir reden, sobald alle wieder ruhig sind."
@@ -1698,7 +1698,7 @@
           "timeRequired": "5-10 Minuten",
           "why_it_works": "Aggression gegenüber einem neuen Baby ist meistens Angst, ersetzt zu werden, keine echte Abneigung gegen das Baby. Diese Angst direkt zu benennen und zu sagen, dass deine Liebe ganz bleibt, spricht an, was das Verhalten wirklich antreibt.",
           "script": [
-            "Ich glaub, es fühlt sich wacklig an, wenn das Baby deinen Sachen nahekommt — und mir.",
+            "Ich glaub, es fühlt sich wacklig an, wenn das Baby deinen Sachen nahekommt, und mir.",
             "Dieses Baby hat es gut, es bekommt dich als große Schwester oder großen Bruder. Und meine Liebe zu dir bleibt ganz deine. Die kann dir keiner wegnehmen.",
             "Du kannst mir 'meins' oder 'jetzt nicht' mit Worten sagen. Ich helf dem Baby, zu warten.",
             "Manchmal sieht das Kleinsein ganz schön gemütlich aus, was? Willst du fünf Minuten mit mir Baby spielen?"
@@ -1713,7 +1713,7 @@
           "why_it_works": "Passiert dasselbe immer wieder, obwohl du jedes Mal ruhig reagierst, fehlt einfach eine Fähigkeit. Härtere Strafe braucht es dafür nicht. Dem Greif- oder Schlag-Impuls einen festen, geübten Ort zu geben, gemeinsam entschieden in einem ruhigen Moment, ist das, was ihn tatsächlich verändert.",
           "script": [
             "Wenn das Baby deinen Sachen nahekommt, kriegt dein Körper einen großen Schub zum Greifen oder Schlagen. Der Schub ist okay, schlagen nicht. Lass uns dem Schub einen Ort geben, wo er hinkann.",
-            "Was könnten deine Hände stattdessen tun — dieses Kissen ganz fest drücken, oder mich suchen kommen?",
+            "Was könnten deine Hände stattdessen tun. Dieses Kissen ganz fest drücken, oder mich suchen kommen?",
             "Ich bleib in der Nähe, wenn ihr beide zusammen seid, damit ich helfen kann, bevor es zu groß wird.",
             "Das passiert immer wieder, weil noch was fehlt, nicht weil du böse bist. Wir finden das gemeinsam raus."
           ],
@@ -1747,7 +1747,7 @@
             "Eine Antwort war falsch, und gerade fühlt sich für dich das ganze Blatt ruiniert an.",
             "Wir radieren nichts aus und fangen nicht neu an. Wir machen genau dieses Blatt hier fertig.",
             "Deine Hand am Stift. Ich sitz direkt neben dir.",
-            "Schau mal — fertig, Fehler und alles. Das zählt trotzdem als fertig."
+            "Schau mal. Fertig, Fehler und alles. Das zählt trotzdem als fertig."
           ],
           "mantra": "Fertigwerden schlägt Korrigieren. Die Korrektur kann auf einen ruhigeren Tag warten."
         },

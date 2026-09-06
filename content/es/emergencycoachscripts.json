@@ -1368,7 +1368,7 @@
     {
       "id": "public_meltdown_big_feelings",
       "title": "Crisis en Público: Cuando los Sentimientos Desbordan",
-      "scenario": "El niño se deshace en llanto, sale corriendo o se bloquea por completo en un lugar público o social — una fiesta, una reunión familiar, un sitio lleno de gente — desbordado por sentimientos enormes",
+      "scenario": "El niño se deshace en llanto, sale corriendo o se bloquea por completo en un lugar público o social. Una fiesta, una reunión familiar, un sitio lleno de gente, desbordado por sentimientos enormes",
       "icon": "😡",
       "ageRange": "3-7 años",
       "moment": "big_feelings",
@@ -1433,7 +1433,7 @@
       "ageRange": "3-7 años",
       "moment": "big_feelings",
       "prevention_tips": [
-        "Decidir de antemano tu respuesta honesta y en lenguaje simple — \"murió\" significa que el cuerpo dejó de funcionar y no va a volver a funcionar — para no improvisar en el momento",
+        "Decidir de antemano tu respuesta honesta y en lenguaje simple, \"murió\" significa que el cuerpo dejó de funcionar y no va a volver a funcionar, para no improvisar en el momento",
         "Tratar las preguntas sobre la muerte como cualquier otra gran curiosidad, la misma que pregunta por qué el cielo se oscurece, y no como un tema del que hay que huir",
         "Evitar sustitutos suaves como \"se perdió\", \"se durmió\" o \"se fue\", incluso en charlas casuales, para que esas palabras cotidianas sigan siendo seguras y no queden ligadas a una pérdida permanente",
         "Recordar que la mayor parte del miedo de un niño viene de no entender, no de los hechos en sí, una respuesta clara y honesta calma más que lo que él mismo imaginaría",
@@ -1492,9 +1492,9 @@
       "ageRange": "3-7 años",
       "moment": "screens_homework",
       "prevention_tips": [
-        "Darle a cada pantalla un lugar fijo — una canasta o un estante donde vive cuando no se usa — para que \"hora de guardarla\" sea una rutina y no una negociación diaria",
+        "Darle a cada pantalla un lugar fijo. Una canasta o un estante donde vive cuando no se usa, para que \"hora de guardarla\" sea una rutina y no una negociación diaria",
         "Usar una configuración de apagado automático, para que el \"no disponible\" viva dentro del dispositivo mismo, en vez de algo que tengas que hacer cumplir a mano cada vez",
-        "Cerrar cada sesión siempre igual — pararse, estirarse, \"cuéntame la mejor parte\" — para que detenerse tenga un ritual conocido, en vez de sentirse como un precipicio",
+        "Cerrar cada sesión siempre igual. Pararse, estirarse, \"cuéntame la mejor parte\", para que detenerse tenga un ritual conocido, en vez de sentirse como un precipicio",
         "Dar el ejemplo: meter tu propio celular en la misma canasta a la misma hora, para que la regla la siga toda la familia, no solo los niños",
         "Si estás por cambiar las reglas porque lo que tienes ahora no está funcionando, decide el nuevo plan con calma y de antemano, en lugar de anunciarlo en plena batalla"
       ],
@@ -1552,10 +1552,10 @@
       "ageRange": "3-7 años",
       "moment": "siblings_friends",
       "prevention_tips": [
-        "Antes de un plan para jugar, deja clara la regla de antemano — lo que es de un amigo se queda en casa del amigo, y si algo le encantó de verdad, siempre puede pedir tener uno igual",
-        "Fíjate si hay un patrón — ¿pasa más después de ver a un amigo en concreto, o con juguetes que le parecen especiales o admirados? El patrón señala la verdadera causa",
+        "Antes de un plan para jugar, deja clara la regla de antemano. Lo que es de un amigo se queda en casa del amigo, y si algo le encantó de verdad, siempre puede pedir tener uno igual",
+        "Fíjate si hay un patrón. ¿pasa más después de ver a un amigo en concreto, o con juguetes que le parecen especiales o admirados? El patrón señala la verdadera causa",
         "Nombra en voz alta tus propios deseos por cosas que no puedes tener, para que tu hijo escuche las palabras en lugar de quedarse solo con el impulso",
-        "Mantén tu reacción calmada y curiosa, no alarmada — una reacción enorme por un juguete pequeño puede enseñarle que esconder es más seguro que contar la próxima vez",
+        "Mantén tu reacción calmada y curiosa, no alarmada. Una reacción enorme por un juguete pequeño puede enseñarle que esconder es más seguro que contar la próxima vez",
         "Celebra la honestidad con calidez cada vez que aparezca, incluso en cosas pequeñas, para que decir la verdad siga siendo el camino más fácil"
       ],
       "strategies": [
@@ -1582,7 +1582,7 @@
           "script": [
             "Es normal querer algo que te gusta muchísimo.",
             "La próxima vez, puedes decirme 'quiero uno de estos' en lugar de guardarlo en el bolsillo.",
-            "A veces te diré que sí a conseguir algo parecido, a veces que no — pero preguntar siempre es lo correcto.",
+            "A veces te diré que sí a conseguir algo parecido, a veces que no, pero preguntar siempre es lo correcto.",
             "Estoy orgullosa de que ahora me hayas dicho la verdad."
           ],
           "mantra": "Cada 'puedes decírmelo' es una herramienta que de verdad va a tener la próxima vez."
@@ -1606,16 +1606,16 @@
     {
       "id": "backtalk_in_public",
       "title": "Contestar Mal, con Todo el Mundo Mirando",
-      "scenario": "Tu hijo o hija te contesta con insolencia, se niega o habla de forma desafiante delante de otras personas — otros padres, familiares, la fila de la caja — y sientes todas las miradas encima",
+      "scenario": "Tu hijo o hija te contesta con insolencia, se niega o habla de forma desafiante delante de otras personas. Otros padres, familiares, la fila de la caja, y sientes todas las miradas encima",
       "icon": "🗣️",
       "ageRange": "3-7 años",
       "moment": "out_and_about",
       "prevention_tips": [
-        "Antes de un momento público que sabes que suele ser difícil, avisa con tiempo — 'en unos minutos nos vamos. Tu cuerpo puede querer gritar que NO, está permitido. Nos vamos igual.'",
-        "Decide de antemano que la persona desconocida más cercana está de tu lado, no evaluándote — es más fácil recordarlo antes del momento que en medio de él",
-        "Trata los momentos en público como algo que solo hay que atravesar sin sobresaltos — guarda la enseñanza de verdad para después, en privado, cuando todos estén en calma",
-        "Practica en casa, en momentos tranquilos y de juego, cómo repetir un sentimiento grande con mejor tono — así la habilidad está disponible en pleno enfrentamiento, no solo comentada después",
-        "Fíjate en tu propio impulso de reaccionar más fuerte porque hay gente mirando — ese impulso habla del público, no de lo que tu hijo realmente necesita"
+        "Antes de un momento público que sabes que suele ser difícil, avisa con tiempo, 'en unos minutos nos vamos. Tu cuerpo puede querer gritar que NO, está permitido. Nos vamos igual.'",
+        "Decide de antemano que la persona desconocida más cercana está de tu lado, no evaluándote. Es más fácil recordarlo antes del momento que en medio de él",
+        "Trata los momentos en público como algo que solo hay que atravesar sin sobresaltos, guarda la enseñanza de verdad para después, en privado, cuando todos estén en calma",
+        "Practica en casa, en momentos tranquilos y de juego, cómo repetir un sentimiento grande con mejor tono . Así la habilidad está disponible en pleno enfrentamiento, no solo comentada después",
+        "Fíjate en tu propio impulso de reaccionar más fuerte porque hay gente mirando. Ese impulso habla del público, no de lo que tu hijo realmente necesita"
       ],
       "strategies": [
         {
@@ -1623,14 +1623,14 @@
           "name": "Baja el Ritmo, Ponte Curiosa",
           "difficulty": "intermedio",
           "timeRequired": "inmediato",
-          "why_it_works": "Un no rotundo casi siempre busca recuperar el control, no abrir un debate de verdad — así que discutírselo solo le da algo contra qué empujar. Devolvérselo con curiosidad genuina le quita esa pared.",
+          "why_it_works": "Un no rotundo casi siempre busca recuperar el control, no abrir un debate de verdad. así que discutírselo solo le da algo contra qué empujar. Devolvérselo con curiosidad genuina le quita esa pared.",
           "script": [
             "De verdad no quieres. Cuéntame qué es lo peor de esto.",
             "Ojalá esto no tuviera que pasar ahora mismo. Te entiendo.",
-            "Eso no cambia. Tú eliges — ¿caminamos al coche, o te llevo cargado como un saco de papas?",
-            "Eso fue un sentimiento grande con muy mal tono. Dilo otra vez — te escucho."
+            "Eso no cambia. Tú eliges. ¿caminamos al coche, o te llevo cargado como un saco de papas?",
+            "Eso fue un sentimiento grande con muy mal tono. Dilo otra vez, te escucho."
           ],
-          "mantra": "No tengo que ganar esto. Solo tengo que sostenerlo — el público no tiene voto aquí."
+          "mantra": "No tengo que ganar esto. Solo tengo que sostenerlo. El público no tiene voto aquí."
         },
         {
           "id": "answer_the_audience_in_your_head",
@@ -1641,7 +1641,7 @@
           "script": [
             "Aquí no me están juzgando. Mi hijo me necesita a mí, no un espectáculo para el pasillo.",
             "Ojalá pudiéramos quedarnos. Es DIFICILÍSIMO dejar de divertirse.",
-            "Eso ya no cambia. Tú eliges cómo llegamos — ¿saltando como una rana, o subido a mis hombros?",
+            "Eso ya no cambia. Tú eliges cómo llegamos. ¿saltando como una rana, o subido a mis hombros?",
             "Hablamos más de esto en el coche."
           ],
           "mantra": "Los desconocidos se van. Lo que se queda es la manera en que trato a mi hijo."
@@ -1653,7 +1653,7 @@
           "timeRequired": "5-10 minutos",
           "why_it_works": "Tratar el momento público como algo que solo hay que atravesar, y dejar la enseñanza real para un momento tranquilo y privado después, evita que ninguno de los dos intente aprender o enseñar mientras está desbordado y observado.",
           "script": [
-            "Vamos a pasar esta parte y ya — hablamos más en casa.",
+            "Vamos a pasar esta parte y ya, hablamos más en casa.",
             "No voy a arreglar esto aquí. Solo voy a seguir avanzando con los dos.",
             "Antes fue un momento difícil. ¿Quieres intentarlo de nuevo, solo con las palabras esta vez?",
             "Puedes estar molesto delante de la gente. Tú no me avergüenzas."
@@ -1665,14 +1665,14 @@
     {
       "id": "toddler_hitting_baby",
       "title": "Cuando el Hermano Mayor Golpea o Aprieta al Bebé",
-      "scenario": "Tu hijo o hija mayor golpea, aprieta demasiado fuerte o arremete contra el bebé — a veces es cariño que se volvió brusco, a veces es frustración pura",
+      "scenario": "Tu hijo o hija mayor golpea, aprieta demasiado fuerte o arremete contra el bebé. A veces es cariño que se volvió brusco, a veces es frustración pura",
       "icon": "✋",
       "ageRange": "3-7 años",
       "moment": "siblings_friends",
       "prevention_tips": [
-        "Organiza las pertenencias a la vista de antemano — los tesoros protegidos arriba, los juguetes compartidos en una cesta al alcance de los dos — para que haya menos que defender en el momento",
+        "Organiza las pertenencias a la vista de antemano. Los tesoros protegidos arriba, los juguetes compartidos en una cesta al alcance de los dos, para que haya menos que defender en el momento",
         "Dale a tu hijo mayor las palabras para 'no' y 'mío', para que sus manos no tengan que hablar por él cuando el bebé se acerque a algo que le importa",
-        "Dile en voz alta, más de una vez, que tu amor por él sigue entero — un bebé nuevo no lo reparte",
+        "Dile en voz alta, más de una vez, que tu amor por él sigue entero. Un bebé nuevo no lo reparte",
         "Si esto se repite siempre de la misma forma, trátalo como una habilidad que falta y no como desafío, y planea tu propia respuesta de antemano en lugar de improvisar cada vez",
         "Quédate a un brazo de distancia siempre que tu hijo mayor esté cerca del bebé durante esta etapa, para poder frenarlo antes del contacto, no después"
       ],
@@ -1682,9 +1682,9 @@
           "name": "Primero Frena, Después Habla",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Un niño en pleno arrebato tiene el sistema desbordado, no está ejecutando un plan — las palabras casi no entran. Interponer tu cuerpo tranquilo y decir muy poco entrega el único mensaje que importa — esto lo tengo yo, todos están a salvo.",
+          "why_it_works": "Un niño en pleno arrebato tiene el sistema desbordado, no está ejecutando un plan. Las palabras casi no entran. Interponer tu cuerpo tranquilo y decir muy poco entrega el único mensaje que importa. Esto lo tengo yo, todos están a salvo.",
           "script": [
-            "Para. Estoy aquí. Al bebé no se le golpea — los voy a ayudar a los dos.",
+            "Para. Estoy aquí. Al bebé no se le golpea. Los voy a ayudar a los dos.",
             "No voy a dejar que le hagas daño. Estoy manteniendo a todos a salvo.",
             "Aquí estoy, contigo.",
             "Hablamos cuando todos estemos en calma."
@@ -1699,7 +1699,7 @@
           "why_it_works": "La agresión hacia un bebé nuevo suele ser miedo a quedar reemplazado, no un rechazo real al bebé. Nombrar ese miedo directamente, y decir que tu amor sigue entero, se dirige a lo que de verdad empuja la conducta.",
           "script": [
             "Creo que se siente raro ver al bebé acercarse a tus cosas, y a mí.",
-            "Este bebé tiene suerte — te tiene a ti como hermano mayor. Y mi amor por ti sigue siendo todo tuyo. Nadie puede quitarte tu parte.",
+            "Este bebé tiene suerte, te tiene a ti como hermano mayor. Y mi amor por ti sigue siendo todo tuyo. Nadie puede quitarte tu parte.",
             "Puedes decirme 'mío' o 'ahora no' con palabras. Yo ayudo al bebé a esperar.",
             "A veces ser el más pequeño parece hasta agradable, ¿no crees? ¿Jugamos a que tú eres el bebé cinco minutos, tú y yo?"
           ],
@@ -1712,8 +1712,8 @@
           "timeRequired": "10-15 minutos",
           "why_it_works": "Cuando lo mismo se repite a pesar de manejarlo con calma cada vez, es una habilidad que falta, no una conducta que haya que castigar más duro. Darle al impulso de agarrar o golpear una salida fija y ensayada, decidida juntos en un momento tranquilo, es lo que de verdad empieza a cambiarlo.",
           "script": [
-            "Cuando el bebé se acerca a tus cosas, tu cuerpo siente un impulso grande de agarrar o golpear. Ese impulso está bien — golpear, no. Vamos a darle otro sitio adonde ir.",
-            "¿Qué podrían hacer tus manos en su lugar — apretar fuerte este cojín, o venir a buscarme?",
+            "Cuando el bebé se acerca a tus cosas, tu cuerpo siente un impulso grande de agarrar o golpear. Ese impulso está bien. Golpear, no. Vamos a darle otro sitio adonde ir.",
+            "¿Qué podrían hacer tus manos en su lugar. Apretar fuerte este cojín, o venir a buscarme?",
             "Me voy a quedar cerca cuando estén juntos, así puedo ayudar antes de que se haga grande.",
             "Esto se repite porque falta algo, no porque seas malo. Lo estamos resolviendo juntos."
           ],
@@ -1742,12 +1742,12 @@
           "name": "Termínalo, No lo Arregles",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "En pleno calor del momento, corregir el error solo suma presión. La habilidad que vale la pena construir no es una hoja perfecta — es quedarse con una imperfecta hasta terminarla.",
+          "why_it_works": "En pleno calor del momento, corregir el error solo suma presión. La habilidad que vale la pena construir no es una hoja perfecta. Es quedarse con una imperfecta hasta terminarla.",
           "script": [
             "Tuviste una respuesta mal, y ahora mismo sientes que toda la hoja se arruinó.",
             "No vamos a borrar nada ni a empezar de nuevo. Vamos a terminar esta misma hoja.",
             "Tu mano en el lápiz. Yo aquí, a tu lado.",
-            "Mira eso — terminada, con error y todo. Igual cuenta como terminada."
+            "Mira eso. Terminada, con error y todo. Igual cuenta como terminada."
           ],
           "mantra": "Terminar gana a corregir. La corrección puede esperar a un día más tranquilo."
         },
@@ -1756,11 +1756,11 @@
           "name": "Pregúntale por su Propia Regla",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Dejar que tu hijo explique su propia regla, en lugar de decirle que está equivocada, hace que se tope él solo, en voz alta, con su propia inconsistencia — algo que ningún intento tuyo de tranquilizarlo lograría igual.",
+          "why_it_works": "Dejar que tu hijo explique su propia regla, en lugar de decirle que está equivocada, hace que se tope él solo, en voz alta, con su propia inconsistencia, algo que ningún intento tuyo de tranquilizarlo lograría igual.",
           "script": [
             "Explícame tu regla aquí. ¿Qué hace que una hoja pase de estar bien a estar arruinada?",
             "¿Es cualquier error, o solo este?",
-            "Ah — ¿o sea que una respuesta mal borra todo lo demás que está bien en la hoja?",
+            "Ah. ¿o sea que una respuesta mal borra todo lo demás que está bien en la hoja?",
             "No tienes que contestar. Solo quería entender cómo funciona esa regla."
           ],
           "mantra": "No necesito ganar esto. La curiosidad se encarga de todo."
@@ -1774,7 +1774,7 @@
           "script": [
             "Estuviste con esto veinte minutos, incluso cuando se puso difícil. Eso es lo que noté.",
             "No estoy revisando si está bien. Estoy viendo cómo sigues adelante.",
-            "Atascarte y quedarte en tu silla de todos modos — esa es la verdadera habilidad.",
+            "Atascarte y quedarte en tu silla de todos modos. Esa es la verdadera habilidad.",
             "Esta hoja no va a importar la próxima semana. No haberte rendido, sí."
           ],
           "mantra": "El esfuerzo es lo que quiero impulsar. La nota no es mía para arreglar."
@@ -1805,7 +1805,7 @@
           "why_it_works": "Reconocer la negativa por completo antes de repetir lo que toca hacer baja la pelea. Un niño que se siente escuchado tiene menos contra qué empujar, aunque la respuesta no cambie.",
           "script": [
             "De verdad no quieres bañarte esta noche. Te escucho.",
-            "Igual va a pasar — el baño no se salta solo porque no te apetece.",
+            "Igual va a pasar. El baño no se salta solo porque no te apetece.",
             "Puedes entrar caminando con tus propios pies, o te cargo yo. Tú eliges.",
             "No te estoy preguntando si quieres bañarte. Te pregunto cómo quieres llegar hasta ahí."
           ],
@@ -1852,7 +1852,7 @@
         "Cepilla los dientes siempre en el mismo momento de la rutina, para que nunca sea una sorpresa para tu peque",
         "Deja que tu hijo sostenga el cepillo y vaya primero, antes de que tomes tú tu turno",
         "Prueba un cepillo más suave o un sabor de pasta distinto, si la sensación parece ser el verdadero problema",
-        "Que el cepillado sea corto y sin rodeos — sáltate el sermón sobre las caries",
+        "Que el cepillado sea corto y sin rodeos, sáltate el sermón sobre las caries",
         "Túrnense para contar los dientes juntos, para que sea una tarea compartida y no algo que se le hace",
         "Cepíllate tus propios dientes a su lado sin pedirle nada a él"
       ],
@@ -1864,7 +1864,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Nombrar exactamente qué le incomoda del cepillado, sin intentar convencerlo de que no sienta eso, baja la resistencia mucho más que cualquier explicación sobre por qué hay que cepillarse.",
           "script": [
-            "El cepillo te molesta — las cerdas, el sabor, toda la sensación. Lo sé.",
+            "El cepillo te molesta. Las cerdas, el sabor, toda la sensación. Lo sé.",
             "Va a pasar de todos modos. Los dientes necesitan esto cada noche, sin falta.",
             "¿Quieres sostenerlo tú, o lo sostengo yo?",
             "Dos minutos y listo. Después somos libres."
@@ -1878,7 +1878,7 @@
           "timeRequired": "inmediato",
           "why_it_works": "Darle un pedacito real de control, como quién sostiene el cepillo o qué dientes van primero, convierte una tarea que se le hace en una que se hace con él, y eso baja las ganas de pelear.",
           "script": [
-            "Tú eliges — ¿arriba primero o abajo primero?",
+            "Tú eliges. ¿arriba primero o abajo primero?",
             "Lo sostienes tú y vas primero. Yo termino después.",
             "¿Quieres contar a cuántos dientes llegamos hoy?",
             "Tú haces la parte difícil. Yo solo ayudo al final."
@@ -1893,7 +1893,7 @@
           "why_it_works": "El juego saca a un niño de un estado defensivo y atrincherado. Una risa compartida abre una boca que ninguna insistencia lograría abrir.",
           "script": [
             "Apuesto a que hay un trocito de brócoli escondido bien al fondo. Vamos a cazarlo.",
-            "Abre bien grande — tengo que revisar si se mudaron bichitos de azúcar hoy.",
+            "Abre bien grande, tengo que revisar si se mudaron bichitos de azúcar hoy.",
             "¿Nos cepillamos como león o como dinosaurio esta noche?",
             "¡Encontré uno! Dos pasadas más y los bichitos de azúcar desaparecen todos."
           ],
@@ -1913,7 +1913,7 @@
         "Deja un margen real de tiempo en la mañana, para que vestirse no sea una carrera contra el reloj",
         "Deja que tu hijo se vista en el orden que quiera, aunque sea al revés",
         "Corta las etiquetas que rascan o cambia a telas más suaves, si la textura parece ser el detonante",
-        "Calma primero tu propia prisa — una voz apurada suele empeorar el enfrentamiento, no acelerarlo",
+        "Calma primero tu propia prisa. Una voz apurada suele empeorar el enfrentamiento, no acelerarlo",
         "Coloca el paso más difícil de vestirse al principio de la rutina, antes de que las pantallas o el desayuno compitan por su atención"
       ],
       "strategies": [
@@ -1925,7 +1925,7 @@
           "why_it_works": "Ofrecer una elección real sobre el orden o la manera de vestirse, nunca sobre si sucede, le da una voz pequeña y genuina sin reabrir lo único que no está en negociación.",
           "script": [
             "No hace falta que te apetezca. Vestirte va a pasar de todas formas.",
-            "Tú eliges la camiseta — ¿la de rayas o la lisa?",
+            "Tú eliges la camiseta. ¿la de rayas o la lisa?",
             "¿Te vistes en la cama, o hacemos una carrera hasta la alfombra?",
             "¿Calcetines o camiseta primero? Esa parte la manejas tú."
           ],
@@ -1953,7 +1953,7 @@
           "why_it_works": "Cuando el estancamiento supera una espera razonable, terminar la tarea con tu hijo en vez de hacérsela a él mantiene el límite en pie sin convertirlo en una batalla más grande.",
           "script": [
             "Tuviste tus minutos para elegir, y está bien. Ahora te ayudo yo.",
-            "El brazo por aquí, ahora este lado — lo hacemos entre los dos.",
+            "El brazo por aquí, ahora este lado, lo hacemos entre los dos.",
             "No estamos peleando por esto. Ya está pasando, con calma.",
             "Listo. Terminado. Esa era la parte difícil, y la superaste."
           ],
@@ -1970,7 +1970,7 @@
       "moment": "out_and_about",
       "prevention_tips": [
         "Da un aviso concreto, como 'un turno más y nos vamos', en lugar de uno vago",
-        "Acércate y acorta la distancia antes de avisar que toca irse — no lo grites de un extremo a otro del parque",
+        "Acércate y acorta la distancia antes de avisar que toca irse. No lo grites de un extremo a otro del parque",
         "Crea un pequeño ritual de despedida, como decirle adiós al tobogán con la mano, en los días buenos",
         "Evita prometer que van a volver, a menos que sea de verdad seguro",
         "Planea la hora de llegada con margen, para que la salida no choque con otro compromiso",
@@ -1996,7 +1996,7 @@
           "name": "Valida el Deseo, Después el Límite",
           "difficulty": "fácil",
           "timeRequired": "inmediato",
-          "why_it_works": "Nombrar por completo, antes que nada, cuánto quería seguir jugando suele achicar la protesta que viene después — un niño que se siente comprendido tiene menos contra qué empujar.",
+          "why_it_works": "Nombrar por completo, antes que nada, cuánto quería seguir jugando suele achicar la protesta que viene después. Un niño que se siente comprendido tiene menos contra qué empujar.",
           "script": [
             "Te quedarías en esa estructura toda la tarde si dependiera de ti.",
             "Dejar algo tan divertido es difícil de verdad. No me sorprende que estés molesto.",
@@ -2069,10 +2069,10 @@
           "name": "Repara Delante de los Demás",
           "difficulty": "intermedio",
           "timeRequired": "inmediato",
-          "why_it_works": "Cuando la palabra sale delante de otras personas, un reconocimiento breve y ligero protege a tu hijo de la vergüenza pública, sin dejar de ser honesta sobre que no era el momento — la conversación de verdad llega después, en privado.",
+          "why_it_works": "Cuando la palabra sale delante de otras personas, un reconocimiento breve y ligero protege a tu hijo de la vergüenza pública, sin dejar de ser honesta sobre que no era el momento, la conversación de verdad llega después, en privado.",
           "script": [
             "Esa es una palabra que todavía estamos aprendiendo a manejar. Lo hablamos en casa.",
-            "Disculpa eso — estamos trabajando en ello.",
+            "Disculpa eso, estamos trabajando en ello.",
             "Vamos a buscar otra cosa que hacer ahora mismo.",
             "Hablamos más de esa palabra después, solo nosotros dos."
           ],
@@ -2083,13 +2083,13 @@
     {
       "id": "refuses_to_apologize",
       "title": "Se Bloquea y no Quiere Pedir Perdón",
-      "scenario": "Tu hijo o hija lastimó a alguien — un hermano, un amigo — y se queda callado, rígido o desafiante en vez de pedir perdón",
+      "scenario": "Tu hijo o hija lastimó a alguien. Un hermano, un amigo. Y se queda callado, rígido o desafiante en vez de pedir perdón",
       "icon": "🤝",
       "ageRange": "3-8 años",
       "moment": "honesty_manners",
       "prevention_tips": [
         "Pide perdón tú misma abiertamente, también a tu hijo, para que vea cómo se ve una reparación de verdad",
-        "Evita exigir 'pide perdón' delante de público — suele salir al revés",
+        "Evita exigir 'pide perdón' delante de público, suele salir al revés",
         "Habla de los errores como algo que todos cometemos, en días tranquilos, no solo en el momento",
         "Mantén tu reacción tranquila cuando lastime a alguien, para que la vergüenza no cierre la puerta antes de que la reparación pueda empezar",
         "Dale a la reparación una forma sin presión más allá de la palabra 'perdón', como dibujar algo o preguntar si el otro está bien"
@@ -2100,9 +2100,9 @@
           "name": "Baja Primero la Vergüenza",
           "difficulty": "intermedio",
           "timeRequired": "5-10 minutos",
-          "why_it_works": "Una disculpa atascada casi nunca es falta de arrepentimiento — casi siempre es la vergüenza cerrando el momento por completo. Dejar claro que un momento poco amable no lo define baja la temperatura lo suficiente para que la reparación vuelva a ser posible.",
+          "why_it_works": "Una disculpa atascada casi nunca es falta de arrepentimiento, casi siempre es la vergüenza cerrando el momento por completo. Dejar claro que un momento poco amable no lo define baja la temperatura lo suficiente para que la reparación vuelva a ser posible.",
           "script": [
-            "No eres un niño malo. Lo que pasó fue poco amable — son dos cosas distintas.",
+            "No eres un niño malo. Lo que pasó fue poco amable, son dos cosas distintas.",
             "No necesitas tener las palabras listas ahora mismo.",
             "Vamos a arreglar esto juntos. No lo haces solo.",
             "Respira conmigo antes de que volvamos allá."
@@ -2117,7 +2117,7 @@
           "why_it_works": "Cuando las palabras de verdad no salen, decirlas tú en nombre de tu hijo repara las cosas para quien salió herido, y de paso le presta un lenguaje que podrá usar la próxima vez, sin forzar una actuación.",
           "script": [
             "Voy a decir esta parte por ti, ya que ahora mismo se te quedó atascada.",
-            "Él no quería que pasara esto — vamos a arreglarlo juntos.",
+            "Él no quería que pasara esto, vamos a arreglarlo juntos.",
             "Vamos a comprobar que de verdad estás bien.",
             "Gracias por quedarte conmigo en esto, en lugar de salir corriendo."
           ],

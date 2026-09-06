@@ -1742,12 +1742,12 @@
           "name": "Finish It, Don't Fix It",
           "difficulty": "intermediate",
           "timeRequired": "5-10 minutes",
-          "why_it_works": "In the heat of the moment, correcting the mistake only adds pressure. The skill worth building isn't a clean page — it's staying with an imperfect one until it's done.",
+          "why_it_works": "In the heat of the moment, correcting the mistake only adds pressure. The skill worth building isn't a clean page. It's staying with an imperfect one until it's done.",
           "script": [
             "You got one answer wrong, and right now the whole page feels ruined to you.",
             "We're not erasing anything or starting over. We're finishing this exact page.",
             "Your hand on the pencil. I'm right here next to you.",
-            "Look at that — done, mistake and all. It still counts as finished."
+            "Look at that. Done, mistake and all. It still counts as finished."
           ],
           "mantra": "Finishing beats fixing. The correction can wait for a calmer day."
         },
@@ -1756,11 +1756,11 @@
           "name": "Ask About Their Rule",
           "difficulty": "easy",
           "timeRequired": "immediate",
-          "why_it_works": "Letting a child explain their own rule, rather than being told it's wrong, lets them run into their own inconsistency out loud — something no amount of reassurance from you would land as well.",
+          "why_it_works": "Letting a child explain their own rule, rather than being told it's wrong, lets them run into their own inconsistency out loud, something no amount of reassurance from you would land as well.",
           "script": [
             "So walk me through your rule here. What tips a page from fine into ruined?",
             "Is it any mistake at all, or just this one?",
-            "Huh — so one wrong answer erases everything else that's right on the page?",
+            "Huh, so one wrong answer erases everything else that's right on the page?",
             "You don't have to answer. I just wanted to hear how the rule works."
           ],
           "mantra": "I don't need to win this. Curiosity does the work for me."
@@ -1774,7 +1774,7 @@
           "script": [
             "You stayed with this for twenty minutes even when it got hard. That's what I noticed.",
             "I'm not checking whether it's right. I'm watching how you keep going.",
-            "Getting stuck and staying in your seat anyway — that's the actual skill.",
+            "Getting stuck and staying in your seat anyway. That's the actual skill.",
             "This worksheet won't matter next week. Not giving up on it will."
           ],
           "mantra": "Effort is what I'm coaching for. The score isn't mine to fix."
@@ -1805,7 +1805,7 @@
           "why_it_works": "Acknowledging the refusal fully before repeating the requirement lowers the fight. A child who feels heard has less to push against, even when the answer doesn't change.",
           "script": [
             "You really don't want a bath tonight. I hear you.",
-            "It's still happening — bath time doesn't skip just because you don't want it.",
+            "It's still happening. Bath time doesn't skip just because you don't want it.",
             "You can walk in on your own two feet, or I'll carry you. Your choice.",
             "I'm not asking if you want a bath. I'm asking how you want to get there."
           ],
@@ -1819,7 +1819,7 @@
           "why_it_works": "Offering real choices over the parts that don't matter gives a child a genuine sense of control inside a requirement that isn't actually negotiable.",
           "script": [
             "Bath is happening. You get to run the rest of it.",
-            "Rubber duck first or bubbles first — you decide.",
+            "Rubber duck first or bubbles first. You decide.",
             "Do you want to wash your hair at the start or right at the end?",
             "You're in charge of the order. I'm just in charge of making sure it happens."
           ],
@@ -1852,7 +1852,7 @@
         "Brush at the same point in the routine every night so it's never a surprise",
         "Let your child hold the toothbrush and go first before you take a turn",
         "Try a softer brush or a different toothpaste flavor if the sensation seems to be the real problem",
-        "Keep brushing short and matter-of-fact — skip the lecture about cavities",
+        "Keep brushing short and matter-of-fact. Skip the lecture about cavities",
         "Take turns counting teeth together so it's a shared job, not something done to them",
         "Brush your own teeth next to them without asking anything of them at all"
       ],
@@ -1864,7 +1864,7 @@
           "timeRequired": "immediate",
           "why_it_works": "Naming exactly what's uncomfortable about brushing, without trying to talk them out of the feeling, lowers resistance more than explaining why teeth need brushing ever does.",
           "script": [
-            "The toothbrush bugs you — the bristles, the taste, the whole feeling of it. I know.",
+            "The toothbrush bugs you. The bristles, the taste, the whole feeling of it. I know.",
             "It's happening anyway. Teeth need this every single night.",
             "Do you want to hold it, or should I?",
             "Two minutes and it's done. Then we're free."
@@ -1878,7 +1878,7 @@
           "timeRequired": "immediate",
           "why_it_works": "Giving a small, genuine piece of control, like who holds the brush or which teeth go first, turns a task done to a child into one done with them, which lowers the urge to fight it.",
           "script": [
-            "You pick — top teeth first or bottom teeth first?",
+            "You pick. Top teeth first or bottom teeth first?",
             "You hold it and go first. I'll finish up after.",
             "Want to count how many teeth we get to today?",
             "You're doing the hard part. I'm just helping at the end."
@@ -1893,7 +1893,7 @@
           "why_it_works": "Playfulness shifts a child out of a defensive, dug-in state. A shared laugh often opens a mouth that no amount of insisting could.",
           "script": [
             "I bet there's a piece of broccoli hiding way back there. Let's go hunt for it.",
-            "Open wide — I need to check if any sugar bugs moved in today.",
+            "Open wide. I need to check if any sugar bugs moved in today.",
             "Should we brush like a lion or a dinosaur tonight?",
             "Found one! Two more swipes and the sugar bugs are all gone."
           ],
@@ -1913,7 +1913,7 @@
         "Build a real time buffer into the morning so dressing isn't racing the clock",
         "Let your child dress in whatever order they want, even if it's backward",
         "Cut out scratchy tags or switch to softer fabrics if texture seems to be the trigger",
-        "Settle your own urgency first — a rushed voice tends to make the standoff worse, not faster",
+        "Settle your own urgency first. A rushed voice tends to make the standoff worse, not faster",
         "Put the hardest dressing step earliest in the routine, before screens or breakfast compete for attention"
       ],
       "strategies": [
@@ -1925,9 +1925,9 @@
           "why_it_works": "Offering a real choice about the order or manner of dressing, never about whether it happens, gives them a small, genuine say without reopening the one thing that isn't up for negotiation.",
           "script": [
             "You don't have to want this. Getting dressed is happening either way.",
-            "You choose which shirt — the striped one or the plain one.",
+            "You choose which shirt. The striped one or the plain one.",
             "Want to get dressed on the bed, or race me to the rug?",
-            "Socks or shirt first — you're driving that part."
+            "Socks or shirt first. You're driving that part."
           ],
           "mantra": "The whether is mine to hold. Almost everything else is theirs to decide."
         },
@@ -1953,7 +1953,7 @@
           "why_it_works": "When a stall goes past a fair amount of waiting, finishing the task with your child instead of to them keeps the boundary standing without turning it into a bigger battle.",
           "script": [
             "You've had a few minutes to choose, and that's okay. I'll help now.",
-            "Arm through here, now this side — we're doing it together.",
+            "Arm through here, now this side. We're doing it together.",
             "We're not fighting about this. It's just happening now, gently.",
             "There. Done. That was the hard part, and you got through it."
           ],
@@ -1970,7 +1970,7 @@
       "moment": "out_and_about",
       "prevention_tips": [
         "Give a concrete warning, like \"one more turn, then we're leaving,\" instead of a vague one",
-        "Walk over and close the distance before giving the leaving instruction — don't call it across the playground",
+        "Walk over and close the distance before giving the leaving instruction. Don't call it across the playground",
         "Build a small leaving ritual, like waving goodbye to the slide, into the good days",
         "Avoid promising a return trip unless it's genuinely certain",
         "Plan arrival time with a buffer so leaving doesn't collide with another deadline",
@@ -1996,7 +1996,7 @@
           "name": "Validate the Want, Then the Limit",
           "difficulty": "easy",
           "timeRequired": "immediate",
-          "why_it_works": "Naming how much they wanted to keep playing, fully and before anything else, tends to shrink the protest that follows — a child who feels understood has less left to push against.",
+          "why_it_works": "Naming how much they wanted to keep playing, fully and before anything else, tends to shrink the protest that follows. A child who feels understood has less left to push against.",
           "script": [
             "You wish you could stay on that climber all afternoon.",
             "Leaving something this fun is genuinely hard. I'm not surprised you're upset.",
@@ -2069,10 +2069,10 @@
           "name": "Repair in Front of Others",
           "difficulty": "intermediate",
           "timeRequired": "immediate",
-          "why_it_works": "When the word lands in front of other people, a brief, light acknowledgment protects your child from public embarrassment while staying honest that it wasn't the right moment — the real conversation happens later, in private.",
+          "why_it_works": "When the word lands in front of other people, a brief, light acknowledgment protects your child from public embarrassment while staying honest that it wasn't the right moment. The real conversation happens later, in private.",
           "script": [
             "That's a word we're still learning about. We'll talk about it at home.",
-            "Sorry about that — we're working on it.",
+            "Sorry about that. We're working on it.",
             "Let's go find something else to do right now.",
             "We'll talk more about that word later, just us."
           ],
@@ -2083,13 +2083,13 @@
     {
       "id": "refuses_to_apologize",
       "title": "Refuses to Apologize",
-      "scenario": "Child hurt someone — a sibling, a friend — and goes silent, stiff, or defiant rather than say sorry",
+      "scenario": "Child hurt someone, a sibling or a friend, and goes silent, stiff, or defiant rather than say sorry",
       "icon": "🤝",
       "ageRange": "3-8 years",
       "moment": "honesty_manners",
       "prevention_tips": [
         "Model your own apologies openly, including to your child, so they see what repair looks like",
-        "Avoid demanding \"say sorry\" in front of an audience — it tends to backfire",
+        "Avoid demanding \"say sorry\" in front of an audience. It tends to backfire",
         "Talk about mistakes as things everyone makes, on calm days, not just in the moment",
         "Keep your own reaction calm when they hurt someone, so shame doesn't lock the door before repair can start",
         "Give repair a low-pressure shape beyond the word \"sorry,\" like drawing a picture or checking if the other person is okay"
@@ -2100,9 +2100,9 @@
           "name": "Lower the Shame First",
           "difficulty": "intermediate",
           "timeRequired": "5-10 minutes",
-          "why_it_works": "A stuck apology is rarely missing remorse — it's usually shame locking the moment shut. Making clear that one unkind moment doesn't define them brings the temperature down enough for repair to become possible again.",
+          "why_it_works": "A stuck apology is rarely missing remorse. It's usually shame locking the moment shut. Making clear that one unkind moment doesn't define them brings the temperature down enough for repair to become possible again.",
           "script": [
-            "You're not a bad kid. What just happened was unkind — those are two different things.",
+            "You're not a bad kid. What just happened was unkind. Those are two different things.",
             "You don't have to have the words ready right this second.",
             "We're going to fix this together. You're not doing it alone.",
             "Take a breath with me before we go back over there."
@@ -2117,7 +2117,7 @@
           "why_it_works": "When the words genuinely won't come, saying them yourself on your child's behalf mends things for the person who got hurt and quietly hands your child language they can borrow next time, without forcing a performance.",
           "script": [
             "I'm going to say this part for you, since it's stuck right now.",
-            "He didn't mean for that to happen — we're going to make it right together.",
+            "He didn't mean for that to happen. We're going to make it right together.",
             "Let's go check that you're really okay.",
             "Thank you for staying with me through this instead of running off."
           ],
